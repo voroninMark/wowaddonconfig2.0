@@ -1,0 +1,2 @@
+
+TyllusHideCastBar = nil

@@ -1,0 +1,49 @@
+VER 3 0100000000000006 "aile" "133176"
+#showtooltip Courroux vengeur
+/cast Courroux vengeur
+/use Médaillon du gladiateur sinistre
+END
+VER 3 0100000000000007 "aile" "236246"
+#showtooltip Courroux vengeur
+/cast Courroux vengeur
+/use 13
+/use 14
+END
+VER 3 010000000000000F "barriere" "135880"
+#showtooltip
+/cast [target=mouseover,exists] [] Barrière de foi
+END
+VER 3 010000000000000D "béné été" "4640486"
+#showtooltip
+/cast [@player, mod:alt,help] [@mouseover,help] [@target,help] [@player,help] Bénédiction de l’été(Faë nocturnes)
+END
+VER 3 010000000000000B "d" "135942"
+#showtooltip Repentir
+/cast [@mouseover, harm, exists][nomod] Repentir
+END
+VER 3 0100000000000009 "d" "135963"
+#showtooltip Marteau de la justice
+/cast [@mouseover, harm, exists][nomod] Marteau de la justice
+END
+VER 3 010000000000000A "d" "523893"
+#showtooltip Réprimandes
+/cast [@mouseover, harm, exists][nomod] Réprimandes
+END
+VER 3 0100000000000010 "d" "839106"
+#showtooltip Courroux vengeur
+/cast Courroux vengeur
+/use 14
+END
+VER 3 010000000000000C "glas" "133706"
+#showtooltip
+/cast Glas divin
+/use 13
+/use 14
+END
+VER 3 0100000000000008 "hbCrashProt_5" "Spell_Holy_SealOfSacrifice"
+Begem:30:ayer-3391-06808066:1:Blood:31:ayer-3682-061E3D76:1:Buukr:28:ayer-1402-06F5102A:1:Stali:32:ayer-3690-06F1CCE5:1:Terfc:29:ayer-1315-05ED6A00:1:
+END
+VER 3 010000000000000E "kyrian heal" "133041"
+#showtooltip
+/cast [@player, mod:alt,help] [@mouseover,help] [@target,help] [@player,help] Glas divin
+END

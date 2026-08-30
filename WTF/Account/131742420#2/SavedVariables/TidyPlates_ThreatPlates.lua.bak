@@ -1,0 +1,103 @@
+
+ThreatPlatesDB = {
+	["char"] = {
+		["Unotre - Archimonde"] = {
+			["welcome"] = true,
+		},
+		["Utîle - Archimonde"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Oit - Archimonde"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["Spacewølf - Archimonde"] = {
+			["spec"] = {
+				true, -- [1]
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Kronf - Archimonde"] = {
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+				false, -- [3]
+			},
+			["welcome"] = true,
+		},
+		["Hotr - Khaz Modan"] = {
+			["welcome"] = true,
+			["spec"] = {
+				nil, -- [1]
+				nil, -- [2]
+				true, -- [3]
+				false, -- [4]
+			},
+		},
+		["Malferrant - Archimonde"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["Atogatog - Archimonde"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["Unotr - Archimonde"] = {
+			["welcome"] = true,
+			["spec"] = {
+				true, -- [1]
+				[3] = false,
+			},
+		},
+		["Rojce - Archimonde"] = {
+			["spec"] = {
+				[3] = true,
+			},
+			["welcome"] = true,
+		},
+		["Lesotr - Archimonde"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Unotre - Archimonde"] = "Default",
+		["Hotr - Khaz Modan"] = "Default",
+		["Utîle - Archimonde"] = "Default",
+		["Oit - Archimonde"] = "Default",
+		["Spacewølf - Archimonde"] = "Default",
+		["Kronf - Archimonde"] = "Default",
+		["Malferrant - Archimonde"] = "Default",
+		["Atogatog - Archimonde"] = "Default",
+		["Unotr - Archimonde"] = "Default",
+		["Lesotr - Archimonde"] = "Default",
+		["Rojce - Archimonde"] = "Default",
+		["Knort - Archimonde"] = "Default",
+	},
+	["global"] = {
+		["version"] = "11.1.18",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["CheckForIncompatibleAddons"] = false,
+			["settings"] = {
+				["frame"] = {
+					["height"] = 52.875,
+					["width"] = 154,
+				},
+			},
+		},
+	},
+}

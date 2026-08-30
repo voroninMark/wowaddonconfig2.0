@@ -1,0 +1,29 @@
+VER 3 0100000000000004 "d" "1118739"
+#showtooltip Éruption gangrenée
+/cast [@mouseover, harm, exists][nomod] Éruption gangrenée
+END
+VER 3 0100000000000005 "d" "1380368"
+#showtooltip Emprisonnement
+/cast [@mouseover, harm, exists][nomod] Emprisonnement
+END
+VER 3 0100000000000003 "d" "1305153"
+#showtooltip Ébranlement
+/cast [@mouseover, harm, exists][nomod] Ébranlement
+END
+VER 3 0100000000000006 "glide&dismount" "1305157"
+#showtooltip Planer
+/dismount
+/cast Planer
+END
+VER 3 0100000000000007 "meta" "1247262"
+#showtooltip
+/stopmacro [channeling:Rayon accablant]
+/stopmacro [channeling:Barrage gangrené]
+/cast [@cursor] Métamorphose
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Sud[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

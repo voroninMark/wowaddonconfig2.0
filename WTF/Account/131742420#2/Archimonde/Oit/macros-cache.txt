@@ -1,0 +1,62 @@
+VER 3 010000000000000D "d" "136015"
+#showtooltip
+/cast Chaîne d’éclairs
+END
+VER 3 010000000000000A "d" "136018"
+#showtooltip Cisaille de vent
+/cast [mod:ctrl,@focus][@mouseover, harm, exists][nomod] Cisaille de vent
+END
+VER 3 0100000000000009 "d" "135813"
+#showtooltip Horion de flammes
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Horion de flammes
+END
+VER 3 010000000000000C "d" "451165"
+#showtooltip
+/cast [@cursor] Séisme
+END
+VER 3 010000000000000E "d" "2065626"
+#showtooltip
+/cast Élémentaire de tempête
+/cast Élémentaire de feu
+/cast Appel d'éclair
+/cast Météore
+END
+VER 3 010000000000000F "d" "136024"
+#showtooltip
+/cast Élémentaire de terre
+/cast Durcissement de la peau
+END
+VER 3 0100000000000010 "d" "136158"
+#showtooltip
+/cast Tempête
+/cast Météore
+END
+VER 3 0100000000000011 "d" "136099"
+#showtooltip
+/cast [mod:ctrl,@focus][@mouseover, harm, exists][nomod] Purge
+END
+VER 3 0100000000000013 "d" "451167"
+#showtooltip Purification spirituelle
+/cast [@mouseover, help, exists][nomod] Purification spirituelle
+END
+VER 3 010000000000000B "ddd" "237579"
+#showtooltip Maléfice
+/cast [@mouseover, harm, exists][nomod] Maléfice
+END
+VER 3 0100000000000008 "hbCrashProt_5" "Spell_Holy_SealOfSacrifice"
+Triä:33:ayer-1378-08B637B3:1:
+END
+VER 3 0100000000000014 "speed" "1020304"
+#showtooltip
+/cast [@player] Totem de bouffée de vent
+END
+VER 3 0100000000000012 "totem vaudou" "4640492"
+#showtooltip
+/cast [target=mouseover,exists] [] Totem vaudou revitalisant
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1SM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Les[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

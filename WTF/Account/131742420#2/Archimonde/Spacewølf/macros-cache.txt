@@ -1,0 +1,90 @@
+VER 3 0100000000000017 "assaut" "237535"
+#showtooltip
+/cast Assaut impie
+/use 13
+/use 14
+END
+VER 3 0100000000000008 "cut" "237527"
+#showtooltip Gel de l'esprit
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Gel de l'esprit
+END
+VER 3 0100000000000004 "d" "132134"
+#showtooltip ronger
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] bondir
+/petattack [nomod]
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] ronger
+END
+VER 3 0100000000000001 "d" "237530"
+#showtooltip Frappe du Fléau
+/cast Frappe du Fléau
+/use Enclume de poche en élémentium
+END
+VER 3 0100000000000005 "d" "1390947"
+#showtooltip Aider
+/petassist
+/petattack
+END
+VER 3 0100000000000009 "d" "237532"
+#showtooltip Poigne de la mort
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Poigne de la mort
+END
+VER 3 010000000000000A "d" "538558"
+#showtooltip Asphyxier
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Asphyxier
+END
+VER 3 010000000000000D "d" "136066"
+#showtooltip Epidémie
+/cast Epidémie
+/cast Griffe
+END
+VER 3 010000000000000E "d" "135834"
+#showtooltip Chaînes de glace
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Chaînes de glace
+END
+VER 3 0100000000000007 "d" "342913"
+#showtooltip Sombre transformation
+/use 13
+/use 14
+/cast Sombre transformation
+END
+VER 3 0100000000000010 "d" "1029007"
+/cast !Souffle de Sindragosa
+/cast Pilier de givre
+/cast Réanimation morbide
+/use 13
+END
+VER 3 0100000000000011 "d" "135771"
+#showtooltip Anéantissement
+/cast Anéantissement
+/use Stigmates de lutte fratricide
+END
+VER 3 0100000000000016 "d" "135372"
+#showtooltip
+/lancer Assaut impie
+/lancer Renforcer l'arme runique
+END
+VER 3 010000000000000F "d" "458718"
+#showtooltip Pilier de givre
+/cast Pilier de givre
+/use 13
+/use 14
+/cast Réanimation morbide
+END
+VER 3 0100000000000012 "d z" "636333"
+#showtooltip Faucheur d’âme
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Faucheur d’âme
+END
+VER 3 0100000000000015 "garg" "458967"
+#showtooltip
+/cast Invocation d'une gargouille
+/use Potion élémentaire fugace de puissance ultime
+/use Potion élémentaire de puissance ultime
+END
+VER 3 0100000000000013 "necro" "3578196"
+/cast Membre abominable(Ombreterre)
+/cast Renforcer l'arme runique
+END
+VER 3 010000000000000C "reanimate" "136143"
+#showtooltip Réanimation d'un allié
+/cast [target=mouseover,exists] [] Réanimation d'un allié
+END

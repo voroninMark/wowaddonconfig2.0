@@ -1,0 +1,129 @@
+
+DataStore_Mails_Characters = {
+{
+["lastUpdate"] = 1726500628,
+["Mails"] = {
+{
+["icon"] = 134327,
+["sender"] = "Thaumaturge Vashreen",
+["subject"] = "Objet perdu",
+["returned"] = false,
+["money"] = 0,
+["text"] = "Nous avons trouvé cet étrange objet dans l’une de nos chambres fortes. Apparemment, il vous appartient.",
+["lastCheck"] = 1726500628,
+["daysLeft"] = 11.17238426208496,
+},
+{
+["icon"] = 134327,
+["sender"] = "Exilisse",
+["subject"] = "l",
+["returned"] = false,
+["money"] = 0,
+["text"] = "merci bg \nbon jeu ^^",
+["lastCheck"] = 1726500628,
+["daysLeft"] = 25.10561370849609,
+},
+{
+["icon"] = 134327,
+["sender"] = "Vaskarn",
+["subject"] = "Analyse des écus de messagère",
+["returned"] = false,
+["money"] = 0,
+["text"] = "Ces écus de messagère sont de mauvais augure, cela va sans dire. Mais ils sont également très puissants, donc pourquoi se priver ? Couzolth et moi-même avons travaillé dessus et je pense que nous avons fait une découverte pour le moins surprenante ! Il semblerait qu’il soit possible de s’approprier leur puissance pour la plier à vos desideratas.\r\n\r\nJe pense désormais pouvoir transmuter vos écus abîmés de messagère de manière à en faire des écus gravés de messagère. Lors de votre prochaine visite à Dornogal, passez donc me voir et je vous ferai une démonstration.\r\n\r\nVotre ami,\r\n\r\nVaskarn",
+["lastCheck"] = 1726500628,
+["daysLeft"] = 28.96271896362305,
+},
+{
+["icon"] = 134327,
+["sender"] = "Vaskarn",
+["subject"] = "Évolution des écus de messagère",
+["returned"] = false,
+["money"] = 0,
+["text"] = "Terrifiant. Absolument terrifiant. Ces écus de messagère se nourrissent d’une énergie obscure que je n’avais jamais observée par le passé. J’ai toutefois une bonne nouvelle : vous écus gravés de messagère ne sont guère différents des écus runiques de messagère et nous devrions pouvoir les transmuter dès lors que nous aurons assez d’exemplaires gravés en notre possession.\r\n\r\nDans l’attente de votre venue à Dornogal,\r\nVaskarn (et Couzolth)",
+["lastCheck"] = 1726500628,
+["daysLeft"] = 29.10939788818359,
+},
+{
+["icon"] = 135724,
+["sender"] = "Assistance clientèle",
+["subject"] = "Votre récupération d’objets",
+["returned"] = true,
+["money"] = 0,
+["text"] = "Salutations,\r\nMerci d’avoir utilisé notre système de récupération d’objets.\r\nLes objets disponibles pour un remboursement immédiat ont été joints à ce message. Certains remboursement nécessitent néanmoins l’intervention de nos équipes d’assistance et peuvent prendre davantage de temps pour être complétés.\r\nNous vous fournirons des informations supplémentaires dès que nous aurons eu l’occasion d’examiner votre requête.\r\nN’hésitez pas à nous contacter si vous avez besoin d’assistance supplémentaire. Vous pouvez soumettre vos requêtes depuis le menu d’assistance en jeu (le point d’interrogation rouge dans votre barre d’action principale) ou depuis le site d’assistance Battle.net à l’adresse http://eu.battle.net/support/fr/\r\nCordialement,\r\nL’équipe d’assistance Blizzard Entertainment",
+["lastCheck"] = 1726500628,
+["daysLeft"] = 53.03384399414063,
+},
+},
+["lastVisitDate"] = "2024/09/16 17:30",
+["MailCache"] = {
+},
+},
+{
+["lastUpdate"] = 1726501420,
+["Mails"] = {
+{
+["lastCheck"] = 1726501420,
+["sender"] = "Thaumaturge Vashreen",
+["subject"] = "Objet perdu",
+["returned"] = false,
+["money"] = 0,
+["text"] = "Nous avons trouvé cet étrange objet dans l’une de nos chambres fortes. Apparemment, il vous appartient.",
+["icon"] = 134327,
+["daysLeft"] = 13.03896999359131,
+},
+},
+["lastVisitDate"] = "2024/09/16 17:43",
+["MailCache"] = {
+},
+},
+{
+["lastUpdate"] = 1726524300,
+["Mails"] = {
+},
+["MailCache"] = {
+},
+["lastVisitDate"] = "2024/09/17 00:05",
+},
+{
+["lastUpdate"] = 1726495184,
+["Mails"] = {
+{
+["icon"] = 134327,
+["sender"] = "Vaskarn",
+["subject"] = "Analyse des écus éveillés",
+["returned"] = false,
+["money"] = 0,
+["text"] = "chère amie !\r\n\r\nJe sais que vous êtes à la recherche des fameux « écus éveillés » qui ont récemment fait leur apparition. Vous serez sans doute heureuse d’apprendre que Couzolth et moi-même avons beaucoup progressé dans l’analyse de leur nature et des méthodes permettant de les contrôler.\r\n\r\nJe devrais désormais être en mesure de transformer vos écus éveillés de Dragonnet en écus éveillés de drake. Si vous souhaitez venir nous voir, nous sommes maintenant établis à Valdrakken.\r\n\r\nVotre amie,\r\nVaskarn",
+["lastCheck"] = 1726495184,
+["daysLeft"] = 7.900914192199707,
+},
+{
+["icon"] = 134327,
+["sender"] = "Vaskarn",
+["subject"] = "Hélas, le temps",
+["returned"] = false,
+["money"] = 0,
+["text"] = "Camarade,\r\n\r\nMalheureusement, il semblerait que ces pierres de Vol se déchargent avec le temps autant que par l’usage. La raison pour laquelle elles ont tenu si longtemps pour finalement s’éteindre aujourd’hui m’échappe. Mais j’entends bien mener des recherches sur le sujet. Je ne pense pas que nous puissions un jour les restaurer. Mais nous pouvons en apprendre beaucoup sur leur fonctionnement !\r\n\r\nJe vous joins ce qu’il reste de l’objet.\r\n\r\nVotre amie.\r\n– Vaskarn",
+["lastCheck"] = 1726495184,
+["daysLeft"] = 10.12857627868652,
+},
+},
+["MailCache"] = {
+},
+["lastVisitDate"] = "2024/09/16 15:59",
+},
+{
+["MailCache"] = {
+},
+["Mails"] = {
+},
+},
+}
+DataStore_Mails_Options = {
+["ReportExpiredMailsToChat"] = true,
+["ScanMailBody"] = true,
+["CheckMailExpiry"] = true,
+["CheckMailExpiryAllRealms"] = true,
+["MailWarningThreshold"] = 5,
+["CheckMailExpiryAllAccounts"] = true,
+}

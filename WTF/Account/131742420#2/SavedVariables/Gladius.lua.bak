@@ -1,0 +1,33 @@
+
+Gladius2DB = {
+	["profileKeys"] = {
+		["Hotr - Khaz Modan"] = "Hotr - Khaz Modan",
+		["Kronf - Archimonde"] = "Kronf - Archimonde",
+		["Malferrant - Archimonde"] = "Malferrant - Archimonde",
+		["Utîle - Archimonde"] = "Utîle - Archimonde",
+	},
+	["profiles"] = {
+		["Hotr - Khaz Modan"] = {
+			["tagsVersion"] = 4,
+			["auraVersion"] = 1,
+			["y"] = {
+				["arena1"] = 668.988909787804,
+			},
+			["x"] = {
+				["arena1"] = 289.3333023755986,
+			},
+		},
+		["Kronf - Archimonde"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+		},
+		["Malferrant - Archimonde"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+		},
+		["Utîle - Archimonde"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+		},
+	},
+}

@@ -1,0 +1,75 @@
+VER 3 0100000000000008 "chante" "1029587"
+/way Stormsong Valley 59, 41
+/way Stormsong Valley 67, 60
+/way Stormsong Valley 48, 66
+/way Stormsong Valley 50, 56
+/way Stormsong Valley 29, 75
+/way Stormsong Valley 22, 73
+/way Stormsong Valley 37, 53
+END
+VER 3 010000000000000C "d" "135879"
+#showtooltip
+/cast Cœur de fauve(Talent)
+/cast Forme de sélénien
+END
+VER 3 0100000000000006 "drust" "236168"
+/way Drustvar 24, 56
+/way Drustvar 24, 37
+/way Drustvar 29, 27
+/way Drustvar 31, 17
+/way Drustvar 30, 50
+/way Drustvar 51, 21
+/way Drustvar 57, 23
+END
+VER 3 010000000000000A "nazmir" "135761"
+/way Nazmir 33, 67 Entrance
+/way Nazmir 38, 51
+/way Nazmir 41, 28
+/way Nazmir 40, 63
+/way Nazmir 63, 59
+/way Nazmir 53, 70
+/way Nazmir 76, 36
+END
+VER 3 0100000000000003 "test" "INV_MISC_MONSTERCLAW_05"
+/cancelaura Forme de félin
+/cancelaura Forme d'ours
+/cancelaura Forme de voyage
+/cancelaura Forme de sélénien
+/tar vuhdo
+/cast Charge sauvage
+END
+VER 3 0100000000000007 "triste" "136107"
+/way Tiragarde Sound 55,67
+/way Tiragarde Sound 61,61
+/way Tiragarde Sound 85,75
+/way Tiragarde Sound 53,34
+/way Tiragarde Sound 67,18
+/way Tiragarde Sound 58,14
+END
+VER 3 010000000000000B "voldun" "623776"
+/way Vol’dun 57, 64
+/way Vol’dun 49, 78
+/way Vol’dun 40, 75
+/way Vol’dun 34, 79
+/way Vol’dun 37, 89
+/way Vol’dun 47, 46
+/way Vol’dun 43, 34
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+R1NM1PM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+NIllSta[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Hot[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000009 "zulda" "134206"
+/way Zuldazar 83, 39
+/way Zuldazar 70, 62
+/way Zuldazar 43, 74
+/way Zuldazar 67, 17
+/way Zuldazar 45, 25
+/way Zuldazar 49, 39
+/way Zuldazar 54, 90
+/way Zuldazar 59, 77
+/way Zuldazar 64, 29
+/way Zuldazar 73, 26
+END

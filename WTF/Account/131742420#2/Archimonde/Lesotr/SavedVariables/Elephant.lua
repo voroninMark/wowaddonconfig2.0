@@ -1,0 +1,2 @@
+
+ElephantDBPerChar = nil

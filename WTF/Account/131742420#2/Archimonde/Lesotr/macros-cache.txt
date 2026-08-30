@@ -1,0 +1,60 @@
+VER 3 0100000000000002 "d" "132303"
+#showtooltip Pas de l’ombre
+/cast [@mouseover, exists][nomod] Pas de l’ombre
+END
+VER 3 0100000000000003 "d" "132310"
+#showtooltip Assommer
+/cast [@mouseover, harm, exists][nomod] Assommer
+END
+VER 3 0100000000000008 "d" "3578230"
+#showtooltip 
+/cast [@mouseover, harm, exists][nomod] Pointe d’os dentelée(Nécro-seigneurs)
+END
+VER 3 0100000000000001 "d" "236279"
+#showtooltip Danse de l’ombre
+/cast Danse de l’ombre
+END
+VER 3 0100000000000006 "d" "1373906"
+#showtooltip Grappin
+/cast [@cursor] Grappin
+END
+VER 3 010000000000000A "d" "132155"
+#showtooltip
+/cast [@mouseover, harm, exists][nomod] Suriner
+END
+VER 3 0100000000000009 "d" "132298"
+#showtooltip
+/cast [@mouseover, harm, exists][nomod] Aiguillon perfide
+END
+VER 3 010000000000000C "d" "132282"
+/cast Attaque pernicieuse
+END
+VER 3 010000000000000D "d" "132350"
+#showtooltip
+/cast déluge de lames
+/cast frappe fantomatique
+END
+VER 3 010000000000000E "d" "4667421"
+#showtooltip
+/cast Marque létale
+/use Cendres de la braisâme
+END
+VER 3 0100000000000007 "d#showtooltip Pa" "132219"
+#showtooltip
+/cast [mod:ctrl,@focus][@mouseover, harm, exists][nomod] Coup de pied
+END
+VER 3 0100000000000005 "dd" "3565724"
+#showtooltip Flagellation(Venthyrs)
+/cast Danse de l’ombre
+/cast Symboles de mort
+/cast Lames de l’ombre
+/cast Flagellation(Venthyrs)
+END
+VER 3 010000000000000B "ST_healbot" "132303"
+#showtooltip Pas de l’ombre
+/cast [@mouseover, exists][] Pas de l’ombre
+END
+VER 3 0100000000000004 "trics" "236283"
+#showtooltip Ficelles du métier
+/cast [@mouseover, exists][] Ficelles du métier
+END

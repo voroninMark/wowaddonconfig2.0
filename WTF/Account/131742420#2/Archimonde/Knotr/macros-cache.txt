@@ -1,0 +1,31 @@
+VER 3 0100000000000001 "d" "ABILITY_PRIEST_SILENCE"
+#showtooltipe Silence
+/cast [modifier: ctrl , target=focus] Silence
+/cast Silence
+END
+VER 3 0100000000000004 "d" "SPELL_ARCANE_MINDMASTERY"
+#showtooltipe Paume vibratoire(Raciale)
+/cast [modifier: ctrl , target=focus] Paume vibratoire(Raciale)
+/cast Paume vibratoire(Raciale)
+END
+VER 3 0100000000000002 "d" "135685"
+#showtooltipe Dissipation de la magie
+/cast [modifier: ctrl , target=focus] Dissipation de la magie
+/cast Dissipation de la magie
+END
+VER 3 0100000000000003 "d" "ABILITY_PRIEST_FOCUSEDWILL"
+/tar sara
+/kiss
+/targetlasttarget
+END
+VER 3 0100000000000006 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000007 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Kno[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000005 "в" "135572"
+#showtooltipe Horreur psychique
+/cast [modifier: ctrl , target=focus] Horreur psychique
+/cast Horreur psychique
+END

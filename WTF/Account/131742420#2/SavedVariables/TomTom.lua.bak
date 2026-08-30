@@ -1,0 +1,120 @@
+
+TomTomDB = {
+["profileKeys"] = {
+["Unotre - Archimonde"] = "Default",
+["Sudistte - Archimonde"] = "Default",
+["Rojce - Archimonde"] = "Default",
+["Unotr - Archimonde"] = "Default",
+["Knort - Archimonde"] = "Default",
+["Utîle - Archimonde"] = "Default",
+["Oit - Archimonde"] = "Default",
+["Lesotr - Archimonde"] = "Default",
+["Unhote - Archimonde"] = "Default",
+["Hotr - Khaz Modan"] = "Default",
+["Kronf - Archimonde"] = "Default",
+["Unote - Archimonde"] = "Default",
+["Spacewølf - Archimonde"] = "Default",
+["Malferrant - Archimonde"] = "Default",
+["Atogatog - Archimonde"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["arrow"] = {
+["lock"] = true,
+["position"] = {
+"CENTER",
+nil,
+"CENTER",
+-83.14527893066406,
+-125.812126159668,
+},
+},
+["block"] = {
+["position"] = {
+"BOTTOM",
+nil,
+"BOTTOM",
+-432.1371765136719,
+101.6161651611328,
+},
+},
+},
+},
+}
+TomTomWaypoints = nil
+TomTomWaypointsM = {
+["profileKeys"] = {
+["Unotre - Archimonde"] = "Unotre - Archimonde",
+["Sudistte - Archimonde"] = "Sudistte - Archimonde",
+["Rojce - Archimonde"] = "Rojce - Archimonde",
+["Unotr - Archimonde"] = "Unotr - Archimonde",
+["Knort - Archimonde"] = "Knort - Archimonde",
+["Utîle - Archimonde"] = "Utîle - Archimonde",
+["Oit - Archimonde"] = "Oit - Archimonde",
+["Lesotr - Archimonde"] = "Lesotr - Archimonde",
+["Unhote - Archimonde"] = "Unhote - Archimonde",
+["Hotr - Khaz Modan"] = "Hotr - Khaz Modan",
+["Kronf - Archimonde"] = "Kronf - Archimonde",
+["Unote - Archimonde"] = "Unote - Archimonde",
+["Spacewølf - Archimonde"] = "Spacewølf - Archimonde",
+["Malferrant - Archimonde"] = "Malferrant - Archimonde",
+["Atogatog - Archimonde"] = "Atogatog - Archimonde",
+},
+["profiles"] = {
+["Unotre - Archimonde"] = {
+},
+["Sudistte - Archimonde"] = {
+},
+["Rojce - Archimonde"] = {
+},
+["Unotr - Archimonde"] = {
+},
+["Knort - Archimonde"] = {
+},
+["Utîle - Archimonde"] = {
+},
+["Oit - Archimonde"] = {
+},
+["Lesotr - Archimonde"] = {
+},
+["Unhote - Archimonde"] = {
+},
+["Hotr - Khaz Modan"] = {
+},
+["Kronf - Archimonde"] = {
+[2133] = {
+["2133:285100000:514000000:Dinn"] = {
+2133,
+0.2851,
+0.514,
+["arrivaldistance"] = 15,
+["crazy"] = true,
+["persistent"] = true,
+["desc"] = "Dinn",
+["silent"] = true,
+["cleardistance"] = 10,
+["title"] = "Dinn",
+["from"] = "WeakAuras",
+["callbacks"] = {
+["distance"] = {
+},
+["minimap"] = {
+},
+["world"] = {
+},
+},
+["minimap"] = true,
+["world"] = true,
+},
+},
+},
+["Unote - Archimonde"] = {
+},
+["Spacewølf - Archimonde"] = {
+},
+["Malferrant - Archimonde"] = {
+},
+["Atogatog - Archimonde"] = {
+},
+},
+}

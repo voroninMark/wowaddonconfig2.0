@@ -1,0 +1,5 @@
+bind Z MOVEFORWARD
+bind UP NONE
+bind D STRAFERIGHT
+bind A NONE
+bind E NONE

@@ -1,0 +1,8 @@
+Version: 1
+Frame: EllesmereUIFrame
+FrameLevel: 100
+Anchor: TOP
+X: -185
+Y: -35
+W: 1500
+H: 1154

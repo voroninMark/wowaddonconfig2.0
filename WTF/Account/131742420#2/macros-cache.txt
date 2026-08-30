@@ -1,0 +1,443 @@
+VER 3 0000000000000005 "*" "629534"
+#showtooltip Paralysie
+/cast [@mouseover, harm, exists][nomod] Paralysie
+END
+VER 3 0000000000000A08 "/way 51,9, 52,5 " "132189"
+/way 51,9, 52,5 Enigmatic Decrypting Device
+/way 60,8, 34,9 Blue Book - Book of Binding: The Tormented Sorcerer
+/way 28.9, 54.2 Cipher of Understanding
+/way 51.4, 20.1 Unstable Explosive Orb
+END
+VER 3 000000000000000A "4 vents" "649816"
+/way Vallée des quatre vents 20 55 Lieu de naisance de Liu Lang
+/way Vallée des quatre vents 55 47 Un acte de vente des plus célèbres
+/way Vallée des quatre vents 35 64 La veuve vagabonde
+END
+VER 3 0000000000000A36 "a-pillar" "237520"
+/cast Pilier de givre
+/cast Réanimation morbide
+/cast Frappe de givre
+/cast Renforcer l'arme runique
+/use 13
+END
+VER 3 0000000000000A38 "a-pillar" "135833"
+/cast Pilier de givre
+/cast Réanimation morbide
+/cast Rafale hurlante
+/cast Renforcer l'arme runique
+/use 13
+END
+VER 3 0000000000000A37 "a-pillar" "135771"
+/cast Pilier de givre
+/cast Réanimation morbide
+/cast Anéantissement
+/cast Renforcer l'arme runique
+/use 13
+END
+VER 3 0000000000000A13 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+/script print('no button yet')
+END
+VER 3 0000000000000A21 "APR_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Crochet arcanique
+END
+VER 3 0000000000000A26 "caverne" "132291"
+/1 [TDC] arc/maille/cuir (full plans putréfiés) [COUTU] amict des bleus et la plupart des autres plans
+/1 [FORGE] ceinture givrefeu/bottes r5 100% [JOA] chevalière/torque 418, gemme poly/hate possibilité de 100% r3
+END
+VER 3 0000000000000A29 "cc" "237273"
+/cast [@mouseover] Asservir un mort-vivant
+END
+VER 3 0000000000000A15 "CMClass" "INV_MISC_QUESTIONMARK"
+#showtooltip Flèche résonnante(Kyrians)
+/cast [@cursor] Flèche résonnante(Kyrians)
+/cast Berserker(Raciale)
+END
+VER 3 0000000000000A14 "CMSignature" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Flasque de sérénité
+END
+VER 3 00000000000007F5 "coffre de la sem" "133123"
+/run C_AddOns.LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
+END
+VER 3 0000000000000020 "courbette" "INV_MISC_QUESTIONMARK"
+/tar Reine Azshara
+/curtsey
+/targetlasttarget
+END
+VER 3 0000000000000A0C "d" "136217"
+/cast 
+END
+VER 3 0000000000000A0E "d" "237383"
+/focus [@mouseover]
+END
+VER 3 0000000000000A09 "d" "252272"
+END
+VER 3 0000000000000001 "d" "SPELL_MISC_PETHEAL"
+/genou
+END
+VER 3 0000000000000A11 "d" "132120"
+#showtooltip
+/petmoveto [@cursor]
+END
+VER 3 0000000000000A12 "d" "132139"
+#showtooltip
+/target Jormog le 
+/cast Effrayer une bête
+/targetlasttarget
+END
+VER 3 0000000000000A0F "d" "3578207"
+#showtooltip Chakram de mort(Nécro-seigneurs)
+/cast Chakram de mort(Nécro-seigneurs)
+/cast Berserker(Raciale)
+END
+VER 3 0000000000000A03 "d" "135853"
+/way 66.21 43.33 
+/way 65.42 44.51 
+/way 65.07 41.38 
+/way 67.6 43.43 
+/way 65.38 42.93 
+/way 65.85 44.50 
+/way 67.40, 42.82
+/way 65.19 45.95
+/way 67.82 45.40 
+/way 67.20 40.18
+END
+VER 3 0000000000000A1C "d" "132111"
+#showtooltip
+/cast [mod:ctrl,@focus][@mouseover, harm, exists][nomod] Intimidation
+END
+VER 3 0000000000000755 "d" "135901"
+showtooltip Totem d’emprise de l’ombre
+/cast 
+/use 13
+/use 14
+END
+VER 3 0000000000000A1E "d" "2065565"
+#showtooltip
+/cast Assaut coordonné
+/use 13
+END
+VER 3 0000000000000A1F "d" "135130"
+#showtooltip Visée
+/cast visée
+/use Anneau des avenirs décadents
+END
+VER 3 0000000000000A0A "d" "413587"
+/way 63.77, 33.26
+/way 65.79, 34.50
+/way 64.82, 35.82
+END
+VER 3 0000000000000A25 "d" "135866"
+/5 |cffffd000|Htrade:Player-1302-0C098D86:25229:755|h[Joaillerie]|h|r spé gemme hate proc 23% avec diamant r2, com libre
+END
+VER 3 0000000000000A1A "d" "236175"
+#showtooltip
+/cast [mod:ctrl,@focus][@mouseover, harm, exists][nomod] Muselière
+END
+VER 3 0000000000000A1D "d" "135899"
+/way #1970 60.02 25.83 Sandworn Chest
+/way #1970 60.86 37.86 Sandworn Chest
+/way #1970 61.40 17.64 Sandworn Chest
+/way #1970 65.97 26.96 Sandworn Chest
+END
+VER 3 0000000000000A10 "d" "237383"
+#showtooltip
+/cast [@focus] Trait de choc
+END
+VER 3 000000000000069D "d" "136162"
+/way 43.23 77.62 Dredhollow Bolt
+/way 42.19 80.67 Dredhollow Bolt
+/way 42.22 73.57 Dredhollow Bolt
+END
+VER 3 0000000000000A17 "d" "132111"
+#showtooltip Intimidation
+/cast [@mouseover, harm, exists][nomod] Intimidation
+END
+VER 3 0000000000000A2C "d&d mouseover" "136144"
+#showtooltip
+/cast [@cursor] Mort et décomposition
+END
+VER 3 0000000000000004 "e" "INV_SWORD_27"
+/run px,py=GetPlayerMapPosition("player"); DEFAULT_CHAT_FRAME:AddMessage(format("You are at: %s (%0.1f, %0.1f)",GetZoneText(),px*100,py*100));
+END
+VER 3 0000000000000A20 "eag" "236188"
+#showtooltip Œil d'aigle
+/cast !Œil d'aigle
+END
+VER 3 0000000000000A3F "eject" "319458"
+/run EjectPassengerFromSeat(1)
+/run EjectPassengerFromSeat(2)
+END
+VER 3 0000000000000A40 "eject" "135908"
+/run EjectPassengerFromSeat(1)
+/run EjectPassengerFromSeat(2)
+END
+VER 3 0000000000000018 "expo" "INV_MISC_QUESTIONMARK"
+/tar Explosifs
+END
+VER 3 0000000000000A2B "extrabouton" "132116"
+/click ExtraActionButton1
+END
+VER 3 0000000000000019 "focus" "135996"
+/focus [@mouseover,exists,harm][]
+END
+VER 3 0000000000000025 "focus" "630789"
+/focus
+END
+VER 3 0000000000000A3A "focus ovinax" "132284"
+/focus
+END
+VER 3 0000000000000A2E "fyrakk macro" "134156"
+/run WeakAuras.ScanEvents("LIQUID_PRIVATE_AURA_MACRO", true)
+/raid macro fyrakka
+END
+VER 3 0000000000000A06 "G1" "3528296"
+/way #1525 29.49, 37.26 Mirror, Room with Cooking Pot
+/way #1525 27.15, 21.63 Mirror, Room with Elite Spider
+/way #1525 40.41, 73.34 Mirror, Inside House with Sleeping Wildlife
+END
+VER 3 0000000000000A05 "G2" "425952"
+/way #1525 39.09, 52.18 Mirror, Room on Ground Floor
+/way #1525 58.80, 67.80 Mirror, Inside House with Stonevigil
+/way #1525 70.97, 43.63 Mirror, Room with Disciples
+END
+VER 3 0000000000000A04 "G3" "429384"
+/way #1525 72.60, 43.65 Mirror, Inside Crypt with Disciples
+/way #1525 40.30, 77.16 Mirror, Inside House with Wildlife
+/way #1525 77.17, 65.43 Mirror, Inside House with several Elite Mobs
+END
+VER 3 0000000000000A02 "G4" "135741"
+/way #1525 29.60, 25.89 G4 Mirror, Room with Elite Soulbinder
+/way #1525 20.75, 54.26 G4 Mirror, Inside Villa at Entrance
+/way #1525 55.12, 35.67 G4 Mirror, Inside Crypt with Nobles
+END
+VER 3 0000000000000023 "genou" "537227"
+/tar Reine Azshara
+/kneel
+/targetlasttarget
+END
+VER 3 0000000000000006 "gladius" "132419"
+/gladius test
+END
+VER 3 0000000000000024 "hbCrashProt_5" "Spell_Holy_SealOfSacrifice"
+Incon:31:ayer-1303-0A1272CC:1:Incon:33:ayer-1602-0B0D3F01:1:Incon:34:ayer-3391-09FCFFD0:1:Incon:35:ayer-1621-0A341954:1:Incon:37:ayer-1378-0A8471B1:1:Incon:38:ayer-1621-09C69D08:1:
+END
+VER 3 0000000000000007 "jade" "132651"
+/way Forêt de Jade:Pandarie 36 30 Les premiers moines
+/way Forêt de Jade:Pandarie 47 45 Le fardeau de l'empereur I
+/way Forêt de Jade:Pandarie 56 57 Le fardeau de l'empereur III
+END
+VER 3 0000000000000008 "jade 2" "132651"
+/way Forêt de Jade:Pandarie 42 17 Lieurs d'esprit
+/way Forêt de Jade:Pandarie 26 28 Discours hozen
+/way Forêt de Jade:Pandariel 66 88 Forge-l'eau
+END
+VER 3 0000000000000009 "jade 3" "132651"
+/way Forêt de Jade:Pandarie 68 29 Les Saurok
+/way Forêt de Jade:Pandarie 37 30 Xin Wo Yin au coeur brisé
+END
+VER 3 000000000000000C "karsang" "132352"
+/way Étendues sauvages de Krasarang:Pandarie 81 11 Quan Tou Kuo l’Ambidextre
+/way Étendues sauvages de Krasarang:Pandarie 33 29 La bataille finale
+/way Étendues sauvages de Krasarang:Pandarie 40 57 Le fardeau de l'empereur IV (Au premier etage)
+END
+VER 3 000000000000000D "karsang 2" "132352"
+/way Étendues sauvages de Krasarang:Pandarie 51 32 La dynastie perdue
+/way Étendues sauvages de Krasarang:Pandarie 52 87 Maturité hozen (dans la cave)
+/way Étendues sauvages de Krasarang:Pandarie 30 38 Les Origines
+END
+VER 3 000000000000000E "karsang 3" "132352"
+/way Étendues sauvages de Krasarang:Pandarie 72 31 En attendant la tortue
+END
+VER 3 0000000000000011 "kun lai" "136107"
+/way Sommet de Kun-Lai 74 84 L'appel du devoir
+/way Sommet de Kun-Lai 44.72, 52.38 Ren Yun l'Aveugle
+/way Sommet de Kun-Lai 46 62 Les ravages hozen
+/way Sommet de Kun-Lai 68 48 Le fardeau de l'empereur VI
+END
+VER 3 0000000000000012 "kun lai 2" "136107"
+/way Sommet de Kun-Lai 41 42 Le fardeau de l'empereur VII
+/way Sommet de Kun-Lai 63 41 Victoire à Kun-Lai
+/way Sommet de Kun-Lai 50 79 Tactiques yaungoles
+/way Sommet de Kun-Lai 72 63 Yaunghuile
+END
+VER 3 0000000000000013 "kun lai 3" "136107"
+/way Sommet de Kun-Lai 44 51 Le fardeau de l'empereur II
+/way Sommet de Kun-Lai 53 46 Vallée des Empereurs (58 71 dedans)
+END
+VER 3 0000000000000A33 "liquid macro" "135965"
+/run WeakAuras.ScanEvents("LIQUID_PRIVATE_AURA_MACRO", true)
+END
+VER 3 0000000000000A0B "malle runeliée" "INV_MISC_QUESTIONMARK"
+/love
+END
+VER 3 0000000000000A2D "metier sans prix" "132353"
+/2 TOUS LES METIERS avec la majorité des crafts df dont le JONC mp pour plus d'infos
+END
+VER 3 0000000000000A24 "Metiers" "1658496"
+/2 Dispo pour vos crafts
+/2 FORGE arme/armure/metier TDC cuir/maille JOA bague/cou/metier CALLI baton/main gauche/metier INGE metier/fusil COUTU 
+END
+VER 3 0000000000000A27 "metiers v2" "132281"
+/2 [TDC] arc/maille/cuir 447 (full bottes putréfiés) [COUTU] cape de spore + autres plans [CALLI] baton agi/intel
+/2 [FORGE] spé armure/bouclier 447 [JOA] chevalière/torque 447, gemme poly/hate possibilité de 100% r3 [ENCHANT] écu d'ombreflamme
+END
+VER 3 0000000000000918 "mirroirs" "135866"
+/way 27.15, 21.63 Mirror, Room with Elite Spider
+/way 29.49, 37.26 Mirror, Room with Cooking Pot
+/way 39.09, 52.18 Mirror, Room on Ground Floor
+/way 40.41, 73.34 Mirror, Inside House
+/way 58.80, 67.80 Mirror, Inside House
+/way 70.97, 43.63 Mirror, Room wi
+END
+VER 3 0000000000000A16 "Owl" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Invocation de régisseur
+END
+VER 3 0000000000000A0D "passive" "454771"
+/petpassive
+END
+VER 3 0000000000000A22 "PIBUDDY" "135939"
+#showtooltip Infusion de puissance
+/use 13
+/use 14
+/cast [@Yumidwarf,help,nodead] Infusion de puissance
+/stopmacro [@Yumidwarf,help,nodead]
+/targetfriendplayer [nohelp]
+/cast [help] Infusion de puissance
+/targetlasttarget [help]
+/cast [@player] Infusion d
+END
+VER 3 0000000000000016 "pioche" "1376044"
+/way 44.13, 27.20
+/way 44.64, 27.78
+/way 44.17, 28.65
+/way 43.83, 30.46
+/way 45.61, 29.64
+END
+VER 3 000000000000000F "primtempts" "236153"
+/way Val de l’Éternel printemps:Pandarie 26 21 Ensemble, nous sommes puissants
+/way Val de l’Éternel printemps:Pandarie 53 69 N'oublions jamais
+/way Val de l’Éternel printemps:Pandarie 68 44 Le fardeau de l'empereur VIII
+END
+VER 3 0000000000000010 "printemps 2" "236153"
+/way Val de l’Éternel printemps;Pandarie 40 77 Le roi-tonnerre
+END
+VER 3 0000000000000022 "ramper" "574574"
+/tar Reine Azshara
+/grovel
+/targetlasttarget
+END
+VER 3 0000000000000A35 "raz" "237532"
+/tar boss1
+/targetenemy
+/focus
+/tar player
+/tar focus
+/tar boss1
+/targetlasttarget
+/cast [harm,nodead] Poigne de la mort
+/tar boss1
+END
+VER 3 0000000000000A34 "raz" "237527"
+/tar boss1
+/targetenemy
+/focus
+/tar player
+/tar focus
+/tar boss1
+/targetlasttarget
+/cast [harm,nodead] Gel de l'esprit
+/tar boss1
+END
+VER 3 0000000000000A07 "rea" "136143"
+#showtooltip Réanimation d'un allié
+/cast [target=mouseover,exists] [] Réanimation d'un allié
+END
+VER 3 0000000000000A32 "rep joa/coutu" "237278"
+/r envoi sur Utîle avec un i ^ et met en r4 je recraft a mes frais
+END
+VER 3 0000000000000A28 "repa" "132238"
+/use item:225660
+/use 16
+/use item:225660
+/use 3
+/use item:225660
+/use 8
+/use item:225660
+/use 9
+/use item:225660
+/use 1
+/use item:225660
+/use 6
+/use item:225660
+/use 17
+END
+VER 3 0000000000000A18 "récits exil" "413591"
+/way 35.75 55.46 Part 1
+/way 41.74 62.44 Part 2 (In the nest near Bitterbeak )
+/way 37.54 46.01 Part 3 (Under the bushes)
+/way 49.82 76.56 Part 4
+/way 39.03 31.09 Part 5 (In Cave to the right side)
+/way 67.42 25.18 Part 6
+/way 64.83 33.64 Part 7
+END
+VER 3 0000000000000029 "s" "INV_MISC_QUESTIONMARK"
+/cancelaura Levitation
+END
+VER 3 0000000000000A3D "s base" "841381"
+/sam profile basic
+END
+VER 3 0000000000000A3C "s m+" "841380"
+/sam profile m+
+END
+VER 3 0000000000000A3B "s raid" "841379"
+/sam profile raid
+END
+VER 3 000000000000001F "salute" "1500803"
+/tar Reine Azshara
+/salute
+/targetlasttarget
+END
+VER 3 0000000000000017 "serpent" "236231"
+/tar Noeud de serpents
+END
+VER 3 000000000000001A "souls" "132279"
+/run local t,c,p="Haunting Soul",0 for i=1,10000 do p=_G["NamePlate"..i] if p and p:IsVisible() then c=c+(select(2,p:GetChildren()):GetRegions():GetText()==t and 1 or 0) end end print(t,":",c)
+END
+VER 3 0000000000000A3E "token" "132179"
+/script C_WowTokenPublic.BuyToken() 
+END
+VER 3 000000000000054C "torse" "656166"
+/run BuyMerchantItem(3)
+/use Plastron azéritique délaissé
+END
+VER 3 000000000000001B "tourne" "644389"
+/louer
+END
+VER 3 0000000000000A2A "trinket pi" "3615519"
+/use 13
+/use 14
+/w Angrif-Ysondre Pi me
+END
+VER 3 0000000000000A19 "TSM" "237090"
+/tsm
+END
+VER 3 0000000000000A31 "TSMMacro" "Achievement_Faction_GoldenLotus"
+/click TSMCancelAuctionBtn
+/click TSMAuctioningBtn
+END
+VER 3 0000000000000A1B "urh T" "132131"
+/tar Démanteleur d'Urh
+/cast Bouclier en écailles(Technique spéciale)
+/cast Grondement(Technique de base)
+/targetlasttarget
+END
+VER 3 0000000000000A39 "wk" "132174"
+/wk
+END
+VER 3 0000000000000529 "z" "252995"
+/cast Désenchanter
+/use Brassards en lin
+END

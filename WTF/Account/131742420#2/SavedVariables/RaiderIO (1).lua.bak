@@ -1,0 +1,39 @@
+
+RaiderIO_Config = {
+["dockReplay"] = false,
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16,
+["point"] = "TOPLEFT",
+},
+["enableReplay"] = false,
+["replayPoint"] = {
+["y"] = -98.521240234375,
+["x"] = -14.22276020050049,
+["point"] = "RIGHT",
+},
+["replayTiming"] = "DUNGEON",
+["previouslyEnabledLogging"] = false,
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["hide"] = false,
+["lock"] = false,
+},
+["displayWeeklyGuildBest"] = false,
+}
+RaiderIO_LastCharacter = "eu-Unote-archimonde"
+RaiderIO_MissingCharacters = {
+["eu-Zzý-hyjal"] = true,
+["eu-Aigled-hyjal"] = true,
+["eu-Ghouma-archimonde"] = true,
+["eu-Tyrpaltwo-archimonde"] = true,
+["eu-Bïllybutcher-archimonde"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}

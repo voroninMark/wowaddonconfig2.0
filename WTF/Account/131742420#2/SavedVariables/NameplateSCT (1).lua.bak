@@ -1,0 +1,31 @@
+
+NameplateSCTDB = {
+["profileKeys"] = {
+["Rojce - Archimonde"] = "Default",
+["Sudistte - Archimonde"] = "Default",
+["Atogatog - Archimonde"] = "Default",
+["Unhote - Archimonde"] = "Default",
+["Knort - Archimonde"] = "Default",
+["Unotr - Archimonde"] = "Default",
+["Oit - Archimonde"] = "Default",
+["Spacewølf - Archimonde"] = "Default",
+["Hotr - Khaz Modan"] = "Default",
+["Lesotr - Archimonde"] = "Default",
+["Utîle - Archimonde"] = "Default",
+["Unote - Archimonde"] = "Default",
+["Kronf - Archimonde"] = "Default",
+["Malferrant - Archimonde"] = "Default",
+["Unotre - Archimonde"] = "Default",
+},
+["global"] = {
+["enabled"] = false,
+["strata"] = {
+["target"] = 4,
+["offTarget"] = 3,
+},
+["animations"] = {
+["ability"] = "verticalDown",
+},
+["personal"] = false,
+},
+}

@@ -1,0 +1,15 @@
+Version: 1
+Frame: GroupLootHistoryFrame
+FrameLevel: 1
+Anchor: CENTER
+X: -62
+Y: 116
+W: 261
+H: 590
+Frame: ElephantFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 15
+Y: 144
+W: 600
+H: 580

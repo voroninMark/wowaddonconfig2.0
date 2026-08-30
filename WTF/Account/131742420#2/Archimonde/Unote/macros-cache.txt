@@ -1,0 +1,172 @@
+VER 3 0100000000000017 "assaut" "237535"
+#showtooltip
+/cast Assaut impie
+/use 13
+/use 14
+END
+VER 3 0100000000000008 "cut" "237527"
+#showtooltip Gel de l'esprit
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Gel de l'esprit
+END
+VER 3 0100000000000004 "d" "132134"
+#showtooltip ronger
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] bondir
+/petattack [nomod]
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] ronger
+END
+VER 3 0100000000000001 "d" "237530"
+#showtooltip Frappe du Fléau
+/cast Frappe du Fléau
+/use Enclume de poche en élémentium
+/petattack
+END
+VER 3 0100000000000005 "d" "1390947"
+#showtooltip Aider
+/petassist
+/petattack
+END
+VER 3 0100000000000009 "d" "237532"
+#showtooltip Poigne de la mort
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Poigne de la mort
+END
+VER 3 010000000000000A "d" "538558"
+#showtooltip Asphyxier
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Asphyxier
+END
+VER 3 010000000000000E "d" "135834"
+#showtooltip Chaînes de glace
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Chaînes de glace
+END
+VER 3 0100000000000007 "d" "342913"
+#showtooltip Sombre transformation
+/use 13
+/use 14
+/cast Sombre transformation
+END
+VER 3 010000000000001A "d" "237510"
+/cast [@cursor] Zone anti-magie
+END
+VER 3 010000000000000F "d" "458718"
+#showtooltip Pilier de givre
+/cast Pilier de givre
+/use 13
+/use 14
+/cast Réanimation morbide
+/cast Renforcer l'arme runique
+/use Potion élémentaire fugace de puissance ultime
+/w Angrif-Ysondre Pi me
+END
+VER 3 0100000000000012 "d z" "636333"
+#showtooltip Faucheur d’âme
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Faucheur d’âme
+END
+VER 3 010000000000001C "froststrike-trin" "237520"
+/cast Pilier de givre
+/cast Réanimation morbide
+/cast Frappe de givre
+/cast Renforcer l'arme runique
+/use 13
+/use 14
+END
+VER 3 0100000000000015 "garg+pot" "458967"
+#showtooltip
+/cast Invocation d'une gargouille
+/use Potion élémentaire fugace de puissance ultime
+/use Potion élémentaire de puissance ultime
+END
+VER 3 0100000000000018 "givre" "134400"
+#showtooltip
+/cast [@mouseover, harm, exists][nomod] frappe de givre
+END
+VER 3 0100000000000023 "glac-trinket" "537514"
+/cast Pilier de givre
+/cast Réanimation morbide
+/cast Avancée glaciale
+/cast Renforcer l'arme runique
+/use 13
+/use 14
+END
+VER 3 010000000000001B "howl-trink" "135833"
+/cast Pilier de givre
+/cast Réanimation morbide
+/cast Rafale hurlante
+/cast Renforcer l'arme runique
+/use 13
+/use 14
+END
+VER 3 0100000000000024 "mark" "134400"
+#showtooltip
+/cast Marque de la faucheuse
+/cast Pilier de givre
+/cast Réanimation morbide
+/use 13
+/use 14
+END
+VER 3 0100000000000013 "necro" "3578196"
+/cast Membre abominable
+/cast Renforcer l'arme runique
+END
+VER 3 0100000000000010 "no pot" "1029007"
+/cast !Souffle de Sindragosa
+/cast Réanimation morbide
+/cast Renforcer l'arme runique
+END
+VER 3 0100000000000025 "nopo" "134400"
+#showtooltip
+/cast Assaut impie
+/use 13
+END
+VER 3 010000000000001E "ovinax" "132257"
+/cast !Souffle de Sindragosa
+/cast Réanimation morbide
+/cast Renforcer l'arme runique
+/w Blodheal pi mi
+/use Potion tempérée fugace
+END
+VER 3 0100000000000021 "ovinax" "135305"
+/cast Pilier de givre
+/cast Anéantissement
+END
+VER 3 0100000000000022 "ovinax no pot" "132256"
+/cast !Souffle de Sindragosa
+/cast Réanimation morbide
+/cast Renforcer l'arme runique
+END
+VER 3 0100000000000016 "pot" "134400"
+#showtooltip
+/cast Assaut impie
+/use 13
+/use Potion tempérée fugace
+/use Potion tempérée
+END
+VER 3 0100000000000019 "pot" "1029007"
+/cast !Souffle de Sindragosa
+/cast Réanimation morbide
+/cast Renforcer l'arme runique
+/use Potion tempérée fugace
+/use Potion tempérée
+END
+VER 3 010000000000000C "reanimate" "136143"
+#showtooltip Réanimation d'un allié
+/cast [target=mouseover,exists] [] Réanimation d'un allié
+END
+VER 3 0100000000000026 "silken" "134400"
+/cast !Souffle de Sindragosa
+/cast Réanimation morbide
+/cast Renforcer l'arme runique
+/use Potion tempérée fugace
+/use Potion tempérée
+END
+VER 3 0100000000000027 "silken" "134400"
+#showtooltip
+/cast Marque de la faucheuse
+/cast Pilier de givre
+/cast Réanimation morbide
+/use 14
+/use 13
+END
+VER 3 0100000000000028 "silken pi" "133660"
+/w Blodheal pi me
+/use Transmetteur traître
+/use Fragment de Skarmorak
+END

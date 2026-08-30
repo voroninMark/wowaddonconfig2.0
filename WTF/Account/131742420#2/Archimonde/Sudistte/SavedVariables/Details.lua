@@ -1,0 +1,1634 @@
+
+_detalhes_database = {
+["savedbuffs"] = {
+},
+["mythic_dungeon_id"] = 0,
+["tabela_historico"] = {
+["tabelas"] = {
+{
+{
+["combatId"] = 2,
+["tipo"] = 2,
+["_ActorTable"] = {
+{
+["flag_original"] = 1297,
+["totalabsorbed"] = 0.00874,
+["pets"] = {
+},
+["classe"] = "DEMONHUNTER",
+["total_without_pet"] = 573.00874,
+["last_dps_realtime"] = 0,
+["dps_started"] = false,
+["total"] = 573.00874,
+["spec"] = 577,
+["on_hold"] = false,
+["total_extra"] = 0,
+["serial"] = "Player-1302-0C03C85C",
+["damage_from"] = {
+},
+["targets"] = {
+["Lucane aile-pourpre"] = 573,
+},
+["colocacao"] = 1,
+["aID"] = "1302-0C03C85C",
+["grupo"] = true,
+["friendlyfire_total"] = 0,
+["raid_targets"] = {
+},
+["end_time"] = 1725709234,
+["nome"] = "Sudistte",
+["spells"] = {
+["tipo"] = 2,
+["_ActorTable"] = {
+[258922] = {
+["c_amt"] = 1,
+["b_amt"] = 0,
+["g_amt"] = 0,
+["n_max"] = 0,
+["targets"] = {
+["Lucane aile-pourpre"] = 573,
+},
+["n_total"] = 0,
+["n_min"] = 0,
+["g_dmg"] = 0,
+["counter"] = 1,
+["total"] = 573,
+["c_max"] = 573,
+["id"] = 258922,
+["r_dmg"] = 0,
+["spellschool"] = 4,
+["extra"] = {
+},
+["a_dmg"] = 0,
+["a_amt"] = 0,
+["c_min"] = 573,
+["successful_casted"] = 0,
+["c_total"] = 573,
+["n_amt"] = 0,
+["b_dmg"] = 0,
+["r_amt"] = 0,
+},
+},
+},
+["friendlyfire"] = {
+},
+["last_dps"] = 5617.732745155744,
+["custom"] = 0,
+["tipo"] = 1,
+["damage_taken"] = 0.00874,
+["start_time"] = 1725709234,
+["delay"] = 0,
+["last_event"] = 1725709234,
+},
+{
+["flag_original"] = 2600,
+["totalabsorbed"] = 0.001501,
+["pets"] = {
+},
+["classe"] = "UNKNOW",
+["total_without_pet"] = 0.001501,
+["last_dps_realtime"] = 0,
+["dps_started"] = false,
+["total"] = 0.001501,
+["on_hold"] = false,
+["total_extra"] = 0,
+["serial"] = "Creature-0-3770-2444-135-199220-00005C340A",
+["aID"] = "199220",
+["damage_from"] = {
+["Sudistte"] = true,
+},
+["targets"] = {
+},
+["fight_component"] = true,
+["friendlyfire_total"] = 0,
+["raid_targets"] = {
+},
+["end_time"] = 1725709234,
+["nome"] = "Lucane aile-pourpre",
+["spells"] = {
+["tipo"] = 2,
+["_ActorTable"] = {
+},
+},
+["friendlyfire"] = {
+},
+["last_dps"] = 0,
+["custom"] = 0,
+["tipo"] = 1,
+["damage_taken"] = 573.001501,
+["start_time"] = 1725709234,
+["delay"] = 0,
+["last_event"] = 0,
+},
+},
+},
+{
+["combatId"] = 2,
+["tipo"] = 3,
+["_ActorTable"] = {
+},
+},
+{
+["combatId"] = 2,
+["tipo"] = 7,
+["_ActorTable"] = {
+},
+},
+{
+["combatId"] = 2,
+["tipo"] = 9,
+["_ActorTable"] = {
+{
+["flag_original"] = 1047,
+["pets"] = {
+},
+["buff_uptime"] = 0,
+["classe"] = "DEMONHUNTER",
+["buff_uptime_targets"] = {
+},
+["buff_uptime_spells"] = {
+["tipo"] = 9,
+["_ActorTable"] = {
+[347462] = {
+["activedamt"] = 1,
+["id"] = 347462,
+["targets"] = {
+},
+["uptime"] = 0,
+["appliedamt"] = 1,
+["refreshamt"] = 0,
+["actived"] = false,
+["counter"] = 0,
+},
+[258920] = {
+["activedamt"] = 1,
+["id"] = 258920,
+["targets"] = {
+},
+["uptime"] = 0,
+["appliedamt"] = 1,
+["refreshamt"] = 0,
+["actived"] = false,
+["counter"] = 0,
+},
+[430191] = {
+["activedamt"] = 1,
+["id"] = 430191,
+["targets"] = {
+},
+["uptime"] = 0,
+["appliedamt"] = 1,
+["refreshamt"] = 0,
+["actived"] = false,
+["counter"] = 0,
+},
+[463525] = {
+["activedamt"] = 1,
+["id"] = 463525,
+["targets"] = {
+},
+["uptime"] = 0,
+["appliedamt"] = 1,
+["refreshamt"] = 0,
+["actived"] = false,
+["counter"] = 0,
+},
+[345464] = {
+["activedamt"] = 1,
+["id"] = 345464,
+["targets"] = {
+},
+["uptime"] = 0,
+["appliedamt"] = 1,
+["refreshamt"] = 0,
+["actived"] = false,
+["counter"] = 0,
+},
+},
+},
+["grupo"] = true,
+["serial"] = "Player-1302-0C03C85C",
+["aID"] = "1302-0C03C85C",
+["nome"] = "Sudistte",
+["spec"] = 577,
+["last_event"] = 1725709234,
+["tipo"] = 4,
+},
+},
+},
+{
+["combatId"] = 2,
+["tipo"] = 2,
+["_ActorTable"] = {
+},
+},
+["raid_roster"] = {
+["Sudistte"] = "Player-1302-0C03C85C",
+},
+["CombatStartedAt"] = 75608.901,
+["tempo_start"] = 1725709234,
+["last_events_tables"] = {
+},
+["alternate_power"] = {
+["Lucane aile-pourpre"] = {
+["total"] = 0,
+["last"] = 0,
+},
+},
+["bossTimers"] = {
+},
+["cleu_events"] = {
+["n"] = 1,
+},
+["playerTalents"] = {
+},
+["totals"] = {
+573,
+0,
+{
+0,
+[0] = 0,
+["alternatepower"] = 0,
+[3] = 0,
+[6] = 0,
+},
+{
+["buff_uptime"] = 0,
+["ress"] = 0,
+["debuff_uptime"] = 0,
+["cooldowns_defensive"] = 0,
+["interrupt"] = 0,
+["dispell"] = 0,
+["cc_break"] = 0,
+["dead"] = 0,
+},
+["frags_total"] = 0,
+["voidzone_damage"] = 0,
+},
+["player_last_events"] = {
+},
+["frags_need_refresh"] = true,
+["amountCasts"] = {
+},
+["instance_type"] = "none",
+["zoneName"] = "Îles aux Dragons",
+["data_fim"] = "13:40:35",
+["pvp"] = true,
+["bIsClosed"] = true,
+["cleu_timeline"] = {
+},
+["enemy"] = "Lucane aile-pourpre",
+["trinketProcs"] = {
+},
+["TotalElapsedCombatTime"] = 0,
+["CombatEndedAt"] = 75608.901,
+["aura_timeline"] = {
+},
+["data_inicio"] = "13:40:35",
+["end_time"] = 75608.901,
+["mapId"] = 2444,
+["combat_id"] = 2,
+["overall_added"] = true,
+["playing_solo"] = true,
+["is_challenge"] = false,
+["frags"] = {
+["Lucane aile-pourpre"] = 1,
+},
+["boss_hp"] = 1,
+["combat_counter"] = 7,
+["totals_grupo"] = {
+573,
+0,
+{
+0,
+[0] = 0,
+["alternatepower"] = 0,
+[3] = 0,
+[6] = 0,
+},
+{
+["buff_uptime"] = 0,
+["ress"] = 0,
+["debuff_uptime"] = 0,
+["cooldowns_defensive"] = 0,
+["interrupt"] = 0,
+["dispell"] = 0,
+["cc_break"] = 0,
+["dead"] = 0,
+},
+},
+["PhaseData"] = {
+{
+1,
+1,
+},
+["heal_section"] = {
+},
+["heal"] = {
+{
+},
+},
+["damage_section"] = {
+},
+["damage"] = {
+{
+["Sudistte"] = 573.00874,
+},
+},
+},
+["start_time"] = 75608.799,
+["TimeData"] = {
+},
+["spells_cast_timeline"] = {
+},
+},
+{
+{
+["combatId"] = 1,
+["tipo"] = 2,
+["_ActorTable"] = {
+{
+["flag_original"] = 1297,
+["totalabsorbed"] = 0.004469,
+["pets"] = {
+},
+["classe"] = "DEMONHUNTER",
+["total_without_pet"] = 3249.004469,
+["last_dps_realtime"] = 0,
+["dps_started"] = false,
+["total"] = 3249.004469,
+["spec"] = 577,
+["on_hold"] = false,
+["total_extra"] = 0,
+["serial"] = "Player-1302-0C03C85C",
+["damage_from"] = {
+},
+["targets"] = {
+["Lucane aile-pourpre"] = 3249,
+},
+["colocacao"] = 1,
+["aID"] = "1302-0C03C85C",
+["grupo"] = true,
+["friendlyfire_total"] = 0,
+["raid_targets"] = {
+},
+["end_time"] = 1725709234,
+["nome"] = "Sudistte",
+["spells"] = {
+["tipo"] = 2,
+["_ActorTable"] = {
+{
+["c_amt"] = 1,
+["b_amt"] = 0,
+["g_amt"] = 0,
+["n_max"] = 0,
+["targets"] = {
+["Lucane aile-pourpre"] = 2975,
+},
+["n_total"] = 0,
+["n_min"] = 0,
+["g_dmg"] = 0,
+["counter"] = 1,
+["total"] = 2975,
+["c_max"] = 2975,
+["id"] = 1,
+["r_dmg"] = 0,
+["spellschool"] = 1,
+["extra"] = {
+},
+["a_dmg"] = 0,
+["a_amt"] = 0,
+["c_min"] = 2975,
+["successful_casted"] = 0,
+["c_total"] = 2975,
+["n_amt"] = 0,
+["b_dmg"] = 0,
+["r_amt"] = 0,
+},
+[258922] = {
+["c_amt"] = 0,
+["b_amt"] = 0,
+["g_amt"] = 0,
+["n_max"] = 274,
+["targets"] = {
+["Lucane aile-pourpre"] = 274,
+},
+["n_total"] = 274,
+["n_min"] = 274,
+["g_dmg"] = 0,
+["counter"] = 1,
+["total"] = 274,
+["c_max"] = 0,
+["id"] = 258922,
+["r_dmg"] = 0,
+["spellschool"] = 4,
+["extra"] = {
+},
+["a_dmg"] = 0,
+["a_amt"] = 0,
+["c_min"] = 0,
+["successful_casted"] = 0,
+["c_total"] = 0,
+["n_amt"] = 1,
+["b_dmg"] = 0,
+["r_amt"] = 0,
+},
+},
+},
+["friendlyfire"] = {
+},
+["last_dps"] = 2676.280452208141,
+["custom"] = 0,
+["tipo"] = 1,
+["damage_taken"] = 0.004469,
+["start_time"] = 1725709232,
+["delay"] = 0,
+["last_event"] = 1725709233,
+},
+{
+["flag_original"] = 68136,
+["totalabsorbed"] = 0.007266,
+["pets"] = {
+},
+["classe"] = "UNKNOW",
+["total_without_pet"] = 0.007266,
+["last_dps_realtime"] = 0,
+["dps_started"] = false,
+["total"] = 0.007266,
+["on_hold"] = false,
+["total_extra"] = 0,
+["serial"] = "Creature-0-3770-2444-135-199220-00005C3989",
+["aID"] = "199220",
+["damage_from"] = {
+["Sudistte"] = true,
+},
+["targets"] = {
+},
+["fight_component"] = true,
+["friendlyfire_total"] = 0,
+["raid_targets"] = {
+},
+["end_time"] = 1725709234,
+["nome"] = "Lucane aile-pourpre",
+["spells"] = {
+["tipo"] = 2,
+["_ActorTable"] = {
+},
+},
+["friendlyfire"] = {
+},
+["last_dps"] = 0,
+["custom"] = 0,
+["tipo"] = 1,
+["damage_taken"] = 3249.007266,
+["start_time"] = 1725709234,
+["delay"] = 0,
+["last_event"] = 0,
+},
+},
+},
+{
+["combatId"] = 1,
+["tipo"] = 3,
+["_ActorTable"] = {
+},
+},
+{
+["combatId"] = 1,
+["tipo"] = 7,
+["_ActorTable"] = {
+{
+["flag_original"] = 1297,
+["resource"] = 4.002263,
+["pets"] = {
+},
+["aID"] = "1302-0C03C85C",
+["passiveover"] = 0.002263,
+["total"] = 0.002263,
+["spec"] = 577,
+["received"] = 0.002263,
+["targets"] = {
+},
+["powertype"] = 1,
+["alternatepower"] = 0.002263,
+["resource_type"] = 17,
+["nome"] = "Sudistte",
+["spells"] = {
+["tipo"] = 7,
+["_ActorTable"] = {
+},
+},
+["grupo"] = true,
+["classe"] = "DEMONHUNTER",
+["last_event"] = 1725709233,
+["totalover"] = 0.002263,
+["serial"] = "Player-1302-0C03C85C",
+["tipo"] = 3,
+},
+},
+},
+{
+["combatId"] = 1,
+["tipo"] = 9,
+["_ActorTable"] = {
+{
+["flag_original"] = 1047,
+["pets"] = {
+},
+["buff_uptime"] = 10,
+["classe"] = "DEMONHUNTER",
+["buff_uptime_targets"] = {
+},
+["buff_uptime_spells"] = {
+["tipo"] = 9,
+["_ActorTable"] = {
+[347462] = {
+["activedamt"] = 1,
+["id"] = 347462,
+["targets"] = {
+},
+["uptime"] = 2,
+["appliedamt"] = 1,
+["refreshamt"] = 0,
+["actived"] = false,
+["counter"] = 0,
+},
+[258920] = {
+["activedamt"] = 1,
+["id"] = 258920,
+["targets"] = {
+},
+["uptime"] = 2,
+["appliedamt"] = 1,
+["refreshamt"] = 0,
+["actived"] = false,
+["counter"] = 0,
+},
+[430191] = {
+["activedamt"] = 1,
+["id"] = 430191,
+["targets"] = {
+},
+["uptime"] = 2,
+["appliedamt"] = 1,
+["refreshamt"] = 0,
+["actived"] = false,
+["counter"] = 0,
+},
+[463525] = {
+["activedamt"] = 1,
+["id"] = 463525,
+["targets"] = {
+},
+["uptime"] = 2,
+["appliedamt"] = 1,
+["refreshamt"] = 0,
+["actived"] = false,
+["counter"] = 0,
+},
+[345464] = {
+["activedamt"] = 1,
+["id"] = 345464,
+["targets"] = {
+},
+["uptime"] = 2,
+["appliedamt"] = 1,
+["refreshamt"] = 0,
+["actived"] = false,
+["counter"] = 0,
+},
+},
+},
+["grupo"] = true,
+["serial"] = "Player-1302-0C03C85C",
+["aID"] = "1302-0C03C85C",
+["nome"] = "Sudistte",
+["spec"] = 577,
+["last_event"] = 1725709234,
+["tipo"] = 4,
+},
+},
+},
+{
+["combatId"] = 1,
+["tipo"] = 2,
+["_ActorTable"] = {
+},
+},
+["raid_roster"] = {
+["Sudistte"] = "Player-1302-0C03C85C",
+},
+["CombatStartedAt"] = 75606.859,
+["tempo_start"] = 1725709232,
+["last_events_tables"] = {
+},
+["alternate_power"] = {
+["Lucane aile-pourpre"] = {
+["total"] = 0,
+["last"] = 0,
+},
+},
+["bossTimers"] = {
+},
+["combat_counter"] = 6,
+["playerTalents"] = {
+},
+["totals"] = {
+3249,
+0,
+{
+0,
+[0] = 0,
+["alternatepower"] = 0,
+[3] = 0,
+[6] = 0,
+},
+{
+["buff_uptime"] = 0,
+["ress"] = 0,
+["debuff_uptime"] = 0,
+["cooldowns_defensive"] = 0,
+["interrupt"] = 0,
+["dispell"] = 0,
+["cc_break"] = 0,
+["dead"] = 0,
+},
+["frags_total"] = 0,
+["voidzone_damage"] = 0,
+},
+["player_last_events"] = {
+},
+["frags_need_refresh"] = true,
+["amountCasts"] = {
+},
+["instance_type"] = "none",
+["zoneName"] = "Îles aux Dragons",
+["data_fim"] = "13:40:34",
+["hasTimer"] = 1.010000000009313,
+["pvp"] = true,
+["bIsClosed"] = true,
+["cleu_timeline"] = {
+},
+["enemy"] = "Lucane aile-pourpre",
+["trinketProcs"] = {
+},
+["TotalElapsedCombatTime"] = 1.214000000007218,
+["CombatEndedAt"] = 75608.073,
+["aura_timeline"] = {
+},
+["data_inicio"] = "13:40:33",
+["end_time"] = 75608.073,
+["mapId"] = 2444,
+["combat_id"] = 1,
+["overall_added"] = true,
+["playing_solo"] = true,
+["is_challenge"] = false,
+["frags"] = {
+["Lucane aile-pourpre"] = 2,
+},
+["boss_hp"] = 1,
+["cleu_events"] = {
+["n"] = 1,
+},
+["totals_grupo"] = {
+3249,
+0,
+{
+0,
+[0] = 0,
+["alternatepower"] = 0,
+[3] = 0,
+[6] = 0,
+},
+{
+["buff_uptime"] = 0,
+["ress"] = 0,
+["debuff_uptime"] = 0,
+["cooldowns_defensive"] = 0,
+["interrupt"] = 0,
+["dispell"] = 0,
+["cc_break"] = 0,
+["dead"] = 0,
+},
+},
+["PhaseData"] = {
+{
+1,
+1,
+},
+["heal_section"] = {
+},
+["heal"] = {
+{
+},
+},
+["damage_section"] = {
+},
+["damage"] = {
+{
+["Sudistte"] = 3249.004469,
+},
+},
+},
+["start_time"] = 75606.859,
+["TimeData"] = {
+},
+["spells_cast_timeline"] = {
+},
+},
+},
+},
+["ocd_tracker"] = {
+["show_title"] = true,
+["current_cooldowns"] = {
+},
+["lines_per_column"] = 12,
+["group_frames"] = true,
+["show_options"] = false,
+["frames"] = {
+["defensive-raid"] = {
+},
+["main"] = {
+},
+["ofensive"] = {
+},
+["defensive-target"] = {
+},
+["utility"] = {
+},
+["defensive-personal"] = {
+},
+},
+["width"] = 120,
+["ignored_cooldowns"] = {
+},
+["framme_locked"] = false,
+["cooldowns"] = {
+},
+["own_frame"] = {
+["defensive-raid"] = false,
+["ofensive"] = false,
+["defensive-target"] = false,
+["utility"] = false,
+["defensive-personal"] = false,
+},
+["height"] = 18,
+["show_conditions"] = {
+["only_inside_instance"] = true,
+["only_in_group"] = true,
+},
+["enabled"] = false,
+["filters"] = {
+["itemutil"] = false,
+["itempower"] = false,
+["defensive-target"] = false,
+["itemheal"] = false,
+["defensive-personal"] = false,
+["defensive-raid"] = false,
+["ofensive"] = true,
+["crowdcontrol"] = false,
+["utility"] = false,
+},
+},
+["last_version"] = "11.0.2 12888",
+["player_stats"] = {
+},
+["force_font_outline"] = "",
+["tabela_instancias"] = {
+},
+["coach"] = {
+["enabled"] = false,
+["welcome_panel_pos"] = {
+},
+["last_coach_name"] = false,
+},
+["local_instances_config"] = {
+{
+["modo"] = 2,
+["sub_attribute"] = 1,
+["sub_atributo_last"] = {
+1,
+1,
+1,
+1,
+1,
+},
+["is_open"] = true,
+["isLocked"] = false,
+["snap"] = {
+},
+["segment"] = 0,
+["mode"] = 2,
+["attribute"] = 1,
+["pos"] = {
+["normal"] = {
+["y"] = -261.4022827148438,
+["x"] = -960.3166656494141,
+["w"] = 309.9999694824219,
+["h"] = 158.0000457763672,
+},
+["solo"] = {
+["y"] = 2,
+["x"] = 1,
+["w"] = 300,
+["h"] = 200,
+},
+},
+},
+},
+["cached_talents"] = {
+},
+["last_instance_id"] = 0,
+["data_harvest_for_charsts"] = {
+["players"] = {
+{
+["playerKey"] = "total",
+["combatObjectContainer"] = 1,
+["name"] = "Damage of Each Individual Player",
+["playerOnly"] = true,
+},
+},
+["totals"] = {
+{
+["combatObjectSubTableKey"] = 1,
+["name"] = "Damage of All Player Combined",
+["combatObjectSubTableName"] = "totals",
+},
+},
+},
+["announce_interrupts"] = {
+["enabled"] = false,
+["whisper"] = "",
+["channel"] = "SAY",
+["custom"] = "",
+["next"] = "",
+},
+["announce_prepots"] = {
+["enabled"] = false,
+["channel"] = "SELF",
+["reverse"] = false,
+},
+["active_profile"] = "Sudistte-Archimonde",
+["mythic_dungeon_currentsaved"] = {
+["dungeon_name"] = "",
+["started"] = false,
+["segment_id"] = 0,
+["ej_id"] = 0,
+["started_at"] = 0,
+["run_id"] = 0,
+["level"] = 0,
+["dungeon_zone_id"] = 0,
+["previous_boss_killed_at"] = 0,
+},
+["benchmark_db"] = {
+["frame"] = {
+},
+},
+["combat_log"] = {
+["inverse_deathlog_overalldata"] = false,
+["merge_gemstones_1007"] = false,
+["track_hunter_frenzy"] = false,
+["merge_critical_heals"] = false,
+["inverse_deathlog_raid"] = false,
+["calc_evoker_damage"] = true,
+["evoker_show_realtimedps"] = false,
+["inverse_deathlog_mplus"] = false,
+},
+["combat_counter"] = 7,
+["mythic_plus_log"] = {
+},
+["data_harvested_for_charts"] = {
+},
+["announce_damagerecord"] = {
+["enabled"] = true,
+["channel"] = "SELF",
+},
+["on_death_menu"] = false,
+["nick_tag_cache"] = {
+["nextreset"] = 1727004066,
+["last_version"] = 16,
+},
+["SoloTablesSaved"] = {
+["Mode"] = 1,
+},
+["last_realversion"] = 160,
+["last_instance_time"] = 0,
+["combat_id"] = 2,
+["savedStyles"] = {
+},
+["last_day"] = "07",
+["character_data"] = {
+["logons"] = 2,
+},
+["announce_deaths"] = {
+["enabled"] = false,
+["last_hits"] = 1,
+["only_first"] = 5,
+["where"] = 1,
+},
+["tabela_overall"] = {
+{
+["tipo"] = 2,
+["_ActorTable"] = {
+{
+["flag_original"] = 1297,
+["totalabsorbed"] = 0.020922,
+["pets"] = {
+},
+["classe"] = "DEMONHUNTER",
+["total_without_pet"] = 3822.020922,
+["last_dps_realtime"] = 0,
+["dps_started"] = false,
+["total"] = 3822.020922,
+["spec"] = 577,
+["on_hold"] = false,
+["total_extra"] = 0,
+["serial"] = "Player-1302-0C03C85C",
+["aID"] = "1302-0C03C85C",
+["damage_from"] = {
+},
+["targets"] = {
+["Lucane aile-pourpre"] = 3822,
+},
+["grupo"] = true,
+["friendlyfire_total"] = 0,
+["raid_targets"] = {
+},
+["end_time"] = 1725709234,
+["nome"] = "Sudistte",
+["spells"] = {
+["tipo"] = 2,
+["_ActorTable"] = {
+{
+["c_amt"] = 1,
+["b_amt"] = 0,
+["g_amt"] = 0,
+["n_max"] = 0,
+["targets"] = {
+["Lucane aile-pourpre"] = 2975,
+},
+["n_total"] = 0,
+["n_min"] = 0,
+["g_dmg"] = 0,
+["counter"] = 1,
+["total"] = 2975,
+["c_max"] = 2975,
+["id"] = 1,
+["r_dmg"] = 0,
+["spellschool"] = 1,
+["extra"] = {
+},
+["a_dmg"] = 0,
+["a_amt"] = 0,
+["c_min"] = 0,
+["successful_casted"] = 0,
+["c_total"] = 2975,
+["n_amt"] = 0,
+["b_dmg"] = 0,
+["r_amt"] = 0,
+},
+[258922] = {
+["c_amt"] = 1,
+["b_amt"] = 0,
+["g_amt"] = 0,
+["n_max"] = 274,
+["targets"] = {
+["Lucane aile-pourpre"] = 847,
+},
+["n_total"] = 274,
+["n_min"] = 0,
+["g_dmg"] = 0,
+["counter"] = 2,
+["total"] = 847,
+["c_max"] = 573,
+["id"] = 258922,
+["r_dmg"] = 0,
+["spellschool"] = 4,
+["extra"] = {
+},
+["a_dmg"] = 0,
+["a_amt"] = 0,
+["c_min"] = 0,
+["successful_casted"] = 0,
+["c_total"] = 573,
+["n_amt"] = 1,
+["b_dmg"] = 0,
+["r_amt"] = 0,
+},
+},
+},
+["friendlyfire"] = {
+},
+["last_dps"] = 0,
+["custom"] = 0,
+["tipo"] = 1,
+["damage_taken"] = 0.020922,
+["start_time"] = 1725709229,
+["delay"] = 0,
+["last_event"] = 0,
+},
+{
+["flag_original"] = 68136,
+["totalabsorbed"] = 0.015482,
+["pets"] = {
+},
+["classe"] = "UNKNOW",
+["total_without_pet"] = 0.015482,
+["last_dps_realtime"] = 0,
+["dps_started"] = false,
+["total"] = 0.015482,
+["on_hold"] = false,
+["total_extra"] = 0,
+["serial"] = "Creature-0-3770-2444-135-199220-00005C3989",
+["aID"] = "199220",
+["fight_component"] = true,
+["damage_from"] = {
+["Sudistte"] = true,
+},
+["targets"] = {
+},
+["friendlyfire_total"] = 0,
+["raid_targets"] = {
+},
+["end_time"] = 1725709234,
+["nome"] = "Lucane aile-pourpre",
+["spells"] = {
+["tipo"] = 2,
+["_ActorTable"] = {
+},
+},
+["friendlyfire"] = {
+},
+["last_dps"] = 0,
+["custom"] = 0,
+["tipo"] = 1,
+["damage_taken"] = 3822.015482,
+["start_time"] = 1725709231,
+["delay"] = 0,
+["last_event"] = 0,
+},
+{
+["flag_original"] = 1352,
+["totalabsorbed"] = 0.005275,
+["pets"] = {
+},
+["classe"] = "UNGROUPPLAYER",
+["total_without_pet"] = 0.005275,
+["last_dps_realtime"] = 0,
+["dps_started"] = false,
+["total"] = 0.005275,
+["on_hold"] = false,
+["total_extra"] = 0,
+["serial"] = "Player-1302-0CFAC4DC",
+["aID"] = "1302-0CFAC4DC",
+["damage_from"] = {
+},
+["targets"] = {
+},
+["enemy"] = true,
+["friendlyfire_total"] = 0,
+["raid_targets"] = {
+},
+["end_time"] = 1725709234,
+["nome"] = "Vanganon",
+["spells"] = {
+["tipo"] = 2,
+["_ActorTable"] = {
+[193315] = {
+["c_amt"] = 0,
+["b_amt"] = 0,
+["g_amt"] = 0,
+["n_max"] = 0,
+["targets"] = {
+},
+["n_total"] = 0,
+["n_min"] = 0,
+["g_dmg"] = 0,
+["counter"] = 0,
+["total"] = 0,
+["c_max"] = 0,
+["id"] = 193315,
+["r_dmg"] = 0,
+["extra"] = {
+},
+["a_dmg"] = 0,
+["a_amt"] = 0,
+["c_min"] = 0,
+["successful_casted"] = 1,
+["c_total"] = 0,
+["n_amt"] = 0,
+["b_dmg"] = 0,
+["r_amt"] = 0,
+},
+},
+},
+["friendlyfire"] = {
+},
+["last_dps"] = 0,
+["custom"] = 0,
+["tipo"] = 1,
+["damage_taken"] = 0.005275,
+["start_time"] = 1725709231,
+["delay"] = 0,
+["last_event"] = 0,
+},
+},
+},
+{
+["tipo"] = 3,
+["_ActorTable"] = {
+{
+["flag_original"] = 1352,
+["pets"] = {
+},
+["iniciar_hps"] = false,
+["heal_enemy_amt"] = 0,
+["totalover"] = 0.004405,
+["total_without_pet"] = 0.004405,
+["total"] = 0.004405,
+["targets_absorbs"] = {
+},
+["heal_enemy"] = {
+[227034] = 0,
+},
+["aID"] = "1302-0CFB06C8",
+["on_hold"] = false,
+["healing_from"] = {
+},
+["totalabsorb"] = 0.004405,
+["last_hps"] = 0,
+["targets"] = {
+},
+["enemy"] = true,
+["serial"] = "Player-1302-0CFB06C8",
+["totalover_without_pet"] = 0.004405,
+["healing_taken"] = 0.004405,
+["classe"] = "UNGROUPPLAYER",
+["end_time"] = 1725709234,
+["targets_overheal"] = {
+},
+["start_time"] = 1725709231,
+["nome"] = "Flhux",
+["spells"] = {
+["tipo"] = 3,
+["_ActorTable"] = {
+},
+},
+["custom"] = 0,
+["last_event"] = 0,
+["totaldenied"] = 0.004405,
+["delay"] = 0,
+["tipo"] = 2,
+},
+},
+},
+{
+["tipo"] = 7,
+["_ActorTable"] = {
+{
+["flag_original"] = 1352,
+["resource"] = 1.009655,
+["pets"] = {
+},
+["classe"] = "UNGROUPPLAYER",
+["totalover"] = 0.001258,
+["total"] = 0.009655,
+["received"] = 0.009655,
+["targets"] = {
+},
+["enemy"] = true,
+["powertype"] = 3,
+["alternatepower"] = 0.009655,
+["nome"] = "Vanganon",
+["spells"] = {
+["tipo"] = 7,
+["_ActorTable"] = {
+},
+},
+["resource_type"] = 4,
+["aID"] = "1302-0CFAC4DC",
+["last_event"] = 0,
+["passiveover"] = 0.001258,
+["serial"] = "Player-1302-0CFAC4DC",
+["tipo"] = 3,
+},
+{
+["flag_original"] = 1297,
+["resource"] = 4.005732,
+["pets"] = {
+},
+["classe"] = "DEMONHUNTER",
+["totalover"] = 0.003469,
+["total"] = 0.005731999999999999,
+["spec"] = 577,
+["received"] = 0.005731999999999999,
+["targets"] = {
+},
+["powertype"] = 1,
+["alternatepower"] = 0.005731999999999999,
+["resource_type"] = 17,
+["nome"] = "Sudistte",
+["spells"] = {
+["tipo"] = 7,
+["_ActorTable"] = {
+},
+},
+["aID"] = "1302-0C03C85C",
+["passiveover"] = 0.003469,
+["last_event"] = 0,
+["grupo"] = true,
+["serial"] = "Player-1302-0C03C85C",
+["tipo"] = 3,
+},
+},
+},
+{
+["tipo"] = 9,
+["_ActorTable"] = {
+{
+["flag_original"] = 1047,
+["pets"] = {
+},
+["grupo"] = true,
+["aID"] = "1302-0C03C85C",
+["tipo"] = 4,
+["buff_uptime_spells"] = {
+["tipo"] = 9,
+["_ActorTable"] = {
+[347462] = {
+["refreshamt"] = 0,
+["activedamt"] = 2,
+["appliedamt"] = 2,
+["id"] = 347462,
+["uptime"] = 2,
+["targets"] = {
+},
+["counter"] = 0,
+},
+[258920] = {
+["refreshamt"] = 0,
+["activedamt"] = 2,
+["appliedamt"] = 2,
+["id"] = 258920,
+["uptime"] = 2,
+["targets"] = {
+},
+["counter"] = 0,
+},
+[430191] = {
+["refreshamt"] = 0,
+["activedamt"] = 2,
+["appliedamt"] = 2,
+["id"] = 430191,
+["uptime"] = 2,
+["targets"] = {
+},
+["counter"] = 0,
+},
+[345464] = {
+["refreshamt"] = 0,
+["activedamt"] = 2,
+["appliedamt"] = 2,
+["id"] = 345464,
+["uptime"] = 2,
+["targets"] = {
+},
+["counter"] = 0,
+},
+[463525] = {
+["refreshamt"] = 0,
+["activedamt"] = 2,
+["appliedamt"] = 2,
+["id"] = 463525,
+["uptime"] = 2,
+["targets"] = {
+},
+["counter"] = 0,
+},
+},
+},
+["buff_uptime_targets"] = {
+},
+["buff_uptime"] = 10,
+["classe"] = "DEMONHUNTER",
+["nome"] = "Sudistte",
+["spec"] = 577,
+["serial"] = "Player-1302-0C03C85C",
+["last_event"] = 0,
+},
+{
+["flag_original"] = 1352,
+["tipo"] = 4,
+["enemy"] = true,
+["pets"] = {
+},
+["classe"] = "UNGROUPPLAYER",
+["serial"] = "Player-1302-0CFAC4DC",
+["aID"] = "1302-0CFAC4DC",
+["nome"] = "Vanganon",
+["last_event"] = 0,
+},
+},
+},
+{
+["tipo"] = 2,
+["_ActorTable"] = {
+},
+},
+["raid_roster"] = {
+},
+["totals_grupo"] = {
+3822.013209,
+0,
+{
+0.002263,
+[0] = 0,
+["alternatepower"] = 0,
+[3] = 0,
+[6] = 0,
+},
+{
+["buff_uptime"] = 0,
+["ress"] = 0,
+["debuff_uptime"] = 0,
+["cooldowns_defensive"] = 0,
+["interrupt"] = 0,
+["dispell"] = 0,
+["cc_break"] = 0,
+["dead"] = 0,
+},
+},
+["tempo_start"] = 1725709232,
+["last_events_tables"] = {
+},
+["alternate_power"] = {
+["Lucane aile-pourpre"] = {
+["total"] = 0,
+["last"] = 0,
+},
+},
+["cleu_timeline"] = {
+},
+["bossTimers"] = {
+},
+["trinketProcs"] = {
+},
+["playerTalents"] = {
+},
+["totals"] = {
+3822.024633,
+0.002465,
+{
+0.002263,
+[0] = 0,
+["alternatepower"] = 0,
+[3] = 0.008397,
+[6] = 0,
+},
+{
+["buff_uptime"] = 0,
+["ress"] = 0,
+["debuff_uptime"] = 0,
+["cooldowns_defensive"] = 0,
+["interrupt"] = 0,
+["dispell"] = 0,
+["cc_break"] = 0,
+["dead"] = 0,
+},
+["frags_total"] = 0,
+["voidzone_damage"] = 0,
+},
+["player_last_events"] = {
+},
+["segments_added"] = {
+{
+["elapsed"] = 0.1019999999989523,
+["type"] = 0,
+["name"] = "Lucane aile-pourpre",
+["clock"] = "13:40:35",
+},
+{
+["elapsed"] = 1.214000000007218,
+["type"] = 0,
+["name"] = "Lucane aile-pourpre",
+["clock"] = "13:40:33",
+},
+},
+["frags_need_refresh"] = false,
+["aura_timeline"] = {
+},
+["data_inicio"] = "13:40:33",
+["amountCasts"] = {
+["Vanganon"] = {
+["Attaque pernicieuse"] = 1,
+},
+},
+["mapId"] = 2444,
+["cleu_events"] = {
+["n"] = 1,
+},
+["zoneName"] = "Îles aux Dragons",
+["end_time"] = 75608.901,
+["boss_hp"] = 1,
+["is_challenge"] = false,
+["frags"] = {
+},
+["data_fim"] = "13:40:35",
+["overall_enemy_name"] = "Lucane aile-pourpre",
+["spells_cast_timeline"] = {
+},
+["PhaseData"] = {
+{
+1,
+1,
+},
+["heal_section"] = {
+},
+["heal"] = {
+},
+["damage_section"] = {
+},
+["damage"] = {
+},
+},
+["start_time"] = 75607.58499999999,
+["TimeData"] = {
+["Raid Damage Done"] = {
+},
+},
+["combat_counter"] = 5,
+},
+["plugin_database"] = {
+["DETAILS_PLUGIN_TINY_THREAT"] = {
+["enabled"] = true,
+["animate"] = false,
+["hide_pull_bar"] = false,
+["author"] = "Terciob",
+["playercolor"] = {
+1,
+1,
+1,
+},
+["usefocus"] = false,
+["updatespeed"] = 1,
+["useclasscolors"] = false,
+["showamount"] = false,
+["useplayercolor"] = false,
+["absolute_mode"] = false,
+["playSound"] = false,
+["playSoundFile"] = "Details Threat Warning Volume 3",
+["disable_gouge"] = false,
+},
+["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
+["enabled"] = true,
+["author"] = "Terciob",
+["max_compares"] = 4,
+["compare_type"] = 1,
+},
+["DETAILS_PLUGIN_VANGUARD"] = {
+["tank_block_size_height"] = 50,
+["show_power_bar"] = false,
+["first_run"] = false,
+["aura_timer_text_size"] = 14,
+["tank_block_castbar_size_height"] = 16,
+["show_health_bar"] = true,
+["aura_offset_y"] = 0,
+["enabled"] = true,
+["show_cast_bar"] = false,
+["author"] = "Terciob",
+["tank_block_size"] = 150,
+["bar_height"] = 24,
+["tank_block_texture"] = "Details Serenity",
+["show_inc_bars"] = true,
+["tank_block_powerbar_size_height"] = 10,
+["tank_block_height"] = 40,
+["tank_block_color"] = {
+0.074509,
+0.035294,
+0.035294,
+0.832845,
+},
+},
+["DETAILS_PLUGIN_EXPLOSIVE_ORBS"] = {
+["enabled"] = true,
+["author"] = "Rhythm",
+["useShortText"] = false,
+["onlyShowHit"] = false,
+},
+["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+["enabled"] = true,
+["encounter_timers_bw"] = {
+},
+["max_emote_segments"] = 3,
+["last_section_selected"] = "main",
+["author"] = "Terciob",
+["window_scale"] = 1,
+["encounter_timers_dbm"] = {
+},
+["show_icon"] = 5,
+["opened"] = 0,
+["hide_on_combat"] = false,
+},
+["DETAILS_PLUGIN_RAIDCHECK"] = {
+["enabled"] = true,
+["food_tier1"] = true,
+["mythic_1_4"] = true,
+["food_tier2"] = true,
+["author"] = "Terciob",
+["use_report_panel"] = true,
+["pre_pot_healers"] = false,
+["pre_pot_tanks"] = false,
+["food_tier3"] = true,
+},
+["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+["use_square_mode"] = false,
+["is_first_run"] = false,
+["arrow_color"] = {
+1,
+1,
+1,
+0.5,
+},
+["author"] = "Terciob",
+["main_frame_size"] = {
+300.0000915527344,
+500.0000305175781,
+},
+["minimap"] = {
+["minimapPos"] = 160,
+["radius"] = 160,
+["hide"] = false,
+},
+["main_frame_locked"] = false,
+["arrow_anchor_x"] = 0,
+["font_size"] = 10,
+["row_texture"] = "Details Serenity",
+["square_grow_direction"] = "right",
+["arrow_anchor_y"] = 0,
+["use_spark"] = true,
+["square_amount"] = 5,
+["enabled"] = false,
+["arrow_size"] = 10,
+["row_color"] = {
+0.1,
+0.1,
+0.1,
+0.4,
+},
+["row_spacement"] = 21,
+["main_frame_color"] = {
+0,
+0,
+0,
+0.2,
+},
+["main_frame_strata"] = "LOW",
+["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+["per_second"] = {
+["enabled"] = false,
+["point"] = "CENTER",
+["scale"] = 1,
+["font_shadow"] = true,
+["y"] = 0,
+["x"] = 0,
+["attribute_type"] = 1,
+["update_speed"] = 0.05,
+["size"] = 32,
+},
+["y"] = 1.52587890625e-05,
+["x"] = 3.0517578125e-05,
+["font_face"] = "Friz Quadrata TT",
+["square_size"] = 32,
+["point"] = "CENTER",
+["font_color"] = {
+1,
+1,
+1,
+1,
+},
+["row_height"] = 20,
+["scale"] = 1,
+},
+},
+["ignore_nicktag"] = false,
+["announce_firsthit"] = {
+["enabled"] = true,
+["channel"] = "SELF",
+},
+["announce_cooldowns"] = {
+["ignored_cooldowns"] = {
+},
+["enabled"] = false,
+["custom"] = "",
+["channel"] = "RAID",
+},
+["rank_window"] = {
+["last_difficulty"] = 15,
+["last_raid"] = "",
+},
+["cached_roles"] = {
+},
+["cached_specs"] = {
+["Player-1302-0C03C85C"] = 577,
+},
+}

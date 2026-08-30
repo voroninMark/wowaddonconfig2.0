@@ -1,0 +1,60 @@
+VER 3 0100000000000008 "bijou" "463286"
+#showtooltip Âme sombre : Instabilité
+/cast Âme sombre : Instabilité
+/use Manifeste de la folie
+END
+VER 3 0100000000000009 "cd afli" "460699"
+#showtooltip Âme sombre : Misère
+/cast Âme sombre : Misère
+/use Pierre des marées du géant des mers
+END
+VER 3 0100000000000012 "chien" "136217"
+/cast Domination gangrenée
+/cast Invocation : chasseur corrompu
+END
+VER 3 0100000000000007 "d" "463286"
+#showtooltip
+/castsequence Âme sombre : Instabilité,Souvenir des rêves lucides
+END
+VER 3 0100000000000001 "d" "136183"
+#showtooltip Peur
+/cast [@mouseover, harm, exists][nomod] Peur
+END
+VER 3 010000000000000A "d" "2065628"
+#showtooltip Invocation : tyran démoniaque
+/castsequence Résonance de la veine du monde(Essence d’azérite), Invocation : tyran démoniaque
+END
+VER 3 010000000000000D "d" "136174"
+#showtooltip
+/cast [@mouseover, harm, exists][nomod] Verrou Magique
+END
+VER 3 0100000000000003 "d" "460695"
+#showtooltip Tumulte
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Tumulte
+END
+VER 3 010000000000000E "d" "607853"
+#showtooltip Voile de mort
+/cast [@mouseover, harm, exists][nomod] Voile de mort
+END
+VER 3 010000000000000F "d" "607865"
+#showtooltip Furie de l’ombre
+/cast [@cursor] Furie de l’ombre
+END
+VER 3 0100000000000010 "d" "135804"
+/cast [@cursor] Pluie de feu
+END
+VER 3 010000000000000C "d" "136139"
+#showtooltip Agonie
+/cast [@mouseover, harm, exists][nomod] Agonie
+END
+VER 3 0100000000000011 "pet sum" "136221"
+/cast Domination gangrenée
+/cast Invocation de gangregarde
+END
+VER 3 0100000000000002 "petattack" "135862"
+/petattack
+END
+VER 3 010000000000000B "pierreame" "1723985"
+#showtooltip Pierre d’âme
+/cast [target=mouseover,exists] [] Pierre d’âme
+END

@@ -1,0 +1,104 @@
+VER 3 0100000000000018 "attack" "132344"
+/petattack
+/petassist
+/petautocaston Morsure;
+/petautocaston Griffe;
+/petautocaston Coup de patte;
+END
+VER 3 010000000000001C "autocastpet" "134156"
+/petautocaston Morsure;
+/petautocaston Griffe;
+/petautocaston Coup de patte;
+END
+VER 3 0100000000000017 "cancel" "132293"
+#showtooltip
+/cast Coordinated Assault
+/petautocastoff Claw;
+/petautocastoff Bite;
+/petautocastoff Smack;
+END
+VER 3 0100000000000013 "cancel" "132294"
+#showtooltip
+/stopcasting
+/cast Désengagement
+END
+VER 3 0100000000000016 "cancel" "135834"
+#showtooltip
+/stopcasting
+/cast Piège givrant
+END
+VER 3 010000000000001D "cd+pot" "2032587"
+#showtooltip
+/cast Assaut coordonné
+/use 13
+/use Potion tempérée
+END
+VER 3 0100000000000011 "d" "236174"
+#showtooltip Tir mortel
+/use [@pettarget]Griffe
+/use [@pettarget]Morsure
+/use [@pettarget]Coup de patte
+/cast [@mouseover, harm, exists][nomod] Tir mortel
+END
+VER 3 0100000000000003 "d" "132103"
+#showtooltip Ordre de tuer
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Ordre de tuer
+END
+VER 3 010000000000000B "d" "132153"
+#showtooltip Flèche de dispersion
+/cast [@mouseover, harm, exists][nomod] Flèche de dispersion
+END
+VER 3 0100000000000004 "d" "1033905"
+#showtooltip Morsure de serpent
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Morsure de serpent
+END
+VER 3 0100000000000012 "d" "136020"
+#showtooltip Tir tranquillisant
+/cast [mod:ctrl,@focus][@mouseover, harm, exists][nomod] Tir tranquillisant
+END
+VER 3 0100000000000009 "d" "249170"
+#showtooltip Tir de riposte
+/cast [mod:ctrl,@focus][@mouseover, harm, exists][nomod] Tir de riposte
+END
+VER 3 010000000000001B "d" "132329"
+#showtooltip Précision
+/cast Précision
+/use 13
+END
+VER 3 0100000000000008 "d" "132205"
+#showtooltip Salve
+/cast [@cursor] Salve
+END
+VER 3 010000000000000A "detourne" "2065565"
+#showtooltip Détournement
+/cast [target=mouseover,exists] [] Détournement
+END
+VER 3 010000000000000E "no pot" "3565445"
+#showtooltip
+/cast Assaut coordonné
+/use 13
+END
+VER 3 010000000000001F "pot" "134400"
+#showtooltip
+/cast Assaut coordonné
+/use 13
+/use Potion tempérée
+END
+VER 3 010000000000001E "rezheal" "132179"
+#showtooltip
+/cast [@pet,dead] Ressusciter le familier
+/cast [pet] Guérison du familier
+END
+VER 3 010000000000000D "sacrifice" "132126"
+#showtooltip
+/cast [target=mouseover,exists] [] Rugissement de sacrifice(Talent JcJ)
+END
+VER 3 0100000000000019 "tortue" "132199"
+#showtooltip
+/stopcasting
+/cast Aspect de la tortue
+END
+VER 3 0100000000000010 "ze" "134400"
+#showtooltip
+/cast [@cursor] Piège implosif
+END

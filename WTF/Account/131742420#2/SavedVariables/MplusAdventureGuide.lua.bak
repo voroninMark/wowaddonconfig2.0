@@ -1,0 +1,37 @@
+
+MPlusAdventureGuideADB = {
+["profileKeys"] = {
+["Unotre - Archimonde"] = "Unotre - Archimonde",
+["Utîle - Archimonde"] = "Utîle - Archimonde",
+["Oit - Archimonde"] = "Oit - Archimonde",
+["Spacewølf - Archimonde"] = "Spacewølf - Archimonde",
+["Kronf - Archimonde"] = "Kronf - Archimonde",
+["Hotr - Khaz Modan"] = "Hotr - Khaz Modan",
+["Unote - Archimonde"] = "Unote - Archimonde",
+["Malferrant - Archimonde"] = "Malferrant - Archimonde",
+["Atogatog - Archimonde"] = "Atogatog - Archimonde",
+["Unotr - Archimonde"] = "Unotr - Archimonde",
+},
+["profiles"] = {
+["Unotre - Archimonde"] = {
+},
+["Utîle - Archimonde"] = {
+},
+["Oit - Archimonde"] = {
+},
+["Spacewølf - Archimonde"] = {
+},
+["Kronf - Archimonde"] = {
+},
+["Hotr - Khaz Modan"] = {
+},
+["Unote - Archimonde"] = {
+},
+["Malferrant - Archimonde"] = {
+},
+["Atogatog - Archimonde"] = {
+},
+["Unotr - Archimonde"] = {
+},
+},
+}

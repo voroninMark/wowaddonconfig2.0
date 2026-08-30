@@ -1,0 +1,242 @@
+
+VWQL = {
+["Utîle-Archimonde"] = {
+["Filter"] = 63,
+["FilterType"] = {
+},
+["Quests"] = {
+[70652] = true,
+[70654] = true,
+[70625] = true,
+[74378] = true,
+[70420] = true,
+[69988] = true,
+[70176] = true,
+[70149] = true,
+[69938] = true,
+[74838] = true,
+[70655] = true,
+[70442] = true,
+[72029] = true,
+[75257] = true,
+[74794] = true,
+[70422] = true,
+[70634] = true,
+[70224] = true,
+[69928] = true,
+},
+["VERSION"] = 111,
+},
+["Oit-Archimonde"] = {
+["Filter"] = 63,
+["FilterType"] = {
+},
+["Quests"] = {
+[75257] = true,
+},
+["VERSION"] = 116,
+},
+["Rojce-Archimonde"] = {
+["Filter"] = 63,
+["FilterType"] = {
+},
+["Quests"] = {
+},
+["VERSION"] = 108,
+},
+["Scale"] = 0.8,
+["DisableIconsGeneralMap947"] = true,
+["Lesotr-Archimonde"] = {
+["VERSION"] = 113,
+["FilterType"] = {
+},
+["Quests"] = {
+[66419] = true,
+[70984] = true,
+[72028] = true,
+[70625] = true,
+[69929] = true,
+[70655] = true,
+},
+["Filter"] = 63,
+},
+["Sort"] = 5,
+["VERSION"] = 116,
+["HideLegion"] = true,
+["AzeriteFormat"] = 20,
+["Arrow_Point2"] = "TOP",
+["SortPrio"] = {
+},
+["Unotre-Archimonde"] = {
+["VERSION"] = 116,
+["Filter"] = 63,
+["Quests"] = {
+[82197] = true,
+[81675] = true,
+[81811] = true,
+[82292] = true,
+[82291] = true,
+[81799] = true,
+[81710] = true,
+[82041] = true,
+[81822] = true,
+[83048] = true,
+[82456] = true,
+[80295] = true,
+[76586] = true,
+[81630] = true,
+},
+["FilterType"] = {
+},
+},
+["Sudistte-Archimonde"] = {
+["Filter"] = 63,
+["FilterType"] = {
+},
+["Quests"] = {
+},
+["VERSION"] = 112,
+},
+["Malferrant-Archimonde"] = {
+["VERSION"] = 116,
+["FilterType"] = {
+},
+["Quests"] = {
+[81675] = true,
+[81799] = true,
+[75257] = true,
+[76586] = true,
+},
+["Filter"] = 63,
+},
+["Arrow_Point1"] = "TOP",
+["ReverseSort"] = true,
+["Arrow_PointX"] = 29.53822135925293,
+["Arrow_PointY"] = 0,
+["Ignore"] = {
+},
+["Hotr-KhazModan"] = {
+["Filter"] = 63,
+["FilterType"] = {
+},
+["Quests"] = {
+},
+["VERSION"] = 107,
+},
+["Unotr-Archimonde"] = {
+["VERSION"] = 115,
+["FilterType"] = {
+},
+["Quests"] = {
+},
+["Filter"] = 63,
+},
+["Spacewølf-Archimonde"] = {
+["VERSION"] = 107,
+["FilterType"] = {
+},
+["Quests"] = {
+[74835] = true,
+[71154] = true,
+[70623] = true,
+[70625] = true,
+[70100] = true,
+[70412] = true,
+[73080] = true,
+[73146] = true,
+[66419] = true,
+[70699] = true,
+[69928] = true,
+[70021] = true,
+[66551] = true,
+[70428] = true,
+[70066] = true,
+[70649] = true,
+[70655] = true,
+[71180] = true,
+[69942] = true,
+[64768] = true,
+[70659] = true,
+[70072] = true,
+[70419] = true,
+[72029] = true,
+[70047] = true,
+[75257] = true,
+[70423] = true,
+[69991] = true,
+[71140] = true,
+[70150] = true,
+[70176] = true,
+[64531] = true,
+},
+["Filter"] = 63,
+},
+["Unhote-Archimonde"] = {
+["Filter"] = 63,
+["VERSION"] = 109,
+["RegularQuestMode"] = true,
+["Quests"] = {
+},
+["FilterType"] = {
+},
+},
+["Kronf-Archimonde"] = {
+["VERSION"] = 116,
+["FilterType"] = {
+},
+["Quests"] = {
+[75257] = true,
+[76586] = true,
+},
+["Filter"] = 63,
+},
+["Knort-Archimonde"] = {
+["VERSION"] = 106,
+["FilterType"] = {
+},
+["Quests"] = {
+},
+["Filter"] = 63,
+},
+["Atogatog-Archimonde"] = {
+["VERSION"] = 114,
+["FilterType"] = {
+},
+["Quests"] = {
+[70654] = true,
+[69941] = true,
+[71166] = true,
+[70064] = true,
+[70425] = true,
+[70653] = true,
+[71154] = true,
+[70369] = true,
+},
+["Filter"] = 63,
+},
+["Unote-Archimonde"] = {
+["Filter"] = 63,
+["FilterType"] = {
+},
+["Quests"] = {
+[82120] = true,
+[80295] = true,
+[78995] = true,
+[81822] = true,
+[82041] = true,
+[81675] = true,
+[82266] = true,
+[81811] = true,
+[82197] = true,
+[81630] = true,
+[81829] = true,
+[81799] = true,
+[81512] = true,
+[82387] = true,
+[82364] = true,
+[83048] = true,
+[82256] = true,
+},
+["VERSION"] = 116,
+},
+}

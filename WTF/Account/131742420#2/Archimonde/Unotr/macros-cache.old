@@ -1,0 +1,57 @@
+VER 3 0100000000000016 "d" "608940"
+#showtooltip Pique de main
+/cast [@mouseover, harm, exists][nomod] Pique de main
+END
+VER 3 0100000000000017 "d" "3578227"
+#showtooltip
+/cast [@cursor] Breuvage poussière-d’os(Nécro-seigneurs)
+END
+VER 3 0100000000000009 "e" "620832"
+#showtooltip Invocation de Xuen, le Tigre blanc
+/cast Invocation de Xuen, le Tigre blanc
+/use 13
+/use 14
+END
+VER 3 0100000000000011 "focus" "892398"
+/focus
+END
+VER 3 0100000000000005 "heal" "237546"
+/equip Décoration de domination du gladiateur démoniaque
+END
+VER 3 0100000000000018 "shenlong" "4067369"
+#showtooltip
+/cast [target=mouseover,exists] [] Don de Sheilun
+END
+VER 3 0100000000000015 "stop" "642415"
+#showtooltip Coup de pied du soleil levant
+/stopmacro [channeling:Poings de fureur]
+/stopcasting [channeling:Éclair de jade crépitant]
+/cast Coup de pied du soleil levant
+END
+VER 3 0100000000000012 "stop" "2065583"
+#showtooltip Poing du Tigre blanc
+/stopmacro [channeling:Poings de fureur]
+/stopcasting [channeling:Éclair de jade crépitant]
+/cast Poing du Tigre blanc
+END
+VER 3 0100000000000004 "stop" "988194"
+#showtooltip Coup de poing du dragon tourbillonnant
+/stopmacro [channeling:Poings de fureur]
+/stopcasting [channeling:Éclair de jade crépitant]
+/cast Coup de poing du dragon tourbillonnant
+END
+VER 3 0100000000000014 "stop" "574575"
+#showtooltip Frappe du voile noir
+/stopmacro [channeling:Poings de fureur]
+/stopcasting [channeling:Éclair de jade crépitant]
+/cast Frappe du voile noir
+END
+VER 3 0100000000000013 "stop" "606551"
+#showtooltip Paume du tigre
+/stopmacro [channeling:Poings de fureur]
+/stopcasting [channeling:Éclair de jade crépitant]
+/cast Paume du tigre
+END
+VER 3 0100000000000007 "stopcast" "135990"
+/stopcasting
+END

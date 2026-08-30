@@ -1,0 +1,20 @@
+VER 3 0100000000000006 "com" "2618150"
+/tar Comm
+END
+VER 3 0100000000000001 "d" "136201"
+#showtooltip Déferlante d’ombre
+/cast [@cursor] Déferlante d’ombre
+END
+VER 3 0100000000000002 "d" "642580"
+#showtooltip
+/cast [@player] Plume angélique
+END
+VER 3 0100000000000004 "Epéiste" "612968"
+/tar Epéiste
+END
+VER 3 0100000000000005 "kur" "369760"
+/tar kur
+END
+VER 3 0100000000000003 "pillard" "136214"
+/tar pillard
+END

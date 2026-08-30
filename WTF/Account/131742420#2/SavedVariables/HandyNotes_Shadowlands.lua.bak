@@ -1,0 +1,22 @@
+
+HandyNotes_ShadowlandsDB = {
+["profileKeys"] = {
+["Unotre - Archimonde"] = "Default",
+["Hotr - Khaz Modan"] = "Default",
+["Atogatog - Archimonde"] = "Default",
+["Utîle - Archimonde"] = "Default",
+["Oit - Archimonde"] = "Default",
+["Lesotr - Archimonde"] = "Default",
+["Unhote - Archimonde"] = "Default",
+["Knort - Archimonde"] = "Default",
+["Kronf - Archimonde"] = "Default",
+["Unote - Archimonde"] = "Default",
+["Spacewølf - Archimonde"] = "Default",
+["Malferrant - Archimonde"] = "Default",
+["Sudistte - Archimonde"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+},
+},
+}

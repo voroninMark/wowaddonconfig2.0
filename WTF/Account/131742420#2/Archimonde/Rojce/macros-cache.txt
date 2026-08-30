@@ -1,0 +1,39 @@
+VER 3 0100000000000003 "d" "132938"
+#showtooltip
+/cast [@mouseover, harm, exists][nomod] Volée de coups
+END
+VER 3 0100000000000001 "d" "236171"
+#showtooltip
+/cast [@cursor] Bond héroïque
+END
+VER 3 0100000000000007 "d" "132365"
+#showtooltip
+/cast [@mouseover, exists][nomod] Intervention
+END
+VER 3 0100000000000004 "d" "136012"
+#showtooltip
+/cast [@mouseover, harm, exists][nomod] Sanguinaire
+END
+VER 3 0100000000000002 "d" "135358"
+#showtooltip
+/cast [@mouseover, harm, exists][nomod] Exécution
+END
+VER 3 0100000000000005 "d" "132337"
+#showtooltip
+/cast {@mouseover, harm, exists][nomod] Charge
+END
+VER 3 0100000000000009 "d" "132352"
+#showtooltip
+/cancelaura Tempête de lames
+/cast Saccager
+END
+VER 3 0100000000000006 "dd" "3565453"
+#showtooltip
+/cast [@cursor] Lance du Bastion(Kyrians)
+/use 13
+/use 14
+END
+VER 3 0100000000000008 "interv" "132365"
+#showtooltip Intervention
+/cast [target=mouseover,exists] [] Intervention
+END

@@ -1,0 +1,22 @@
+VER 3 0100000000000001 "blibli" "135857"
+/cast [@cursor] Blizzard
+END
+VER 3 0100000000000003 "c" "135824"
+#showtooltip
+/cast Combustion
+/use 13
+/use 14
+END
+VER 3 0100000000000004 "d" "1392549"
+#showtooltip
+/cast Flammes de phénix
+/use Lieur de rêve, Métier à tisser du Grand cycle
+/use Serre brèche-temps
+END
+VER 3 0100000000000002 "gel" "342402"
+/cast gel
+END
+VER 3 0100000000000005 "meteor" "134400"
+#showtooltip
+/cast [@cursor] Météore
+END

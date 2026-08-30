@@ -1,0 +1,103 @@
+
+HandyNotesDB = {
+["profileKeys"] = {
+["Malferrant - Archimonde"] = "Malferrant - Archimonde",
+["Sudistte - Archimonde"] = "Sudistte - Archimonde",
+["Atogatog - Archimonde"] = "Atogatog - Archimonde",
+["Lesotr - Archimonde"] = "Lesotr - Archimonde",
+["Unhote - Archimonde"] = "Unhote - Archimonde",
+["Utîle - Archimonde"] = "Utîle - Archimonde",
+["Oit - Archimonde"] = "Oit - Archimonde",
+["Spacewølf - Archimonde"] = "Spacewølf - Archimonde",
+["Knort - Archimonde"] = "Knort - Archimonde",
+["Kronf - Archimonde"] = "Kronf - Archimonde",
+["Hotr - Khaz Modan"] = "Hotr - Khaz Modan",
+["Unote - Archimonde"] = "Unote - Archimonde",
+["Unotr - Archimonde"] = "Unotr - Archimonde",
+["Rojce - Archimonde"] = "Rojce - Archimonde",
+["Unotre - Archimonde"] = "Unotre - Archimonde",
+},
+["profiles"] = {
+["Malferrant - Archimonde"] = {
+},
+["Sudistte - Archimonde"] = {
+},
+["Atogatog - Archimonde"] = {
+},
+["Lesotr - Archimonde"] = {
+},
+["Unhote - Archimonde"] = {
+},
+["Utîle - Archimonde"] = {
+},
+["Oit - Archimonde"] = {
+},
+["Spacewølf - Archimonde"] = {
+},
+["Knort - Archimonde"] = {
+},
+["Kronf - Archimonde"] = {
+},
+["Hotr - Khaz Modan"] = {
+},
+["Unote - Archimonde"] = {
+},
+["Unotr - Archimonde"] = {
+},
+["Rojce - Archimonde"] = {
+},
+["Unotre - Archimonde"] = {
+},
+},
+}
+HandyNotes_HandyNotesDB = {
+["profileKeys"] = {
+["Malferrant - Archimonde"] = "Malferrant - Archimonde",
+["Sudistte - Archimonde"] = "Sudistte - Archimonde",
+["Atogatog - Archimonde"] = "Atogatog - Archimonde",
+["Lesotr - Archimonde"] = "Lesotr - Archimonde",
+["Unhote - Archimonde"] = "Unhote - Archimonde",
+["Utîle - Archimonde"] = "Utîle - Archimonde",
+["Oit - Archimonde"] = "Oit - Archimonde",
+["Spacewølf - Archimonde"] = "Spacewølf - Archimonde",
+["Knort - Archimonde"] = "Knort - Archimonde",
+["Kronf - Archimonde"] = "Kronf - Archimonde",
+["Hotr - Khaz Modan"] = "Hotr - Khaz Modan",
+["Unote - Archimonde"] = "Unote - Archimonde",
+["Unotr - Archimonde"] = "Unotr - Archimonde",
+["Rojce - Archimonde"] = "Rojce - Archimonde",
+["Unotre - Archimonde"] = "Unotre - Archimonde",
+},
+["profiles"] = {
+["Malferrant - Archimonde"] = {
+},
+["Sudistte - Archimonde"] = {
+},
+["Atogatog - Archimonde"] = {
+},
+["Lesotr - Archimonde"] = {
+},
+["Unhote - Archimonde"] = {
+},
+["Utîle - Archimonde"] = {
+},
+["Oit - Archimonde"] = {
+},
+["Spacewølf - Archimonde"] = {
+},
+["Knort - Archimonde"] = {
+},
+["Kronf - Archimonde"] = {
+},
+["Hotr - Khaz Modan"] = {
+},
+["Unote - Archimonde"] = {
+},
+["Unotr - Archimonde"] = {
+},
+["Rojce - Archimonde"] = {
+},
+["Unotre - Archimonde"] = {
+},
+},
+}

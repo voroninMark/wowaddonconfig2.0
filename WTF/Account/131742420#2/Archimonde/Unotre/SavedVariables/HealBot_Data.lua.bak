@@ -1,0 +1,4952 @@
+
+HealBot_Config = {
+["SkinDefault"] = {
+["Standard"] = {
+["Raid 10"] = false,
+["Solo"] = false,
+["BG 40"] = false,
+["Party"] = false,
+["BG 10"] = false,
+["Pet Battle"] = false,
+["Raid 40"] = false,
+["Arena"] = false,
+["BG 15"] = false,
+["Raid 25"] = false,
+},
+["Raid 40"] = {
+["Raid 10"] = false,
+["Solo"] = false,
+["BG 40"] = false,
+["Party"] = false,
+["BG 10"] = false,
+["Pet Battle"] = false,
+["Raid 40"] = false,
+["Arena"] = false,
+["BG 15"] = false,
+["Raid 25"] = false,
+},
+["Group"] = {
+["Raid 10"] = false,
+["Solo"] = false,
+["BG 40"] = false,
+["Party"] = false,
+["BG 10"] = false,
+["Pet Battle"] = false,
+["Raid 40"] = false,
+["Arena"] = false,
+["BG 15"] = false,
+["Raid 25"] = false,
+},
+["Raid 25"] = {
+["Raid 10"] = false,
+["Solo"] = false,
+["BG 40"] = false,
+["Party"] = false,
+["BG 10"] = false,
+["Pet Battle"] = false,
+["Raid 40"] = false,
+["Arena"] = false,
+["BG 15"] = false,
+["Raid 25"] = false,
+},
+},
+["CurrentSpec"] = 1,
+["BuffReset"] = "6.0.0",
+["LastLoadout"] = 69367632,
+["LastAutoSkinChangeTime"] = 0,
+["DisabledNow"] = 0,
+["CurrentLoadout"] = 69367632,
+["SkinSpecEnabled"] = {
+},
+["PrivFocus"] = "x",
+["SpecProfAtSave"] = "1:1:69367632",
+["MacroUse10"] = false,
+["LastAutoSkinChangeType"] = "None",
+["Spec"] = "Dévastation",
+["DisableHealBot"] = false,
+["DisableSolo"] = false,
+["Profile"] = 1,
+["Skin_ID"] = -1,
+["KnownLoadouts"] = {
+[40132817] = true,
+[33251440] = true,
+[19434390] = true,
+[33291537] = true,
+[4033120] = true,
+},
+["SpellsUpdatedToV10"] = true,
+["SkinZoneEnabled"] = {
+},
+["EnableHealthy"] = true,
+["ClassicAbsorbsFilter"] = 0,
+["DisableOnSpec"] = {
+},
+}
+HealBot_Config_Spells = {
+["EnabledSpellTarget"] = {
+},
+["EnabledSpellTrinket1"] = {
+},
+["EnemyAvoidBlueCursor"] = {
+},
+["EnemySpellTrinket2"] = {
+},
+["EmergSpellTrinket1"] = {
+},
+["EmergKeyCombo"] = {
+},
+["Binds"] = {
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+},
+["ActionIconsData"] = {
+["Player-1302-0C53EAD2"] = {
+["Standard119434390"] = {
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+["MultiCondChecked"] = true,
+},
+["Standard333291537"] = {
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+["MultiCondChecked"] = true,
+},
+["Standard233251440"] = {
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+["MultiCondChecked"] = true,
+},
+["Standard140132817"] = {
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+["MultiCondChecked"] = true,
+},
+},
+},
+["EmergSpellTrinket2"] = {
+},
+["EnabledSpellTrinket2"] = {
+},
+["ActionIcons"] = {
+["Player-1302-0C53EAD2"] = {
+["Standard119434390"] = {
+{
+["SIZE"] = 28,
+["ANCHOR"] = 2,
+["NUMICONS"] = 0,
+["FADE"] = 0.2,
+["FONTCOUNT"] = "Roboto Medium",
+["SPACE"] = 4,
+["FONT"] = "Roboto Medium",
+["OFFSETY"] = 0,
+["OFFSETX"] = 0,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+},
+["Standard333291537"] = {
+{
+["SIZE"] = 28,
+["ANCHOR"] = 2,
+["NUMICONS"] = 0,
+["FADE"] = 0.2,
+["FONTCOUNT"] = "Roboto Medium",
+["SPACE"] = 4,
+["FONT"] = "Roboto Medium",
+["OFFSETY"] = 0,
+["OFFSETX"] = 0,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+},
+["Standard233251440"] = {
+{
+["SIZE"] = 28,
+["ANCHOR"] = 2,
+["NUMICONS"] = 0,
+["FADE"] = 0.2,
+["FONTCOUNT"] = "Roboto Medium",
+["SPACE"] = 4,
+["FONT"] = "Roboto Medium",
+["OFFSETY"] = 0,
+["OFFSETX"] = 0,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+},
+["Standard140132817"] = {
+{
+["SIZE"] = 28,
+["ANCHOR"] = 2,
+["NUMICONS"] = 0,
+["FADE"] = 0.2,
+["FONTCOUNT"] = "Roboto Medium",
+["SPACE"] = 4,
+["FONT"] = "Roboto Medium",
+["OFFSETY"] = 0,
+["OFFSETX"] = 0,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+{
+["SIZE"] = 28,
+["HIGHLIGHT"] = 1,
+["ANCHOR"] = 2,
+["SPACE"] = 4,
+["FADE"] = 0.2,
+["OFFSETX"] = 0,
+["OFFSETY"] = 0,
+["NUMICONS"] = 0,
+},
+},
+},
+},
+["EnemySpellTrinket1"] = {
+},
+["EmergAvoidBlueCursor"] = {
+},
+["EnemyKeyCombo"] = {
+},
+["ButtonCastMethod"] = 2,
+["EnabledKeyCombo"] = {
+["AltButton4"] = "Floraison spirituelle",
+["AltMiddle"] = "Réversion",
+["CtrlRight"] = "S:355913^Arbre d’émeraude",
+["Left"] = "S:361469^Flamme vivante",
+["Button5"] = "S:360995^Étreinte verdoyante",
+["AltLeft"] = "S:361469^Flamme vivante",
+["ShiftButton5"] = "C:B",
+["AltButton5"] = "S:360995^Étreinte verdoyante",
+["Middle"] = "Réversion",
+["AltRight"] = "Écho",
+["ShiftButton4"] = "C:A",
+["ShiftRight"] = "S:374251^Flamme de cautérisation",
+["ShiftMiddle"] = "S:443328^Engloutir",
+["Alt-ShiftLeft"] = "C:A",
+["Alt-CtrlLeft"] = "C:A",
+["ShiftLeft"] = "S:365585^Éliminer",
+["Button4"] = "S:370665^Secourir",
+["Right"] = "Écho",
+},
+["SpellsReset"] = true,
+["EmergSpellTarget"] = {
+},
+["EnabledAvoidBlueCursor"] = {
+},
+["EnemySpellTarget"] = {
+},
+["SpellTargetLastTarget"] = {
+},
+}
+HealBot_Config_Buffs = {
+["ExtraBuffsOnlyInInstance"] = false,
+["HealBot_CBWarnRange_Screen"] = 2,
+["BuffWatchWhenMounted"] = false,
+["WarnRange_Sound"] = 3,
+["BackupManaDrinkItem"] = "",
+["SoundBuffPlay"] = "Tribal Bass Drum",
+["WarnRange_Screen"] = 2,
+["HealBotBuffColG"] = {
+1,
+0.671,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+},
+["AlwaysShowClass"] = false,
+["ShortBuffTimer"] = 10,
+["ManaDrinkThreshold"] = 50,
+["PalaBlessingsAsOne"] = false,
+["AutoBuffExpireTime"] = 31,
+["NoAuraWhenRested"] = false,
+["HealBot_CBWarnRange_Bar"] = 3,
+["BackupWellFedItem"] = "",
+["ManaDrinkItem"] = "",
+["SoundBuffChan"] = 2,
+["ShowBuffWarning"] = false,
+["WellFedItem"] = "",
+["BuffWatchWhenGrouped"] = false,
+["HealBotBuffDropDown"] = {
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+2,
+2,
+["42"] = 4,
+["43"] = 4,
+["23"] = 4,
+["41"] = 4,
+["47"] = 4,
+["46"] = 4,
+["34"] = 4,
+["44"] = 4,
+["48"] = 4,
+["33"] = 4,
+["28"] = 4,
+["38"] = 4,
+["12"] = 7,
+["13"] = 4,
+["17"] = 4,
+["27"] = 4,
+["15"] = 4,
+["25"] = 4,
+["35"] = 4,
+["45"] = 4,
+["37"] = 4,
+["18"] = 4,
+["36"] = 4,
+["22"] = 4,
+["14"] = 4,
+["24"] = 4,
+["16"] = 4,
+["26"] = 4,
+["31"] = 4,
+["21"] = 4,
+["11"] = 4,
+["32"] = 4,
+},
+["AlwaysShowSelf"] = false,
+["CustomBuffCheck"] = {
+false,
+false,
+false,
+},
+["EnableBar"] = true,
+["ListSortFilterTag"] = "",
+["WarnRange_Bar"] = 2,
+["BuffCustomWatchInCombat"] = false,
+["CustomBuffName"] = {
+"",
+"",
+"",
+"",
+},
+["LongBuffTimer"] = 120,
+["BuffWatchInCombat"] = false,
+["HealBotBuffColR"] = {
+1,
+0.204,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+},
+["ListSortFilter"] = 1,
+["AlwaysShowTimed"] = false,
+["CustomItemName"] = {
+"",
+"",
+"",
+"",
+},
+["SoundBuffWarning"] = false,
+["CBshownHB"] = true,
+["HealBot_CBWarnRange_Sound"] = 3,
+["ListSortOrder"] = 1,
+["BuffWatch"] = true,
+["HealBotBuffColB"] = {
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+},
+["HealBotBuffText"] = {
+"Aucun(e)",
+"Aucun(e)",
+"Aucun(e)",
+"Aucun(e)",
+"Aucun(e)",
+"Aucun(e)",
+"Aucun(e)",
+"Aucun(e)",
+"Aucun(e)",
+"Aucun(e)",
+["42"] = "Aucun(e)",
+["43"] = "Aucun(e)",
+["23"] = "Aucun(e)",
+["41"] = "Aucun(e)",
+["47"] = "Aucun(e)",
+["46"] = "Aucun(e)",
+["34"] = "Aucun(e)",
+["44"] = "Aucun(e)",
+["48"] = "Aucun(e)",
+["33"] = "Aucun(e)",
+["28"] = "Aucun(e)",
+["38"] = "Aucun(e)",
+["12"] = "Source de magie",
+["13"] = "Aucun(e)",
+["17"] = "Aucun(e)",
+["27"] = "Aucun(e)",
+["15"] = "Aucun(e)",
+["25"] = "Aucun(e)",
+["35"] = "Aucun(e)",
+["45"] = "Aucun(e)",
+["37"] = "Aucun(e)",
+["18"] = "Aucun(e)",
+["36"] = "Aucun(e)",
+["22"] = "Aucun(e)",
+["14"] = "Aucun(e)",
+["24"] = "Aucun(e)",
+["16"] = "Aucun(e)",
+["26"] = "Aucun(e)",
+["31"] = "Aucun(e)",
+["21"] = "Aucun(e)",
+["11"] = "Bénédiction du bronze",
+["32"] = "Aucun(e)",
+},
+["AutoBuffCastBy"] = 1,
+["AutoBuff"] = 1,
+}
+HealBot_Config_Cures = {
+["ListSortFilter"] = 1,
+["WarnRange_Sound"] = 3,
+["ShowDebuffWarning"] = true,
+["CDCshownHB"] = true,
+["DebuffWatch"] = true,
+["DebuffWatchInCombat"] = true,
+["HealBotDebuffText"] = {
+"Éliminer",
+"Aucun(e)",
+"Aucun(e)",
+["42"] = "Aucun(e)",
+["43"] = "Aucun(e)",
+["41"] = "Éliminer",
+["34"] = "Aucun(e)",
+["35"] = "Aucun(e)",
+["23"] = "Aucun(e)",
+["33"] = "Aucun(e)",
+["12"] = "Flamme de cautérisation",
+["13"] = "Aucun(e)",
+["22"] = "Aucun(e)",
+["14"] = "Aucun(e)",
+["24"] = "Aucun(e)",
+["25"] = "Aucun(e)",
+["15"] = "Aucun(e)",
+["31"] = "Éliminer",
+["21"] = "Éliminer",
+["11"] = "Éliminer",
+["32"] = "Aucun(e)",
+},
+["IgnoreFastDurDebuffs"] = true,
+["WarnRange_Bar"] = 2,
+["SoundDebuffChan"] = 2,
+["DebuffWatchWhenMounted"] = false,
+["DebuffWatchWhenGrouped"] = false,
+["ShowTimeMaxDuration"] = 31,
+["ListSortFilterTag"] = "",
+["HealBotDebuffDropDown"] = {
+4,
+4,
+4,
+["42"] = 4,
+["43"] = 4,
+["41"] = 4,
+["34"] = 1,
+["35"] = 1,
+["23"] = 4,
+["33"] = 4,
+["12"] = 4,
+["13"] = 4,
+["22"] = 4,
+["14"] = 1,
+["24"] = 1,
+["25"] = 1,
+["15"] = 1,
+["31"] = 4,
+["21"] = 4,
+["11"] = 4,
+["32"] = 4,
+},
+["IgnoreFastDurDebuffsSecs"] = 2,
+["ListSortOrder"] = 1,
+["EnableBar"] = true,
+["HealBot_Custom_Debuffs_All"] = {
+["Curse"] = false,
+["Disease"] = false,
+["Magic"] = false,
+["Poison"] = false,
+},
+["HealBot_CDCWarnRange_Bar"] = 3,
+["AlwaysShowTimed"] = false,
+["HealBot_CDCWarnRange_Sound"] = 3,
+["IgnoreFriendDebuffs"] = false,
+["SoundDebuffWarning"] = false,
+["HealBot_CDCWarnRange_Screen"] = 2,
+["SoundDebuffPlay"] = "Tribal Bass Drum",
+["IgnoreCannotDispell"] = false,
+["IgnoreOnCooldownDebuffs"] = false,
+["WarnRange_Screen"] = 2,
+["CDCBarColour"] = {
+["Disease"] = {
+["B"] = 0.7,
+["G"] = 0.19,
+["R"] = 0.55,
+},
+["Bleed"] = {
+["R"] = 0.58,
+["G"] = 0.02,
+["B"] = 0.02,
+},
+["Curse"] = {
+["B"] = 0.09,
+["G"] = 0.43,
+["R"] = 0.83,
+},
+["Magic"] = {
+["B"] = 0.83,
+["G"] = 0.33,
+["R"] = 0.26,
+},
+["Poison"] = {
+["B"] = 0.24,
+["G"] = 0.46,
+["R"] = 0.12,
+},
+},
+["HealBotDebuffPriority"] = {
+["Disease"] = 7,
+["Custom"] = 15,
+["Poison"] = 8,
+["Curse"] = 6,
+["Magic"] = 5,
+["Bleed"] = 9,
+},
+["AlwaysShowBoss"] = true,
+}
+HealBot_ActionIcons_Loadouts = {
+["Standard:2:33251440"] = "lodJlK4kjU4a8d",
+["Standard:3:33291537"] = "lodJlK4kjU4a8d",
+["Standard:1:69995730"] = "lodJlK4kjU4a8d",
+["Standard:1:40132817"] = {
+},
+["Standard:1:69367632"] = "lodJlK4kjU4a8d",
+["Standard:1:69992569"] = "lodJlK4kjU4a8d",
+["Standard:2:4008636"] = "lodJlK4kjU4a8d",
+}
+HealBot_ActionIconsData_Loadouts = {
+["Standard:2:33251440"] = "lodJlK4kjU4a8d",
+["Standard:3:33291537"] = "lodJlK4kjU4a8d",
+["Standard:1:69995730"] = "lodJlK4kjU4a8d",
+["Standard:1:40132817"] = {
+},
+["Standard:1:69367632"] = "lodJlK4kjU4a8d",
+["Standard:1:69992569"] = "lodJlK4kjU4a8d",
+["Standard:2:4008636"] = "lodJlK4kjU4a8d",
+}
+HealBot_Spell_Loadouts = {
+["2:4008636"] = "TRv3UPnmu4NOoLt(JKExifwrReMiuPTDrudexWQH4khhK4cq729iShH(CWBYEsMJnvjTuA3QC5klb(ezFoFNJnCoFGTtGKjjX9ksNMJYIVhLNpjLohX49YEw)uCXDig84iOLRdwrWzDZRqHv0scT1iTTWCF)lr05Ves19)f06qYYPezxDXfzL8hJaXltrRLO1w06iADfTDeTEIwFPjgsH0AqAoiThKaaseajeGedqccirXuGcpAcMXWKIbZifLxKYsRxV(AE6Ae9mWYW8mJqhREbxuplJJzPfzP0ma8TTST8nKtI9nS6PIqyjf2sHJu4kfDKcpPWxkadHCpcQdnlLIMTsrZrPO5Qu06Ou08ukA(kfnWqTWP2SbqTPdGAZha1MqaQnJauBkbO2CcqTjfGAZkmvAwr8WQCgoKuKfUan7ouws36EFKnXYYY0hCS6Ozt0SjA2enBIMnrZM8Uztm5SjoGTT()MOzt0SjA2enBIMn59ZMa2gGLPhO)VjA2enBIMnrZMOzt(VztyV45dzE0ZGA)iToyM31HYehp4h94tkpourHxoAC9emo66HdchffNezKe3p4cUggFI3F)rrtchDDe3UXKPegz7ndrz4QLCC(AqyV61dHsho(O(9J7n57ceLp)nXZxo4ZxEf)9e5jnfz(0G6jd3oeB5VM4RnWTDy75Z(p7(O9H9jWhoNaF4Ec8rNtGp8ob(W)e4drzKpyN8A77UUGHUGHUGHUGXXkyCWwRQlyOlyOlyOlyCScghS7z6cg6cg6cg6cgpRGb7fVyTTVaTh)Q4(SRwBfJrkctlzdrSfKmrSTFlwAPzCqotQkpGJp3YTJPP72n9Zj0uCjPy7nL3JPywfpAqCnwGVTr)WZdeameNLjgLBVl44SDZ4DpScrlXKI92mgpFbtOrhB(pDQ2dPlxI2Etg)9S0k2UhO4YuwJfnGABZ)5wEB30RyEoPIHPjXxHUvIMly763G2k8Q0cg3QqgnVXNoo(G12nb0P0Ax(NF(7DpWxmtRYqpUs5iHZW3Nh(7(fJIWCG4iIOzK1sqBa0TEdMQ1B2cIyj4ndOwRCo1RCDBT0)V4BH9nEXXXtOBoEjUaXxrE9pd4U6ibFDx1FvRCmQeXs6(K9N7WBi(BDtWBzrRoUI)1WwdXss(7p",
+["3:33291537"] = "TRvuVTjmq4FrBIdJjqFJqtwJwdPkKkTThqJeCBqLatGZK6l73(m(ORonnBAvU5PtQ1NZz7VZ2v33xJTZGSvzPtQZxxjks)HOQAvE79cPYR8f(BlRFqiHNArS7XOF2uwmUAViEFBxtRrlMJWDW)or79Vgs9()S4X4MDRBqxJlRl6uvta9pU6sMU0txY1L(6Yr6YaDzioeh0GJgWHd44beaaraqiaedabbquC1OOMnrBKLn1Z20u3DzUmVF)6MQ8hfTFayoUFWjMZMeDz)QmnvMxxK3waqOhZJf6GlIHcz)srByOXdnC04JMrOjanHObC02beShAmRIMNvrJBv08TkAJSkAbwfTqRIg4yx4SB2ay30bWU5dGDtia7Mra2nLaSBoby3KcWUzfUwnRiD((kzzCtDr8wXMhefzJ79(KAcJXCdboBePMqQjKAcPMqQjKAYBwnXvPMWbpp67MqQjKAcPMqQjKAYBxnb8CaMBaqF3esnHuti1esnHut(VvtKV69d5EY7GAOfJlM5nDPmPPZ(2e1Ikqbvs8vlw2VattUD(S4fjPzjozPtJUu1dNpQ8pDrYQ4f3MOg3YM1nYMF995IIY97u4Ctu8K(9dDNoU9ftNMoz1x1iI1)IU(vZ(0vxR(DfEttjUhoPoOzZPOr8EE(zcSzanxpd)T79ogENHyWpdXW)meJrNHyeCgIr4zigAAK35G83o3DIWGimicdIW4ueghD0QeHbryqegeHXPimo60ZicdIWGimicJxqyiF1hwR5dO90pf3x80A3lLn1X5DY5c52Mc9CB4iwm65q)4Q59fmFNWW(ABlVtoVSOOsODZ5HaBWn2D1Il(IOdCX7DnEW1YY73k1JDKN6FuAW71I7qN(CEGQ)p)zWZpurD9NrHrSVE)Uq3srNqMn(GJo64hV8)6rkBmcdhxR2HmAsML97d",
+["1:40132817"] = {
+["EnabledSpellTarget"] = {
+},
+["EnabledSpellTrinket1"] = {
+},
+["EnemyAvoidBlueCursor"] = {
+},
+["EnemySpellTrinket2"] = {
+},
+["EmergSpellTrinket1"] = {
+},
+["EmergKeyCombo"] = {
+},
+["Binds"] = {
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+},
+["ActionIconsData"] = {
+["Player-1302-0C53EAD2"] = {
+["Standard333291537"] = {
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+["MultiCondChecked"] = true,
+},
+["Standard119434390"] = {
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+["MultiCondChecked"] = true,
+},
+["Standard233251440"] = {
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+["MultiCondChecked"] = true,
+},
+["Standard140132817"] = {
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+{
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+},
+["MultiCondChecked"] = true,
+},
+},
+},
+["EmergSpellTrinket2"] = {
+},
+["EnabledSpellTrinket2"] = {
+},
+["ActionIcons"] = {
+["Player-1302-0C53EAD2"] = {
+["Standard333291537"] = {
+{
+["SIZE"] = 28,
+["ANCHOR"] = 2,
+["NUMICONS"] = 0,
+["FADE"] = 0.2,
+["FONTCOUNT"] = "Roboto Medium",
+["SPACE"] = 4,
+["FONT"] = "Roboto Medium",
+["OFFSETY"] = 0,
+["OFFSETX"] = 0,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+},
+["Standard119434390"] = {
+{
+["SIZE"] = 28,
+["ANCHOR"] = 2,
+["NUMICONS"] = 0,
+["FADE"] = 0.2,
+["FONTCOUNT"] = "Roboto Medium",
+["SPACE"] = 4,
+["FONT"] = "Roboto Medium",
+["OFFSETY"] = 0,
+["OFFSETX"] = 0,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+},
+["Standard233251440"] = {
+{
+["SIZE"] = 28,
+["ANCHOR"] = 2,
+["NUMICONS"] = 0,
+["FADE"] = 0.2,
+["FONTCOUNT"] = "Roboto Medium",
+["SPACE"] = 4,
+["FONT"] = "Roboto Medium",
+["OFFSETY"] = 0,
+["OFFSETX"] = 0,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+},
+["Standard140132817"] = {
+{
+["SIZE"] = 28,
+["ANCHOR"] = 2,
+["NUMICONS"] = 0,
+["FADE"] = 0.2,
+["FONTCOUNT"] = "Roboto Medium",
+["SPACE"] = 4,
+["FONT"] = "Roboto Medium",
+["OFFSETY"] = 0,
+["OFFSETX"] = 0,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+{
+["SIZE"] = 28,
+["NUMICONS"] = 0,
+["OFFSETY"] = 0,
+["SPACE"] = 4,
+["OFFSETX"] = 0,
+["FADE"] = 0.2,
+["ANCHOR"] = 2,
+["HIGHLIGHT"] = 1,
+},
+},
+},
+},
+["EnemySpellTrinket1"] = {
+},
+["EmergAvoidBlueCursor"] = {
+},
+["SpellTargetLastTarget"] = {
+},
+["ButtonCastMethod"] = 2,
+["EnabledKeyCombo"] = {
+["Button5"] = "S:360995",
+["ShiftMiddle"] = "S:355913",
+["ShiftButton4"] = "C:A",
+["ShiftButton5"] = "C:B",
+["ShiftRight"] = "S:374251",
+["ShiftLeft"] = "S:365585",
+["Left"] = "S:361469",
+["Right"] = "S:355913",
+},
+["EnemySpellTarget"] = {
+},
+["EmergSpellTarget"] = {
+},
+["EnabledAvoidBlueCursor"] = {
+},
+["SpellsReset"] = true,
+["EnemyKeyCombo"] = {
+},
+},
+["1:69992569"] = "TRv3UjUoq4NOUkt(JKExif2IofyfMvApNlIAG4fSAiUYXbjUa0529ryFe6ZbVjNNK1Xo0gAHD3tLxUYsfprtg)nZKYmFeBNajttq9ksNLJZqpIZZNMYwG5cT8xPNrkEaZHd3bVAt0AkjRBEfoUIvszTUt7zy3OFfMT4uivR)VWBIPRMrvQ6skYkfxocK)zlhDKJUYrp5OVCSJCmqogQMILsOMnOMoOMpOaauiakiafgGceqHITefr0enNtOfdMtlkVjLNw)86t5PBWSRahl7RSI9C6fDtDwIq80ISuwgaHUoUoHwQKOzGxNksHJs4QeEkHVs0rjcuIqLaSKYge0hAoAfnxTIMNwrZxRO1rROfOv0c1kAGLEHtVvdGElha9wpa6TGa0BfbO3scqV1eGElka9wvyR1Qc0WQCojMwKfVep)bCws3AThytCCCSdbpNog2edBIHnXWMyytmSjVB2eBbBIh46AE3edBIHnXWMyytmSjVF2eW1cCSdaZ7MyytmSjg2edBIHn5)nBc)K7pK9z3dQM70AJzExBkdcn4F6jsQabuJIVD8K6een6ZdhepEekzKvcQF0nclS(GqF)XJMgp(ZJeZBcDgLt3D)qCgPALaNpff3R(5H0O3E)X97J6n9VLiQU(lYRVDWhV9oXNPQDAAK9Xb1rrsBmEXFTrRvS2kDETpCUa(W9c4dVlGp8Va(OZfWhbxaFeEb8HSnYFyN8Zw3DtddtddtddtdJZ1W4nlTQPHHPHHPHHPHX5Ay8MvpZ0WW0WW0WW0W4vnm4N8G12(a0EYJIBRZZ7DPL82NS3UvCoTiwODiMVKMj9BZsT06W4IIY5ktR7KKtzPKsAXU7lFKWi8kb8yPndjzz1xoz)tRXSscTibfZz5tilwwhix745fco72gXMXW7Up7)(3VV)jrGNwLjM2D4VQSYhC9d3TTFE6QvcZwtwNwWXhcxpLnwHHE72U)BCgMiURWmmlJUrzPiy(LOHws(k)ziJVUBR883XhNkBfa0KS7)28L0JCIBTtIAu1y1HGkt8zEAfF)tmszkxIL0UdobDTRR43vgSBBVIf50koHj88rU6zViI8ow((IihHNtRy1Mkb7LhjEEbYelNSIuGzYa)Q6)vPmrgN1QAnTADh)9V2hr8xw2U3EWXp)3klNGlfg3Tb2Jo)38KKF8d",
+["1:69367632"] = "TRv3UjUoq4NOUko)rsVdsHTvNcuHPs7EUiQbIly1qCLJdsCbO92(iSpc95G3K9j54FcNAkLT7w5YvwQ4jA84VzMuM5Je7uq64uy3YSjfOC4JOIIXz0zigxl7v6P4YhqmWUzqlw1EjbN3POgLutRiuTz0xHBJ(fi6S3cjH()bTkHSycrPQdUmVIF5aG8px5ONC0xogihdLJTKJrYXy1sCuc1QbQLduRhOaaOqaOGaOWaOabOqXvIcpAApLHjLxnLuwDrgltC)6MISvi6zaph3ZCsc862(crwcHSSY8mAoae7757f7OsIMbMivKcpLWxjcuIqLOLsePeXkbWrkBqWCO5zu08nkAbgfTqJIwlJIwKrrl2OObCmlCMTAay2YbGzRhaMTGay2kcGzljaMTMay2IcGzRkCnAvbSFDbdNqkZtMJM(akpTJq7o2eppp3yqGxllBILnXYMyztSSjw2KpmBIlNnja47BF2elBILnXYMyztSSjFC2eGVdWZncyF2elBILnXYMyztSSj)1SjS3C)HCp6Eq1mJ2gZ8H2ugi8Q)TlpPI4qni5YHJejiCWT9Vkz4ay6aNuyV2xWTW5lC99goyCYWBhWx3iYecJS5U(OCC9coo30oPR4(H0OdNFyVEWUJ)Uer11FtE9Lx91lVM)zSANMg4UFqT306HOM)Ej(0bw3H65tZ)7(S9H)jWhbNaFeEc8rRtGpIob(i(e4dzBKpzN87EV72gg2gg2gg2gghRHXbVAvBddBddBddBdJJ1W4G3EMTHHTHHTHHTHXRAyWEZdwR(bO94hf3xD0ARzmszswfRpInNKlJTMxXIMLW2fmLPIaUGqZWvKYn3v9iMIz18yajTPpopxC5OTpVerRWKYuycJwmcpBUOp35EbbXaVnRBtNqrBUl)x)4NBFMhWz158LDn6ELvHa)W4nR7vKTyb3SL4LzLm0UWnqzJtCCWM1BFIrry(SCZq0CYkLL8G5DrdohFp7)Hm58oA55FIpERSLdqtYU9PPZj75eFHtA3O6LBjT85)kXxcVC(NPz1STptXvzmjQYvSZDWZ995)YYOnR7woRGuZWuPFptALkRL(rOtC3xtLMjI0liisMEf4f4seD3nyFvC5egYNfIMsQPcFSxIjqq8LVQrOkelTZEVXUdpZ4V3zdxBfAkUM)ftTPyPP)3d",
+["1:69995730"] = "TRv3UPnmu4NOofNFaYUlKcROvcveQ02UiQbSly1qCLJdsCrr72(iShH(CWBYEsM)jSzkL1TkxUYsfFIo(4VZ5KY58jSDgiBswAVY8Pfiy69OIIj505igxl7z6P4Y7qmWUzqlxhTIGHDlQrX10kcvBg9v42OFjIo)LqsO)ZO1XKLtjkvDXLWk(Jja5FUYrp5OVCmqo2so2wo2rogQwIJsOwnqTCGA9afaafcafeafgafiafkUsu4rt0mgMuoygPS68CwU491vf5Rr0ZaEoUN5eh41l6CrwMMYYlH5uiae6757f6OsIMbMivKcpLWxjcuIwkrBLOJseQeahPSbbZHMNrrZ3OOfyu0Azu0ABu06yu0cnkAahZcNzRgaMTCay26bGzliaMTIay2scGzRjaMTOay2QcxJwvKoSUGHJjLW4fOz3HGzDfA3XM4555gcc8ABztSSjw2elBILnXYM8MztC5SjbaFF7VnXYMyztSSjw2elBYBNnb47a8C7aS)2elBILnXYMyztSSj)3SjSx88HCp6zq1mJ2bZ8MouM00bFRhpP6WHkj(IrJfjyAY1dhepkjnlXjlTF05ClC(axF)rjtIhDDcFDJjtjmYMBgIG46LCCUkkUN49H0OdNFu)(P9M8vjIQN)I85lg8PlUK)zI6KMsC3pO2BA9quZF)j(0bw3H65tZ)7EV9H)jWhbNaF06e4J2NaF05e4JWtGpKTrENDYFBF3TnmSnmSnmSnmowdJd2AvBddBddBddBdJJ1W4GDpZ2WW2WW2WW2W4znmyV4fRv)c0E8RI7ZUAT1mgPmoVIneXwqGYyRzlw0SmnQGPmveWfeAoUIuU5MQ7XumRMhdiPndXqO4XXBFAfIwHjLzPXmAXy88fI(CF0liie4T5Hi6ukAZnWF(9FS9jEaNxd5l7s0TkRAb8BfU5H(f5lxYnBfEvEjdTlCdu24eggS5HTpYOimFwUzikKSwzjpyEv0sxGVL9BiJ)yxT88FXhVu2YbOjz3(4SfK9CIVWjrnQASAxqb5FMLxZ2(efxLZKyjTBNt6voVGuZWuPpotoNkdLyk0jEtRPsZerQee0rMkf4L4seD3ltEqLIMrQPcK3l0fRt81RQXOkelR7E7j3H3k8x72FRTcnfxY)QN2uSSSFb",
+}

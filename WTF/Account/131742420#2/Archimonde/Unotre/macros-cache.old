@@ -1,0 +1,18 @@
+VER 3 0100000000000001 "d" "4630459"
+#showtooltip Étreinte verdoyante(Vert)
+/cast [@mouseover, exists][nomod] Étreinte verdoyante(Vert)
+END
+VER 3 0100000000000004 "d" "4622459"
+#showtooltip
+/cast [@cursor] Tempête-de-feu(Rouge)
+END
+VER 3 0100000000000005 "d" "134400"
+#showtooltip Rage draconique(Rouge)
+/cancelaura Souffle profond(Noir)
+/cast Rage draconique(Rouge)
+/use 14
+END
+VER 3 0100000000000002 "kick" "4622469"
+#showtooltip Apaisement
+/cast [@mouseover, harm, exists][nomod] Apaisement
+END

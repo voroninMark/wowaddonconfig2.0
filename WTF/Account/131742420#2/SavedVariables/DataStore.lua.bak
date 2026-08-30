@@ -1,0 +1,47 @@
+
+DataStore_GuildIDs = {
+["List"] = {
+"Default.Archimonde.Stuck",
+},
+["Count"] = 1,
+["Set"] = {
+["Default.Archimonde.Stuck"] = 1,
+},
+}
+DataStore_GuildFactions = {
+"Alliance",
+}
+DataStore_CharacterIDs = {
+["List"] = {
+"Default.Archimonde.Unote",
+"Default.Archimonde.Malferrant",
+"Default.Archimonde.Kronf",
+"Default.Archimonde.Oit",
+},
+["Count"] = 4,
+["Set"] = {
+["Default.Archimonde.Unote"] = 1,
+["Default.Archimonde.Oit"] = 4,
+["Default.Archimonde.Malferrant"] = 2,
+["Default.Archimonde.Kronf"] = 3,
+},
+}
+DataStore_CharacterGUIDs = {
+"Player-1302-0C407A5D",
+"Player-1302-0C35312B",
+"Player-1302-0C03C85D",
+"Player-1302-0C3562D1",
+}
+DataStore_CharacterGuilds = {
+1,
+1,
+1,
+1,
+}
+DataStore_AltGroups = {
+}
+DataStore_ConnectedRealms = {
+}
+DataStore_RealmNames = {
+["Archimonde"] = "Archimonde",
+}

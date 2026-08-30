@@ -1,0 +1,1446 @@
+
+DataStore_Garrisons_Characters = {
+{
+["lastUpdate"] = 1726523439,
+},
+{
+["lastUpdate"] = 1726501271,
+},
+{
+["lastUpdate"] = 1726524263,
+},
+{
+["lastUpdate"] = 1726524650,
+},
+}
+DataStore_Garrisons_Missions = {
+{
+["lastUpdate"] = 1726523439,
+["Infos"] = {
+},
+["Available"] = {
+nil,
+{
+1059,
+1557,
+1176,
+},
+{
+1892,
+1895,
+2079,
+},
+},
+},
+{
+["lastUpdate"] = 1726501271,
+["Infos"] = {
+},
+["Available"] = {
+{
+66,
+114,
+129,
+274,
+275,
+663,
+664,
+497,
+133,
+},
+nil,
+{
+1883,
+1884,
+1911,
+2140,
+2157,
+1891,
+2074,
+2096,
+},
+{
+2168,
+2176,
+2184,
+2233,
+2262,
+2290,
+2309,
+2296,
+2267,
+},
+},
+},
+{
+["lastUpdate"] = 1726524263,
+["Infos"] = {
+},
+["Available"] = {
+{
+3,
+87,
+120,
+300,
+667,
+665,
+128,
+359,
+274,
+272,
+},
+nil,
+{
+1879,
+1925,
+1953,
+2081,
+2158,
+1932,
+},
+{
+2211,
+2169,
+2180,
+2262,
+2171,
+},
+},
+},
+{
+["lastUpdate"] = 1726524650,
+["Infos"] = {
+},
+["Available"] = {
+{
+65,
+88,
+274,
+276,
+498,
+89,
+},
+{
+1336,
+},
+},
+},
+}
+DataStore_Garrisons_MissionInfos = {
+["Infos"] = {
+[2141] = 55029279006850,
+[2142] = 55029279011011,
+[2079] = 55029278986370,
+[1889] = 55029273727106,
+[385] = 42953609606,
+[132] = 42949706118,
+[663] = 42953609606,
+[2271] = 55040008545037,
+[1858] = 55029278969921,
+[2081] = 55029279007438,
+[1890] = 55029273727106,
+[1906] = 55029289492610,
+[2177] = 55040008602316,
+[1557] = 52275160043845,
+[1891] = 55029278974082,
+[1923] = 55029273727106,
+[2211] = 55040012456587,
+[664] = 42953609606,
+[1336] = 52270851965253,
+[2180] = 55040019104525,
+[1892] = 55029278969986,
+[1178] = 52266609500485,
+[3] = 32213594502,
+[2182] = 55040008573579,
+[1893] = 55029273727106,
+[1925] = 55029273727106,
+[665] = 42953609606,
+[275] = 42953626055,
+[2184] = 55040013836939,
+[2216] = 55040008573194,
+[1894] = 55029273727106,
+[2153] = 55029278986370,
+[1879] = 55029278978178,
+[1895] = 55029273727106,
+[1911] = 55029310431950,
+[1927] = 55029273727106,
+[2157] = 55029320954376,
+[359] = 42956263814,
+[667] = 42953609606,
+[120] = 42952298886,
+[2158] = 55029334082056,
+[2309] = 55040012501263,
+[2176] = 55040013857419,
+[65] = 32213594567,
+[2286] = 55040019067146,
+[133] = 42949706118,
+[2096] = 55029294727753,
+[272] = 42952327623,
+[276] = 42956263879,
+[1866] = 55029273743490,
+[2140] = 55029279006850,
+[497] = 42956263814,
+[129] = 42952315270,
+[2171] = 55040019042570,
+[300] = 42954936710,
+[1176] = 52269804425541,
+[128] = 42952315270,
+[66] = 32212283782,
+[1883] = 55029273743490,
+[1899] = 55029320949890,
+[2290] = 55040019067661,
+[274] = 42952315335,
+[88] = 32212283782,
+[2144] = 55029278978243,
+[1045] = 52268704555333,
+[87] = 32213594567,
+[1884] = 55029273743490,
+[89] = 32214962566,
+[1916] = 55029279006850,
+[1932] = 55029273743490,
+[2229] = 55040019063050,
+[2261] = 55040008545037,
+[2169] = 55040008602251,
+[2071] = 55029289493198,
+[1885] = 55029273727106,
+[2262] = 55040008524492,
+[380] = 42953609606,
+[1912] = 55029294702722,
+[1059] = 52273025724676,
+[1056] = 52274125619460,
+[2168] = 55040008524042,
+[2200] = 55040008573579,
+[1886] = 55029278978178,
+[1902] = 55029278986370,
+[2296] = 55040032154316,
+[2074] = 55029278986958,
+[2233] = 55040008544972,
+[1342] = 52271951929669,
+[2170] = 55040019075723,
+[1938] = 55029278986370,
+[2234] = 55040008573644,
+[498] = 42956263814,
+[114] = 42953638278,
+[1173] = 52267643851077,
+[116] = 42954936710,
+[2267] = 55040013795594,
+[118] = 42953625990,
+[2077] = 55029278974082,
+[1888] = 55029273727106,
+[1953] = 55029278974670,
+},
+["Durations"] = {
+["List"] = {
+14400,
+43200,
+86400,
+25200,
+28800,
+10800,
+1800,
+21600,
+36000,
+64800,
+172800,
+12150,
+9450,
+32400,
+35100,
+259200,
+46800,
+24300,
+18000,
+16200,
+3600,
+7200,
+20250,
+39600,
+},
+["Count"] = 24,
+["Set"] = {
+[43200] = 2,
+[86400] = 3,
+[172800] = 11,
+[12150] = 12,
+[24300] = 18,
+[25200] = 4,
+[1800] = 7,
+[3600] = 21,
+[7200] = 22,
+[14400] = 1,
+[28800] = 5,
+[16200] = 20,
+[18000] = 19,
+[32400] = 14,
+[35100] = 15,
+[9450] = 13,
+[64800] = 10,
+[39600] = 24,
+[259200] = 16,
+[20250] = 23,
+[36000] = 9,
+[10800] = 6,
+[21600] = 8,
+[46800] = 17,
+},
+},
+["Rewards"] = {
+[2141] = {
+{
+["quantity"] = 1,
+["itemID"] = 168327,
+["itemLink"] = "|cffa335ee|Hitem:168327::::::::80:251:::::::::|h[Bobine d’allumage à chaîne]|h|r",
+},
+},
+[2142] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 478,
+["icon"] = 2065624,
+["currencyID"] = 1553,
+},
+},
+[2079] = {
+{
+["quantity"] = 13,
+["itemID"] = 163036,
+["itemLink"] = "|cffffffff|Hitem:163036::::::::80:251:::::::::|h[]|h|r",
+},
+},
+[1889] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 200,
+["icon"] = 2032592,
+["currencyID"] = 1579,
+},
+},
+[385] = {
+{
+["itemID"] = 120302,
+["quantity"] = 1,
+},
+},
+[132] = {
+{
+["icon"] = 1005027,
+["quantity"] = 175,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 824,
+},
+},
+[663] = {
+{
+["icon"] = 1131085,
+["quantity"] = 25,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1101,
+},
+},
+[2271] = {
+{
+["title"] = "Récompense (argent)",
+["quantity"] = 248047,
+["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+["currencyID"] = 0,
+},
+},
+[1858] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 432,
+["icon"] = 2065624,
+["currencyID"] = 1553,
+},
+},
+[2081] = {
+{
+["icon"] = 2032601,
+["quantity"] = 350,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1597,
+},
+},
+[1890] = {
+{
+["icon"] = 2032591,
+["quantity"] = 125,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1599,
+},
+},
+[1906] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 225,
+["icon"] = 2032591,
+["currencyID"] = 1599,
+},
+},
+[2177] = {
+{
+["quantity"] = 7,
+["itemID"] = 184151,
+["itemLink"] = "|cff1eff00|Hitem:184151::::::::80:70:::::::::|h[Broche de rubis contrefaite]|h|r",
+},
+},
+[1557] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 14,
+["icon"] = 236521,
+["currencyID"] = 1533,
+},
+},
+[1891] = {
+{
+["icon"] = 2032595,
+["quantity"] = 125,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1593,
+},
+},
+[1923] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 125,
+["icon"] = 2032593,
+["currencyID"] = 1600,
+},
+},
+[2211] = {
+{
+["quantity"] = 1,
+["itemID"] = 190641,
+["itemLink"] = "|cffa335ee|Hitem:190641::::::::80:70::25:3:1472:5904:6646::::::|h[Cloche divine d’instructeur]|h|r",
+},
+{
+["icon"] = 255347,
+["quantity"] = 1,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1889,
+},
+},
+[664] = {
+{
+["icon"] = 1131085,
+["quantity"] = 25,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1101,
+},
+},
+[1336] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 1400,
+["tooltip"] = "+1400 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1400 EXP",
+},
+},
+[2180] = {
+{
+["quantity"] = 1,
+["itemID"] = 184636,
+["itemLink"] = "|cffffffff|Hitem:184636::::::::80:70::31:::::::|h[Cache d’aventurier dépeceur]|h|r",
+},
+},
+[1892] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 256,
+["icon"] = 2065624,
+["currencyID"] = 1553,
+},
+},
+[1178] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 5,
+["icon"] = 236521,
+["currencyID"] = 1533,
+},
+},
+[3] = {
+{
+["itemID"] = 114053,
+["quantity"] = 1,
+},
+},
+[2182] = {
+{
+["quantity"] = 12,
+["itemID"] = 163036,
+["itemLink"] = "|cffffffff|Hitem:163036::::::::80:255:::::::::|h[Charme pour mascotte poli]|h|r",
+},
+},
+[1893] = {
+{
+["icon"] = 2065624,
+["quantity"] = 229,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1553,
+},
+},
+[1925] = {
+{
+["icon"] = 2065624,
+["quantity"] = 252,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1553,
+},
+},
+[665] = {
+{
+["icon"] = 1131085,
+["quantity"] = 25,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1101,
+},
+},
+[275] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 10000,
+["tooltip"] = "+10000 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+10000 EXP",
+},
+},
+[2184] = {
+{
+["quantity"] = 1,
+["itemID"] = 184633,
+["itemLink"] = "|cffffffff|Hitem:184633::::::::80:255::31:::::::|h[]|h|r",
+},
+},
+[2216] = {
+{
+["icon"] = 3492310,
+["quantity"] = 250,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1805,
+},
+},
+[1894] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 240,
+["icon"] = 2065624,
+["currencyID"] = 1553,
+},
+},
+[2153] = {
+{
+["quantity"] = 1,
+["itemID"] = 169477,
+["itemLink"] = "|cffffffff|Hitem:169477::::::::80:263::::1:28:464:::::|h[]|h|r",
+},
+},
+[1879] = {
+{
+["icon"] = 2032593,
+["quantity"] = 75,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1600,
+},
+},
+[1895] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 100,
+["icon"] = 2032591,
+["currencyID"] = 1599,
+},
+},
+[1911] = {
+{
+["icon"] = 2065624,
+["quantity"] = 427,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1553,
+},
+},
+[1927] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 200,
+["icon"] = 2032592,
+["currencyID"] = 1579,
+},
+},
+[2157] = {
+{
+["quantity"] = 1,
+["itemID"] = 168616,
+["itemLink"] = "|cffffffff|Hitem:168616::::::::80:255::31::1:28:464:::::|h[]|h|r",
+},
+},
+[359] = {
+{
+["icon"] = 838813,
+["quantity"] = 1,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 994,
+},
+},
+[667] = {
+{
+["icon"] = 1131085,
+["quantity"] = 25,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1101,
+},
+},
+[120] = {
+{
+["itemID"] = 120302,
+["quantity"] = 1,
+},
+},
+[2158] = {
+{
+["quantity"] = 1,
+["itemID"] = 171985,
+["itemLink"] = "|cffff8000|Hitem:171985::::::::80:70:::::::::|h[Documents saisis]|h|r",
+},
+},
+[2309] = {
+{
+["quantity"] = 1,
+["itemID"] = 187577,
+["itemLink"] = "|cff0070dd|Hitem:187577::::::::80:255::31:::::::|h[Cache de viande korthienne]|h|r",
+},
+{
+["icon"] = 4067362,
+["quantity"] = 19,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1906,
+},
+},
+[2176] = {
+{
+["quantity"] = 1,
+["itemID"] = 181591,
+["itemLink"] = "|cffffffff|Hitem:181591::::::::80:255::25:3:1472:5904:6646::::::|h[]|h|r",
+},
+},
+[65] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 150,
+["tooltip"] = "+150 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+150 EXP",
+},
+},
+[2286] = {
+{
+["quantity"] = 1,
+["itemID"] = 184633,
+["itemLink"] = "|cffffffff|Hitem:184633::::::::80:255::31:::::::|h[]|h|r",
+},
+},
+[133] = {
+{
+["icon"] = 1005027,
+["quantity"] = 175,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 824,
+},
+},
+[2096] = {
+{
+["itemID"] = 163535,
+["quantity"] = 1,
+},
+},
+[272] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 10000,
+["tooltip"] = "+10000 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+10000 EXP",
+},
+},
+[276] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 15000,
+["tooltip"] = "+15000 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+15000 EXP",
+},
+},
+[1866] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 226,
+["icon"] = 2065624,
+["currencyID"] = 1553,
+},
+},
+[2140] = {
+{
+["quantity"] = 1,
+["itemID"] = 170502,
+["itemLink"] = "|cffffffff|Hitem:170502::::::::80:255::31::1:28:464:::::|h[]|h|r",
+},
+},
+[497] = {
+{
+["itemID"] = 122580,
+["quantity"] = 1,
+},
+},
+[129] = {
+{
+["itemID"] = 114616,
+["quantity"] = 1,
+},
+},
+[2171] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 1200,
+["tooltip"] = "+1200 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1200 EXP",
+},
+},
+[300] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 8000,
+["tooltip"] = "+8000 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+8000 EXP",
+},
+},
+[1176] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 5,
+["icon"] = 236521,
+["currencyID"] = 1533,
+},
+},
+[128] = {
+{
+["itemID"] = 114616,
+["quantity"] = 1,
+},
+},
+[66] = {
+{
+["itemID"] = 114826,
+["quantity"] = 1,
+},
+},
+[1883] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 225,
+["icon"] = 2065624,
+["currencyID"] = 1553,
+},
+},
+[1899] = {
+{
+["quantity"] = 4,
+["itemID"] = 160053,
+["itemLink"] = "|cff0070dd|Hitem:160053::::::::80:255:::::::::|h[Rune d’amélioration de bataille]|h|r",
+},
+},
+[2290] = {
+{
+["quantity"] = 1,
+["itemID"] = 184633,
+["itemLink"] = "|cffffffff|Hitem:184633::::::::80:255::31:::::::|h[]|h|r",
+},
+},
+[274] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 10000,
+["tooltip"] = "+10000 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+10000 EXP",
+},
+},
+[88] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 20,
+["icon"] = 1005027,
+["currencyID"] = 824,
+},
+},
+[2144] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 8,
+["icon"] = 463858,
+["currencyID"] = 1721,
+},
+},
+[1045] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 5,
+["icon"] = 236521,
+["currencyID"] = 1533,
+},
+},
+[87] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 150,
+["tooltip"] = "+150 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+150 EXP",
+},
+},
+[1884] = {
+{
+["icon"] = 2032594,
+["quantity"] = 100,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1592,
+},
+},
+[89] = {
+{
+["itemID"] = 114052,
+["quantity"] = 1,
+},
+},
+[1916] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 354,
+["icon"] = 2065624,
+["currencyID"] = 1553,
+},
+},
+[1932] = {
+{
+["icon"] = 2065624,
+["quantity"] = 240,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1553,
+},
+},
+[2229] = {
+{
+["quantity"] = 1,
+["itemID"] = 181416,
+["itemLink"] = "|cffa335ee|Hitem:181416::::::::80:255::26:3:1472:5907:6646::::::|h[Kilt gormécaille]|h|r",
+},
+{
+["icon"] = 255347,
+["quantity"] = 1,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1889,
+},
+},
+[2261] = {
+{
+["title"] = "Récompense (argent)",
+["quantity"] = 254914,
+["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+["currencyID"] = 0,
+},
+},
+[2169] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 1000,
+["tooltip"] = "+1000 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1000 EXP",
+},
+},
+[2071] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 375,
+["icon"] = 2032595,
+["currencyID"] = 1593,
+},
+},
+[1885] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 100,
+["icon"] = 2032591,
+["currencyID"] = 1599,
+},
+},
+[2262] = {
+{
+["quantity"] = 7,
+["itemID"] = 184148,
+["itemLink"] = "|cff1eff00|Hitem:184148::::::::80:70:::::::::|h[Fiole de vicevyr cachée]|h|r",
+},
+},
+[380] = {
+{
+["itemID"] = 120301,
+["quantity"] = 1,
+},
+},
+[1912] = {
+{
+["quantity"] = 4,
+["itemID"] = 160053,
+["itemLink"] = "|cff0070dd|Hitem:160053::::::::80:255:::::::::|h[Rune d’amélioration de bataille]|h|r",
+},
+},
+[1059] = {
+{
+["quantity"] = 1,
+["itemID"] = 147348,
+["itemLink"] = "|cffffffff|Hitem:147348::::::::80:251:::::::::|h[]|h|r",
+},
+},
+[1056] = {
+{
+["quantity"] = 1,
+["itemID"] = 147348,
+["itemLink"] = "|cffffffff|Hitem:147348::::::::80:251:::::::::|h[]|h|r",
+},
+},
+[2168] = {
+{
+["quantity"] = 7,
+["itemID"] = 181643,
+["itemLink"] = "|cff1eff00|Hitem:181643::::::::80:70:::::::::|h[Cadavrignon éploré]|h|r",
+},
+},
+[2200] = {
+{
+["icon"] = 3257748,
+["quantity"] = 250,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1804,
+},
+},
+[1886] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 75,
+["icon"] = 2032591,
+["currencyID"] = 1599,
+},
+},
+[1902] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 200,
+["icon"] = 2032596,
+["currencyID"] = 1594,
+},
+},
+[2296] = {
+{
+["icon"] = 3743738,
+["quantity"] = 120,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1828,
+},
+{
+["itemID"] = 178040,
+["quantity"] = 1,
+},
+},
+[2074] = {
+{
+["icon"] = 2032594,
+["quantity"] = 350,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1592,
+},
+},
+[2233] = {
+{
+["quantity"] = 11,
+["itemID"] = 184148,
+["itemLink"] = "|cffffffff|Hitem:184148::::::::80:255:::::::::|h[]|h|r",
+},
+},
+[1342] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 1600,
+["tooltip"] = "+1600 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1600 EXP",
+},
+},
+[2170] = {
+{
+["quantity"] = 1,
+["itemID"] = 184636,
+["itemLink"] = "|cffffffff|Hitem:184636::::::::80:70::31:::::::|h[]|h|r",
+},
+},
+[1938] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 225,
+["icon"] = 2032593,
+["currencyID"] = 1600,
+},
+},
+[2234] = {
+{
+["icon"] = 3514227,
+["quantity"] = 250,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1807,
+},
+},
+[498] = {
+{
+["itemID"] = 122582,
+["quantity"] = 1,
+},
+},
+[114] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 8000,
+["tooltip"] = "+8000 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+8000 EXP",
+},
+},
+[1173] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 5,
+["icon"] = 236521,
+["currencyID"] = 1533,
+},
+},
+[116] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 8000,
+["tooltip"] = "+8000 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+8000 EXP",
+},
+},
+[2267] = {
+{
+["quantity"] = 1,
+["itemID"] = 181221,
+["itemLink"] = "|cffffffff|Hitem:181221::::::::80:255::26:3:1472:5907:6646::::::|h[]|h|r",
+},
+},
+[118] = {
+{
+["title"] = "Expérience bonus de sujet",
+["followerXP"] = 8000,
+["tooltip"] = "+8000 EXP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+8000 EXP",
+},
+},
+[2077] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 350,
+["icon"] = 2032592,
+["currencyID"] = 1579,
+},
+},
+[1888] = {
+{
+["title"] = "Récompense (monnaie)",
+["quantity"] = 100,
+["icon"] = 2032596,
+["currencyID"] = 1594,
+},
+},
+[1953] = {
+{
+["icon"] = 2065624,
+["quantity"] = 466,
+["title"] = "Récompense (monnaie)",
+["currencyID"] = 1553,
+},
+},
+},
+["TypeAtlas"] = {
+["List"] = {
+"BfAMission-Icon-Stealth",
+"BfAMission-Icon-Normal",
+"BfAMission-Icon-DeepSea",
+"ClassHall-TreasureIcon-Desaturated",
+"ClassHall-CombatIcon-Desaturated",
+"GarrMission_MissionIcon-Combat",
+"GarrMission_MissionIcon-Patrol",
+"BfAMission-Icon-Treasure",
+"BfAMission-Icon-HUB",
+"ShipMissionIcon-Legendary-Map",
+"BfAMission-Icon-QuickStrike",
+"ClassHall-QuestIcon-Desaturated",
+},
+["Count"] = 12,
+["Set"] = {
+["GarrMission_MissionIcon-Patrol"] = 7,
+["ClassHall-CombatIcon-Desaturated"] = 5,
+["BfAMission-Icon-Normal"] = 2,
+["GarrMission_MissionIcon-Combat"] = 6,
+["ClassHall-TreasureIcon-Desaturated"] = 4,
+["BfAMission-Icon-HUB"] = 9,
+["BfAMission-Icon-QuickStrike"] = 11,
+["ClassHall-QuestIcon-Desaturated"] = 12,
+["ShipMissionIcon-Legendary-Map"] = 10,
+["BfAMission-Icon-Treasure"] = 8,
+["BfAMission-Icon-DeepSea"] = 3,
+["BfAMission-Icon-Stealth"] = 1,
+},
+},
+["Types"] = {
+["List"] = {
+"8.0 - Stealth",
+"8.0 - Generic Missions",
+"8.2 - Deep Sea",
+"7.0 Class Hall - Treasure Missions",
+"7.0 Class Hall - Generic Missions",
+"Combat",
+"Patrouille",
+"8.2 Azerite Essence - Treasure",
+"8.0 - Hub Unlock",
+"9.0 Encounter - Maldraxxus",
+"9.0 Encounter - Ardenweald",
+"9.0 Encounter - Revendreth",
+"9.0 Encounter - Bastion",
+"8.0 - Quick Strike",
+"9.0 Rencontre - Assaut de l’Antre",
+},
+["Count"] = 15,
+["Set"] = {
+["8.0 - Hub Unlock"] = 9,
+["9.0 Encounter - Ardenweald"] = 11,
+["Combat"] = 6,
+["8.0 - Quick Strike"] = 14,
+["9.0 Encounter - Bastion"] = 13,
+["8.2 Azerite Essence - Treasure"] = 8,
+["Patrouille"] = 7,
+["8.2 - Deep Sea"] = 3,
+["8.0 - Stealth"] = 1,
+["8.0 - Generic Missions"] = 2,
+["7.0 Class Hall - Generic Missions"] = 5,
+["9.0 Encounter - Revendreth"] = 12,
+["7.0 Class Hall - Treasure Missions"] = 4,
+["9.0 Encounter - Maldraxxus"] = 10,
+["9.0 Rencontre - Assaut de l’Antre"] = 15,
+},
+},
+}
+DataStore_Garrisons_Followers = {
+{
+["LevelCount"] = 0,
+["FollowerLinks"] = {
+[895] = "|cffffffff|Hgarrfollower:895:1:35:700:617:0:0:0:0:0:0:0:0|h[Meute de goules]|h|r",
+[584] = "|cffffffff|Hgarrfollower:584:1:42:760:444:0:0:0:0:0:0:0:361|h[Thassarian]|h|r",
+[586] = "|cffffffff|Hgarrfollower:586:1:40:760:446:0:0:0:0:0:0:0:363|h[Nazgrim]|h|r",
+[854] = "|cffffffff|Hgarrfollower:854:1:45:760:446:0:0:0:0:0:0:0:361|h[Amal’thazad]|h|r",
+[838] = "|cffffffff|Hgarrfollower:838:1:38:760:445:0:0:0:0:0:0:0:361|h[Thoras Trollemort]|h|r",
+[1003] = "|cffffffff|Hgarrfollower:1003:1:45:850:446:0:0:0:0:0:0:0:362|h[Minerva Corvepeine]|h|r",
+[902] = "|cffffffff|Hgarrfollower:902:1:35:700:619:0:0:0:0:0:0:0:0|h[Chevaliers d’ébène]|h|r",
+[853] = "|cffffffff|Hgarrfollower:853:1:44:760:444:0:0:0:0:0:0:0:362|h[Tord-Tripes]|h|r",
+[855] = "|cffffffff|Hgarrfollower:855:1:45:760:444:0:0:0:0:0:0:0:363|h[Généralissime Darion Mograine]|h|r",
+[662] = "|cffffffff|Hgarrfollower:662:1:35:700:617:0:0:0:0:0:0:0:0|h[Meute de goules]|h|r",
+[901] = "|cffffffff|Hgarrfollower:901:1:35:700:619:0:0:0:0:0:0:0:0|h[Chevaliers d’ébène]|h|r",
+[839] = "|cffffffff|Hgarrfollower:839:1:45:760:623:0:0:0:0:0:0:0:363|h[Grande inquisitrice Blanchetête]|h|r",
+[599] = "|cffffffff|Hgarrfollower:599:1:41:760:445:0:0:0:0:0:0:0:362|h[Koltira Tissemort]|h|r",
+},
+["Abilities"] = {
+},
+["Traits"] = {
+},
+["lastUpdate"] = 1726523439,
+["Followers"] = {
+[895] = 400,
+[584] = 387977120,
+[586] = 1,
+[854] = 6291472000,
+[838] = 1,
+[1003] = 16000,
+[902] = 400,
+[853] = 4114618224,
+[855] = 6291472000,
+[662] = 400,
+[901] = 400,
+[839] = 9110044288,
+[599] = 1,
+},
+["Infos"] = 0,
+["AbilityCounters"] = {
+},
+},
+{
+["LevelCount"] = 1,
+["FollowerLinks"] = {
+[34] = "|cff0070dd|Hgarrfollower:34:3:30:600:108:0:0:0:76:41:0:0:0|h[Qiana Lunombre]|h|r",
+[474] = "|cffa335ee|Hgarrfollower:474:4:40:600:122:102:0:0:244:46:76:0:0|h[Ariok]|h|r",
+},
+["Abilities"] = {
+},
+["Traits"] = {
+},
+["lastUpdate"] = 1726501270,
+["Followers"] = {
+[34] = 800,
+[474] = 0,
+},
+["Infos"] = 10317987905794,
+["AbilityCounters"] = {
+},
+},
+{
+["LevelCount"] = 1,
+["FollowerLinks"] = {
+[153] = "|cff1eff00|Hgarrfollower:153:2:30:600:159:0:0:0:60:0:0:0:0|h[Ka’la]|h|r",
+[34] = "|cff1eff00|Hgarrfollower:34:2:30:600:100:0:0:0:59:0:0:0:0|h[Olin Peau-de-Sienne]|h|r",
+[455] = "|cffa335ee|Hgarrfollower:455:4:40:600:172:171:0:0:69:7:74:0:0|h[Milhouse Tempête-de-Mana]|h|r",
+},
+["Abilities"] = {
+},
+["Traits"] = {
+},
+["lastUpdate"] = 1726524263,
+["Followers"] = {
+[153] = 800,
+[34] = 209716000,
+[455] = 0,
+},
+["AbilityCounters"] = {
+},
+["Infos"] = 10317987905539,
+},
+{
+["LevelCount"] = 1,
+["FollowerLinks"] = {
+[182] = "|cff0070dd|Hgarrfollower:182:3:30:600:160:0:0:0:60:45:0:0:0|h[Shelly Hamby]|h|r",
+[34] = "|cff1eff00|Hgarrfollower:34:2:30:600:108:0:0:0:53:0:0:0:0|h[Qiana Lunombre]|h|r",
+[683] = "|cffffffff|Hgarrfollower:683:1:35:700:521:0:0:0:0:0:0:0:0|h[Elémentaires inférieurs]|h|r",
+[474] = "|cffa335ee|Hgarrfollower:474:4:40:600:102:100:0:0:244:77:9:0:0|h[Ariok]|h|r",
+[183] = "|cff1eff00|Hgarrfollower:183:2:32:600:157:0:0:0:55:0:0:0:0|h[Rulkan]|h|r",
+[685] = "|cffffffff|Hgarrfollower:685:1:35:700:535:0:0:0:0:0:0:0:0|h[Cercle d’implorateurs de la terre]|h|r",
+[467] = "|cff1eff00|Hgarrfollower:467:2:30:600:145:0:0:0:45:0:0:0:0|h[Fen Tao]|h|r",
+[609] = "|cffffffff|Hgarrfollower:609:1:44:760:441:0:0:0:0:0:0:0:333|h[Duc Hydraxis]|h|r",
+[179] = "|cff1eff00|Hgarrfollower:179:2:32:600:126:0:0:0:59:0:0:0:0|h[Artificier Romuul]|h|r",
+[610] = "|cffffffff|Hgarrfollower:610:1:41:760:443:0:0:0:0:0:0:0:332|h[Consulaire Célestos]|h|r",
+[180] = "|cff1eff00|Hgarrfollower:180:2:30:600:149:0:0:0:53:0:0:0:0|h[Fiona]|h|r",
+[611] = "|cffffffff|Hgarrfollower:611:1:41:760:442:0:0:0:0:0:0:0:333|h[Long-voyant Nobundo]|h|r",
+[185] = "|cff1eff00|Hgarrfollower:185:2:30:600:101:0:0:0:8:0:0:0:0|h[Rangari Chel]|h|r",
+[612] = "|cffffffff|Hgarrfollower:612:1:45:760:441:0:0:0:0:0:0:0:332|h[Rehgar Rageterre]|h|r",
+[216] = "|cff0070dd|Hgarrfollower:216:3:31:600:116:0:0:0:231:39:0:0:0|h[Delvar Poing-de-Fer]|h|r",
+[613] = "|cffffffff|Hgarrfollower:613:1:45:760:442:0:0:0:0:0:0:0:331|h[Baron Brûlius]|h|r",
+[153] = "|cff1eff00|Hgarrfollower:153:2:30:600:161:0:0:0:54:0:0:0:0|h[Bruma Vitepierre]|h|r",
+[614] = "|cffffffff|Hgarrfollower:614:1:45:760:442:0:0:0:0:0:0:0:332|h[Muln Rageterre]|h|r",
+[785] = "|cffffffff|Hgarrfollower:785:1:35:700:521:0:0:0:0:0:0:0:0|h[Elémentaires inférieurs]|h|r",
+[615] = "|cffffffff|Hgarrfollower:615:1:44:760:441:0:0:0:0:0:0:0:331|h[Avalanchion l'Indompté]|h|r",
+[786] = "|cffffffff|Hgarrfollower:786:1:35:700:521:0:0:0:0:0:0:0:0|h[Elémentaires inférieurs]|h|r",
+[608] = "|cffffffff|Hgarrfollower:608:1:38:760:443:0:0:0:0:0:0:0:331|h[Mande-foudre Mylra]|h|r",
+},
+["Abilities"] = {
+},
+["Traits"] = {
+},
+["lastUpdate"] = 1726524650,
+["Followers"] = {
+[182] = 800,
+[34] = 209716000,
+[683] = 400,
+[474] = 0,
+[183] = 2400,
+[685] = 400,
+[467] = 524288800,
+[609] = 608180080,
+[179] = 2400,
+[610] = 1629490604,
+[180] = 800,
+[611] = 1388318124,
+[185] = 209716000,
+[612] = 16000,
+[216] = 1600,
+[613] = 16000,
+[153] = 800,
+[614] = 6090145408,
+[785] = 400,
+[615] = 6000,
+[786] = 400,
+[608] = 1,
+},
+["Infos"] = 10317987906058,
+["AbilityCounters"] = {
+},
+},
+}
+DataStore_Garrisons_FollowerNamesToID = {
+["Penny Fourbidubas"] = 211,
+["Clerc Maluuf"] = 459,
+["Delvar Poing-de-Fer"] = 216,
+["Harrison Jones"] = 465,
+["Hulda Lame-de-l’Ombre"] = 453,
+["Rulkan"] = 183,
+["Kaz la Hurleuse"] = 159,
+["Aknor Porte-Acier"] = 225,
+["Prêtre solaire Vayx"] = 582,
+["Milhouse Tempête-de-Mana"] = 455,
+["Ahm"] = 208,
+["Emmarel Ombregarde"] = 593,
+["Grande-mère Geyah"] = 186,
+["Sourcière Bonnegent"] = 581,
+["Baron Brûlius"] = 613,
+["Shelly Hamby"] = 182,
+["Cronan"] = 177,
+["Oronok Cœur-Fendu"] = 468,
+["Généralissime Darion Mograine"] = 855,
+["Daleera Croc-de-Lune"] = 463,
+["Fabricante d’armes Na’shra"] = 179,
+["Thassarian"] = 584,
+["Phylarque le Verpérenne"] = 194,
+["Consulaire Célestos"] = 610,
+["Blouk"] = 189,
+["Alexi Barov"] = 195,
+["Hemet Nesingwary"] = 745,
+["Prêtre de la serre Ishaal"] = 218,
+["Rangari Chel"] = 185,
+["Magatha Totem-Sinistre"] = 992,
+["Ziri’ak"] = 168,
+["Boulette"] = 203,
+["Sourcière Grossétincelle"] = 581,
+["Lokra"] = 185,
+["Garona Miorque"] = 466,
+["Mulverick"] = 182,
+["Traqueur de Gronns Rokash"] = 183,
+["Magistrice Serena"] = 154,
+["Nat Pagle"] = 202,
+["Magistère Krelas"] = 154,
+["Duc Hydraxis"] = 609,
+["Minerva Corvepeine"] = 1003,
+["Aeda Brillaube"] = 207,
+["Robot-bonheur 8000"] = 171,
+["Halduron Luisaile"] = 748,
+["Tord-Tripes"] = 853,
+["Professeur Gangrexplose"] = 460,
+["Amal’thazad"] = 854,
+["Kal'gor l'Honorable"] = 184,
+["Karg Fureur-Sanglante"] = 459,
+["Artificier Romuul"] = 179,
+["Elémentaires inférieurs"] = 683,
+["Rangari Kaalya"] = 159,
+["Leorajh"] = 219,
+["Dagg"] = 32,
+["Mande-foudre Mylra"] = 608,
+["Weldon Barov"] = 195,
+["Crin-d’Or l’Ecorcheur"] = 170,
+["Ulna Renard"] = 463,
+["Grande inquisitrice Blanchetête"] = 839,
+["Apprenti artificier Andren"] = 184,
+["Koltira Tissemort"] = 599,
+["Thisalee Corbeau"] = 217,
+["Miall"] = 155,
+["Chassenuit Syrenne"] = 996,
+["Benjamin Gibb"] = 204,
+["Vivianne"] = 216,
+["Rehgar Rageterre"] = 612,
+["Redresseuse de torts Heluun"] = 458,
+["Tormmok"] = 193,
+["Fen Tao"] = 467,
+["Olin Peau-de-Sienne"] = 34,
+["Qiana Lunombre"] = 34,
+["Rexxar"] = 743,
+["Chevaliers d’ébène"] = 902,
+["Défenseur Illona"] = 207,
+["Abu’gar"] = 209,
+["Choluna"] = 217,
+["Cercle d’implorateurs de la terre"] = 685,
+["Combattant d’arène Vaandaam"] = 176,
+["Amiral Taylor"] = 204,
+["Leeroy Jenkins"] = 178,
+["Ka’la"] = 153,
+["Rangari Erdanii"] = 212,
+["Lantresor de la Lame"] = 157,
+["Veneur Blake"] = 747,
+["Avalanchion l'Indompté"] = 615,
+["Addie Pétibourbe"] = 746,
+["Garde de la serre Kurekk"] = 224,
+["Morketh Hurlame"] = 155,
+["Bruma Vitepierre"] = 153,
+["Long-voyant Nobundo"] = 611,
+["Lieuse d’âme Tuulani"] = 205,
+["Fiona"] = 180,
+["Gloussos"] = 458,
+["Meute de goules"] = 662,
+["Redresseuse de torts Onaala"] = 186,
+["Belluaire Hilaire"] = 744,
+["Loren Sabot-Tempête"] = 742,
+["Cherchelaube Rukaryx"] = 462,
+["Forestier-sombre Velonara"] = 453,
+["Nazgrim"] = 586,
+["Muln Rageterre"] = 614,
+["Pallas"] = 580,
+["Glirin"] = 211,
+["Chasseur des ombres Rala"] = 180,
+["Image de l’archimage Vargoth"] = 190,
+["Thoras Trollemort"] = 838,
+["Bruto"] = 176,
+["Esprit de Xuk le Décharné"] = 212,
+["Ariok"] = 474,
+["Kimzee Sifflepince"] = 192,
+}
+DataStore_Garrisons_Buildings = {
+{
+},
+{
+},
+{
+},
+{
+},
+}
+DataStore_Garrisons_CovenantSanctum = {
+}
+DataStore_Garrisons_CypherEquipment = {
+}
+DataStore_Garrisons_Shipments = {
+{
+["artifactResearchNumReady"] = 0,
+["artifactResearchDuration"] = 0,
+["artifactResearchCreationTime"] = 0,
+["artifactResearchNumTotal"] = 0,
+},
+{
+["artifactResearchNumReady"] = 0,
+["artifactResearchDuration"] = 0,
+["artifactResearchCreationTime"] = 0,
+["artifactResearchNumTotal"] = 0,
+},
+{
+["artifactResearchCreationTime"] = 0,
+["artifactResearchDuration"] = 0,
+["artifactResearchNumReady"] = 0,
+["artifactResearchNumTotal"] = 0,
+},
+{
+["artifactResearchNumReady"] = 0,
+["artifactResearchDuration"] = 0,
+["artifactResearchCreationTime"] = 0,
+["artifactResearchNumTotal"] = 0,
+},
+}
+DataStore_Garrisons_Options = {
+["ReportUncollected"] = true,
+["ReportLevel"] = 400,
+}
