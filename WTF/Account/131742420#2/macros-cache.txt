@@ -2,11 +2,9 @@ VER 3 0000000000000005 "*" "629534"
 #showtooltip Paralysie
 /cast [@mouseover, harm, exists][nomod] Paralysie
 END
-VER 3 0000000000000A08 "/way 51,9, 52,5 " "132189"
-/way 51,9, 52,5 Enigmatic Decrypting Device
-/way 60,8, 34,9 Blue Book - Book of Binding: The Tormented Sorcerer
-/way 28.9, 54.2 Cipher of Understanding
-/way 51.4, 20.1 Unstable Explosive Orb
+VER 3 0000000000000A08 "*sample" "132189"
+#showtooltip Gel de l'esprit
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Gel de l'esprit
 END
 VER 3 000000000000000A "4 vents" "649816"
 /way Vallée des quatre vents 20 55 Lieu de naisance de Liu Lang

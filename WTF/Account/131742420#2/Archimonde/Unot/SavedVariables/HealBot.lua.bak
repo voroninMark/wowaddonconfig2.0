@@ -14,13 +14,13 @@ HealBot_Config = {
 },
 ["CurrentSpec"] = 3,
 ["Skin_ID"] = -1,
-["LastLoadout"] = 118465388,
+["LastLoadout"] = 118597796,
 ["LastAutoSkinChangeTime"] = 0,
-["CurrentLoadout"] = 118465388,
+["CurrentLoadout"] = 118597796,
 ["SkinSpecEnabled"] = {
 },
 ["PrivFocus"] = "x",
-["SpecProfAtSave"] = "1:3:118465388",
+["SpecProfAtSave"] = "1:3:118597796",
 ["MacroUse10"] = false,
 ["Spec"] = "Marche-vent",
 ["DisableOnSpec"] = {
@@ -85,6 +85,7 @@ HealBot_Config_Spells = {
 ["ButtonCastMethod"] = 2,
 ["EnabledKeyCombo"] = {
 ["Left"] = "S:116670^Vivifier",
+["ShiftLeft"] = "S:115450^Détoxification",
 },
 ["SpellsReset"] = true,
 ["SpellTargetLastTarget"] = {
@@ -153,21 +154,21 @@ HealBot_Config_Buffs = {
 ["22"] = 4,
 ["32"] = 4,
 },
-["ListSortOrder"] = 1,
+["CustomBuffCheck"] = {
+false,
+false,
+false,
+},
 ["ListSortFilterTag"] = "",
+["ListSortOrder"] = 1,
+["BuffWatch"] = true,
+["WarnRange_Bar"] = 2,
+["BuffCustomWatchInCombat"] = true,
 ["CustomBuffName"] = {
 "",
 "",
 "",
 "",
-},
-["BuffWatch"] = true,
-["WarnRange_Bar"] = 2,
-["BuffCustomWatchInCombat"] = true,
-["CustomBuffCheck"] = {
-false,
-false,
-false,
 },
 ["LongBuffTimer"] = 120,
 ["BuffWatchInCombat"] = false,
@@ -301,7 +302,7 @@ HealBot_Config_Cures = {
 ["24"] = "None",
 ["35"] = "Aucun(e)",
 ["22"] = "None",
-["31"] = "None",
+["31"] = "Détoxification",
 ["21"] = "None",
 ["11"] = "None",
 ["32"] = "None",
@@ -353,11 +354,17 @@ HealBot_Config_Cures = {
 ["AlwaysShowBoss"] = true,
 }
 HealBot_ActionIcons_Loadouts = {
+["Standard:3:118597796"] = "lodJlK4kjU4a8d",
 ["Standard:3:118465388"] = "lodJlK4kjU4a8d",
+["Standard:3:118503576"] = "lodJlK4kjU4a8d",
 }
 HealBot_ActionIconsData_Loadouts = {
+["Standard:3:118597796"] = "lodJlK4kjU4a8d",
 ["Standard:3:118465388"] = "lodJlK4kjU4a8d",
+["Standard:3:118503576"] = "lodJlK4kjU4a8d",
 }
 HealBot_Spell_Loadouts = {
-["3:118465388"] = "fgzupnimuu4)s7wvMU3eIp50hgl(ytyH7MnwOM2lKWd6VDl3lK1SaXeYb40E(OCUAqFux(sB1jlwx(nAThR8xqk6s347nTFHemVc2m8CVZuNB7WIoFW5twjnHAYVb9xwI0O)R4qHR5KtSYnT1H4JVd8LI17y9EwFG1mw3Y6JS(KezJCtsdsCqYdcaqiaccqyaceqOOyklDWvRwoQvQG0F11lTBkHoICTfvb6nK(0vp2dZFZKDwUhph3D5oaYY2U53F(W0BoBq)id(meoGH4anF6vz(UpYDHj9)nrttCTwU6sA9F)",
+["3:118503576"] = "1fzqpnmmmu4)s1bOJXnsfNyWb6ehJuNI3iI2eusAL6b43(YSlsHsMu1Rvp33xCSvGAVQ9jB3HEu3(f23VVZFcJj34kFVX(jgHFRGdZpo5mAz)i2m6doFwL8eIf)b0FQePl(pJZnUHdo2sAS6q6Zxb6rq6nKElP3rAnPBi9Es3YrQ4xCAGJdCEGbambGramdGHamfbrPuJlU6WrCLrq(vT4qtogJoBtxi(cg)WPVCPZp4)VtYMyT7WJPcTpaqD9MQF((DZK5Ob9R6Lmizg7shAb(fBtkw4nmK(z5c7)S6Ik15",
+["3:118597796"] = "fkvqonmmqWVuxttkWnsGtu4aPIJwkLSP1IKyK9Mk6b4)W7Gpgo72QyvLiKIM4m7oZ6m2AqVrx8qx52gSQ4dSPztPBhsbw6cENP7DKGZvW2J3DWAQYA6X8EN36IQeRqDIVfD7MYPb(hXJ522TwHkZ0v5dlFg4hfJxX4sgtymLXvmEnJ3iswiVe1Gihe9GyaioaIfG4biMaIlk2LP24Qzdh1mrq8V68H2fHqpr2U8sp9es7Tvd5W5zg1zXASo0DXTaKMUAX3F9Q5GP2GUa3EtnnwozzsO89)(dz)m0XBLKX2nmjEN6Fb9HJ9StFk3cwhM(e3h(VZ9yfJH3ilP1)b",
+["3:118465388"] = "1fzWUnimqq0FPSUnqAUvq5uO9qb1JwcelPwbWv2gK4qZ3En7MO6g5iHgqJ988YyjiRKLhgRB6X2YVX((QAZj05DD35BuJNrhCBfCy51zTQnRFcZNmwTjyLWeIR(dO5umsR(hXLC9qJMTYuJTw)NVd0JG0Ni9zs3sAcPPKUJ0x4iB4xCAGJdCEGbambGramdGHamfbrj2GlEy5iEqfe(RgV0(7mcQ)SjNtpMxBDVHUV0TRvXTJnOXklWo)Ul3dqss6Ml)8PAw1PqZDZsa5aJcp(i35rhtkM9d063C2v2)7QZjL)o",
 }

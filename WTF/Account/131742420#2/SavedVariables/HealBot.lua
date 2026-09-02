@@ -164,10 +164,10 @@ Healbot_Config_Skins = {
 },
 ["Standard"] = {
 {
-["Y"] = 77.92,
-["X"] = 28.26,
-["RealY"] = 330,
-["RealX"] = -481,
+["Y"] = 42.06,
+["X"] = 29.52,
+["RealY"] = -94,
+["RealX"] = -430,
 },
 {
 ["Y"] = 51,
@@ -1006,7 +1006,7 @@ HealBot_Globals = {
 },
 ["Tooltip_IgnoreGCD"] = false,
 ["aggro2pct"] = 55,
-["CPUUsage"] = 25,
+["CPUUsage"] = 36,
 ["SmartCastDebuff"] = true,
 ["Tooltip_MouseWheel"] = false,
 ["CustomDebuffsFilter"] = {
@@ -1025,7 +1025,7 @@ HealBot_Globals = {
 ["PluginBuffWatch"] = true,
 ["OptionsTheme"] = 1,
 ["PluginHealthWatch"] = true,
-["LAG"] = 0.025,
+["LAG"] = 0.026,
 ["VehicleFontSizeReduction"] = 4,
 ["FrameStrata"] = "LOW",
 ["RightButtonOptions"] = false,
@@ -1200,7 +1200,7 @@ HealBot_Globals = {
 },
 ["CustomDebuffsIconSet"] = {
 },
-["FPS"] = 99,
+["FPS"] = 144,
 ["IgnoreCustomBuff"] = {
 },
 ["WatchHoT"] = {
@@ -1342,10 +1342,10 @@ HealBot_Globals = {
 [73685] = 1,
 },
 ["ROGU"] = {
-[1966] = 1,
-[31224] = 1,
-[5277] = 1,
 [11327] = 1,
+[1966] = 1,
+[5277] = 1,
+[31224] = 1,
 },
 ["DEAT"] = {
 [42650] = 1,
@@ -1473,7 +1473,7 @@ true,
 "lodJlK4kjU4a8d",
 "lodJlK4kjU4a8d",
 },
-["LASTSAVE"] = 1788095268,
+["LASTSAVE"] = 1788362072,
 ["FREQSAVES"] = false,
 ["BUFFS"] = {
 "lodJlK4kjU4a8d",

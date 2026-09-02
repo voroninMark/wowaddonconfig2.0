@@ -28,8 +28,8 @@ HandyNotes_Shadowlands: disabled
 HandyNotes_TheWarWithin: disabled
 HandyNotes_WarWithin: disabled
 HealBot: enabled
-HealBot_ExtraSkins: disabled
-HealBot_Tips: disabled
+HealBot_ExtraSkins: enabled
+HealBot_Tips: enabled
 idTip: enabled
 Leatrix_Plus: disabled
 LiteMount: enabled
@@ -97,3 +97,4 @@ EllesmereUIDamageMeters: enabled
 EllesmereUIChat: enabled
 EllesmereUIMythicTimer: enabled
 EllesmereUIQuestTracker: enabled
+CraftSim: enabled

@@ -1,0 +1,8 @@
+VER 3 0100000000000001 "cut" "134400"
+#showtooltip Pique de main
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Pique de main
+END
+VER 3 0100000000000002 "para" "134400"
+#showtooltip Paralysie
+/cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Paralysie
+END

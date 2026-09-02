@@ -116,6 +116,10 @@ VER 3 0100000000000025 "nopo" "134400"
 /cast Assaut impie
 /use 13
 END
+VER 3 0100000000000021 "ovinax" "135305"
+/cast Pilier de givre
+/cast Anéantissement
+END
 VER 3 010000000000001E "ovinax" "132257"
 /cast !Souffle de Sindragosa
 /cast Réanimation morbide
@@ -123,21 +127,10 @@ VER 3 010000000000001E "ovinax" "132257"
 /w Blodheal pi mi
 /use Potion tempérée fugace
 END
-VER 3 0100000000000021 "ovinax" "135305"
-/cast Pilier de givre
-/cast Anéantissement
-END
 VER 3 0100000000000022 "ovinax no pot" "132256"
 /cast !Souffle de Sindragosa
 /cast Réanimation morbide
 /cast Renforcer l'arme runique
-END
-VER 3 0100000000000016 "pot" "134400"
-#showtooltip
-/cast Assaut impie
-/use 13
-/use Potion tempérée fugace
-/use Potion tempérée
 END
 VER 3 0100000000000019 "pot" "1029007"
 /cast !Souffle de Sindragosa
@@ -146,16 +139,16 @@ VER 3 0100000000000019 "pot" "1029007"
 /use Potion tempérée fugace
 /use Potion tempérée
 END
+VER 3 0100000000000016 "pot" "134400"
+#showtooltip
+/cast Assaut impie
+/use 13
+/use Potion tempérée fugace
+/use Potion tempérée
+END
 VER 3 010000000000000C "reanimate" "136143"
 #showtooltip Réanimation d'un allié
 /cast [target=mouseover,exists] [] Réanimation d'un allié
-END
-VER 3 0100000000000026 "silken" "134400"
-/cast !Souffle de Sindragosa
-/cast Réanimation morbide
-/cast Renforcer l'arme runique
-/use Potion tempérée fugace
-/use Potion tempérée
 END
 VER 3 0100000000000027 "silken" "134400"
 #showtooltip
@@ -164,6 +157,13 @@ VER 3 0100000000000027 "silken" "134400"
 /cast Réanimation morbide
 /use 14
 /use 13
+END
+VER 3 0100000000000026 "silken" "134400"
+/cast !Souffle de Sindragosa
+/cast Réanimation morbide
+/cast Renforcer l'arme runique
+/use Potion tempérée fugace
+/use Potion tempérée
 END
 VER 3 0100000000000028 "silken pi" "133660"
 /w Blodheal pi me

@@ -4,15 +4,15 @@ SimulationCraftDB = {
 ["Unotre - Archimonde"] = "Unotre - Archimonde",
 ["Rojce - Archimonde"] = "Rojce - Archimonde",
 ["Sudistte - Archimonde"] = "Sudistte - Archimonde",
-["Kronf - Archimonde"] = "Kronf - Archimonde",
+["Knort - Archimonde"] = "Knort - Archimonde",
 ["Unot - Archimonde"] = "Unot - Archimonde",
-["Hotr - Khaz Modan"] = "Hotr - Khaz Modan",
+["Unhote - Archimonde"] = "Unhote - Archimonde",
 ["Unotr - Archimonde"] = "Unotr - Archimonde",
 ["Oit - Archimonde"] = "Oit - Archimonde",
 ["Lesotr - Archimonde"] = "Lesotr - Archimonde",
-["Knort - Archimonde"] = "Knort - Archimonde",
+["Kronf - Archimonde"] = "Kronf - Archimonde",
 ["Spacewølf - Archimonde"] = "Spacewølf - Archimonde",
-["Unhote - Archimonde"] = "Unhote - Archimonde",
+["Hotr - Khaz Modan"] = "Hotr - Khaz Modan",
 ["Unote - Archimonde"] = "Unote - Archimonde",
 ["Utîle - Archimonde"] = "Utîle - Archimonde",
 ["Malferrant - Archimonde"] = "Malferrant - Archimonde",
@@ -25,11 +25,11 @@ SimulationCraftDB = {
 },
 ["Sudistte - Archimonde"] = {
 },
-["Kronf - Archimonde"] = {
+["Knort - Archimonde"] = {
 },
 ["Unot - Archimonde"] = {
 },
-["Hotr - Khaz Modan"] = {
+["Unhote - Archimonde"] = {
 },
 ["Unotr - Archimonde"] = {
 },
@@ -37,7 +37,7 @@ SimulationCraftDB = {
 },
 ["Lesotr - Archimonde"] = {
 },
-["Knort - Archimonde"] = {
+["Kronf - Archimonde"] = {
 },
 ["Spacewølf - Archimonde"] = {
 ["frame"] = {
@@ -45,7 +45,7 @@ SimulationCraftDB = {
 ["ofsy"] = 3.282112121582031,
 },
 },
-["Unhote - Archimonde"] = {
+["Hotr - Khaz Modan"] = {
 },
 ["Unote - Archimonde"] = {
 ["frame"] = {

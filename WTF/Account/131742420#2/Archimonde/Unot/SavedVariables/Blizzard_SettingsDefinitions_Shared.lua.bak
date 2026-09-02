@@ -1,7 +1,9 @@
 
 NewSettingsSeen = {
 ["showPingsOnRaidFrames"] = true,
+["ADVANCED_COOLDOWN_SETTINGS1"] = true,
 ["accessibilityScreenNarrationEnabled"] = true,
+["ADVANCED_COOLDOWN_SETTINGS"] = true,
 ["nameplateUseClassColorForFriendlyPlayerUnitNames"] = true,
 ["nameplateShowFriendlyRealmName"] = true,
 ["pingTarget"] = true,
