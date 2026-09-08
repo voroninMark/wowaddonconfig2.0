@@ -303,105 +303,6 @@ EllesmereUIDB = {
 },
 ["main"] = {
 ["specProfiles"] = {
-[1480] = {
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
-["buffVariantAliases"] = {
-[1238495] = {
-[1238488] = true,
-},
-[1227619] = {
-[1245577] = true,
-},
-[1238488] = {
-[1238495] = true,
-},
-[1245577] = {
-[1227619] = true,
-},
-},
-["_migrations"] = {
-["cdm_strip_tbb_linked_frames"] = true,
-["cdm_buff_order_user_flag_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
-["cdm_ghost_strip_racials_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
-["cdm_buff_assignedspells_reseed_v1"] = true,
-["cdm_strip_legacy_spell_keys"] = true,
-["cdm_ghost_cd_bar_cleanup_v3"] = true,
-["cdm_remove_discontinued_presets"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
-["cdm_strip_buff_bar_item_ids_v1"] = true,
-["cdm_spell_settings_tiers_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
-},
-["barSpells"] = {
-["focuskick"] = {
-["assignedSpells"] = {
-},
-},
-["cooldowns"] = {
-["assignedSpells"] = {
-344862,
-473728,
-191427,
-1246167,
-258920,
-},
-},
-["buffs"] = {
-["buffDisplayOrder"] = {
-"c74394",
-"c90222",
-"c91113",
-},
-["_buffDisplayOrderUserModified"] = true,
-},
-["utility"] = {
-["assignedSpells"] = {
-185123,
-344865,
-183752,
-198589,
-1245412,
-207684,
-198793,
-1234195,
-278326,
-217832,
-202719,
-},
-},
-},
-["spellSettingsCD"] = {
-},
-["tbbUnlockLinks"] = {
-["hm"] = {
-},
-["wm"] = {
-},
-["anchors"] = {
-},
-},
-["trackedBuffBars"] = {
-["_pandemicModeMigrated"] = true,
-["selectedBar"] = 1,
-["_groupMigrated"] = true,
-["_visMigrated"] = true,
-["bars"] = {
-},
-["_iconTotalMigrated"] = true,
-},
-["tbbPositions"] = {
-},
-["_dormantMerged"] = true,
-["_importGhostMode"] = true,
-},
 ["252"] = {
 ["barGlows"] = {
 ["enabled"] = true,
@@ -500,10 +401,6 @@ EllesmereUIDB = {
 },
 ["_buffDisplayOrderUserModified"] = true,
 },
-["custom_6_38827_547"] = {
-["assignedSpells"] = {
-},
-},
 ["utility"] = {
 ["assignedSpells"] = {
 48265,
@@ -554,14 +451,14 @@ EllesmereUIDB = {
 [455122] = {
 [460590] = true,
 },
-[1221389] = {
-[1246769] = true,
+[1277009] = {
+[1244329] = true,
 },
 [460590] = {
 [455122] = true,
 },
-[1277009] = {
-[1244329] = true,
+[1242974] = {
+[384452] = true,
 },
 [1247730] = {
 [1247729] = true,
@@ -587,8 +484,8 @@ EllesmereUIDB = {
 [79684] = {
 [263725] = true,
 },
-[1242974] = {
-[384452] = true,
+[1221389] = {
+[1246769] = true,
 },
 },
 ["_migrations"] = {
@@ -681,100 +578,21 @@ EllesmereUIDB = {
 },
 ["_importGhostMode"] = true,
 },
-[263] = {
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
-["buffVariantAliases"] = {
-[445024] = {
-[453406] = true,
-[453405] = true,
-[453409] = true,
-},
-[188389] = {
-[470057] = true,
-},
-[470057] = {
-[188389] = true,
-},
-[1252415] = {
-[187878] = true,
-[187874] = true,
-},
-[187874] = {
-[1252415] = true,
-[187878] = true,
-},
-[187878] = {
-[1252415] = true,
-[187874] = true,
-},
-[444995] = {
-[137041] = true,
-},
-[1262713] = {
-[1262830] = true,
-},
-[470532] = {
-[455096] = true,
-},
-[384143] = {
-[410681] = true,
-},
-[453405] = {
-[445024] = true,
-},
-[453406] = {
-[445024] = true,
-},
-[455096] = {
-[470532] = true,
-},
-[410681] = {
-[384143] = true,
-},
-[201900] = {
-[215785] = true,
-},
-[453409] = {
-[445024] = true,
-},
-[137041] = {
-[444995] = true,
-},
-[215785] = {
-[201900] = true,
-},
-[1262830] = {
-[1262713] = true,
-},
-},
-["spellSettingsBuff"] = {
-[1262830] = {
-["buffGlow"] = 6,
-},
-[454015] = {
-["buffGlow"] = 6,
-},
-},
+[1467] = {
 ["_migrations"] = {
 ["cdm_strip_tbb_linked_frames"] = true,
 ["cdm_buff_order_user_flag_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
 ["cdm_ghost_strip_racials_v1"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
 ["cdm_buff_assignedspells_reseed_v1"] = true,
 ["cdm_strip_legacy_spell_keys"] = true,
 ["cdm_ghost_cd_bar_cleanup_v3"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
 ["cdm_remove_discontinued_presets"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
 ["cdm_strip_buff_bar_item_ids_v1"] = true,
 ["cdm_spell_settings_tiers_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
 },
 ["barSpells"] = {
 ["focuskick"] = {
@@ -783,44 +601,225 @@ EllesmereUIDB = {
 },
 ["cooldowns"] = {
 ["assignedSpells"] = {
-73899,
-60103,
-470411,
-187874,
-197214,
-444995,
-384352,
+357208,
+359073,
+356995,
+357211,
+375087,
+357210,
+370553,
 },
 },
 ["buffs"] = {
 ["buffDisplayOrder"] = {
-"c82618",
-"c113506",
-"c82398",
-"c175622",
-"c82404",
-"c82405",
-"c82406",
-"c112545",
-"c82624",
-"c82615",
-"c174832",
+"c123619",
+"c1731",
+"c57411",
+"c1732",
+"c57508",
 },
 ["_buffDisplayOrderUserModified"] = true,
 },
 ["utility"] = {
 ["assignedSpells"] = {
-57994,
-51886,
-192058,
-2484,
-108271,
-198103,
-196884,
-58875,
-192077,
-383013,
-2825,
+351338,
+370665,
+390386,
+363916,
+360995,
+358267,
+368970,
+358385,
+374251,
+365585,
+357214,
+},
+},
+},
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["tbbUnlockLinks"] = {
+["hm"] = {
+},
+["wm"] = {
+},
+["anchors"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["tbbPositions"] = {
+},
+["_dormantMerged"] = true,
+["_importGhostMode"] = true,
+},
+[63] = {
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+},
+["barSpells"] = {
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+319836,
+11366,
+2120,
+190319,
+153561,
+2948,
+},
+},
+["buffs"] = {
+["buffDisplayOrder"] = {
+"c6154",
+},
+["_buffDisplayOrderUserModified"] = true,
+},
+["utility"] = {
+["assignedSpells"] = {
+1953,
+342245,
+235313,
+45438,
+66,
+55342,
+2139,
+475,
+122,
+120,
+157980,
+80353,
+28730,
+},
+},
+},
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["tbbUnlockLinks"] = {
+["hm"] = {
+},
+["wm"] = {
+},
+["anchors"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["tbbPositions"] = {
+},
+["_dormantMerged"] = true,
+["_importGhostMode"] = true,
+},
+[250] = {
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+},
+["barSpells"] = {
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+195182,
+50842,
+43265,
+439843,
+49028,
+48792,
+55233,
+48707,
+},
+},
+["buffs"] = {
+["buffDisplayOrder"] = {
+"c90606",
+"c9125",
+"c9238",
+"c125783",
+"c125834",
+"c133836",
+"c90603",
+"c169910",
+"c90611",
+"c90610",
+},
+["_buffDisplayOrderUserModified"] = true,
+},
+["utility"] = {
+["assignedSpells"] = {
+212552,
+203173,
+77606,
+48265,
+47528,
+221562,
+49039,
+207167,
+56222,
+51052,
+108199,
+48743,
+49576,
+1263569,
+61999,
+59752,
 },
 },
 },
@@ -838,37 +837,22 @@ EllesmereUIDB = {
 ["_pandemicModeMigrated"] = true,
 ["selectedBar"] = 1,
 ["_groupMigrated"] = true,
-["_visMigrated"] = true,
 ["bars"] = {
 },
 ["_iconTotalMigrated"] = true,
 },
-["_dormantMerged"] = true,
 ["tbbPositions"] = {
 },
+["_dormantMerged"] = true,
 ["_importGhostMode"] = true,
 },
-[64] = {
+[251] = {
 ["barGlows"] = {
 ["enabled"] = true,
 ["selectedBar"] = "cooldowns",
 ["assignments"] = {
 },
 ["_colorModeMigrated"] = true,
-},
-["buffVariantAliases"] = {
-[1221389] = {
-[1246769] = true,
-},
-[190446] = {
-[190447] = true,
-},
-[1246769] = {
-[1221389] = true,
-},
-[190447] = {
-[190446] = true,
-},
 },
 ["_migrations"] = {
 ["cdm_strip_tbb_linked_frames"] = true,
@@ -892,38 +876,57 @@ EllesmereUIDB = {
 },
 ["cooldowns"] = {
 ["assignedSpells"] = {
-116,
-319836,
-84714,
-44614,
-190356,
-205021,
+196770,
+316239,
+207230,
+49143,
+194913,
+49184,
+51271,
+439843,
+279302,
+1249658,
+47568,
 },
 },
 ["buffs"] = {
 ["buffDisplayOrder"] = {
-"c93744",
-"c82148",
-"c122569",
-"c82090",
+"c50939",
+"c86099",
+"c86136",
+"c104864",
+"c51190",
+"c85992",
+"c86027",
+"c86354",
+"c103847",
+"c103988",
+"c104126",
+"c104220",
+"c104640",
+"c27650",
 },
 ["_buffDisplayOrderUserModified"] = true,
 },
 ["utility"] = {
 ["assignedSpells"] = {
-1953,
-342245,
-11426,
-45438,
-66,
-2139,
-475,
-122,
-120,
-80353,
-28730,
+48265,
+212552,
+47528,
+221562,
+48707,
+48792,
+48743,
+207167,
+51052,
+49576,
+61999,
+49039,
+59752,
 },
 },
+},
+["spellSettingsCD"] = {
 },
 ["tbbUnlockLinks"] = {
 ["hm"] = {
@@ -941,9 +944,9 @@ EllesmereUIDB = {
 },
 ["_iconTotalMigrated"] = true,
 },
-["_dormantMerged"] = true,
 ["tbbPositions"] = {
 },
+["_dormantMerged"] = true,
 ["_importGhostMode"] = true,
 },
 [252] = {
@@ -1169,7 +1172,7 @@ EllesmereUIDB = {
 },
 ["_importGhostMode"] = true,
 },
-[63] = {
+[1468] = {
 ["_migrations"] = {
 ["cdm_strip_tbb_linked_frames"] = true,
 ["cdm_buff_order_user_flag_v1"] = true,
@@ -1192,35 +1195,33 @@ EllesmereUIDB = {
 },
 ["cooldowns"] = {
 ["assignedSpells"] = {
-319836,
-11366,
-2120,
-190319,
-153561,
-2948,
+366155,
+360995,
+370553,
+355936,
+357208,
+357170,
+363534,
+357210,
 },
 },
 ["buffs"] = {
 ["buffDisplayOrder"] = {
-"c6154",
+"c1019",
+"c1100",
+"c93910",
 },
 ["_buffDisplayOrderUserModified"] = true,
 },
 ["utility"] = {
 ["assignedSpells"] = {
-1953,
-342245,
-235313,
-45438,
-66,
-55342,
-2139,
-475,
-122,
-120,
-157980,
-80353,
-28730,
+358267,
+363916,
+365585,
+374251,
+368970,
+358385,
+357214,
 },
 },
 },
@@ -1243,555 +1244,6 @@ EllesmereUIDB = {
 ["_pandemicModeMigrated"] = true,
 ["selectedBar"] = 1,
 ["_groupMigrated"] = true,
-["bars"] = {
-},
-["_iconTotalMigrated"] = true,
-},
-["tbbPositions"] = {
-},
-["_dormantMerged"] = true,
-["_importGhostMode"] = true,
-},
-[264] = {
-["_migrations"] = {
-["cdm_strip_tbb_linked_frames"] = true,
-["cdm_buff_order_user_flag_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
-["cdm_ghost_strip_racials_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
-["cdm_buff_assignedspells_reseed_v1"] = true,
-["cdm_strip_legacy_spell_keys"] = true,
-["cdm_ghost_cd_bar_cleanup_v3"] = true,
-["cdm_remove_discontinued_presets"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
-["cdm_strip_buff_bar_item_ids_v1"] = true,
-["cdm_spell_settings_tiers_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
-},
-["barSpells"] = {
-["focuskick"] = {
-["assignedSpells"] = {
-},
-},
-["cooldowns"] = {
-["assignedSpells"] = {
-61295,
-73685,
-5394,
-73920,
-444995,
-470411,
-114052,
-108280,
-98008,
-51505,
-443454,
-378081,
-274738,
-},
-},
-["buffs"] = {
-["buffDisplayOrder"] = {
-"c113083",
-"c77966",
-"c32869",
-"c33226",
-"c94820",
-"c175914",
-},
-["_buffDisplayOrderUserModified"] = true,
-},
-["utility"] = {
-["assignedSpells"] = {
-58875,
-192063,
-192077,
-108271,
-198103,
-57994,
-192058,
-2484,
-383013,
-440012,
-2825,
-},
-},
-},
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
-["tbbUnlockLinks"] = {
-["hm"] = {
-},
-["wm"] = {
-},
-["anchors"] = {
-},
-},
-["trackedBuffBars"] = {
-["_pandemicModeMigrated"] = true,
-["selectedBar"] = 1,
-["_groupMigrated"] = true,
-["bars"] = {
-},
-["_iconTotalMigrated"] = true,
-},
-["tbbPositions"] = {
-},
-["_dormantMerged"] = true,
-["_importGhostMode"] = true,
-},
-[72] = {
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
-["buffVariantAliases"] = {
-[1269308] = {
-[1269349] = true,
-},
-[184361] = {
-[184362] = true,
-},
-[1269314] = {
-[1269394] = true,
-},
-[386633] = {
-[386634] = true,
-},
-[12950] = {
-[85739] = true,
-},
-[1269394] = {
-[1269314] = true,
-},
-[184362] = {
-[184361] = true,
-},
-[1269349] = {
-[1269308] = true,
-},
-[85739] = {
-[12950] = true,
-},
-[772] = {
-[388539] = true,
-},
-[386634] = {
-[386633] = true,
-},
-[388539] = {
-[772] = true,
-},
-},
-["_migrations"] = {
-["cdm_strip_tbb_linked_frames"] = true,
-["cdm_buff_order_user_flag_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
-["cdm_ghost_strip_racials_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
-["cdm_buff_assignedspells_reseed_v1"] = true,
-["cdm_strip_legacy_spell_keys"] = true,
-["cdm_ghost_cd_bar_cleanup_v3"] = true,
-["cdm_remove_discontinued_presets"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
-["cdm_strip_buff_bar_item_ids_v1"] = true,
-["cdm_spell_settings_tiers_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
-},
-["barSpells"] = {
-["focuskick"] = {
-["assignedSpells"] = {
-},
-},
-["cooldowns"] = {
-["assignedSpells"] = {
-12294,
-1680,
-7384,
-772,
-23881,
-85288,
-1464,
-6343,
-163201,
-260708,
-167105,
-436358,
-385059,
-227847,
-376079,
-1719,
-107574,
-},
-},
-["buffs"] = {
-["buffDisplayOrder"] = {
-"c48610",
-"c17728",
-"c98139",
-},
-["_buffDisplayOrderUserModified"] = true,
-},
-["utility"] = {
-["assignedSpells"] = {
-6552,
-107570,
-46968,
-12323,
-97462,
-59752,
-23920,
-118038,
-34428,
-100,
-6544,
-1244088,
-384110,
-18499,
-},
-},
-},
-["tbbUnlockLinks"] = {
-["hm"] = {
-},
-["wm"] = {
-},
-["anchors"] = {
-},
-},
-["trackedBuffBars"] = {
-["_pandemicModeMigrated"] = true,
-["selectedBar"] = 1,
-["_groupMigrated"] = true,
-["_visMigrated"] = true,
-["bars"] = {
-},
-["_iconTotalMigrated"] = true,
-},
-["_dormantMerged"] = true,
-["tbbPositions"] = {
-},
-["_importGhostMode"] = true,
-},
-[105] = {
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
-["buffVariantAliases"] = {
-[16870] = {
-[113043] = true,
-},
-[113043] = {
-[16870] = true,
-},
-[164812] = {
-[8921] = true,
-},
-[93402] = {
-[164815] = true,
-},
-[164815] = {
-[93402] = true,
-},
-[8921] = {
-[164812] = true,
-},
-},
-["_migrations"] = {
-["cdm_strip_tbb_linked_frames"] = true,
-["cdm_buff_order_user_flag_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
-["cdm_ghost_strip_racials_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
-["cdm_buff_assignedspells_reseed_v1"] = true,
-["cdm_strip_legacy_spell_keys"] = true,
-["cdm_ghost_cd_bar_cleanup_v3"] = true,
-["cdm_remove_discontinued_presets"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
-["cdm_strip_buff_bar_item_ids_v1"] = true,
-["cdm_spell_settings_tiers_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
-},
-["barSpells"] = {
-["focuskick"] = {
-["assignedSpells"] = {
-},
-},
-["cooldowns"] = {
-["assignedSpells"] = {
-48438,
-18562,
-132158,
-102342,
-391528,
-33891,
-740,
-197626,
-426784,
-},
-},
-["buffs"] = {
-["buffDisplayOrder"] = {
-"c143884",
-"c143951",
-"c9038",
-},
-["_buffDisplayOrderUserModified"] = true,
-},
-["utility"] = {
-["assignedSpells"] = {
-88423,
-440015,
-33786,
-102359,
-22812,
-2908,
-132469,
-102793,
-99,
-22842,
-1850,
-106898,
-20484,
-},
-},
-},
-["tbbUnlockLinks"] = {
-["hm"] = {
-},
-["wm"] = {
-},
-["anchors"] = {
-},
-},
-["trackedBuffBars"] = {
-["_pandemicModeMigrated"] = true,
-["selectedBar"] = 1,
-["_groupMigrated"] = true,
-["_visMigrated"] = true,
-["bars"] = {
-},
-["_iconTotalMigrated"] = true,
-},
-["_dormantMerged"] = true,
-["tbbPositions"] = {
-},
-["_importGhostMode"] = true,
-},
-[257] = {
-["_migrations"] = {
-["cdm_strip_tbb_linked_frames"] = true,
-["cdm_buff_order_user_flag_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
-["cdm_ghost_strip_racials_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
-["cdm_buff_assignedspells_reseed_v1"] = true,
-["cdm_strip_legacy_spell_keys"] = true,
-["cdm_ghost_cd_bar_cleanup_v3"] = true,
-["cdm_remove_discontinued_presets"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
-["cdm_strip_buff_bar_item_ids_v1"] = true,
-["cdm_spell_settings_tiers_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
-},
-["barSpells"] = {
-["focuskick"] = {
-["assignedSpells"] = {
-},
-},
-["cooldowns"] = {
-["assignedSpells"] = {
-34861,
-17,
-2050,
-47788,
-200183,
-64843,
-10060,
-2061,
-589,
-},
-},
-["buffs"] = {
-["buffDisplayOrder"] = {
-"c108961",
-"c74802",
-"c29506",
-"c5951",
-},
-["_buffDisplayOrderUserModified"] = true,
-},
-["utility"] = {
-["assignedSpells"] = {
-440006,
-8122,
-19236,
-121536,
-73325,
-232633,
-32375,
-586,
-},
-},
-},
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
-["tbbUnlockLinks"] = {
-["hm"] = {
-},
-["wm"] = {
-},
-["anchors"] = {
-},
-},
-["trackedBuffBars"] = {
-["_pandemicModeMigrated"] = true,
-["selectedBar"] = 1,
-["_groupMigrated"] = true,
-["bars"] = {
-},
-["_iconTotalMigrated"] = true,
-},
-["tbbPositions"] = {
-},
-["_dormantMerged"] = true,
-["_importGhostMode"] = true,
-},
-[265] = {
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
-["buffVariantAliases"] = {
-[1261992] = {
-[1262094] = true,
-},
-[1260264] = {
-[1260269] = true,
-},
-[1260279] = {
-[264571] = true,
-},
-[1271802] = {
-[1272122] = true,
-},
-[1262094] = {
-[1261992] = true,
-},
-[264571] = {
-[1260279] = true,
-},
-[1260269] = {
-[1260264] = true,
-},
-[1272122] = {
-[1271802] = true,
-},
-},
-["_migrations"] = {
-["cdm_strip_tbb_linked_frames"] = true,
-["cdm_buff_order_user_flag_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
-["cdm_ghost_strip_racials_v1"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
-["cdm_buff_assignedspells_reseed_v1"] = true,
-["cdm_strip_legacy_spell_keys"] = true,
-["cdm_ghost_cd_bar_cleanup_v3"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
-["cdm_remove_discontinued_presets"] = true,
-["cdm_strip_buff_bar_item_ids_v1"] = true,
-["cdm_spell_settings_tiers_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
-},
-["barSpells"] = {
-["focuskick"] = {
-["assignedSpells"] = {
-},
-},
-["cooldowns"] = {
-["assignedSpells"] = {
-1259790,
-980,
-172,
-48181,
-686,
-1257052,
-410598,
-442726,
-205180,
-353753,
-386951,
-},
-},
-["buffs"] = {
-["buffDisplayOrder"] = {
-"c133777",
-"c128902",
-"c128944",
-"c128860",
-"c128510",
-"c9957",
-"c126656",
-"c9950",
-"c190410",
-},
-["_buffDisplayOrderUserModified"] = true,
-},
-["utility"] = {
-["assignedSpells"] = {
-119898,
-6789,
-30283,
-5484,
-108416,
-104773,
-212295,
-333889,
-1271748,
-1271802,
-48020,
-111771,
-353294,
-29893,
-20707,
-},
-},
-},
-["spellSettingsCD"] = {
-},
-["tbbUnlockLinks"] = {
-["hm"] = {
-},
-["wm"] = {
-},
-["anchors"] = {
-},
-},
-["trackedBuffBars"] = {
-["_pandemicModeMigrated"] = true,
-["selectedBar"] = 1,
-["_groupMigrated"] = true,
-["_visMigrated"] = true,
 ["bars"] = {
 },
 ["_iconTotalMigrated"] = true,
@@ -1903,7 +1355,7 @@ EllesmereUIDB = {
 },
 ["_importGhostMode"] = true,
 },
-[577] = {
+["255"] = {
 ["barGlows"] = {
 ["enabled"] = true,
 ["selectedBar"] = "cooldowns",
@@ -1912,25 +1364,87 @@ EllesmereUIDB = {
 ["_colorModeMigrated"] = true,
 },
 ["buffVariantAliases"] = {
-[1245577] = {
-[1227619] = true,
+[260285] = {
+[260286] = true,
 },
-[1238488] = {
-[1238495] = true,
-},
-[1227619] = {
-[1245577] = true,
-},
-[1238495] = {
-[1238488] = true,
-},
-[1253304] = {
-[1256301] = true,
-},
-[1256301] = {
-[1253304] = true,
+[260286] = {
+[260285] = true,
 },
 },
+["_barFilterModelV6"] = true,
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+},
+["barSpells"] = {
+["__ghost_cd"] = {
+},
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+259489,
+259495,
+},
+},
+["buffs"] = {
+["buffDisplayOrder"] = {
+"c8177",
+},
+["_buffDisplayOrderUserModified"] = true,
+},
+["utility"] = {
+["assignedSpells"] = {
+781,
+190925,
+186257,
+272651,
+186265,
+264735,
+109304,
+187650,
+5384,
+186289,
+195645,
+20594,
+},
+},
+},
+["tbbUnlockLinks"] = {
+["anchors"] = {
+},
+["wm"] = {
+},
+["hm"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["_visMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["_dormantMerged"] = true,
+["tbbPositions"] = {
+},
+},
+[257] = {
 ["_migrations"] = {
 ["cdm_strip_tbb_linked_frames"] = true,
 ["cdm_buff_order_user_flag_v1"] = true,
@@ -1953,31 +1467,45 @@ EllesmereUIDB = {
 },
 ["cooldowns"] = {
 ["assignedSpells"] = {
-344862,
-258920,
-185123,
-191427,
+34861,
+17,
+2050,
+47788,
+200183,
+64843,
+10060,
+2061,
+589,
 },
 },
 ["buffs"] = {
 ["buffDisplayOrder"] = {
-"c40889",
+"c108961",
+"c74802",
+"c29506",
+"c5951",
 },
 ["_buffDisplayOrderUserModified"] = true,
 },
 ["utility"] = {
 ["assignedSpells"] = {
-195072,
-344865,
-198793,
-183752,
-198589,
-207684,
-217832,
-278326,
-202719,
+440006,
+8122,
+19236,
+121536,
+73325,
+232633,
+32375,
+586,
 },
 },
+},
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
 },
 ["tbbUnlockLinks"] = {
 ["hm"] = {
@@ -1995,9 +1523,9 @@ EllesmereUIDB = {
 },
 ["_iconTotalMigrated"] = true,
 },
-["_dormantMerged"] = true,
 ["tbbPositions"] = {
 },
+["_dormantMerged"] = true,
 ["_importGhostMode"] = true,
 },
 [258] = {
@@ -2087,7 +1615,7 @@ EllesmereUIDB = {
 ["_dormantMerged"] = true,
 ["_importGhostMode"] = true,
 },
-[70] = {
+[261] = {
 ["barGlows"] = {
 ["enabled"] = true,
 ["selectedBar"] = "cooldowns",
@@ -2096,45 +1624,45 @@ EllesmereUIDB = {
 ["_colorModeMigrated"] = true,
 },
 ["buffVariantAliases"] = {
-[406157] = {
-[1253174] = true,
+[441423] = {
+[441786] = true,
 },
-[433671] = {
-[432977] = true,
+[196912] = {
+[196911] = true,
 },
-[1253174] = {
-[406157] = true,
+[196911] = {
+[196912] = true,
 },
-[408459] = {
-[408458] = true,
+[441786] = {
+[441423] = true,
 },
-[1261562] = {
-[184662] = true,
+[1268932] = {
+[1269163] = true,
 },
-[432977] = {
-[433671] = true,
+[385727] = {
+[385722] = true,
 },
-[408458] = {
-[408459] = true,
+[385722] = {
+[385727] = true,
 },
-[184662] = {
-[1261562] = true,
+[1269163] = {
+[1268932] = true,
 },
 },
 ["_migrations"] = {
 ["cdm_strip_tbb_linked_frames"] = true,
 ["cdm_buff_order_user_flag_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
-["cdm_ghost_strip_racials_v1"] = true,
 ["cdm_hosted_buff_settings_v1"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
 ["cdm_buff_assignedspells_reseed_v1"] = true,
 ["cdm_strip_legacy_spell_keys"] = true,
 ["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
 ["cdm_remove_discontinued_presets"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
 ["cdm_strip_buff_bar_item_ids_v1"] = true,
 ["cdm_spell_settings_tiers_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
+["cdm_buff_cd_claim_markers"] = true,
 },
 ["barSpells"] = {
 ["focuskick"] = {
@@ -2143,40 +1671,44 @@ EllesmereUIDB = {
 },
 ["cooldowns"] = {
 ["assignedSpells"] = {
-20271,
-35395,
-184575,
-85256,
-53385,
-255937,
-343527,
-375576,
-31884,
+196819,
+280719,
+269513,
+185313,
+426591,
+121471,
+381623,
+1856,
 },
 },
 ["buffs"] = {
 ["buffDisplayOrder"] = {
-"c109571",
-"c110223",
-"c96973",
-"c111050",
-"c19384",
+"c42633",
+"c36440",
+"c37083",
+"c193713",
 },
 ["_buffDisplayOrderUserModified"] = true,
 },
 ["utility"] = {
 ["assignedSpells"] = {
-96231,
-853,
-115750,
-403876,
-642,
-633,
-190784,
-1044,
-1022,
-391054,
-59752,
+1766,
+5938,
+1776,
+408,
+1833,
+2094,
+207777,
+5277,
+31224,
+185311,
+1966,
+2983,
+36554,
+212182,
+114018,
+57934,
+58984,
 },
 },
 },
@@ -2202,13 +1734,13 @@ EllesmereUIDB = {
 },
 ["_importGhostMode"] = true,
 },
-[268] = {
+[262] = {
 ["_migrations"] = {
 ["cdm_strip_tbb_linked_frames"] = true,
 ["cdm_buff_order_user_flag_v1"] = true,
 ["cdm_buff_cd_claim_markers"] = true,
 ["cdm_ghost_strip_racials_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
 ["cdm_buff_assignedspells_reseed_v1"] = true,
 ["cdm_strip_legacy_spell_keys"] = true,
 ["cdm_ghost_cd_bar_cleanup_v3"] = true,
@@ -2216,7 +1748,7 @@ EllesmereUIDB = {
 ["cdm_removed_spells_to_ghost_cd_bar"] = true,
 ["cdm_strip_buff_bar_item_ids_v1"] = true,
 ["cdm_spell_settings_tiers_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
 },
 ["barSpells"] = {
 ["focuskick"] = {
@@ -2225,40 +1757,45 @@ EllesmereUIDB = {
 },
 ["cooldowns"] = {
 ["assignedSpells"] = {
-100784,
-121253,
-115181,
-119582,
-1241059,
-325153,
-132578,
-115203,
-436344,
-322109,
+188196,
+188443,
+470411,
+117014,
+61882,
+462620,
+51505,
+8042,
+378081,
+191634,
+114050,
+443454,
+274738,
 },
 },
 ["buffs"] = {
 ["buffDisplayOrder"] = {
-"c198742",
-"c10485",
-"c10525",
-"c73761",
-"c10484",
+"c142075",
+"c23652",
+"c80173",
+"c92350",
 },
 ["_buffDisplayOrderUserModified"] = true,
 },
 ["utility"] = {
 ["assignedSpells"] = {
-115546,
-116705,
-218164,
-119381,
-115078,
-116844,
-116841,
-109132,
-101643,
-119996,
+192063,
+192077,
+79206,
+108271,
+198103,
+57994,
+192058,
+51490,
+2484,
+5394,
+51886,
+383013,
+2825,
 },
 },
 },
@@ -2268,617 +1805,6 @@ EllesmereUIDB = {
 ["assignments"] = {
 },
 ["_colorModeMigrated"] = true,
-},
-["tbbUnlockLinks"] = {
-["hm"] = {
-},
-["wm"] = {
-},
-["anchors"] = {
-},
-},
-["trackedBuffBars"] = {
-["_pandemicModeMigrated"] = true,
-["selectedBar"] = 1,
-["_groupMigrated"] = true,
-["bars"] = {
-},
-["_iconTotalMigrated"] = true,
-},
-["tbbPositions"] = {
-},
-["_dormantMerged"] = true,
-["_importGhostMode"] = true,
-},
-[1467] = {
-["_migrations"] = {
-["cdm_strip_tbb_linked_frames"] = true,
-["cdm_buff_order_user_flag_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
-["cdm_ghost_strip_racials_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
-["cdm_buff_assignedspells_reseed_v1"] = true,
-["cdm_strip_legacy_spell_keys"] = true,
-["cdm_ghost_cd_bar_cleanup_v3"] = true,
-["cdm_remove_discontinued_presets"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
-["cdm_strip_buff_bar_item_ids_v1"] = true,
-["cdm_spell_settings_tiers_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
-},
-["barSpells"] = {
-["focuskick"] = {
-["assignedSpells"] = {
-},
-},
-["cooldowns"] = {
-["assignedSpells"] = {
-357208,
-359073,
-356995,
-357211,
-375087,
-357210,
-370553,
-},
-},
-["buffs"] = {
-["buffDisplayOrder"] = {
-"c123619",
-"c1731",
-"c57411",
-"c1732",
-"c57508",
-},
-["_buffDisplayOrderUserModified"] = true,
-},
-["utility"] = {
-["assignedSpells"] = {
-351338,
-370665,
-390386,
-363916,
-360995,
-358267,
-368970,
-358385,
-374251,
-365585,
-357214,
-},
-},
-},
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
-["tbbUnlockLinks"] = {
-["hm"] = {
-},
-["wm"] = {
-},
-["anchors"] = {
-},
-},
-["trackedBuffBars"] = {
-["_pandemicModeMigrated"] = true,
-["selectedBar"] = 1,
-["_groupMigrated"] = true,
-["bars"] = {
-},
-["_iconTotalMigrated"] = true,
-},
-["tbbPositions"] = {
-},
-["_dormantMerged"] = true,
-["_importGhostMode"] = true,
-},
-[1468] = {
-["_migrations"] = {
-["cdm_strip_tbb_linked_frames"] = true,
-["cdm_buff_order_user_flag_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
-["cdm_ghost_strip_racials_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
-["cdm_buff_assignedspells_reseed_v1"] = true,
-["cdm_strip_legacy_spell_keys"] = true,
-["cdm_ghost_cd_bar_cleanup_v3"] = true,
-["cdm_remove_discontinued_presets"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
-["cdm_strip_buff_bar_item_ids_v1"] = true,
-["cdm_spell_settings_tiers_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
-},
-["barSpells"] = {
-["focuskick"] = {
-["assignedSpells"] = {
-},
-},
-["cooldowns"] = {
-["assignedSpells"] = {
-366155,
-360995,
-370553,
-355936,
-357208,
-357170,
-363534,
-357210,
-},
-},
-["buffs"] = {
-["buffDisplayOrder"] = {
-"c1019",
-"c1100",
-"c93910",
-},
-["_buffDisplayOrderUserModified"] = true,
-},
-["utility"] = {
-["assignedSpells"] = {
-358267,
-363916,
-365585,
-374251,
-368970,
-358385,
-357214,
-},
-},
-},
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
-["tbbUnlockLinks"] = {
-["hm"] = {
-},
-["wm"] = {
-},
-["anchors"] = {
-},
-},
-["trackedBuffBars"] = {
-["_pandemicModeMigrated"] = true,
-["selectedBar"] = 1,
-["_groupMigrated"] = true,
-["bars"] = {
-},
-["_iconTotalMigrated"] = true,
-},
-["tbbPositions"] = {
-},
-["_dormantMerged"] = true,
-["_importGhostMode"] = true,
-},
-["269"] = {
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
-["buffVariantAliases"] = {
-[1250987] = {
-[1249763] = true,
-[1249764] = true,
-[1249765] = true,
-[1249766] = true,
-[115636] = true,
-[1249753] = true,
-[1249754] = true,
-[1249756] = true,
-[1249757] = true,
-[1249758] = true,
-[1249759] = true,
-[1249762] = true,
-},
-[1249625] = {
-[1249625] = true,
-},
-[392883] = {
-[388812] = true,
-},
-[443421] = {
-[443294] = true,
-[443616] = true,
-[1238904] = true,
-},
-[1249753] = {
-[1249763] = true,
-[1249764] = true,
-[1249765] = true,
-[1249766] = true,
-[115636] = true,
-[1249754] = true,
-[1249756] = true,
-[1249757] = true,
-[1249758] = true,
-[1249759] = true,
-[1249762] = true,
-[1250987] = true,
-},
-[1249754] = {
-[1249763] = true,
-[1249764] = true,
-[1249765] = true,
-[1249766] = true,
-[115636] = true,
-[1249753] = true,
-[1249756] = true,
-[1249757] = true,
-[1249758] = true,
-[1249759] = true,
-[1249762] = true,
-[1250987] = true,
-},
-[1249756] = {
-[1249763] = true,
-[1249764] = true,
-[1249765] = true,
-[1249766] = true,
-[115636] = true,
-[1249753] = true,
-[1249754] = true,
-[1249757] = true,
-[1249758] = true,
-[1249759] = true,
-[1249762] = true,
-[1250987] = true,
-},
-[1249757] = {
-[1249763] = true,
-[1249764] = true,
-[1249765] = true,
-[1249766] = true,
-[115636] = true,
-[1249753] = true,
-[1249754] = true,
-[1249756] = true,
-[1250987] = true,
-[1249758] = true,
-[1249759] = true,
-[1249762] = true,
-},
-[1249758] = {
-[1249763] = true,
-[1249764] = true,
-[1249765] = true,
-[1249766] = true,
-[115636] = true,
-[1249753] = true,
-[1249754] = true,
-[1249756] = true,
-[1249757] = true,
-[1249759] = true,
-[1249762] = true,
-[1250987] = true,
-},
-[1249759] = {
-[1249763] = true,
-[1249764] = true,
-[1249765] = true,
-[1249766] = true,
-[115636] = true,
-[1249753] = true,
-[1249754] = true,
-[1249756] = true,
-[1249757] = true,
-[1249758] = true,
-[1249762] = true,
-[1250987] = true,
-},
-[1238904] = {
-[443294] = true,
-[443421] = true,
-[443616] = true,
-},
-[1249762] = {
-[1249763] = true,
-[1249764] = true,
-[1249765] = true,
-[1249766] = true,
-[115636] = true,
-[1249753] = true,
-[1249754] = true,
-[1249756] = true,
-[1249757] = true,
-[1249758] = true,
-[1249759] = true,
-[1250987] = true,
-},
-[1249763] = {
-[1249764] = true,
-[1249765] = true,
-[1249766] = true,
-[115636] = true,
-[1249753] = true,
-[1249754] = true,
-[1249756] = true,
-[1249757] = true,
-[1249758] = true,
-[1249759] = true,
-[1249762] = true,
-[1250987] = true,
-},
-[115636] = {
-[1249763] = true,
-[1249764] = true,
-[1249765] = true,
-[1249766] = true,
-[1249753] = true,
-[1249754] = true,
-[1249756] = true,
-[1249757] = true,
-[1249758] = true,
-[1249759] = true,
-[1249762] = true,
-[1250987] = true,
-},
-[1249765] = {
-[1249763] = true,
-[1249764] = true,
-[1249766] = true,
-[115636] = true,
-[1249753] = true,
-[1249754] = true,
-[1249756] = true,
-[1249757] = true,
-[1249758] = true,
-[1249759] = true,
-[1249762] = true,
-[1250987] = true,
-},
-[1249766] = {
-[1249763] = true,
-[1249764] = true,
-[1249765] = true,
-[115636] = true,
-[1249753] = true,
-[1249754] = true,
-[1249756] = true,
-[1249757] = true,
-[1249758] = true,
-[1249759] = true,
-[1249762] = true,
-[1250987] = true,
-},
-[443616] = {
-[443294] = true,
-[443421] = true,
-[1238904] = true,
-},
-[1261703] = {
-[1261724] = true,
-},
-[202090] = {
-[116645] = true,
-},
-[443294] = {
-[1238904] = true,
-[443616] = true,
-[443421] = true,
-},
-[451021] = {
-[450615] = true,
-},
-[388812] = {
-[392883] = true,
-},
-[1261724] = {
-[1261703] = true,
-},
-[1249764] = {
-[1249763] = true,
-[1249765] = true,
-[1249766] = true,
-[115636] = true,
-[1249753] = true,
-[1249754] = true,
-[1249756] = true,
-[1249757] = true,
-[1249758] = true,
-[1249759] = true,
-[1249762] = true,
-[1250987] = true,
-},
-[122470] = {
-[122470] = true,
-},
-[116645] = {
-[202090] = true,
-},
-[450615] = {
-[451021] = true,
-},
-},
-["_barFilterModelV6"] = true,
-["_migrations"] = {
-["cdm_strip_tbb_linked_frames"] = true,
-["cdm_buff_order_user_flag_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
-["cdm_ghost_strip_racials_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
-["cdm_buff_assignedspells_reseed_v1"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
-["cdm_ghost_cd_bar_cleanup_v3"] = true,
-["cdm_remove_discontinued_presets"] = true,
-["cdm_strip_legacy_spell_keys"] = true,
-["cdm_strip_buff_bar_item_ids_v1"] = true,
-["cdm_spell_settings_tiers_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
-},
-["barSpells"] = {
-["__ghost_cd"] = {
-["assignedSpells"] = {
-117952,
-443028,
-},
-},
-["focuskick"] = {
-["assignedSpells"] = {
-},
-},
-["cooldowns"] = {
-["assignedSpells"] = {
-113656,
-107428,
-152175,
-392983,
-101546,
-100784,
-100780,
-},
-},
-["buffs"] = {
-["_buffDisplayOrderUserModified"] = true,
-["buffDisplayOrder"] = {
-"c30505",
-"c49805",
-"c121325",
-"c90704",
-"c70297",
-"c122407",
-"c122360",
-"c30502",
-},
-},
-["custom_6_38827_547"] = {
-["assignedSpells"] = {
-1249625,
-123904,
-322109,
-},
-},
-["utility"] = {
-["assignedSpells"] = {
-109132,
-101545,
-119996,
-116705,
-119381,
-115203,
-116841,
-122470,
-115078,
-116844,
-233759,
-101643,
-218164,
-198898,
-20594,
-},
-},
-},
-["spellSettingsCD"] = {
-},
-["tbbUnlockLinks"] = {
-["anchors"] = {
-},
-["wm"] = {
-},
-["hm"] = {
-},
-},
-["trackedBuffBars"] = {
-["_pandemicModeMigrated"] = true,
-["selectedBar"] = 1,
-["_groupMigrated"] = true,
-["_visMigrated"] = true,
-["bars"] = {
-},
-["_iconTotalMigrated"] = true,
-},
-["spellSettingsBuff"] = {
-},
-["tbbPositions"] = {
-},
-["_dormantMerged"] = true,
-},
-[250] = {
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
-["_migrations"] = {
-["cdm_strip_tbb_linked_frames"] = true,
-["cdm_buff_order_user_flag_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
-["cdm_ghost_strip_racials_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
-["cdm_buff_assignedspells_reseed_v1"] = true,
-["cdm_strip_legacy_spell_keys"] = true,
-["cdm_ghost_cd_bar_cleanup_v3"] = true,
-["cdm_remove_discontinued_presets"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
-["cdm_strip_buff_bar_item_ids_v1"] = true,
-["cdm_spell_settings_tiers_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
-},
-["barSpells"] = {
-["focuskick"] = {
-["assignedSpells"] = {
-},
-},
-["cooldowns"] = {
-["assignedSpells"] = {
-195182,
-50842,
-43265,
-439843,
-49028,
-48792,
-55233,
-48707,
-},
-},
-["buffs"] = {
-["buffDisplayOrder"] = {
-"c90606",
-"c9125",
-"c9238",
-"c125783",
-"c125834",
-"c133836",
-"c90603",
-"c169910",
-"c90611",
-"c90610",
-},
-["_buffDisplayOrderUserModified"] = true,
-},
-["utility"] = {
-["assignedSpells"] = {
-212552,
-203173,
-77606,
-48265,
-47528,
-221562,
-49039,
-207167,
-56222,
-51052,
-108199,
-48743,
-49576,
-1263569,
-61999,
-59752,
-},
-},
-},
-["spellSettingsCD"] = {
 },
 ["tbbUnlockLinks"] = {
 ["hm"] = {
@@ -3042,46 +1968,13 @@ EllesmereUIDB = {
 },
 ["_importGhostMode"] = true,
 },
-[71] = {
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
-["buffVariantAliases"] = {
-[386634] = {
-[386633] = true,
-},
-[1269394] = {
-[1269314] = true,
-},
-[772] = {
-[388539] = true,
-},
-[29725] = {
-[52437] = true,
-},
-[388539] = {
-[772] = true,
-},
-[52437] = {
-[29725] = true,
-},
-[1269314] = {
-[1269394] = true,
-},
-[386633] = {
-[386634] = true,
-},
-},
+[264] = {
 ["_migrations"] = {
 ["cdm_strip_tbb_linked_frames"] = true,
 ["cdm_buff_order_user_flag_v1"] = true,
 ["cdm_buff_cd_claim_markers"] = true,
 ["cdm_ghost_strip_racials_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
 ["cdm_buff_assignedspells_reseed_v1"] = true,
 ["cdm_strip_legacy_spell_keys"] = true,
 ["cdm_ghost_cd_bar_cleanup_v3"] = true,
@@ -3089,7 +1982,7 @@ EllesmereUIDB = {
 ["cdm_removed_spells_to_ghost_cd_bar"] = true,
 ["cdm_strip_buff_bar_item_ids_v1"] = true,
 ["cdm_spell_settings_tiers_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
 },
 ["barSpells"] = {
 ["focuskick"] = {
@@ -3098,50 +1991,54 @@ EllesmereUIDB = {
 },
 ["cooldowns"] = {
 ["assignedSpells"] = {
-12294,
-7384,
-1464,
-772,
-845,
-6343,
-1680,
-163201,
-167105,
-436358,
-376079,
-107574,
-228920,
-227847,
-260708,
+61295,
+73685,
+5394,
+73920,
+444995,
+470411,
+114052,
+108280,
+98008,
+51505,
+443454,
+378081,
+274738,
 },
 },
 ["buffs"] = {
 ["buffDisplayOrder"] = {
-"c106901",
-"c78319",
-"c97757",
-"c47606",
-"c33985",
-"c98583",
-"c91932",
+"c113083",
+"c77966",
+"c32869",
+"c33226",
+"c94820",
+"c175914",
 },
 ["_buffDisplayOrderUserModified"] = true,
 },
 ["utility"] = {
 ["assignedSpells"] = {
-59752,
-6552,
-107570,
-46968,
-118038,
-97462,
-23920,
-34428,
-100,
-6544,
-18499,
+58875,
+192063,
+192077,
+108271,
+198103,
+57994,
+192058,
+2484,
+383013,
+440012,
+2825,
 },
 },
+},
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
 },
 ["tbbUnlockLinks"] = {
 ["hm"] = {
@@ -3159,9 +2056,136 @@ EllesmereUIDB = {
 },
 ["_iconTotalMigrated"] = true,
 },
-["_dormantMerged"] = true,
 ["tbbPositions"] = {
 },
+["_dormantMerged"] = true,
+["_importGhostMode"] = true,
+},
+[265] = {
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["buffVariantAliases"] = {
+[1261992] = {
+[1262094] = true,
+},
+[1260264] = {
+[1260269] = true,
+},
+[1260279] = {
+[264571] = true,
+},
+[1271802] = {
+[1272122] = true,
+},
+[1262094] = {
+[1261992] = true,
+},
+[264571] = {
+[1260279] = true,
+},
+[1260269] = {
+[1260264] = true,
+},
+[1272122] = {
+[1271802] = true,
+},
+},
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+},
+["barSpells"] = {
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+1259790,
+980,
+172,
+48181,
+686,
+1257052,
+410598,
+442726,
+205180,
+353753,
+386951,
+},
+},
+["buffs"] = {
+["buffDisplayOrder"] = {
+"c133777",
+"c128902",
+"c128944",
+"c128860",
+"c128510",
+"c9957",
+"c126656",
+"c9950",
+"c190410",
+},
+["_buffDisplayOrderUserModified"] = true,
+},
+["utility"] = {
+["assignedSpells"] = {
+119898,
+6789,
+30283,
+5484,
+108416,
+104773,
+212295,
+333889,
+1271748,
+1271802,
+48020,
+111771,
+353294,
+29893,
+20707,
+},
+},
+},
+["spellSettingsCD"] = {
+},
+["tbbUnlockLinks"] = {
+["hm"] = {
+},
+["wm"] = {
+},
+["anchors"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["_visMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["tbbPositions"] = {
+},
+["_dormantMerged"] = true,
 ["_importGhostMode"] = true,
 },
 [1473] = {
@@ -3251,7 +2275,188 @@ EllesmereUIDB = {
 ["_dormantMerged"] = true,
 ["_importGhostMode"] = true,
 },
-[104] = {
+[268] = {
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+},
+["barSpells"] = {
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+100784,
+121253,
+115181,
+119582,
+1241059,
+325153,
+132578,
+115203,
+436344,
+322109,
+},
+},
+["buffs"] = {
+["buffDisplayOrder"] = {
+"c198742",
+"c10485",
+"c10525",
+"c73761",
+"c10484",
+},
+["_buffDisplayOrderUserModified"] = true,
+},
+["utility"] = {
+["assignedSpells"] = {
+115546,
+116705,
+218164,
+119381,
+115078,
+116844,
+116841,
+109132,
+101643,
+119996,
+},
+},
+},
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["tbbUnlockLinks"] = {
+["hm"] = {
+},
+["wm"] = {
+},
+["anchors"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["tbbPositions"] = {
+},
+["_dormantMerged"] = true,
+["_importGhostMode"] = true,
+},
+[269] = {
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+},
+["barSpells"] = {
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+113656,
+392983,
+107428,
+101545,
+152175,
+100784,
+100780,
+101546,
+322109,
+1249625,
+443028,
+123904,
+},
+},
+["buffs"] = {
+["buffDisplayOrder"] = {
+"c30505",
+"c121325",
+"c70297",
+"c122360",
+"c122407",
+},
+["_buffDisplayOrderUserModified"] = true,
+},
+["utility"] = {
+["assignedSpells"] = {
+109132,
+119996,
+116705,
+119381,
+115203,
+116841,
+122470,
+115078,
+116844,
+101643,
+218164,
+},
+},
+},
+["spellSettingsCD"] = {
+},
+["tbbUnlockLinks"] = {
+["hm"] = {
+},
+["wm"] = {
+},
+["anchors"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["tbbPositions"] = {
+},
+["_dormantMerged"] = true,
+["_importGhostMode"] = true,
+},
+[70] = {
 ["barGlows"] = {
 ["enabled"] = true,
 ["selectedBar"] = "cooldowns",
@@ -3260,23 +2465,29 @@ EllesmereUIDB = {
 ["_colorModeMigrated"] = true,
 },
 ["buffVariantAliases"] = {
-[400734] = {
-[371905] = true,
+[406157] = {
+[1253174] = true,
 },
-[441602] = {
-[441583] = true,
+[433671] = {
+[432977] = true,
 },
-[371905] = {
-[400734] = true,
+[1253174] = {
+[406157] = true,
 },
-[372152] = {
-[372119] = true,
+[408459] = {
+[408458] = true,
 },
-[372119] = {
-[372152] = true,
+[1261562] = {
+[184662] = true,
 },
-[441583] = {
-[441602] = true,
+[432977] = {
+[433671] = true,
+},
+[408458] = {
+[408459] = true,
+},
+[184662] = {
+[1261562] = true,
 },
 },
 ["_migrations"] = {
@@ -3301,44 +2512,40 @@ EllesmereUIDB = {
 },
 ["cooldowns"] = {
 ["assignedSpells"] = {
-77758,
-33917,
-6807,
-192081,
-204066,
-22842,
-8921,
-22812,
-61336,
-50334,
-1237885,
+20271,
+35395,
+184575,
+85256,
+53385,
+255937,
+343527,
+375576,
+31884,
 },
 },
 ["buffs"] = {
 ["buffDisplayOrder"] = {
-"c3229",
-"c175987",
-"c185077",
-"c2791",
-"c90196",
-"c90198",
+"c109571",
+"c110223",
+"c96973",
+"c111050",
+"c19384",
 },
 ["_buffDisplayOrderUserModified"] = true,
 },
 ["utility"] = {
 ["assignedSpells"] = {
-1850,
-102401,
-106839,
-6795,
-102359,
-102793,
-2908,
-2782,
-29166,
-106898,
-20484,
-1261867,
+96231,
+853,
+115750,
+403876,
+642,
+633,
+190784,
+1044,
+1022,
+391054,
+59752,
 },
 },
 },
@@ -3505,7 +2712,7 @@ EllesmereUIDB = {
 },
 ["_importGhostMode"] = true,
 },
-[261] = {
+[71] = {
 ["barGlows"] = {
 ["enabled"] = true,
 ["selectedBar"] = "cooldowns",
@@ -3514,45 +2721,45 @@ EllesmereUIDB = {
 ["_colorModeMigrated"] = true,
 },
 ["buffVariantAliases"] = {
-[441423] = {
-[441786] = true,
+[386634] = {
+[386633] = true,
 },
-[196912] = {
-[196911] = true,
+[29725] = {
+[52437] = true,
 },
-[196911] = {
-[196912] = true,
+[772] = {
+[388539] = true,
 },
-[441786] = {
-[441423] = true,
+[386633] = {
+[386634] = true,
 },
-[1268932] = {
-[1269163] = true,
+[388539] = {
+[772] = true,
 },
-[385727] = {
-[385722] = true,
+[52437] = {
+[29725] = true,
 },
-[385722] = {
-[385727] = true,
+[1269314] = {
+[1269394] = true,
 },
-[1269163] = {
-[1268932] = true,
+[1269394] = {
+[1269314] = true,
 },
 },
 ["_migrations"] = {
 ["cdm_strip_tbb_linked_frames"] = true,
 ["cdm_buff_order_user_flag_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
 ["cdm_ghost_strip_racials_v1"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
 ["cdm_buff_assignedspells_reseed_v1"] = true,
 ["cdm_strip_legacy_spell_keys"] = true,
 ["cdm_ghost_cd_bar_cleanup_v3"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
 ["cdm_remove_discontinued_presets"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
 ["cdm_strip_buff_bar_item_ids_v1"] = true,
 ["cdm_spell_settings_tiers_v1"] = true,
-["cdm_buff_cd_claim_markers"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
 },
 ["barSpells"] = {
 ["focuskick"] = {
@@ -3561,44 +2768,515 @@ EllesmereUIDB = {
 },
 ["cooldowns"] = {
 ["assignedSpells"] = {
-196819,
-280719,
-269513,
-185313,
-426591,
-121471,
-381623,
-1856,
+12294,
+7384,
+1464,
+772,
+845,
+6343,
+1680,
+163201,
+167105,
+436358,
+376079,
+107574,
+228920,
+227847,
+260708,
 },
 },
 ["buffs"] = {
 ["buffDisplayOrder"] = {
-"c42633",
-"c36440",
-"c37083",
-"c193713",
+"c106901",
+"c78319",
+"c97757",
+"c47606",
+"c33985",
+"c98583",
+"c91932",
 },
 ["_buffDisplayOrderUserModified"] = true,
 },
 ["utility"] = {
 ["assignedSpells"] = {
-1766,
-5938,
-1776,
-408,
-1833,
-2094,
-207777,
-5277,
-31224,
-185311,
-1966,
-2983,
-36554,
-212182,
-114018,
-57934,
-58984,
+59752,
+6552,
+107570,
+46968,
+118038,
+97462,
+23920,
+34428,
+100,
+6544,
+18499,
+},
+},
+},
+["tbbUnlockLinks"] = {
+["hm"] = {
+},
+["wm"] = {
+},
+["anchors"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["_dormantMerged"] = true,
+["tbbPositions"] = {
+},
+["_importGhostMode"] = true,
+},
+["269"] = {
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["buffVariantAliases"] = {
+[1250987] = {
+[1249763] = true,
+[1249764] = true,
+[1249765] = true,
+[1249766] = true,
+[115636] = true,
+[1249753] = true,
+[1249754] = true,
+[1249756] = true,
+[1249757] = true,
+[1249758] = true,
+[1249759] = true,
+[1249762] = true,
+},
+[1249625] = {
+[1249625] = true,
+[1272696] = true,
+},
+[392883] = {
+[388812] = true,
+},
+[443421] = {
+[443294] = true,
+[443616] = true,
+[1238904] = true,
+},
+[1238904] = {
+[443294] = true,
+[443421] = true,
+[443616] = true,
+},
+[1249753] = {
+[1249763] = true,
+[1249764] = true,
+[1249765] = true,
+[1249766] = true,
+[115636] = true,
+[1249754] = true,
+[1249756] = true,
+[1249757] = true,
+[1249758] = true,
+[1249759] = true,
+[1249762] = true,
+[1250987] = true,
+},
+[1249754] = {
+[1249763] = true,
+[1249764] = true,
+[1249765] = true,
+[1249766] = true,
+[115636] = true,
+[1249753] = true,
+[1249756] = true,
+[1249757] = true,
+[1249758] = true,
+[1249759] = true,
+[1249762] = true,
+[1250987] = true,
+},
+[443616] = {
+[443294] = true,
+[443421] = true,
+[1238904] = true,
+},
+[1272696] = {
+[1249625] = true,
+},
+[1249757] = {
+[1249763] = true,
+[1249764] = true,
+[1249765] = true,
+[1249766] = true,
+[115636] = true,
+[1249753] = true,
+[1249754] = true,
+[1249756] = true,
+[1250987] = true,
+[1249758] = true,
+[1249759] = true,
+[1249762] = true,
+},
+[1249758] = {
+[1249763] = true,
+[1249764] = true,
+[1249765] = true,
+[1249766] = true,
+[115636] = true,
+[1249753] = true,
+[1249754] = true,
+[1249756] = true,
+[1249757] = true,
+[1249759] = true,
+[1249762] = true,
+[1250987] = true,
+},
+[1249759] = {
+[1249763] = true,
+[1249764] = true,
+[1249765] = true,
+[1249766] = true,
+[115636] = true,
+[1249753] = true,
+[1249754] = true,
+[1249756] = true,
+[1249757] = true,
+[1249758] = true,
+[1249762] = true,
+[1250987] = true,
+},
+[137384] = {
+[116768] = true,
+},
+[1261724] = {
+[1261703] = true,
+},
+[1249762] = {
+[1249763] = true,
+[1249764] = true,
+[1249765] = true,
+[1249766] = true,
+[115636] = true,
+[1249753] = true,
+[1249754] = true,
+[1249756] = true,
+[1249757] = true,
+[1249758] = true,
+[1249759] = true,
+[1250987] = true,
+},
+[1249763] = {
+[1249764] = true,
+[1249765] = true,
+[1249766] = true,
+[115636] = true,
+[1249753] = true,
+[1249754] = true,
+[1249756] = true,
+[1249757] = true,
+[1249758] = true,
+[1249759] = true,
+[1249762] = true,
+[1250987] = true,
+},
+[115636] = {
+[1249763] = true,
+[1249764] = true,
+[1249765] = true,
+[1249766] = true,
+[1249753] = true,
+[1249754] = true,
+[1249756] = true,
+[1249757] = true,
+[1249758] = true,
+[1249759] = true,
+[1249762] = true,
+[1250987] = true,
+},
+[1249765] = {
+[1249763] = true,
+[1249764] = true,
+[1249766] = true,
+[115636] = true,
+[1249753] = true,
+[1249754] = true,
+[1249756] = true,
+[1249757] = true,
+[1249758] = true,
+[1249759] = true,
+[1249762] = true,
+[1250987] = true,
+},
+[1249766] = {
+[1249763] = true,
+[1249764] = true,
+[1249765] = true,
+[115636] = true,
+[1249753] = true,
+[1249754] = true,
+[1249756] = true,
+[1249757] = true,
+[1249758] = true,
+[1249759] = true,
+[1249762] = true,
+[1250987] = true,
+},
+[202090] = {
+[116645] = true,
+},
+[1261703] = {
+[1261724] = true,
+},
+[116768] = {
+[137384] = true,
+},
+[443294] = {
+[1238904] = true,
+[443616] = true,
+[443421] = true,
+},
+[451021] = {
+[450615] = true,
+},
+[388812] = {
+[392883] = true,
+},
+[122470] = {
+[122470] = true,
+},
+[1249764] = {
+[1249763] = true,
+[1249765] = true,
+[1249766] = true,
+[115636] = true,
+[1249753] = true,
+[1249754] = true,
+[1249756] = true,
+[1249757] = true,
+[1249758] = true,
+[1249759] = true,
+[1249762] = true,
+[1250987] = true,
+},
+[116645] = {
+[202090] = true,
+},
+[450615] = {
+[451021] = true,
+},
+[1249756] = {
+[1249763] = true,
+[1249764] = true,
+[1249765] = true,
+[1249766] = true,
+[115636] = true,
+[1249753] = true,
+[1249754] = true,
+[1249757] = true,
+[1249758] = true,
+[1249759] = true,
+[1249762] = true,
+[1250987] = true,
+},
+},
+["_barFilterModelV6"] = true,
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+},
+["barSpells"] = {
+["__ghost_cd"] = {
+["assignedSpells"] = {
+117952,
+100784,
+101546,
+100780,
+},
+},
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+113656,
+107428,
+152175,
+392983,
+1249625,
+123904,
+322109,
+},
+},
+["buffs"] = {
+["_buffDisplayOrderUserModified"] = true,
+["buffDisplayOrder"] = {
+"c30505",
+"c30502",
+"c49805",
+"c120762",
+"c121325",
+"c90704",
+"c70297",
+"c122407",
+"c122360",
+},
+},
+["utility"] = {
+["assignedSpells"] = {
+109132,
+101545,
+119996,
+116705,
+119381,
+116841,
+115078,
+115203,
+122470,
+-5512,
+-241304,
+116844,
+233759,
+101643,
+218164,
+198898,
+20594,
+-13,
+-14,
+},
+},
+},
+["spellSettingsCD"] = {
+},
+["tbbUnlockLinks"] = {
+["anchors"] = {
+},
+["wm"] = {
+},
+["hm"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["_visMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["spellSettingsBuff"] = {
+},
+["tbbPositions"] = {
+},
+["_dormantMerged"] = true,
+},
+[104] = {
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["buffVariantAliases"] = {
+[400734] = {
+[371905] = true,
+},
+[441602] = {
+[441583] = true,
+},
+[371905] = {
+[400734] = true,
+},
+[372152] = {
+[372119] = true,
+},
+[372119] = {
+[372152] = true,
+},
+[441583] = {
+[441602] = true,
+},
+},
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+},
+["barSpells"] = {
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+77758,
+33917,
+6807,
+192081,
+204066,
+22842,
+8921,
+22812,
+61336,
+50334,
+1237885,
+},
+},
+["buffs"] = {
+["buffDisplayOrder"] = {
+"c3229",
+"c175987",
+"c185077",
+"c2791",
+"c90196",
+"c90198",
+},
+["_buffDisplayOrderUserModified"] = true,
+},
+["utility"] = {
+["assignedSpells"] = {
+1850,
+102401,
+106839,
+6795,
+102359,
+102793,
+2908,
+2782,
+29166,
+106898,
+20484,
+1261867,
 },
 },
 },
@@ -3624,14 +3302,7 @@ EllesmereUIDB = {
 },
 ["_importGhostMode"] = true,
 },
-[269] = {
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
-},
+["259"] = {
 ["_migrations"] = {
 ["cdm_strip_tbb_linked_frames"] = true,
 ["cdm_buff_order_user_flag_v1"] = true,
@@ -3639,75 +3310,66 @@ EllesmereUIDB = {
 ["cdm_ghost_strip_racials_v1"] = true,
 ["cdm_hosted_buff_settings_v1"] = true,
 ["cdm_buff_assignedspells_reseed_v1"] = true,
-["cdm_strip_legacy_spell_keys"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
 ["cdm_ghost_cd_bar_cleanup_v3"] = true,
 ["cdm_remove_discontinued_presets"] = true,
-["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
 ["cdm_strip_buff_bar_item_ids_v1"] = true,
 ["cdm_spell_settings_tiers_v1"] = true,
 ["cdm_strip_position_based_glow_keys"] = true,
 },
 ["barSpells"] = {
+["__ghost_cd"] = {
+},
 ["focuskick"] = {
 ["assignedSpells"] = {
 },
 },
 ["cooldowns"] = {
 ["assignedSpells"] = {
-113656,
-392983,
-107428,
-101545,
-152175,
-100784,
-100780,
-101546,
-322109,
-1249625,
-443028,
-123904,
+703,
+1943,
+32645,
 },
 },
 ["buffs"] = {
-["buffDisplayOrder"] = {
-"c30505",
-"c121325",
-"c70297",
-"c122360",
-"c122407",
-},
-["_buffDisplayOrderUserModified"] = true,
 },
 ["utility"] = {
 ["assignedSpells"] = {
-109132,
-119996,
-116705,
-119381,
-115203,
-116841,
-122470,
-115078,
-116844,
-101643,
-218164,
+2983,
+36554,
+1966,
+1856,
+1766,
+408,
+1833,
+185311,
+114018,
+1725,
+370626,
 },
 },
 },
-["spellSettingsCD"] = {
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
 },
 ["tbbUnlockLinks"] = {
-["hm"] = {
+["anchors"] = {
 },
 ["wm"] = {
 },
-["anchors"] = {
+["hm"] = {
 },
 },
 ["trackedBuffBars"] = {
 ["_pandemicModeMigrated"] = true,
 ["selectedBar"] = 1,
 ["_groupMigrated"] = true,
+["_visMigrated"] = true,
 ["bars"] = {
 },
 ["_iconTotalMigrated"] = true,
@@ -3715,15 +3377,53 @@ EllesmereUIDB = {
 ["tbbPositions"] = {
 },
 ["_dormantMerged"] = true,
-["_importGhostMode"] = true,
+["_barFilterModelV6"] = true,
 },
-[251] = {
+[72] = {
 ["barGlows"] = {
 ["enabled"] = true,
 ["selectedBar"] = "cooldowns",
 ["assignments"] = {
 },
 ["_colorModeMigrated"] = true,
+},
+["buffVariantAliases"] = {
+[1269308] = {
+[1269349] = true,
+},
+[184361] = {
+[184362] = true,
+},
+[1269314] = {
+[1269394] = true,
+},
+[386633] = {
+[386634] = true,
+},
+[12950] = {
+[85739] = true,
+},
+[388539] = {
+[772] = true,
+},
+[184362] = {
+[184361] = true,
+},
+[386634] = {
+[386633] = true,
+},
+[85739] = {
+[12950] = true,
+},
+[772] = {
+[388539] = true,
+},
+[1269349] = {
+[1269308] = true,
+},
+[1269394] = {
+[1269314] = true,
+},
 },
 ["_migrations"] = {
 ["cdm_strip_tbb_linked_frames"] = true,
@@ -3747,57 +3447,149 @@ EllesmereUIDB = {
 },
 ["cooldowns"] = {
 ["assignedSpells"] = {
-196770,
-316239,
-207230,
-49143,
-194913,
-49184,
-51271,
-439843,
-279302,
-1249658,
-47568,
+12294,
+1680,
+7384,
+772,
+23881,
+85288,
+1464,
+6343,
+163201,
+260708,
+167105,
+436358,
+385059,
+227847,
+376079,
+1719,
+107574,
 },
 },
 ["buffs"] = {
 ["buffDisplayOrder"] = {
-"c50939",
-"c86099",
-"c86136",
-"c104864",
-"c51190",
-"c85992",
-"c86027",
-"c86354",
-"c103847",
-"c103988",
-"c104126",
-"c104220",
-"c104640",
-"c27650",
+"c48610",
+"c17728",
+"c98139",
 },
 ["_buffDisplayOrderUserModified"] = true,
 },
 ["utility"] = {
 ["assignedSpells"] = {
-48265,
-212552,
-47528,
-221562,
-48707,
-48792,
-48743,
-207167,
-51052,
-49576,
-61999,
-49039,
+6552,
+107570,
+46968,
+12323,
+97462,
 59752,
+23920,
+118038,
+34428,
+100,
+6544,
+1244088,
+384110,
+18499,
 },
 },
 },
-["spellSettingsCD"] = {
+["tbbUnlockLinks"] = {
+["hm"] = {
+},
+["wm"] = {
+},
+["anchors"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["_visMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["_dormantMerged"] = true,
+["tbbPositions"] = {
+},
+["_importGhostMode"] = true,
+},
+[577] = {
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["buffVariantAliases"] = {
+[1245577] = {
+[1227619] = true,
+},
+[1238488] = {
+[1238495] = true,
+},
+[1227619] = {
+[1245577] = true,
+},
+[1238495] = {
+[1238488] = true,
+},
+[1253304] = {
+[1256301] = true,
+},
+[1256301] = {
+[1253304] = true,
+},
+},
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+},
+["barSpells"] = {
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+344862,
+258920,
+185123,
+191427,
+},
+},
+["buffs"] = {
+["buffDisplayOrder"] = {
+"c40889",
+},
+["_buffDisplayOrderUserModified"] = true,
+},
+["utility"] = {
+["assignedSpells"] = {
+195072,
+344865,
+198793,
+183752,
+198589,
+207684,
+217832,
+278326,
+202719,
+},
+},
 },
 ["tbbUnlockLinks"] = {
 ["hm"] = {
@@ -3815,18 +3607,45 @@ EllesmereUIDB = {
 },
 ["_iconTotalMigrated"] = true,
 },
+["_dormantMerged"] = true,
 ["tbbPositions"] = {
 },
-["_dormantMerged"] = true,
 ["_importGhostMode"] = true,
 },
-[262] = {
+[105] = {
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["buffVariantAliases"] = {
+[16870] = {
+[113043] = true,
+},
+[113043] = {
+[16870] = true,
+},
+[164812] = {
+[8921] = true,
+},
+[93402] = {
+[164815] = true,
+},
+[164815] = {
+[93402] = true,
+},
+[8921] = {
+[164812] = true,
+},
+},
 ["_migrations"] = {
 ["cdm_strip_tbb_linked_frames"] = true,
 ["cdm_buff_order_user_flag_v1"] = true,
 ["cdm_buff_cd_claim_markers"] = true,
 ["cdm_ghost_strip_racials_v1"] = true,
-["cdm_strip_position_based_glow_keys"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
 ["cdm_buff_assignedspells_reseed_v1"] = true,
 ["cdm_strip_legacy_spell_keys"] = true,
 ["cdm_ghost_cd_bar_cleanup_v3"] = true,
@@ -3834,7 +3653,7 @@ EllesmereUIDB = {
 ["cdm_removed_spells_to_ghost_cd_bar"] = true,
 ["cdm_strip_buff_bar_item_ids_v1"] = true,
 ["cdm_spell_settings_tiers_v1"] = true,
-["cdm_hosted_buff_settings_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
 },
 ["barSpells"] = {
 ["focuskick"] = {
@@ -3843,54 +3662,307 @@ EllesmereUIDB = {
 },
 ["cooldowns"] = {
 ["assignedSpells"] = {
-188196,
-188443,
-470411,
-117014,
-61882,
-462620,
-51505,
-8042,
-378081,
-191634,
-114050,
-443454,
-274738,
+48438,
+18562,
+132158,
+102342,
+391528,
+33891,
+740,
+197626,
+426784,
 },
 },
 ["buffs"] = {
 ["buffDisplayOrder"] = {
-"c142075",
-"c23652",
-"c80173",
-"c92350",
+"c143884",
+"c143951",
+"c9038",
 },
 ["_buffDisplayOrderUserModified"] = true,
 },
 ["utility"] = {
 ["assignedSpells"] = {
-192063,
-192077,
-79206,
+88423,
+440015,
+33786,
+102359,
+22812,
+2908,
+132469,
+102793,
+99,
+22842,
+1850,
+106898,
+20484,
+},
+},
+},
+["tbbUnlockLinks"] = {
+["hm"] = {
+},
+["wm"] = {
+},
+["anchors"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["_visMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["_dormantMerged"] = true,
+["tbbPositions"] = {
+},
+["_importGhostMode"] = true,
+},
+[64] = {
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["buffVariantAliases"] = {
+[1221389] = {
+[1246769] = true,
+},
+[190446] = {
+[190447] = true,
+},
+[1246769] = {
+[1221389] = true,
+},
+[190447] = {
+[190446] = true,
+},
+},
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+},
+["barSpells"] = {
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+116,
+319836,
+84714,
+44614,
+190356,
+205021,
+},
+},
+["buffs"] = {
+["buffDisplayOrder"] = {
+"c93744",
+"c82148",
+"c122569",
+"c82090",
+},
+["_buffDisplayOrderUserModified"] = true,
+},
+["utility"] = {
+["assignedSpells"] = {
+1953,
+342245,
+11426,
+45438,
+66,
+2139,
+475,
+122,
+120,
+80353,
+28730,
+},
+},
+},
+["tbbUnlockLinks"] = {
+["hm"] = {
+},
+["wm"] = {
+},
+["anchors"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["_dormantMerged"] = true,
+["tbbPositions"] = {
+},
+["_importGhostMode"] = true,
+},
+[263] = {
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["buffVariantAliases"] = {
+[445024] = {
+[453406] = true,
+[453405] = true,
+[453409] = true,
+},
+[188389] = {
+[470057] = true,
+},
+[470057] = {
+[188389] = true,
+},
+[1252415] = {
+[187878] = true,
+[187874] = true,
+},
+[187874] = {
+[1252415] = true,
+[187878] = true,
+},
+[187878] = {
+[1252415] = true,
+[187874] = true,
+},
+[444995] = {
+[137041] = true,
+},
+[1262713] = {
+[1262830] = true,
+},
+[470532] = {
+[455096] = true,
+},
+[384143] = {
+[410681] = true,
+},
+[453405] = {
+[445024] = true,
+},
+[453406] = {
+[445024] = true,
+},
+[455096] = {
+[470532] = true,
+},
+[410681] = {
+[384143] = true,
+},
+[201900] = {
+[215785] = true,
+},
+[453409] = {
+[445024] = true,
+},
+[137041] = {
+[444995] = true,
+},
+[215785] = {
+[201900] = true,
+},
+[1262830] = {
+[1262713] = true,
+},
+},
+["spellSettingsBuff"] = {
+[1262830] = {
+["buffGlow"] = 6,
+},
+[454015] = {
+["buffGlow"] = 6,
+},
+},
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+},
+["barSpells"] = {
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+73899,
+60103,
+470411,
+187874,
+197214,
+444995,
+384352,
+},
+},
+["buffs"] = {
+["buffDisplayOrder"] = {
+"c82618",
+"c113506",
+"c82398",
+"c175622",
+"c82404",
+"c82405",
+"c82406",
+"c112545",
+"c82624",
+"c82615",
+"c174832",
+},
+["_buffDisplayOrderUserModified"] = true,
+},
+["utility"] = {
+["assignedSpells"] = {
+57994,
+51886,
+192058,
+2484,
 108271,
 198103,
-57994,
-192058,
-51490,
-2484,
-5394,
-51886,
+196884,
+58875,
+192077,
 383013,
 2825,
 },
 },
 },
-["barGlows"] = {
-["enabled"] = true,
-["selectedBar"] = "cooldowns",
-["assignments"] = {
-},
-["_colorModeMigrated"] = true,
+["spellSettingsCD"] = {
 },
 ["tbbUnlockLinks"] = {
 ["hm"] = {
@@ -3904,6 +3976,106 @@ EllesmereUIDB = {
 ["_pandemicModeMigrated"] = true,
 ["selectedBar"] = 1,
 ["_groupMigrated"] = true,
+["_visMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["_dormantMerged"] = true,
+["tbbPositions"] = {
+},
+["_importGhostMode"] = true,
+},
+[1480] = {
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["buffVariantAliases"] = {
+[1238495] = {
+[1238488] = true,
+},
+[1238488] = {
+[1238495] = true,
+},
+[1245577] = {
+[1227619] = true,
+},
+[1227619] = {
+[1245577] = true,
+},
+},
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+},
+["barSpells"] = {
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+344862,
+473728,
+191427,
+1246167,
+258920,
+},
+},
+["buffs"] = {
+["buffDisplayOrder"] = {
+"c74394",
+"c90222",
+"c91113",
+},
+["_buffDisplayOrderUserModified"] = true,
+},
+["utility"] = {
+["assignedSpells"] = {
+185123,
+344865,
+183752,
+198589,
+1245412,
+207684,
+198793,
+1234195,
+278326,
+217832,
+202719,
+},
+},
+},
+["spellSettingsCD"] = {
+},
+["tbbUnlockLinks"] = {
+["hm"] = {
+},
+["wm"] = {
+},
+["anchors"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["_visMigrated"] = true,
 ["bars"] = {
 },
 ["_iconTotalMigrated"] = true,
@@ -3912,6 +4084,120 @@ EllesmereUIDB = {
 },
 ["_dormantMerged"] = true,
 ["_importGhostMode"] = true,
+},
+["1467"] = {
+["barGlows"] = {
+["enabled"] = true,
+["selectedBar"] = "cooldowns",
+["assignments"] = {
+},
+["_colorModeMigrated"] = true,
+},
+["buffVariantAliases"] = {
+[370781] = {
+[411055] = true,
+},
+[370839] = {
+[376850] = true,
+},
+[357208] = {
+[357209] = true,
+},
+[357209] = {
+[357208] = true,
+},
+[411055] = {
+[370781] = true,
+},
+[376850] = {
+[370839] = true,
+},
+},
+["_barFilterModelV6"] = true,
+["_migrations"] = {
+["cdm_strip_tbb_linked_frames"] = true,
+["cdm_buff_order_user_flag_v1"] = true,
+["cdm_buff_cd_claim_markers"] = true,
+["cdm_ghost_strip_racials_v1"] = true,
+["cdm_hosted_buff_settings_v1"] = true,
+["cdm_buff_assignedspells_reseed_v1"] = true,
+["cdm_removed_spells_to_ghost_cd_bar"] = true,
+["cdm_ghost_cd_bar_cleanup_v3"] = true,
+["cdm_remove_discontinued_presets"] = true,
+["cdm_strip_legacy_spell_keys"] = true,
+["cdm_strip_buff_bar_item_ids_v1"] = true,
+["cdm_spell_settings_tiers_v1"] = true,
+["cdm_strip_position_based_glow_keys"] = true,
+},
+["barSpells"] = {
+["__ghost_cd"] = {
+["assignedSpells"] = {
+361469,
+356995,
+357211,
+},
+},
+["focuskick"] = {
+["assignedSpells"] = {
+},
+},
+["cooldowns"] = {
+["assignedSpells"] = {
+357208,
+359073,
+375087,
+357210,
+370553,
+},
+},
+["buffs"] = {
+["_buffDisplayOrderUserModified"] = true,
+["buffDisplayOrder"] = {
+"c1732",
+"c89877",
+"c1731",
+"c1734",
+"c57411",
+"c123619",
+},
+},
+["utility"] = {
+["assignedSpells"] = {
+351338,
+370665,
+363916,
+358267,
+368970,
+358385,
+374251,
+365585,
+374227,
+357214,
+},
+},
+},
+["spellSettingsCD"] = {
+},
+["tbbUnlockLinks"] = {
+["anchors"] = {
+},
+["wm"] = {
+},
+["hm"] = {
+},
+},
+["trackedBuffBars"] = {
+["_pandemicModeMigrated"] = true,
+["selectedBar"] = 1,
+["_groupMigrated"] = true,
+["_visMigrated"] = true,
+["bars"] = {
+},
+["_iconTotalMigrated"] = true,
+},
+["_dormantMerged"] = true,
+["tbbPositions"] = {
+},
 },
 },
 },
@@ -3923,24 +4209,48 @@ EllesmereUIDB = {
 },
 ["bagsAutoDisabled"] = true,
 ["unlockWidthMatch"] = {
-["focusCastbar"] = "focus",
-["targetCastbar"] = "target",
-["ERB_Power"] = "CDM_cooldowns",
 ["ERB_CastBar"] = "CDM_cooldowns",
+["focusCastbar"] = "focus",
+["ERB_Power"] = "CDM_cooldowns",
+["targetCastbar"] = "target",
 ["playerCastbar"] = "player",
 ["ERB_ClassResource"] = "CDM_cooldowns",
 },
 ["unlockAnchors"] = {
+["CDM_buffs"] = {
+["target"] = "CDM_cooldowns",
+["offsetY"] = 66.87313842773438,
+["offsetX"] = -0.825653076171875,
+["side"] = "TOP",
+},
 ["targetCastbar"] = {
 ["target"] = "target",
 ["offsetY"] = 0,
 ["side"] = "BOTTOM",
 ["offsetX"] = 0,
 },
-["CDM_utility"] = {
+["ERB_Power"] = {
 ["target"] = "CDM_cooldowns",
-["offsetY"] = -105.4871368408203,
-["offsetX"] = -1.0941162109375,
+["offsetY"] = 85.8616943359375,
+["offsetX"] = 0,
+["side"] = "BOTTOM",
+},
+["ERB_CastBar"] = {
+["target"] = "ERB_ClassResource",
+["offsetY"] = -125.4900207519531,
+["offsetX"] = -6.604827880859375,
+["side"] = "BOTTOM",
+},
+["playerCastbar"] = {
+["target"] = "player",
+["offsetY"] = 0,
+["side"] = "BOTTOM",
+["offsetX"] = 0,
+},
+["ERB_ClassResource"] = {
+["target"] = "ERB_Power",
+["offsetY"] = 6.103515625e-05,
+["offsetX"] = 0,
 ["side"] = "BOTTOM",
 },
 ["focusCastbar"] = {
@@ -3949,41 +4259,11 @@ EllesmereUIDB = {
 ["side"] = "BOTTOM",
 ["offsetX"] = 0,
 },
-["CDM_buffs"] = {
-["target"] = "CDM_cooldowns",
-["offsetY"] = 12.09176832476498,
-["offsetX"] = 0,
-["side"] = "TOP",
-},
-["playerCastbar"] = {
-["target"] = "player",
-["offsetY"] = 0,
-["side"] = "BOTTOM",
-["offsetX"] = 0,
-},
-["ERB_CastBar"] = {
-["target"] = "ERB_ClassResource",
-["offsetY"] = 1.52587890625e-05,
-["offsetX"] = -6.103515625e-05,
-["side"] = "BOTTOM",
-},
-["ERB_Power"] = {
-["target"] = "CDM_cooldowns",
-["offsetY"] = -38.29046630859375,
-["offsetX"] = 0.0001220703125,
-["side"] = "BOTTOM",
-},
-["ERB_ClassResource"] = {
-["target"] = "ERB_Power",
-["offsetY"] = 2.159210205078125,
-["offsetX"] = -0.86376953125,
-["side"] = "BOTTOM",
-},
 },
 ["lastNonSpecProfile"] = "main",
 ["_tbbLinkOwner"] = {
 ["profile"] = "main",
-["spec"] = "269",
+["spec"] = "1467",
 },
 ["statSectionsOrder"] = {
 "Attributes",
@@ -3998,15 +4278,25 @@ EllesmereUIDB = {
 "main",
 "Default",
 },
-["ppUIScale"] = 0.6499999761581421,
+["ppUIScale"] = 0.68,
+["partyMode"] = false,
+["activeTheme"] = "Midnight",
+["unlockSnapEnabled"] = true,
 ["autoLogging"] = {
+},
+["customColors"] = {
 },
 ["profileKeybinds"] = {
 },
 ["teleportPrompt"] = {
+["pos"] = {
+["rp"] = "BOTTOMRIGHT",
+["p"] = "BOTTOMRIGHT",
+["y"] = 78.14531707763672,
+["x"] = -329.0263061523438,
 },
-["lastLoginVersion"] = "9.1.4",
-["cdmButtonTipSeen"] = true,
+},
+["lastLoginVersion"] = "9.1.6",
 ["macroFactory"] = {
 ["EUI_Trinket2"] = {
 },
@@ -4029,17 +4319,36 @@ EllesmereUIDB = {
 ["EUI_Food"] = {
 },
 },
+["cdmButtonTipSeen"] = true,
 ["unlockGridMode"] = "dimmed",
 ["lootToastMoneyRef"] = {
-["iconH"] = 38,
-["h"] = 70.99999237060547,
+["iconH"] = 37.99990463256836,
+["h"] = 71.00001525878906,
 ["iconCy"] = 0,
-["textGap"] = 20.76913763079781,
-["iconL"] = 24.6154794185154,
-["w"] = 249.0000762939453,
-["textCy"] = -11.22291019230293,
+["textGap"] = 19.85312048281164,
+["iconL"] = 23.52950127479433,
+["w"] = 248.9999847412109,
+["textCy"] = -11.2601783914407,
 },
 ["cdmCachedBarSizes"] = {
+["Unotre-Archimonde"] = {
+["1467"] = {
+["cooldowns"] = 5,
+["utility"] = 9,
+},
+},
+["Lesotr-Archimonde"] = {
+["259"] = {
+["cooldowns"] = 4,
+["utility"] = 16,
+},
+},
+["Malferrant-Archimonde"] = {
+["255"] = {
+["cooldowns"] = 2,
+["utility"] = 12,
+},
+},
 ["Unote-Archimonde"] = {
 ["252"] = {
 ["cooldowns"] = 6,
@@ -4049,65 +4358,11 @@ EllesmereUIDB = {
 },
 ["Unot-Archimonde"] = {
 ["269"] = {
-["cooldowns"] = 6,
-["buffs"] = 1,
-["custom_6_38827_547"] = 3,
-["utility"] = 13,
+["cooldowns"] = 5,
+["utility"] = 17,
 },
 },
 },
-["unlockSnapEnabled"] = true,
-["unlockHeightMatch"] = {
-},
-["customColors"] = {
-},
-["lootSkinStyleSeeded"] = true,
-["_capturedOnce_RF"] = true,
-["ppUIScaleAuto"] = false,
-["queueChoiceTradeStyleSeeded"] = true,
-["qolUpgradeCalcChars"] = {
-["Unot - Archimonde"] = {
-["upgradeCalc"] = {
-["queue"] = {
-},
-["crestManualAdds"] = {
-},
-["calibrated"] = false,
-["cache"] = {
-["slots"] = {
-},
-["ts"] = 0,
-},
-},
-},
-["Unote - Archimonde"] = {
-["upgradeCalc"] = {
-["queue"] = {
-},
-["crestManualAdds"] = {
-},
-["calibrated"] = false,
-["cache"] = {
-["slots"] = {
-},
-["ts"] = 0,
-},
-},
-},
-},
-["_variantBase"] = {
-["252"] = {
-[433895] = 55090,
-[85948] = 316239,
-},
-["269"] = {
-[115057] = 101545,
-[443591] = 123904,
-[443028] = 123904,
-[467307] = 107428,
-},
-},
-["activeProfile"] = "main",
 ["_migrations"] = {
 ["np_dispel_abg_color_gold_v1"] = true,
 ["quest_tracker_blizzard_skin_rebuild_v1"] = true,
@@ -4146,16 +4401,124 @@ EllesmereUIDB = {
 ["charsheet_default_enabled_v1"] = true,
 ["resourcebars_guardian_ironfur_existing_off_v1"] = true,
 },
+["unlockHeightMatch"] = {
+["ERB_Power"] = "ERB_ClassResource",
+},
+["charSheetCollapsedSections"] = {
+},
+["lootSkinStyleSeeded"] = true,
+["_capturedOnce_RF"] = true,
+["ppUIScaleAuto"] = false,
+["queueChoiceTradeStyleSeeded"] = true,
+["qolUpgradeCalcChars"] = {
+["Unot - Archimonde"] = {
+["upgradeCalc"] = {
+["queue"] = {
+},
+["crestManualAdds"] = {
+},
+["calibrated"] = false,
+["cache"] = {
+["slots"] = {
+},
+["ts"] = 0,
+},
+},
+},
+["Unotre - Archimonde"] = {
+["upgradeCalc"] = {
+["cache"] = {
+["slots"] = {
+},
+["ts"] = 0,
+},
+["calibrated"] = false,
+["crestManualAdds"] = {
+},
+["queue"] = {
+},
+},
+},
+["Unote - Archimonde"] = {
+["upgradeCalc"] = {
+["queue"] = {
+},
+["crestManualAdds"] = {
+},
+["calibrated"] = false,
+["cache"] = {
+["slots"] = {
+},
+["ts"] = 0,
+},
+},
+},
+["Malferrant - Archimonde"] = {
+["upgradeCalc"] = {
+["queue"] = {
+},
+["crestManualAdds"] = {
+},
+["calibrated"] = false,
+["cache"] = {
+["slots"] = {
+},
+["ts"] = 0,
+},
+},
+},
+["Lesotr - Archimonde"] = {
+["upgradeCalc"] = {
+["cache"] = {
+["slots"] = {
+},
+["ts"] = 0,
+},
+["calibrated"] = false,
+["crestManualAdds"] = {
+},
+["queue"] = {
+},
+},
+},
+},
+["_variantBase"] = {
+["255"] = {
+[272678] = 272651,
+},
+["259"] = {
+[32645] = 196819,
+},
+["252"] = {
+[433895] = 55090,
+[85948] = 316239,
+},
+["269"] = {
+[443028] = 123904,
+[115057] = 101545,
+[443591] = 123904,
+[467307] = 107428,
+[1272696] = 1249625,
+},
+["1467"] = {
+[433874] = 357210,
+},
+},
+["previewHintDismissed"] = true,
+["activeProfile"] = "main",
 ["phantomBounds"] = {
 },
-["lastSpecByChar"] = {
-["Unot - Archimonde"] = 269,
-["Unote - Archimonde"] = 252,
-},
+["colorsPullFrom"] = "main",
 ["patchDotPending"] = true,
 ["specProfiles"] = {
 },
-["previewHintDismissed"] = true,
+["lastSpecByChar"] = {
+["Unot - Archimonde"] = 269,
+["Unotre - Archimonde"] = 1467,
+["Unote - Archimonde"] = 252,
+["Malferrant - Archimonde"] = 255,
+["Lesotr - Archimonde"] = 259,
+},
 ["clickCast"] = {
 ["enabled"] = true,
 ["downClick"] = true,
@@ -4197,7 +4560,10 @@ EllesmereUIDB = {
 },
 },
 },
-["colorsPullFrom"] = "main",
+["fonts"] = {
+["global"] = "__blizzard",
+["outlineMode"] = "outline",
+},
 ["sidebarUnlockTipSeen"] = true,
 ["profiles"] = {
 ["Default"] = {
@@ -4283,19 +4649,19 @@ EllesmereUIDB = {
 ["visHideHousing"] = true,
 ["barType"] = "cooldowns",
 ["showItemCount"] = true,
-["keybindG"] = 1,
+["keybindR"] = 1,
 ["bgR"] = 0.08,
 ["borderClassColor"] = false,
 ["borderB"] = 0,
 ["anchorTo"] = "none",
 ["visHideNoTarget"] = false,
-["bgB"] = 0.08,
+["spacing"] = 0,
 ["barBgR"] = 0,
+["keybindG"] = 1,
+["bgB"] = 0.08,
+["borderSize"] = 1,
 ["borderR"] = 0,
 ["borderTexture"] = "solid",
-["borderSize"] = 1,
-["keybindR"] = 1,
-["spacing"] = 0,
 ["iconSize"] = 50.09446877402636,
 ["showTooltip"] = false,
 ["cooldownTextPosition"] = "center",
@@ -4337,19 +4703,19 @@ EllesmereUIDB = {
 ["visHideHousing"] = true,
 ["barType"] = "utility",
 ["showItemCount"] = true,
-["keybindG"] = 1,
+["keybindR"] = 1,
 ["bgR"] = 0.08,
 ["borderClassColor"] = false,
 ["borderB"] = 0,
 ["anchorTo"] = "none",
 ["visHideNoTarget"] = false,
-["bgB"] = 0.08,
+["spacing"] = 0,
 ["barBgR"] = 0,
+["keybindG"] = 1,
+["bgB"] = 0.08,
+["borderSize"] = 1,
 ["borderR"] = 0,
 ["borderTexture"] = "solid",
-["borderSize"] = 1,
-["keybindR"] = 1,
-["spacing"] = 0,
 ["iconSize"] = 30.22942081191246,
 ["showTooltip"] = false,
 ["cooldownTextPosition"] = "center",
@@ -4402,10 +4768,10 @@ EllesmereUIDB = {
 ["visHideNoTarget"] = false,
 ["anchorPosition"] = "left",
 ["showTooltip"] = false,
-["keybindG"] = 1,
+["borderR"] = 0,
 ["borderTexture"] = "solid",
 ["borderSize"] = 1,
-["borderR"] = 0,
+["keybindR"] = 1,
 ["spacing"] = 2,
 ["iconSize"] = 39.7300959242278,
 ["visHideMounted"] = false,
@@ -4417,7 +4783,7 @@ EllesmereUIDB = {
 ["housingHideEnabled"] = true,
 ["keybindOffsetY"] = -2,
 ["bgB"] = 0.08,
-["keybindR"] = 1,
+["keybindG"] = 1,
 ["keybindSize"] = 10,
 ["pandemicGlowMode"] = "default",
 ["iconShape"] = "none",
@@ -4470,7 +4836,7 @@ EllesmereUIDB = {
 ["showCooldownText"] = true,
 ["borderSize"] = 1,
 ["borderR"] = 0,
-["spacing"] = 1.727395474966426,
+["growDirection"] = "RIGHT",
 ["focusReminderEnabled"] = false,
 ["showCharges"] = true,
 ["bgA"] = 0.6,
@@ -4480,8 +4846,8 @@ EllesmereUIDB = {
 ["focusReminderOffsetY"] = 0,
 ["focusReminderG"] = 1,
 ["focusReminderR"] = 1,
+["spacing"] = 1.727395474966426,
 ["borderTexture"] = "solid",
-["growDirection"] = "RIGHT",
 ["anchorOffsetX"] = 0,
 ["pandemicGlowMode"] = "default",
 ["barBgR"] = 0,
@@ -4791,8 +5157,8 @@ EllesmereUIDB = {
 ["frameWidth"] = 260,
 ["customBorderStyle"] = false,
 ["objectiveCompareDeltaOnly"] = false,
+["borderTexture"] = "solid",
 ["standaloneAlpha"] = 0,
-["enemyForcesPos"] = "BOTTOM",
 ["titleSize"] = 16,
 ["timerBarUseCustomColor"] = false,
 ["showCompletedMilliseconds"] = true,
@@ -4801,7 +5167,7 @@ EllesmereUIDB = {
 ["thresholdTextOffsetX"] = 0,
 ["borderSize"] = 0,
 ["thresholdTextOffsetY"] = 0,
-["borderTexture"] = "solid",
+["enemyForcesPos"] = "BOTTOM",
 ["timerBarSegmentGap"] = 2,
 ["thresholdPlusThreeTextOffsetY"] = 0,
 ["showUpcomingSplitTargets"] = false,
@@ -5310,14 +5676,19 @@ EllesmereUIDB = {
 ["g"] = 0.045,
 ["r"] = 0.03,
 },
-["tabFontSize"] = 11,
+["abbreviateChannels"] = true,
 ["activeUnderlineColor"] = {
 ["a"] = 1,
 ["b"] = 0.61,
 ["g"] = 0.82,
 ["r"] = 0.05,
 },
-["abbreviateChannels"] = true,
+["chatPosition"] = {
+["y"] = 50,
+["relPoint"] = "BOTTOMLEFT",
+["point"] = "BOTTOMLEFT",
+["x"] = 35,
+},
 ["fontSize"] = 12,
 ["showGuild"] = false,
 ["activeTabBorder"] = true,
@@ -5339,12 +5710,7 @@ EllesmereUIDB = {
 ["sidebarRight"] = false,
 ["showPortals"] = true,
 ["iconR"] = 1,
-["chatPosition"] = {
-["y"] = 50,
-["relPoint"] = "BOTTOMLEFT",
-["point"] = "BOTTOMLEFT",
-["x"] = 35,
-},
+["tabFontSize"] = 11,
 ["tabBorderColorActive"] = {
 ["a"] = 0.18,
 ["b"] = 1,
@@ -5927,12 +6293,8 @@ EllesmereUIDB = {
 ["leftTextClassColor"] = false,
 ["btbRightY"] = 0,
 ["detachedPortraitBorder"] = true,
+["healthReverseFill"] = false,
 ["centerTextY"] = 0,
-["highlightColor"] = {
-["b"] = 1,
-["g"] = 1,
-["r"] = 1,
-},
 ["btbLeftSize"] = 11,
 ["powerBarOpacity"] = 100,
 ["auraBorderA"] = 1,
@@ -5942,7 +6304,11 @@ EllesmereUIDB = {
 ["btbCenterContent"] = "none",
 ["bottomTextBarHeight"] = 16,
 ["btbClassIcon"] = "none",
-["healthReverseFill"] = false,
+["highlightColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
 ["oocFadeEnabled"] = false,
 ["btbRightClassColor"] = false,
 ["raidMarkerX"] = 0,
@@ -6514,8 +6880,12 @@ EllesmereUIDB = {
 ["maxDebuffs"] = 10,
 ["debuffAnchor"] = "bottomleft",
 ["bottomTextBarHeight"] = 16,
-["healthReverseFill"] = false,
 ["centerTextY"] = 0,
+["highlightColor"] = {
+["b"] = 1,
+["g"] = 1,
+["r"] = 1,
+},
 ["oocFadeEnabled"] = false,
 ["absorbBarHeight"] = 4,
 ["raidMarkerX"] = 0,
@@ -6527,11 +6897,7 @@ EllesmereUIDB = {
 ["r"] = 0,
 },
 ["portraitY"] = 0,
-["highlightColor"] = {
-["b"] = 1,
-["g"] = 1,
-["r"] = 1,
-},
+["healthReverseFill"] = false,
 ["portraitSide"] = "right",
 ["btbClassIcon"] = "none",
 ["healthClassColored"] = true,
@@ -6765,12 +7131,12 @@ EllesmereUIDB = {
 ["debuffOffsetY"] = 0,
 ["buffCooldownTextSize"] = 10,
 ["powerHeight"] = 6,
-["classPowerBarY"] = 0,
+["powerPercentSize"] = 9,
 ["frameWidth"] = 181,
 ["powerPercentText"] = "none",
 ["healthReverseFill"] = false,
 ["smoothBars"] = false,
-["showPlayerCastbar"] = false,
+["powerPercentTextPowerColor"] = false,
 ["classPowerBarX"] = 0,
 ["debuffSize"] = 22,
 ["showBuffs"] = true,
@@ -6780,14 +7146,14 @@ EllesmereUIDB = {
 ["playerCastbarX"] = 0,
 ["debuffOffsetX"] = 0,
 ["powerTextFormat"] = "perpp",
-["powerPercentSize"] = 9,
+["showPlayerAbsorb"] = "none",
 ["buffShowCooldownText"] = false,
 ["powerPercentX"] = 0,
 ["powerPercentPowerColor"] = true,
 ["healAbsorbBarHeight"] = 4,
 ["showClassPowerBar"] = false,
 ["healthHeight"] = 46,
-["healthDisplay"] = "both",
+["showPlayerCastbar"] = false,
 ["absorbBarColor"] = {
 ["b"] = 1,
 ["g"] = 1,
@@ -6796,12 +7162,12 @@ EllesmereUIDB = {
 ["playerCastbarHeight"] = 14,
 ["debuffCooldownTextSize"] = 10,
 ["powerShowPercent"] = true,
-["powerPercentTextPowerColor"] = false,
+["healthDisplay"] = "both",
 ["powerBgPowerColored"] = false,
 ["maxBuffs"] = 4,
 ["healthVerticalFill"] = false,
 ["debuffShowCooldownText"] = false,
-["showPlayerAbsorb"] = "none",
+["classPowerBarY"] = 0,
 ["healthClassColored"] = true,
 ["playerCastbarWidth"] = 181,
 },
@@ -8639,7 +9005,7 @@ false,
 ["g"] = 0,
 ["r"] = 0,
 },
-["borderEnabled"] = true,
+["borderSize"] = 1,
 ["shapeBorderColor"] = {
 ["a"] = 1,
 ["b"] = 0,
@@ -8666,8 +9032,8 @@ false,
 ["overrideNumIcons"] = 12,
 ["bgEnabled"] = false,
 ["disableFormPaging"] = false,
+["borderEnabled"] = true,
 ["mouseoverAlpha"] = 1,
-["borderSize"] = 1,
 ["paging"] = {
 },
 ["mouseoverSpeed"] = 0.15,
@@ -8760,7 +9126,7 @@ false,
 ["g"] = 0,
 ["r"] = 0,
 },
-["borderEnabled"] = true,
+["borderSize"] = 1,
 ["shapeBorderColor"] = {
 ["a"] = 1,
 ["b"] = 0,
@@ -8787,8 +9153,8 @@ false,
 ["overrideNumIcons"] = 12,
 ["bgEnabled"] = false,
 ["disableFormPaging"] = false,
+["borderEnabled"] = true,
 ["mouseoverAlpha"] = 1,
-["borderSize"] = 1,
 ["paging"] = {
 },
 ["mouseoverSpeed"] = 0.15,
@@ -9010,7 +9376,7 @@ false,
 ["g"] = 0,
 ["r"] = 0,
 },
-["borderEnabled"] = true,
+["borderSize"] = 1,
 ["shapeBorderColor"] = {
 ["a"] = 1,
 ["b"] = 0,
@@ -9037,8 +9403,8 @@ false,
 ["overrideNumIcons"] = 12,
 ["bgEnabled"] = false,
 ["disableFormPaging"] = false,
+["borderEnabled"] = true,
 ["mouseoverAlpha"] = 1,
-["borderSize"] = 1,
 ["paging"] = {
 },
 ["mouseoverSpeed"] = 0.15,
@@ -9053,12 +9419,12 @@ false,
 ["width"] = 400,
 ["barVisibility"] = "always",
 ["mouseoverAlpha"] = 1,
-["growDirection"] = "center",
 ["clickThrough"] = true,
+["housingHideEnabled"] = false,
 ["height"] = 18,
 ["mouseoverSpeed"] = 0.15,
 ["orientation"] = "HORIZONTAL",
-["housingHideEnabled"] = false,
+["growDirection"] = "center",
 },
 ["EncounterBar"] = {
 ["alwaysHidden"] = false,
@@ -9275,7 +9641,7 @@ false,
 ["g"] = 0,
 ["r"] = 0,
 },
-["borderEnabled"] = true,
+["borderSize"] = 1,
 ["shapeBorderColor"] = {
 ["a"] = 1,
 ["b"] = 0,
@@ -9302,8 +9668,8 @@ false,
 ["overrideNumIcons"] = 10,
 ["bgEnabled"] = false,
 ["disableFormPaging"] = false,
+["borderEnabled"] = true,
 ["mouseoverAlpha"] = 1,
-["borderSize"] = 1,
 ["paging"] = {
 },
 ["mouseoverSpeed"] = 0.15,
@@ -9396,7 +9762,7 @@ false,
 ["g"] = 0,
 ["r"] = 0,
 },
-["borderEnabled"] = true,
+["borderSize"] = 1,
 ["shapeBorderColor"] = {
 ["a"] = 1,
 ["b"] = 0,
@@ -9423,8 +9789,8 @@ false,
 ["overrideNumIcons"] = 12,
 ["bgEnabled"] = false,
 ["disableFormPaging"] = false,
+["borderEnabled"] = true,
 ["mouseoverAlpha"] = 1,
-["borderSize"] = 1,
 ["paging"] = {
 },
 ["mouseoverSpeed"] = 0.15,
@@ -9517,7 +9883,7 @@ false,
 ["g"] = 0,
 ["r"] = 0,
 },
-["borderEnabled"] = true,
+["borderSize"] = 1,
 ["shapeBorderColor"] = {
 ["a"] = 1,
 ["b"] = 0,
@@ -9544,8 +9910,8 @@ false,
 ["overrideNumIcons"] = 12,
 ["bgEnabled"] = false,
 ["disableFormPaging"] = false,
+["borderEnabled"] = true,
 ["mouseoverAlpha"] = 1,
-["borderSize"] = 1,
 ["paging"] = {
 },
 ["mouseoverSpeed"] = 0.15,
@@ -9560,12 +9926,12 @@ false,
 ["width"] = 400,
 ["barVisibility"] = "never",
 ["mouseoverAlpha"] = 1,
-["growDirection"] = "center",
 ["clickThrough"] = true,
+["housingHideEnabled"] = false,
 ["height"] = 18,
 ["mouseoverSpeed"] = 0.15,
 ["orientation"] = "HORIZONTAL",
-["housingHideEnabled"] = false,
+["growDirection"] = "center",
 },
 ["BagBar"] = {
 ["alwaysHidden"] = false,
@@ -9587,12 +9953,12 @@ false,
 ["width"] = 400,
 ["barVisibility"] = "always",
 ["mouseoverAlpha"] = 1,
-["growDirection"] = "center",
 ["clickThrough"] = true,
+["housingHideEnabled"] = false,
 ["height"] = 18,
 ["mouseoverSpeed"] = 0.15,
 ["orientation"] = "HORIZONTAL",
-["housingHideEnabled"] = false,
+["growDirection"] = "center",
 },
 ["Bar7"] = {
 ["countOffsetY"] = 0,
@@ -9680,7 +10046,7 @@ false,
 ["g"] = 0,
 ["r"] = 0,
 },
-["borderEnabled"] = true,
+["borderSize"] = 1,
 ["shapeBorderColor"] = {
 ["a"] = 1,
 ["b"] = 0,
@@ -9707,8 +10073,8 @@ false,
 ["overrideNumIcons"] = 12,
 ["bgEnabled"] = false,
 ["disableFormPaging"] = false,
+["borderEnabled"] = true,
 ["mouseoverAlpha"] = 1,
-["borderSize"] = 1,
 ["paging"] = {
 },
 ["mouseoverSpeed"] = 0.15,
@@ -9797,7 +10163,7 @@ false,
 ["g"] = 0,
 ["r"] = 0,
 },
-["borderEnabled"] = true,
+["borderSize"] = 1,
 ["shapeBorderColor"] = {
 ["a"] = 1,
 ["b"] = 0,
@@ -9824,8 +10190,8 @@ false,
 ["overrideNumIcons"] = 12,
 ["bgEnabled"] = false,
 ["disableFormPaging"] = false,
+["borderEnabled"] = true,
 ["mouseoverAlpha"] = 1,
-["borderSize"] = 1,
 ["paging"] = {
 },
 ["mouseoverSpeed"] = 0.15,
@@ -9926,14 +10292,14 @@ false,
 ["combatHideEnabled"] = false,
 ["orientation"] = "horizontal",
 ["disableSkyridingPaging"] = false,
-["mouseoverAlpha"] = 1,
+["borderSize"] = 1,
 ["bgColor"] = {
 ["a"] = 0.5,
 ["b"] = 0,
 ["g"] = 0,
 ["r"] = 0,
 },
-["borderSize"] = 1,
+["borderEnabled"] = true,
 ["shapeBorderColor"] = {
 ["a"] = 1,
 ["b"] = 0,
@@ -9961,7 +10327,7 @@ false,
 ["bgEnabled"] = false,
 ["disableFormPaging"] = false,
 ["visOnlyInstances"] = false,
-["borderEnabled"] = true,
+["mouseoverAlpha"] = 1,
 ["paging"] = {
 },
 ["mouseoverSpeed"] = 0.15,
@@ -10064,7 +10430,7 @@ false,
 ["g"] = 0,
 ["r"] = 0,
 },
-["borderEnabled"] = true,
+["borderSize"] = 1,
 ["shapeBorderColor"] = {
 ["a"] = 1,
 ["b"] = 0,
@@ -10091,8 +10457,8 @@ false,
 ["overrideNumIcons"] = 12,
 ["bgEnabled"] = false,
 ["disableFormPaging"] = false,
+["borderEnabled"] = true,
 ["mouseoverAlpha"] = 1,
-["borderSize"] = 1,
 ["paging"] = {
 },
 ["mouseoverSpeed"] = 0.15,
@@ -10237,13 +10603,13 @@ false,
 ["showTimer"] = true,
 ["timerSize"] = 11,
 ["borderA"] = 1,
-["borderTexture"] = "solid",
+["spacing"] = 2,
 ["borderSize"] = 1,
 ["borderR"] = 0,
-["spacing"] = 2,
+["borderG"] = 0,
 ["orientation"] = "HORIZONTAL",
 ["iconSize"] = 30,
-["borderG"] = 0,
+["borderTexture"] = "solid",
 ["borderB"] = 0,
 },
 ["castBar"] = {
@@ -10297,14 +10663,14 @@ false,
 ["latencyR"] = 0.835,
 ["spellTextY"] = 0,
 ["anchorX"] = 0,
-["timerSize"] = 11,
+["iconOnRight"] = false,
 ["bgA"] = 0.7,
 ["showGCDBoundary"] = false,
-["iconOnRight"] = false,
+["spellTextX"] = 0,
 ["gradientR"] = 0.2,
 ["tickMarksA"] = 0.7,
 ["latencyA"] = 1,
-["spellTextX"] = 0,
+["timerSize"] = 11,
 ["width"] = 220,
 ["coloredEmpowerStages"] = false,
 ["timerX"] = 0,
@@ -10421,9 +10787,9 @@ false,
 ["bgG"] = 0,
 ["depleteFill"] = false,
 ["fillA"] = 1,
+["fillR"] = 0.267,
 ["orientation"] = "HORIZONTAL",
 ["gradientDir"] = "HORIZONTAL",
-["fillR"] = 0.267,
 ["fillG"] = 0.729,
 },
 ["arcaneSoul"] = {
@@ -10948,16 +11314,15 @@ false,
 },
 ["toprightSlotRaiseStrata"] = false,
 ["textSlotRightYOffset"] = 0,
-["textSlotRightSize"] = 10,
 ["ccSpacing"] = 2,
-["textSlotTopYOffset"] = 0,
+["textSlotRightSize"] = 10,
 ["importantCastGlow"] = true,
 ["buffCropIcons"] = false,
-["healthBarHeight"] = 17,
+["textSlotTopYOffset"] = 0,
 ["ccTimerPosition"] = "topleft",
 ["targetOverlayFullBgAlpha"] = false,
+["healthBarHeight"] = 17,
 ["dpsNoAggroEnabled"] = false,
-["customBorderEnabled"] = false,
 ["castNameColor"] = {
 ["b"] = 1,
 ["g"] = 1,
@@ -10965,16 +11330,17 @@ false,
 },
 ["classPowerXOffset"] = 0,
 ["kickTickEnabled"] = true,
+["customBorderEnabled"] = false,
 ["castBarShieldEnabled"] = true,
 ["showClassPower"] = false,
 ["classPowerPos"] = "bottom",
 ["textSlotLeftSize"] = 10,
 ["importantCastGlowStyle"] = 1,
 ["targetArrowScale"] = 1,
-["dpsNoAggro"] = {
-["b"] = 0.35,
-["g"] = 0.75,
-["r"] = 0.35,
+["offTankAggro"] = {
+["b"] = 0.812,
+["g"] = 0.761,
+["r"] = 0.188,
 },
 ["castBar"] = {
 ["b"] = 0.9,
@@ -10989,13 +11355,13 @@ false,
 ["r"] = 0.067,
 },
 ["debuffYOffset"] = 2,
-["textSlotLeftXOffset"] = 0,
 ["focusLetterSize"] = 18,
-["offTankAggro"] = {
-["b"] = 0.812,
-["g"] = 0.761,
-["r"] = 0.188,
+["dpsNoAggro"] = {
+["b"] = 0.35,
+["g"] = 0.75,
+["r"] = 0.35,
 },
+["textSlotLeftXOffset"] = 0,
 ["friendlyNameOnly"] = true,
 ["topleftSlotXOffset"] = 0,
 ["kickTickColor"] = {
@@ -11011,10 +11377,10 @@ false,
 },
 ["hideBuffIconBorder"] = false,
 ["friendlyBelowNameGuildBrackets"] = true,
-["castIconTargetBorder"] = false,
+["auraStackTextX"] = 0,
 ["classPowerClassColors"] = true,
 ["customBorderTexture"] = "solid",
-["auraStackTextX"] = 0,
+["castIconTargetBorder"] = false,
 ["hideCCIconBorder"] = false,
 ["friendlyBelowNameColor"] = {
 ["b"] = 0.8,
@@ -11034,17 +11400,17 @@ false,
 ["rightSlotXOffset"] = 0,
 ["textSlotCenterXOffset"] = 0,
 ["castBarTexture"] = "none",
-["textSlotLeftYOffset"] = 0,
+["bgAlpha"] = 1,
 ["darkenOOCColor"] = {
 ["b"] = 0.5,
 ["g"] = 0.5,
 ["r"] = 0.5,
 },
 ["focusOverlayNoTint"] = false,
-["showCastTimer"] = true,
+["textSlotLeftYOffset"] = 0,
 ["castNameOffsetX"] = 0,
 ["outOfRangeMode"] = "disabled",
-["bgAlpha"] = 1,
+["showCastTimer"] = true,
 ["ccTextColor"] = {
 ["b"] = 1,
 ["g"] = 1,
@@ -11060,40 +11426,40 @@ false,
 ["castNameWrap"] = false,
 ["castNameSide"] = "left",
 ["showCastIcon"] = true,
+["hashLineEnabled"] = false,
 ["hoverColor"] = {
 ["b"] = 1,
 ["g"] = 1,
 ["r"] = 1,
 },
-["hashLineEnabled"] = false,
 ["friendlyShowDefaultNames"] = false,
 ["replaceQuestIconWithObjective"] = false,
 ["textSlotCenterStrata"] = "MEDIUM",
 ["focusCastHeight"] = 100,
-["importantCastGlowColor"] = {
-["b"] = 0.2,
-["g"] = 0.2,
-["r"] = 1,
-},
+["dispelGlow"] = false,
 ["questMobColor"] = {
 ["b"] = 0.475,
 ["g"] = 0.855,
 ["r"] = 0.157,
 },
 ["castTargetWrap"] = false,
+["importantCastGlowColor"] = {
+["b"] = 0.2,
+["g"] = 0.2,
+["r"] = 1,
+},
+["stackingFriendly"] = false,
 ["debuffTimerColor"] = {
 ["b"] = 1,
 ["g"] = 1,
 ["r"] = 1,
 },
-["stackingFriendly"] = false,
-["dispelGlow"] = false,
 ["castTargetOffsetY"] = 0,
-["questObjectiveTextSize"] = 14,
 ["castOverlayEnabled"] = false,
+["questObjectiveTextSize"] = 14,
 ["castTargetSize"] = 10,
-["auraSpacing"] = 2,
 ["pandemicGlowSpeed"] = 4,
+["auraSpacing"] = 2,
 ["owBasicColor"] = {
 ["b"] = 0.137,
 ["g"] = 0.137,
@@ -11204,6 +11570,7 @@ false,
 ["_migrations"] = {
 ["rf_split_absorb_edge_mode_v1"] = true,
 ["spec_overrides_fresh_start_v1"] = true,
+["uf_visibility_never_keeps_frame_v1"] = true,
 ["ab_queuestatus_reset_visibility_v1"] = true,
 ["cdm_bars_capture_reset_v1"] = true,
 ["resource_bars_threshold_specs_v1"] = true,
@@ -11389,9 +11756,9 @@ false,
 ["pandemicGlowMode"] = "default",
 },
 {
-["keybindAlign"] = "right",
 ["buffGlowMode"] = "default",
 ["numRows"] = 2,
+["keybindAlign"] = "right",
 ["showPassiveTrinkets"] = false,
 ["stackCountPosition"] = "top",
 ["topRowCount"] = 7,
@@ -11399,10 +11766,11 @@ false,
 ["stackCountSize"] = 16,
 ["customTopRowEnabled"] = true,
 ["stackCountY"] = 6,
+["spacing"] = 2.476780185758514,
 ["growDirection"] = "CENTER",
-["spacing"] = 0,
 ["iconSize"] = 35,
 ["pandemicGlowMode"] = "default",
+["iconZoom"] = 0.05,
 ["suppressGCD"] = false,
 },
 {
@@ -11419,16 +11787,16 @@ false,
 {
 ["borderThickness"] = "thin",
 ["focusCastSoundKey"] = "none",
-["chargeFontSize"] = 11,
+["outOfRangeOverlay"] = false,
 ["barBgEnabled"] = false,
 ["cooldownTextPosition"] = "center",
 ["nameplateOffsetY"] = 0,
-["buffGlowMode"] = "default",
+["chargeFontSize"] = 11,
 ["borderA"] = 1,
 ["key"] = "focuskick",
 ["bgR"] = 0.08,
 ["swipeAlpha"] = 0.7,
-["outOfRangeOverlay"] = false,
+["buffGlowMode"] = "default",
 ["anchorOffsetY"] = 0,
 ["stackCountPosition"] = "bottomright",
 ["enabled"] = true,
@@ -11443,11 +11811,11 @@ false,
 ["desaturateOnCD"] = true,
 ["name"] = "FocusKick",
 ["borderG"] = 0,
-["pandemicGlow"] = false,
+["anchorOffsetX"] = 0,
 ["showStackCount"] = false,
 ["showItemCount"] = true,
 ["activeStateAnim"] = "blizzard",
-["nameplateAnchorSide"] = "LEFT",
+["pandemicGlow"] = false,
 ["borderClassColor"] = false,
 ["borderB"] = 0,
 ["anchorTo"] = "none",
@@ -11469,7 +11837,7 @@ false,
 ["focusReminderG"] = 1,
 ["focusReminderR"] = 1,
 ["borderTexture"] = "solid",
-["anchorOffsetX"] = 0,
+["nameplateAnchorSide"] = "LEFT",
 ["anchorPosition"] = "left",
 ["focusKickUseTarget"] = false,
 ["iconShape"] = "none",
@@ -11494,78 +11862,15 @@ false,
 ["iconSize"] = 0.83333335195979,
 ["key"] = "__ghost_cd",
 },
-{
-["visOnlyInstances"] = false,
-["borderThickness"] = "thin",
-["barBgB"] = 0,
-["buffGlowMode"] = "default",
-["stackCountB"] = 1,
-["numRows"] = 1,
-["borderA"] = 1,
-["key"] = "custom_6_38827_547",
-["cooldownTextPosition"] = "center",
-["swipeAlpha"] = 0.7,
-["anchorPosition"] = "left",
-["anchorOffsetY"] = 0,
-["barType"] = "cooldowns",
-["enabled"] = true,
-["outOfRangeOverlay"] = false,
-["chargeFontSize"] = 11,
-["pandemicGlowStyle"] = -1,
-["barVisibility"] = "always",
-["barBgR"] = 0,
-["cooldownFontSize"] = 12,
-["stackCountSize"] = 11,
-["pandemicGlowMode"] = "default",
-["desaturateOnCD"] = true,
-["name"] = "Custom Cooldowns Bar 4",
-["housingHideEnabled"] = true,
-["stackCountG"] = 1,
-["showStackCount"] = false,
-["showItemCount"] = true,
-["anchorOffsetX"] = 0,
-["bgR"] = 0.08,
-["borderClassColor"] = false,
-["borderB"] = 0,
-["activeStateAnim"] = "blizzard",
-["visHideNoTarget"] = false,
-["pandemicGlow"] = true,
-["anchorTo"] = "none",
-["bgB"] = 0.08,
-["pandemicGlowThickness"] = 2,
-["borderSize"] = 1,
-["borderR"] = 0,
-["growDirection"] = "CENTER",
-["iconSize"] = 36,
-["showCharges"] = true,
-["pandemicGlowSpeed"] = 4,
-["showCooldownText"] = true,
-["bgA"] = 0.6,
-["verticalOrientation"] = false,
-["spacing"] = 2,
-["visHideMounted"] = false,
-["stackCountY"] = 0,
-["stackCountR"] = 1,
-["visHideHousing"] = true,
-["visHideNoEnemy"] = false,
-["pandemicGlowLines"] = 8,
-["iconShape"] = "none",
-["iconZoom"] = 0.08,
-["bgG"] = 0.08,
-["barBgG"] = 0,
-["stackCountX"] = 0,
-["borderG"] = 0,
-["barBgEnabled"] = false,
-},
 },
 },
 ["_tbbPresetIconTotal"] = true,
 ["cdmBarPositions"] = {
 ["cooldowns"] = {
-["y"] = -249.608642578125,
+["y"] = -273.6841583251953,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = 6.04583740234375,
+["x"] = 3.302337646484375,
 },
 ["buffs"] = {
 ["y"] = 0,
@@ -11573,17 +11878,11 @@ false,
 ["point"] = "CENTER",
 ["x"] = 0,
 },
-["custom_6_38827_547"] = {
-["y"] = -290.4615478515625,
-["relPoint"] = "CENTER",
-["point"] = "CENTER",
-["x"] = 7.111112117767334,
-},
 ["utility"] = {
-["y"] = -412.9059677124023,
+["y"] = -339.731559753418,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = 5.469970703125,
+["x"] = 3.302337646484375,
 },
 },
 ["tbbStylePresets"] = {
@@ -11789,6 +12088,26 @@ false,
 },
 ["selectedMapping"] = 1,
 },
+[63] = {
+["mappings"] = {
+{
+["enabled"] = false,
+["actionButton"] = 1,
+["cdmSlot"] = 1,
+["glowStyle"] = 1,
+["glowColor"] = {
+["r"] = 1,
+["g"] = 0.82,
+["b"] = 0.1,
+},
+["name"] = "Buff Name (eg: Divine Purpose)",
+["mode"] = "ACTIVE",
+["actionBar"] = 1,
+["hideFromCDM"] = false,
+},
+},
+["selectedMapping"] = 1,
+},
 [253] = {
 ["mappings"] = {
 {
@@ -11829,7 +12148,7 @@ false,
 },
 ["selectedMapping"] = 1,
 },
-[63] = {
+[251] = {
 ["mappings"] = {
 {
 ["enabled"] = false,
@@ -11844,6 +12163,46 @@ false,
 ["name"] = "Buff Name (eg: Divine Purpose)",
 ["mode"] = "ACTIVE",
 ["actionBar"] = 1,
+["hideFromCDM"] = false,
+},
+},
+["selectedMapping"] = 1,
+},
+[71] = {
+["mappings"] = {
+{
+["enabled"] = false,
+["actionButton"] = 1,
+["cdmSlot"] = 1,
+["glowStyle"] = 1,
+["glowColor"] = {
+["r"] = 1,
+["g"] = 0.82,
+["b"] = 0.1,
+},
+["name"] = "Buff Name (eg: Divine Purpose)",
+["mode"] = "ACTIVE",
+["actionBar"] = 1,
+["hideFromCDM"] = false,
+},
+},
+["selectedMapping"] = 1,
+},
+["259"] = {
+["mappings"] = {
+{
+["enabled"] = false,
+["actionButton"] = 1,
+["cdmSlot"] = 1,
+["actionBar"] = 1,
+["glowColor"] = {
+["r"] = 1,
+["g"] = 0.82,
+["b"] = 0.1,
+},
+["name"] = "Buff Name (eg: Divine Purpose)",
+["mode"] = "ACTIVE",
+["glowStyle"] = 1,
 ["hideFromCDM"] = false,
 },
 },
@@ -11929,13 +12288,13 @@ false,
 },
 ["selectedMapping"] = 1,
 },
-[1473] = {
+["255"] = {
 ["mappings"] = {
 {
 ["enabled"] = false,
 ["actionButton"] = 1,
 ["cdmSlot"] = 1,
-["glowStyle"] = 1,
+["actionBar"] = 1,
 ["glowColor"] = {
 ["r"] = 1,
 ["g"] = 0.82,
@@ -11943,13 +12302,13 @@ false,
 },
 ["name"] = "Buff Name (eg: Divine Purpose)",
 ["mode"] = "ACTIVE",
-["actionBar"] = 1,
+["glowStyle"] = 1,
 ["hideFromCDM"] = false,
 },
 },
 ["selectedMapping"] = 1,
 },
-[71] = {
+[1473] = {
 ["mappings"] = {
 {
 ["enabled"] = false,
@@ -11989,7 +12348,7 @@ false,
 },
 ["selectedMapping"] = 1,
 },
-[102] = {
+[268] = {
 ["mappings"] = {
 {
 ["enabled"] = false,
@@ -12029,7 +12388,7 @@ false,
 },
 ["selectedMapping"] = 1,
 },
-[268] = {
+[102] = {
 ["mappings"] = {
 {
 ["enabled"] = false,
@@ -12049,13 +12408,13 @@ false,
 },
 ["selectedMapping"] = 1,
 },
-[251] = {
+["1467"] = {
 ["mappings"] = {
 {
 ["enabled"] = false,
 ["actionButton"] = 1,
 ["cdmSlot"] = 1,
-["glowStyle"] = 1,
+["actionBar"] = 1,
 ["glowColor"] = {
 ["r"] = 1,
 ["g"] = 0.82,
@@ -12063,7 +12422,7 @@ false,
 },
 ["name"] = "Buff Name (eg: Divine Purpose)",
 ["mode"] = "ACTIVE",
-["actionBar"] = 1,
+["glowStyle"] = 1,
 ["hideFromCDM"] = false,
 },
 },
@@ -12094,6 +12453,43 @@ false,
 },
 },
 ["EllesmereUIMythicTimer"] = {
+["bestObjectiveSplits"] = {
+["250:11"] = {
+267,
+654,
+928,
+1313,
+1152,
+},
+["250:11:9-10-160"] = {
+267,
+654,
+928,
+1313,
+1152,
+},
+["250:10"] = {
+242,
+669,
+924,
+1288,
+1152,
+},
+["250"] = {
+242,
+654,
+924,
+1288,
+1152,
+},
+["250:10:9-10-160"] = {
+242,
+669,
+924,
+1288,
+1152,
+},
+},
 },
 ["EllesmereUIDragonRiding"] = {
 },
@@ -12107,12 +12503,13 @@ false,
 },
 ["windows"] = {
 {
-["height"] = 223,
+["curSession"] = 1,
 ["curDMType"] = 0,
 ["position"] = {
-["y"] = 223.1794953656623,
-["x"] = 1378.461589023208,
+["y"] = 420.2270381836945,
+["x"] = 0,
 },
+["height"] = 223,
 ["width"] = 383,
 },
 },
@@ -12183,16 +12580,16 @@ false,
 ["EllesmereUIChat"] = {
 ["chat"] = {
 ["_chatPosOwnership"] = 1,
-["chatFontSize"] = 18,
+["chatFontSize"] = 18.00000190734863,
 ["chatSize"] = {
 ["w"] = 449,
 ["h"] = 133,
 },
 ["chatPosition"] = {
-["y"] = 37.32476806640625,
+["y"] = 37.97727966308594,
 ["relPoint"] = "BOTTOMLEFT",
 ["point"] = "BOTTOMLEFT",
-["x"] = 35.00854873657227,
+["x"] = 34.67492294311523,
 },
 ["toastPosition"] = {
 ["y"] = -312.6748657226563,
@@ -12289,7 +12686,7 @@ false,
 ["combatOnly"] = false,
 ["onlyWhenHidden"] = false,
 ["texture"] = "ring_normal",
-["instanceOnly"] = false,
+["enabled"] = false,
 ["alpha"] = 100,
 ["castCircle"] = {
 ["hex"] = "3FA7FF",
@@ -12306,8 +12703,8 @@ false,
 },
 ["useClassColor"] = true,
 ["trail"] = false,
-["enabled"] = false,
 ["hex"] = "0CD29D",
+["instanceOnly"] = false,
 ["scale"] = 1,
 ["gcd"] = {
 ["hex"] = "FFFFFF",
@@ -12326,7 +12723,7 @@ false,
 },
 ["movementAlert"] = {
 ["gwTtsVoiceID"] = 0,
-["tsSoundKey"] = "none",
+["tsColorG"] = 1,
 ["gwEnabled"] = false,
 ["gwTtsEnabled"] = false,
 ["gwText"] = "GATEWAY READY",
@@ -12343,20 +12740,20 @@ false,
 ["maTtsVoiceID"] = 0,
 ["spellOverrides"] = {
 },
+["displayMode"] = "text",
 ["gwColorUseClass"] = false,
-["combatOnly"] = false,
 ["iconSize"] = 40,
 ["gwTtsVolume"] = 100,
 ["tsColorUseClass"] = false,
 ["gwColorR"] = 0.7,
 ["tsTtsEnabled"] = false,
 ["tsTtsVoiceID"] = 0,
-["displayMode"] = "text",
+["combatOnly"] = false,
 ["gwSoundKey"] = "none",
 ["barShowIcon"] = true,
 ["maTtsEnabled"] = false,
+["tsSoundKey"] = "none",
 ["textColorG"] = 1,
-["tsColorG"] = 1,
 ["tsEnabled"] = false,
 ["gwColorG"] = 0,
 ["tsTtsMessage"] = "Free movement",
@@ -12370,15 +12767,15 @@ false,
 },
 ["EllesmereUIUnitFrames"] = {
 ["target"] = {
-["castbarWidth"] = 233.0256495729709,
+["castbarWidth"] = 232.8173374613003,
 ["showPlayerAbsorb"] = "none",
 },
 ["player"] = {
-["playerCastbarWidth"] = 233.0256495729709,
+["playerCastbarWidth"] = 232.8173374613003,
 ["auraFilterLanesV1"] = true,
 },
 ["focus"] = {
-["castbarWidth"] = 200.2051355486088,
+["castbarWidth"] = 199.7936016511868,
 },
 ["positions"] = {
 ["focusCastbar"] = {
@@ -12394,31 +12791,31 @@ false,
 ["x"] = 0,
 },
 ["targettarget"] = {
-["y"] = -152.8744995345287,
-["x"] = 382.6180977050634,
+["y"] = -153.5603715170279,
+["x"] = 381.4241486068111,
 },
 ["pet"] = {
-["y"] = -298.83935546875,
-["x"] = -307.66552734375,
+["y"] = -298.0392156862745,
+["x"] = -307.1207430340557,
 },
 ["player"] = {
-["y"] = -234.0621185302734,
-["x"] = -311.3630676269531,
+["y"] = -235.2941176470588,
+["x"] = -312.0743034055727,
 },
 ["boss"] = {
-["y"] = 251.336041607615,
-["x"] = 660.728769174658,
+["y"] = 254.2827657378741,
+["x"] = 659.6491228070175,
 },
 ["focus"] = {
-["y"] = -173.6032257080078,
-["x"] = -288.9069519042969,
+["y"] = -173.374613003096,
+["x"] = -288.9576883384933,
 },
 ["target"] = {
-["y"] = -234.9257202148438,
-["x"] = 324.3184204101563,
+["y"] = -236.1197110423117,
+["x"] = 323.6326109391125,
 },
 ["classPower"] = {
-["y"] = -220.2429230582193,
+["y"] = -219.6078431372549,
 },
 ["targetCastbar"] = {
 ["y"] = 0,
@@ -12427,8 +12824,8 @@ false,
 ["x"] = 0,
 },
 ["focustarget"] = {
-["y"] = -260.8367167199303,
-["x"] = 50.09446877402636,
+["y"] = -261.7131062951496,
+["x"] = 51.18679050567595,
 },
 },
 ["playerAuraBars"] = {
@@ -12444,18 +12841,32 @@ false,
 ["glowColorMode"] = "default",
 },
 ["unlockPos"] = {
-["y"] = -312.2692184448242,
+["y"] = -492.4833679199219,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = 922.2567138671875,
+["x"] = 740.00927734375,
 },
 },
 ["EllesmereUIQuestTracker"] = {
 },
 ["EllesmereUIRaidFrames"] = {
+["dmDebuff"] = {
+["filtersV2"] = true,
+["_fromPreset"] = "all",
+["tiles"] = {
+},
+["lanesV1"] = true,
+},
+["unlockPos"] = {
+["y"] = 0,
+["relPoint"] = "LEFT",
+["point"] = "LEFT",
+["x"] = 200,
+},
 ["bm2"] = {
 ["specs"] = {
 ["nonhealer"] = {
+["nextId"] = 1000002,
 ["inds"] = {
 {
 ["enabled"] = true,
@@ -12464,10 +12875,6 @@ false,
 ["ownOnly"] = false,
 ["name"] = "Defensives & Utility",
 ["growDirection"] = "CENTER",
-["size"] = 18,
-["spells"] = {
-},
-["position"] = "CENTER",
 ["filters"] = {
 true,
 nil,
@@ -12475,11 +12882,15 @@ true,
 true,
 [10] = true,
 },
+["position"] = "CENTER",
+["spells"] = {
+},
+["size"] = 18,
 },
 },
-["nextId"] = 1000002,
 },
 ["MONK_MISTWEAVER"] = {
+["nextId"] = 1000004,
 ["inds"] = {
 {
 ["enabled"] = true,
@@ -12487,11 +12898,7 @@ true,
 ["id"] = 1000001,
 ["ownOnly"] = false,
 ["name"] = "Defensives & Utility",
-["position"] = "CENTER",
-["size"] = 18,
 ["growDirection"] = "CENTER",
-["spells"] = {
-},
 ["filters"] = {
 true,
 nil,
@@ -12499,6 +12906,10 @@ true,
 true,
 [10] = true,
 },
+["position"] = "CENTER",
+["spells"] = {
+},
+["size"] = 18,
 },
 {
 ["enabled"] = true,
@@ -12506,14 +12917,14 @@ true,
 ["id"] = 1000002,
 ["ownOnly"] = true,
 ["name"] = "Core Healing Buffs",
-["position"] = "TOPLEFT",
-["size"] = 18,
 ["growDirection"] = "RIGHT",
-["spells"] = {
-},
 ["filters"] = {
 [5] = true,
 },
+["position"] = "TOPLEFT",
+["spells"] = {
+},
+["size"] = 18,
 },
 {
 ["enabled"] = true,
@@ -12521,19 +12932,19 @@ true,
 ["id"] = 1000003,
 ["ownOnly"] = true,
 ["name"] = "Lesser Healing Buffs",
-["position"] = "TOPRIGHT",
-["size"] = 18,
 ["growDirection"] = "LEFT",
-["spells"] = {
-},
 ["filters"] = {
 [6] = true,
 },
+["position"] = "TOPRIGHT",
+["spells"] = {
+},
+["size"] = 18,
 },
 },
-["nextId"] = 1000004,
 },
 ["PRIEST_DISCIPLINE"] = {
+["nextId"] = 1000004,
 ["inds"] = {
 {
 ["enabled"] = true,
@@ -12541,11 +12952,7 @@ true,
 ["id"] = 1000001,
 ["ownOnly"] = false,
 ["name"] = "Defensives & Utility",
-["position"] = "CENTER",
-["size"] = 18,
 ["growDirection"] = "CENTER",
-["spells"] = {
-},
 ["filters"] = {
 true,
 nil,
@@ -12553,6 +12960,10 @@ true,
 true,
 [10] = true,
 },
+["position"] = "CENTER",
+["spells"] = {
+},
+["size"] = 18,
 },
 {
 ["enabled"] = true,
@@ -12560,14 +12971,14 @@ true,
 ["id"] = 1000002,
 ["ownOnly"] = true,
 ["name"] = "Core Healing Buffs",
-["position"] = "TOPLEFT",
-["size"] = 18,
 ["growDirection"] = "RIGHT",
-["spells"] = {
-},
 ["filters"] = {
 [5] = true,
 },
+["position"] = "TOPLEFT",
+["spells"] = {
+},
+["size"] = 18,
 },
 {
 ["enabled"] = true,
@@ -12575,24 +12986,34 @@ true,
 ["id"] = 1000003,
 ["ownOnly"] = true,
 ["name"] = "Lesser Healing Buffs",
-["position"] = "TOPRIGHT",
-["size"] = 18,
 ["growDirection"] = "LEFT",
-["spells"] = {
-},
 ["filters"] = {
 [6] = true,
 },
+["position"] = "TOPRIGHT",
+["spells"] = {
+},
+["size"] = 18,
 },
 },
-["nextId"] = 1000004,
+},
+["spec259"] = {
+["inds"] = {
+},
+["nextId"] = 1000001,
 },
 ["dps"] = {
+["nextId"] = 1000001,
+["inds"] = {
+},
+},
+["spec252"] = {
 ["inds"] = {
 },
 ["nextId"] = 1000001,
 },
 ["EVOKER_PRESERVATION"] = {
+["nextId"] = 1000004,
 ["inds"] = {
 {
 ["enabled"] = true,
@@ -12600,11 +13021,7 @@ true,
 ["id"] = 1000001,
 ["ownOnly"] = false,
 ["name"] = "Defensives & Utility",
-["position"] = "CENTER",
-["size"] = 18,
 ["growDirection"] = "CENTER",
-["spells"] = {
-},
 ["filters"] = {
 true,
 nil,
@@ -12612,65 +13029,10 @@ true,
 true,
 [10] = true,
 },
-},
-{
-["enabled"] = true,
-["type"] = "icon",
-["id"] = 1000002,
-["ownOnly"] = true,
-["name"] = "Core Healing Buffs",
-["position"] = "TOPLEFT",
-["size"] = 18,
-["growDirection"] = "RIGHT",
-["spells"] = {
-},
-["filters"] = {
-[5] = true,
-},
-},
-{
-["enabled"] = true,
-["type"] = "icon",
-["id"] = 1000003,
-["ownOnly"] = true,
-["name"] = "Lesser Healing Buffs",
-["position"] = "TOPRIGHT",
-["size"] = 18,
-["growDirection"] = "LEFT",
-["spells"] = {
-},
-["filters"] = {
-[6] = true,
-},
-},
-},
-["nextId"] = 1000004,
-},
-["allspecs"] = {
-["inds"] = {
-},
-["nextId"] = 1000001,
-},
-["PALADIN_HOLY"] = {
-["inds"] = {
-{
-["enabled"] = true,
-["type"] = "icon",
-["id"] = 1000001,
-["ownOnly"] = false,
-["name"] = "Defensives & Utility",
 ["position"] = "CENTER",
-["size"] = 18,
-["growDirection"] = "CENTER",
 ["spells"] = {
 },
-["filters"] = {
-true,
-nil,
-true,
-true,
-[10] = true,
-},
+["size"] = 18,
 },
 {
 ["enabled"] = true,
@@ -12678,14 +13040,14 @@ true,
 ["id"] = 1000002,
 ["ownOnly"] = true,
 ["name"] = "Core Healing Buffs",
-["position"] = "TOPLEFT",
-["size"] = 18,
 ["growDirection"] = "RIGHT",
-["spells"] = {
-},
 ["filters"] = {
 [5] = true,
 },
+["position"] = "TOPLEFT",
+["spells"] = {
+},
+["size"] = 18,
 },
 {
 ["enabled"] = true,
@@ -12693,127 +13055,19 @@ true,
 ["id"] = 1000003,
 ["ownOnly"] = true,
 ["name"] = "Lesser Healing Buffs",
-["position"] = "TOPRIGHT",
-["size"] = 18,
 ["growDirection"] = "LEFT",
-["spells"] = {
-},
 ["filters"] = {
 [6] = true,
 },
-},
-},
-["nextId"] = 1000004,
-},
-["EVOKER_AUGMENTATION"] = {
-["inds"] = {
-{
-["enabled"] = true,
-["type"] = "icon",
-["id"] = 1000001,
-["ownOnly"] = false,
-["name"] = "Defensives & Utility",
-["position"] = "CENTER",
-["size"] = 18,
-["growDirection"] = "CENTER",
-["spells"] = {
-},
-["filters"] = {
-true,
-nil,
-true,
-true,
-[10] = true,
-},
-},
-{
-["enabled"] = true,
-["type"] = "icon",
-["id"] = 1000002,
-["ownOnly"] = true,
-["name"] = "Core Healing Buffs",
-["position"] = "TOPLEFT",
-["size"] = 18,
-["growDirection"] = "RIGHT",
-["spells"] = {
-},
-["filters"] = {
-[5] = true,
-},
-},
-{
-["enabled"] = true,
-["type"] = "icon",
-["id"] = 1000003,
-["ownOnly"] = true,
-["name"] = "Lesser Healing Buffs",
 ["position"] = "TOPRIGHT",
-["size"] = 18,
-["growDirection"] = "LEFT",
 ["spells"] = {
 },
-["filters"] = {
-[6] = true,
-},
-},
-},
-["nextId"] = 1000004,
-},
-["DRUID_RESTORATION"] = {
-["inds"] = {
-{
-["enabled"] = true,
-["type"] = "icon",
-["id"] = 1000001,
-["ownOnly"] = false,
-["name"] = "Defensives & Utility",
-["position"] = "CENTER",
 ["size"] = 18,
-["growDirection"] = "CENTER",
-["spells"] = {
-},
-["filters"] = {
-true,
-nil,
-true,
-true,
-[10] = true,
 },
 },
-{
-["enabled"] = true,
-["type"] = "icon",
-["id"] = 1000002,
-["ownOnly"] = true,
-["name"] = "Core Healing Buffs",
-["position"] = "TOPLEFT",
-["size"] = 18,
-["growDirection"] = "RIGHT",
-["spells"] = {
-},
-["filters"] = {
-[5] = true,
-},
-},
-{
-["enabled"] = true,
-["type"] = "icon",
-["id"] = 1000003,
-["ownOnly"] = true,
-["name"] = "Lesser Healing Buffs",
-["position"] = "TOPRIGHT",
-["size"] = 18,
-["growDirection"] = "LEFT",
-["spells"] = {
-},
-["filters"] = {
-[6] = true,
-},
-},
-},
-["nextId"] = 1000004,
 },
 ["PRIEST_HOLY"] = {
+["nextId"] = 1000004,
 ["inds"] = {
 {
 ["enabled"] = true,
@@ -12821,11 +13075,7 @@ true,
 ["id"] = 1000001,
 ["ownOnly"] = false,
 ["name"] = "Defensives & Utility",
-["position"] = "CENTER",
-["size"] = 18,
 ["growDirection"] = "CENTER",
-["spells"] = {
-},
 ["filters"] = {
 true,
 nil,
@@ -12833,6 +13083,10 @@ true,
 true,
 [10] = true,
 },
+["position"] = "CENTER",
+["spells"] = {
+},
+["size"] = 18,
 },
 {
 ["enabled"] = true,
@@ -12840,14 +13094,14 @@ true,
 ["id"] = 1000002,
 ["ownOnly"] = true,
 ["name"] = "Core Healing Buffs",
-["position"] = "TOPLEFT",
-["size"] = 18,
 ["growDirection"] = "RIGHT",
-["spells"] = {
-},
 ["filters"] = {
 [5] = true,
 },
+["position"] = "TOPLEFT",
+["spells"] = {
+},
+["size"] = 18,
 },
 {
 ["enabled"] = true,
@@ -12855,29 +13109,127 @@ true,
 ["id"] = 1000003,
 ["ownOnly"] = true,
 ["name"] = "Lesser Healing Buffs",
-["position"] = "TOPRIGHT",
-["size"] = 18,
 ["growDirection"] = "LEFT",
-["spells"] = {
-},
 ["filters"] = {
 [6] = true,
 },
+["position"] = "TOPRIGHT",
+["spells"] = {
+},
+["size"] = 18,
 },
 },
+},
+["PALADIN_HOLY"] = {
 ["nextId"] = 1000004,
-},
-["spec269"] = {
 ["inds"] = {
+{
+["enabled"] = true,
+["type"] = "icon",
+["id"] = 1000001,
+["ownOnly"] = false,
+["name"] = "Defensives & Utility",
+["growDirection"] = "CENTER",
+["filters"] = {
+true,
+nil,
+true,
+true,
+[10] = true,
 },
-["nextId"] = 1000001,
+["position"] = "CENTER",
+["spells"] = {
 },
-["spec252"] = {
-["nextId"] = 1000001,
+["size"] = 18,
+},
+{
+["enabled"] = true,
+["type"] = "icon",
+["id"] = 1000002,
+["ownOnly"] = true,
+["name"] = "Core Healing Buffs",
+["growDirection"] = "RIGHT",
+["filters"] = {
+[5] = true,
+},
+["position"] = "TOPLEFT",
+["spells"] = {
+},
+["size"] = 18,
+},
+{
+["enabled"] = true,
+["type"] = "icon",
+["id"] = 1000003,
+["ownOnly"] = true,
+["name"] = "Lesser Healing Buffs",
+["growDirection"] = "LEFT",
+["filters"] = {
+[6] = true,
+},
+["position"] = "TOPRIGHT",
+["spells"] = {
+},
+["size"] = 18,
+},
+},
+},
+["DRUID_RESTORATION"] = {
+["nextId"] = 1000004,
 ["inds"] = {
+{
+["enabled"] = true,
+["type"] = "icon",
+["id"] = 1000001,
+["ownOnly"] = false,
+["name"] = "Defensives & Utility",
+["growDirection"] = "CENTER",
+["filters"] = {
+true,
+nil,
+true,
+true,
+[10] = true,
+},
+["position"] = "CENTER",
+["spells"] = {
+},
+["size"] = 18,
+},
+{
+["enabled"] = true,
+["type"] = "icon",
+["id"] = 1000002,
+["ownOnly"] = true,
+["name"] = "Core Healing Buffs",
+["growDirection"] = "RIGHT",
+["filters"] = {
+[5] = true,
+},
+["position"] = "TOPLEFT",
+["spells"] = {
+},
+["size"] = 18,
+},
+{
+["enabled"] = true,
+["type"] = "icon",
+["id"] = 1000003,
+["ownOnly"] = true,
+["name"] = "Lesser Healing Buffs",
+["growDirection"] = "LEFT",
+["filters"] = {
+[6] = true,
+},
+["position"] = "TOPRIGHT",
+["spells"] = {
+},
+["size"] = 18,
+},
 },
 },
 ["SHAMAN_RESTORATION"] = {
+["nextId"] = 1000004,
 ["inds"] = {
 {
 ["enabled"] = true,
@@ -12885,11 +13237,7 @@ true,
 ["id"] = 1000001,
 ["ownOnly"] = false,
 ["name"] = "Defensives & Utility",
-["position"] = "CENTER",
-["size"] = 18,
 ["growDirection"] = "CENTER",
-["spells"] = {
-},
 ["filters"] = {
 true,
 nil,
@@ -12897,6 +13245,10 @@ true,
 true,
 [10] = true,
 },
+["position"] = "CENTER",
+["spells"] = {
+},
+["size"] = 18,
 },
 {
 ["enabled"] = true,
@@ -12904,14 +13256,14 @@ true,
 ["id"] = 1000002,
 ["ownOnly"] = true,
 ["name"] = "Core Healing Buffs",
-["position"] = "TOPLEFT",
-["size"] = 18,
 ["growDirection"] = "RIGHT",
-["spells"] = {
-},
 ["filters"] = {
 [5] = true,
 },
+["position"] = "TOPLEFT",
+["spells"] = {
+},
+["size"] = 18,
 },
 {
 ["enabled"] = true,
@@ -12919,42 +13271,110 @@ true,
 ["id"] = 1000003,
 ["ownOnly"] = true,
 ["name"] = "Lesser Healing Buffs",
-["position"] = "TOPRIGHT",
-["size"] = 18,
 ["growDirection"] = "LEFT",
-["spells"] = {
-},
 ["filters"] = {
 [6] = true,
 },
+["position"] = "TOPRIGHT",
+["spells"] = {
+},
+["size"] = 18,
 },
 },
+},
+["EVOKER_AUGMENTATION"] = {
 ["nextId"] = 1000004,
+["inds"] = {
+{
+["enabled"] = true,
+["type"] = "icon",
+["id"] = 1000001,
+["ownOnly"] = false,
+["name"] = "Defensives & Utility",
+["growDirection"] = "CENTER",
+["filters"] = {
+true,
+nil,
+true,
+true,
+[10] = true,
+},
+["position"] = "CENTER",
+["spells"] = {
+},
+["size"] = 18,
+},
+{
+["enabled"] = true,
+["type"] = "icon",
+["id"] = 1000002,
+["ownOnly"] = true,
+["name"] = "Core Healing Buffs",
+["growDirection"] = "RIGHT",
+["filters"] = {
+[5] = true,
+},
+["position"] = "TOPLEFT",
+["spells"] = {
+},
+["size"] = 18,
+},
+{
+["enabled"] = true,
+["type"] = "icon",
+["id"] = 1000003,
+["ownOnly"] = true,
+["name"] = "Lesser Healing Buffs",
+["growDirection"] = "LEFT",
+["filters"] = {
+[6] = true,
+},
+["position"] = "TOPRIGHT",
+["spells"] = {
+},
+["size"] = 18,
+},
+},
+},
+["spec269"] = {
+["nextId"] = 1000001,
+["inds"] = {
+},
+},
+["allspecs"] = {
+["nextId"] = 1000001,
+["inds"] = {
+},
+},
+["spec255"] = {
+["inds"] = {
+},
+["nextId"] = 1000001,
 },
 },
 ["seeded"] = {
 ["nonhealer"] = true,
 ["MONK_MISTWEAVER"] = true,
 ["PRIEST_DISCIPLINE"] = true,
+["spec259"] = true,
 ["dps"] = true,
-["EVOKER_PRESERVATION"] = true,
-["allspecs"] = true,
-["PALADIN_HOLY"] = true,
-["EVOKER_AUGMENTATION"] = true,
-["DRUID_RESTORATION"] = true,
-["PRIEST_HOLY"] = true,
-["spec269"] = true,
 ["spec252"] = true,
+["EVOKER_PRESERVATION"] = true,
+["PRIEST_HOLY"] = true,
+["PALADIN_HOLY"] = true,
+["DRUID_RESTORATION"] = true,
 ["SHAMAN_RESTORATION"] = true,
+["EVOKER_AUGMENTATION"] = true,
+["spec269"] = true,
+["allspecs"] = true,
+["spec255"] = true,
 },
 ["filters"] = {
+["nextId"] = 12,
 ["list"] = {
 {
 ["name"] = "Defensives",
 ["id"] = 1,
-["preset"] = "defensives",
-["custom"] = {
-},
 ["spells"] = {
 [31224] = true,
 [363916] = true,
@@ -13003,37 +13423,37 @@ true,
 [322507] = true,
 [122783] = true,
 [190456] = true,
-[19236] = true,
+[186265] = true,
 [104773] = true,
 [184662] = false,
 [115203] = true,
-[45438] = true,
+[1261872] = true,
 [49039] = false,
 [442715] = false,
-[22842] = true,
+[118038] = true,
 [22812] = true,
-[108271] = true,
 [1966] = true,
-[472708] = false,
+[147833] = true,
+[1266616] = false,
 [114216] = false,
+[108416] = true,
+[125174] = true,
 [404381] = true,
 [187827] = true,
-[125174] = true,
-[108416] = true,
 [132578] = true,
-[1266616] = false,
-[118038] = true,
-[147833] = true,
-[1261872] = true,
-[186265] = true,
+[472708] = false,
+[108271] = true,
+[22842] = true,
+[45438] = true,
+[19236] = true,
+},
+["preset"] = "defensives",
+["custom"] = {
 },
 },
 {
 ["name"] = "Active Mitigation",
 ["id"] = 2,
-["preset"] = "activemitigation",
-["custom"] = {
-},
 ["spells"] = {
 [77535] = true,
 [132403] = true,
@@ -13041,13 +13461,13 @@ true,
 [203819] = true,
 [192081] = true,
 },
+["preset"] = "activemitigation",
+["custom"] = {
+},
 },
 {
 ["name"] = "Raid CDs",
 ["id"] = 3,
-["preset"] = "raidcds",
-["custom"] = {
-},
 ["spells"] = {
 [145629] = true,
 [209426] = true,
@@ -13058,35 +13478,35 @@ true,
 [31821] = true,
 [363534] = false,
 [64843] = false,
-[325174] = true,
 [97463] = true,
+[325174] = true,
+},
+["preset"] = "raidcds",
+["custom"] = {
 },
 },
 {
 ["name"] = "Externals",
 ["id"] = 4,
-["preset"] = "externals",
-["custom"] = {
-},
 ["spells"] = {
 [102342] = true,
 [116849] = true,
-[53480] = true,
 [6940] = true,
+[33206] = true,
 [357170] = true,
 [387804] = true,
-[1022] = true,
+[53480] = true,
 [204018] = true,
 [47788] = true,
-[33206] = true,
+[1022] = true,
+},
+["preset"] = "externals",
+["custom"] = {
 },
 },
 {
 ["name"] = "Core Healing Buffs",
 ["id"] = 5,
-["preset"] = "coreheals",
-["custom"] = {
-},
 ["spells"] = {
 [156910] = true,
 [376788] = false,
@@ -13103,46 +13523,46 @@ true,
 [8936] = false,
 [53563] = true,
 [1253593] = false,
-[432502] = false,
+[207400] = false,
 [373267] = true,
-[33763] = true,
-[77489] = false,
+[156322] = false,
+[194384] = true,
 [450805] = false,
-[366155] = false,
+[200025] = true,
 [774] = false,
 [444490] = false,
 [383648] = true,
-[194384] = true,
+[77489] = false,
 [467281] = false,
-[363502] = false,
+[432502] = false,
 [439530] = false,
-[453846] = false,
 [1292922] = false,
+[367364] = false,
 [139] = false,
 [17] = false,
 [41635] = false,
-[124682] = false,
-[61295] = false,
-[388513] = false,
-[119611] = true,
-[115175] = false,
-[355941] = false,
-[431381] = false,
 [469703] = false,
+[61295] = false,
+[431381] = false,
+[355941] = false,
+[115175] = false,
+[119611] = true,
+[388513] = false,
+[124682] = false,
 [364343] = true,
-[207400] = false,
-[367364] = false,
-[200025] = true,
+[453846] = false,
+[363502] = false,
+[366155] = false,
 [445740] = false,
-[156322] = false,
+[33763] = true,
+},
+["preset"] = "coreheals",
+["custom"] = {
 },
 },
 {
 ["name"] = "Lesser Healing Buffs",
 ["id"] = 6,
-["preset"] = "lesserheals",
-["custom"] = {
-},
 ["spells"] = {
 [156910] = false,
 [376788] = true,
@@ -13159,46 +13579,46 @@ true,
 [8936] = true,
 [53563] = false,
 [1253593] = true,
-[432502] = true,
+[207400] = false,
 [373267] = true,
-[33763] = false,
-[77489] = true,
+[156322] = true,
+[194384] = false,
 [450805] = false,
-[366155] = true,
+[200025] = false,
 [774] = true,
 [444490] = true,
 [383648] = false,
-[194384] = false,
+[77489] = true,
 [467281] = false,
-[363502] = false,
+[432502] = true,
 [439530] = false,
-[453846] = false,
 [1292922] = true,
+[367364] = true,
 [139] = true,
 [17] = true,
 [41635] = true,
-[124682] = true,
-[61295] = true,
-[388513] = false,
-[119611] = false,
-[115175] = true,
-[355941] = true,
-[431381] = true,
 [469703] = true,
+[61295] = true,
+[431381] = true,
+[355941] = true,
+[115175] = true,
+[119611] = false,
+[388513] = false,
+[124682] = true,
 [364343] = false,
-[207400] = false,
-[367364] = true,
-[200025] = false,
+[453846] = false,
+[363502] = false,
+[366155] = true,
 [445740] = false,
-[156322] = true,
+[33763] = false,
+},
+["preset"] = "lesserheals",
+["custom"] = {
 },
 },
 {
 ["name"] = "Support",
 ["id"] = 7,
-["preset"] = "support",
-["custom"] = {
-},
 ["spells"] = {
 [413984] = false,
 [395152] = true,
@@ -13207,16 +13627,16 @@ true,
 [369459] = false,
 [410263] = false,
 [361022] = false,
-[406732] = false,
 [360827] = true,
+[406732] = false,
+},
+["preset"] = "support",
+["custom"] = {
 },
 },
 {
 ["name"] = "Offensive CDs",
 ["id"] = 8,
-["preset"] = "offensive",
-["custom"] = {
-},
 ["spells"] = {
 [114050] = true,
 [191427] = true,
@@ -13230,20 +13650,20 @@ true,
 [365350] = true,
 [107574] = true,
 [194223] = true,
-[1249625] = true,
+[106951] = true,
 [375087] = true,
 [10060] = true,
 [288613] = true,
 [403631] = true,
-[106951] = true,
+[1249625] = true,
+},
+["preset"] = "offensive",
+["custom"] = {
 },
 },
 {
 ["name"] = "Movement",
 ["id"] = 9,
-["preset"] = "movement",
-["custom"] = {
-},
 ["spells"] = {
 [340546] = true,
 [394112] = true,
@@ -13255,96 +13675,91 @@ true,
 [110960] = true,
 [406732] = true,
 [118922] = true,
-[333889] = true,
+[192082] = true,
 [1850] = true,
 [2983] = true,
 [252216] = true,
 [375234] = true,
-[444754] = true,
-[358267] = true,
+[48265] = true,
 [130] = true,
-[443569] = true,
+[2645] = true,
+[199483] = true,
 [5384] = true,
-[370889] = true,
+[443569] = true,
 [121557] = true,
 [444347] = true,
+[370889] = true,
 [108843] = true,
-[1267208] = true,
 [202164] = true,
 [106898] = true,
-[186257] = true,
+[333889] = true,
 [449609] = true,
-[387633] = true,
+[186257] = true,
 [382294] = true,
 [1244157] = true,
 [212552] = true,
 [119085] = true,
 [358733] = true,
-[79206] = true,
+[58875] = true,
 [5215] = true,
 [1784] = true,
-[400126] = true,
-[116841] = true,
-[65081] = true,
-[31230] = true,
-[114018] = true,
 [1044] = true,
+[116841] = true,
+[114018] = true,
+[31230] = true,
+[400126] = true,
+[65081] = true,
 [276111] = true,
-[58875] = true,
-[199483] = true,
-[192082] = true,
+[79206] = true,
+[387633] = true,
+[1267208] = true,
 [36554] = true,
 [111400] = true,
-[48265] = true,
-[2645] = true,
+[358267] = true,
+[444754] = true,
+},
+["preset"] = "movement",
+["custom"] = {
 },
 },
 {
 ["name"] = "Utility",
 ["id"] = 10,
-["preset"] = "utility",
-["custom"] = {
-},
 ["spells"] = {
 [3714] = true,
 [406732] = true,
 [390386] = false,
-[408233] = false,
-[1224810] = true,
+[466904] = false,
 [115834] = true,
+[408233] = false,
 [2825] = false,
 [116841] = true,
 [29166] = true,
-[264667] = false,
-[80353] = false,
 [1044] = true,
+[80353] = false,
+[264667] = false,
 [32182] = false,
-[466904] = false,
+[1224810] = true,
+},
+["preset"] = "utility",
+["custom"] = {
 },
 },
 {
 ["name"] = "Consumables",
 ["id"] = 11,
+["spells"] = {
+[1236998] = true,
+[1236994] = true,
+[1236616] = true,
+[1239479] = true,
+},
 ["preset"] = "consumables",
 ["custom"] = {
 },
-["spells"] = {
-[1236998] = true,
-[1239479] = true,
-[1236616] = true,
-[1236994] = true,
 },
 },
 },
-["nextId"] = 12,
-},
-},
-["dmDebuff"] = {
-["filtersV2"] = true,
-["lanesV1"] = true,
-["tiles"] = {
-},
-["_fromPreset"] = "all",
 },
 ["partyUnlockPos"] = {
 ["y"] = 0,
@@ -13352,86 +13767,80 @@ true,
 ["point"] = "LEFT",
 ["x"] = 400,
 },
-["unlockPos"] = {
-["y"] = 0,
-["relPoint"] = "LEFT",
-["point"] = "LEFT",
-["x"] = 200,
-},
 },
 ["EllesmereUIActionBars"] = {
 ["barPositions"] = {
 ["Bar3"] = {
-["y"] = -567.2156982421875,
+["y"] = -542.3831787109375,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = 0.8366013169288635,
+["x"] = 0.6638717651367188,
 },
 ["Bar6"] = {
-["y"] = -22.65486717224121,
+["y"] = -22.40566825866699,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
 ["x"] = 0,
 },
 ["QueueStatus"] = {
-["y"] = -345.0897598266602,
+["y"] = -240.45654296875,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = 688.7052001953125,
+["x"] = 626.8340454101562,
 },
 ["Bar2"] = {
-["y"] = -522.8758544921875,
+["y"] = -497.90380859375,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = 0.8366013169288635,
+["x"] = 0.6638717651367188,
 },
 ["Bar8"] = {
-["y"] = -122.5686340332031,
+["y"] = -123.6461029052734,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
 ["x"] = 0,
 },
 ["Bar5"] = {
-["y"] = 310.1974182128906,
+["y"] = 311.1898803710938,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = -1082.205444335938,
+["x"] = -1080.451049804688,
 },
 ["MainBar"] = {
-["y"] = -478.5359802246094,
+["y"] = -453.4244079589844,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = 0.8366013169288635,
+["x"] = 0.6638717651367188,
 },
 ["Bar7"] = {
-["y"] = -71.44996643066406,
+["y"] = -71.3662109375,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
 ["x"] = 0,
 },
 ["ExtraActionButton"] = {
-["y"] = -373.8866882324219,
+["y"] = -374.8194014447884,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = -407.7598571777344,
+["x"] = -407.0175438596491,
 },
 ["StanceBar"] = {
-["y"] = 568.1143188476562,
+["y"] = 568.4401245117188,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = -860.8850708007812,
+["x"] = -859.7138671875,
 },
 ["PetBar"] = {
-["y"] = 568.1143188476562,
+["y"] = 568.4401245117188,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = -860.8850708007812,
+["x"] = -859.7138671875,
 },
 ["Bar4"] = {
-["y"] = 309.6068115234375,
+["y"] = 311.3558044433594,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = -1027.829118728638,
+["x"] = -1026.345581054688,
 },
 },
 ["mouseoverShowAll"] = true,
@@ -13570,31 +13979,31 @@ true,
 ["showPercent"] = false,
 ["textSize"] = 15,
 ["gradientG"] = 0.65768863695837,
-["height"] = 20,
+["height"] = 19.81424148606811,
 ["gradientB"] = 0.77833289740607,
 ["borderBehind"] = false,
 ["bgG"] = 0.066666666666667,
 ["gradientR"] = 0,
-["width"] = 269.1282149997692,
+["width"] = 223.7358101135191,
 ["unlockPos"] = {
-["y"] = -320.5469055175781,
+["y"] = -220.4333953857422,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = 6.564208984375,
+["x"] = 3.302337646484375,
 },
 },
 ["castBar"] = {
 ["showIcon"] = false,
 ["spellTextSize"] = 16,
 ["unlockPos"] = {
-["y"] = -362.8973999023438,
+["y"] = -390.6448440551758,
 ["relPoint"] = "CENTER",
 ["point"] = "CENTER",
-["x"] = 5.47003173828125,
+["x"] = -3.302398681640625,
 },
 ["height"] = 30,
 ["timerSize"] = 16,
-["width"] = 269.1282149997692,
+["width"] = 223.7358101135191,
 },
 ["health"] = {
 ["bgR"] = 0.066666666666667,
@@ -13608,11 +14017,11 @@ true,
 ["thresholdR"] = 0.047058823529412,
 ["thresholdB"] = 0.6156862745098,
 ["runesRechargeA"] = 0.63666644718497,
-["pipWidth"] = 269.1282149997692,
+["pipWidth"] = 223.7358101135191,
 ["barDisabledForms"] = {
 },
 ["shiftElementsIfNoResource"] = "Up",
-["hidePowerIfResource"] = false,
+["hidePowerIfResource"] = true,
 ["unlockPos"] = {
 ["y"] = 0,
 ["relPoint"] = "CENTER",
@@ -13736,8 +14145,8 @@ true,
 },
 ["default"] = {
 ["EllesmereUIResourceBarsprimarybarDisabledFormsmoonkin"] = true,
-["EllesmereUIResourceBarsprimaryenabled"] = true,
 ["EllesmereUIResourceBarsprimarybarDisabledFormsmana"] = true,
+["EllesmereUIResourceBarsprimaryenabled"] = true,
 },
 },
 ["section"] = "POWER BAR",
@@ -13755,14 +14164,14 @@ true,
 [252] = {
 ["EllesmereUIResourceBarssecondaryresourceColored"] = false,
 },
-[251] = {
-["EllesmereUIResourceBarssecondaryresourceColored"] = false,
+["default"] = {
+["EllesmereUIResourceBarssecondaryresourceColored"] = true,
 },
 [72] = {
 ["EllesmereUIResourceBarssecondaryresourceColored"] = true,
 },
-["default"] = {
-["EllesmereUIResourceBarssecondaryresourceColored"] = true,
+[251] = {
+["EllesmereUIResourceBarssecondaryresourceColored"] = false,
 },
 },
 },
@@ -13811,7 +14220,7 @@ true,
 },
 },
 ["fonts"] = {
-["global"] = "Expressway",
+["global"] = "__blizzard",
 ["outlineMode"] = "outline",
 },
 ["specUnlockOverrides"] = {
@@ -13820,17 +14229,17 @@ true,
 },
 ["unlockLayout"] = {
 ["anchors"] = {
-["playerCastbar"] = {
-["target"] = "player",
-["offsetY"] = 0,
-["side"] = "BOTTOM",
-["offsetX"] = 0,
-},
 ["CDM_buffs"] = {
 ["target"] = "CDM_cooldowns",
-["offsetY"] = 12.09176832476498,
-["offsetX"] = 0,
+["offsetY"] = 66.87313842773438,
+["offsetX"] = -0.825653076171875,
 ["side"] = "TOP",
+},
+["ERB_Power"] = {
+["target"] = "CDM_cooldowns",
+["offsetY"] = 85.8616943359375,
+["offsetX"] = 0,
+["side"] = "BOTTOM",
 },
 ["focusCastbar"] = {
 ["target"] = "focus",
@@ -13838,28 +14247,22 @@ true,
 ["side"] = "BOTTOM",
 ["offsetX"] = 0,
 },
-["ERB_Power"] = {
-["target"] = "CDM_cooldowns",
-["offsetY"] = -38.29046630859375,
-["offsetX"] = 0.0001220703125,
-["side"] = "BOTTOM",
-},
 ["ERB_CastBar"] = {
 ["target"] = "ERB_ClassResource",
-["offsetY"] = 1.52587890625e-05,
-["offsetX"] = -6.103515625e-05,
+["offsetY"] = -125.4900207519531,
+["offsetX"] = -6.604827880859375,
 ["side"] = "BOTTOM",
 },
-["CDM_utility"] = {
-["target"] = "CDM_cooldowns",
-["offsetY"] = -105.4871368408203,
-["offsetX"] = -1.0941162109375,
+["playerCastbar"] = {
+["target"] = "player",
+["offsetY"] = 0,
 ["side"] = "BOTTOM",
+["offsetX"] = 0,
 },
 ["ERB_ClassResource"] = {
 ["target"] = "ERB_Power",
-["offsetY"] = 2.159210205078125,
-["offsetX"] = -0.86376953125,
+["offsetY"] = 6.103515625e-05,
+["offsetX"] = 0,
 ["side"] = "BOTTOM",
 },
 ["targetCastbar"] = {
@@ -13870,14 +14273,15 @@ true,
 },
 },
 ["widthMatch"] = {
-["focusCastbar"] = "focus",
-["ERB_Power"] = "CDM_cooldowns",
 ["ERB_CastBar"] = "CDM_cooldowns",
+["ERB_Power"] = "CDM_cooldowns",
+["targetCastbar"] = "target",
 ["playerCastbar"] = "player",
 ["ERB_ClassResource"] = "CDM_cooldowns",
-["targetCastbar"] = "target",
+["focusCastbar"] = "focus",
 },
 ["heightMatch"] = {
+["ERB_Power"] = "ERB_ClassResource",
 },
 ["phantomBounds"] = {
 },
@@ -13941,12 +14345,13 @@ true,
 },
 },
 ["tooltipFixedPos"] = {
-["centerX"] = 955.6695251464844,
-["centerY"] = -423.2692947387695,
+["centerY"] = -482.086838170886,
+["centerX"] = 480.9700927734375,
 },
 ["_migrations"] = {
 ["rf_split_absorb_edge_mode_v1"] = true,
 ["spec_overrides_fresh_start_v1"] = true,
+["uf_visibility_never_keeps_frame_v1"] = true,
 ["uf_absorb_style_dropdown_v1"] = true,
 ["erb_moonkin_form_bucket_v1"] = true,
 ["resource_bars_threshold_specs_v1"] = true,
@@ -14002,7 +14407,7 @@ true,
 ["rf_dispellable_debuff_party_section_v1"] = true,
 },
 ["euiAccent"] = {
-["useClass"] = false,
+["useClass"] = true,
 ["custom"] = {
 ["r"] = 0.047058823529412,
 ["g"] = 0.82352941176471,
@@ -14011,10 +14416,7 @@ true,
 },
 },
 },
-["fonts"] = {
-["global"] = "Expressway",
-["outlineMode"] = "outline",
-},
+["bnetToastStyleSeeded"] = true,
 ["unlockTipSeen"] = true,
 ["dismissedConflicts"] = {
 },

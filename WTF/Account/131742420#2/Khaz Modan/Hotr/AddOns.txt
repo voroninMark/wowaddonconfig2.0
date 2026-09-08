@@ -115,7 +115,7 @@ EllesmereUINameplates: enabled
 EllesmereUIUnitFrames: enabled
 EllesmereUICooldownManager: enabled
 EllesmereUIResourceBars: enabled
-EllesmereUIRaidFrames: enabled
+EllesmereUIRaidFrames: disabled
 EllesmereUIQoL: enabled
 EllesmereUIAuraBuffReminders: enabled
 EllesmereUIDataBars: enabled

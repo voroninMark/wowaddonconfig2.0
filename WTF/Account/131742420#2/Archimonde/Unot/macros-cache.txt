@@ -7,6 +7,11 @@ VER 3 0100000000000001 "cut" "134400"
 #showtooltip Pique de main
 /cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Pique de main
 END
+VER 3 0100000000000007 "d" "134400"
+#showtooltip Poings de fureur
+/cast Unité interne
+/cast Poings de fureur
+END
 VER 3 0100000000000002 "para" "134400"
 #showtooltip Paralysie
 /cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Paralysie
@@ -22,9 +27,19 @@ VER 3 0100000000000003 "tiger" "134400"
 /cast Piétinement culminant
 /cast Paume du tigre
 END
+VER 3 0100000000000008 "tiger" "134400"
+#showtooltip Invocation de Xuen, le Tigre blanc
+/use 13
+/cast Invocation de Xuen, le Tigre blanc
+END
 VER 3 0100000000000004 "wirl" "134400"
 #showtooltip [known:392983] Frappe du seigneur des Vents; Coup de poing du dragon tourbillonnant
 /stopmacro [channeling:Poings de fureur]
 /cast [known:152175] Coup de poing du dragon tourbillonnant
 /cast [known:392983] Frappe du seigneur des Vents
+END
+VER 3 0100000000000009 "zenith trinket" "134400"
+#showtooltip 2énith
+/use 13
+/cast Zénith
 END

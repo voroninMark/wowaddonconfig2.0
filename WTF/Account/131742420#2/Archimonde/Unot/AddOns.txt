@@ -1,7 +1,7 @@
 ArkInventory: enabled
 ArkInventoryConfig: enabled
 ArkInventoryRules: enabled
-ArkInventoryRules_Example: disabled
+ArkInventoryRules_Example: enabled
 ArkInventorySearch: enabled
 Bartender4: disabled
 BetterWardrobe_SourceData (1): disabled
@@ -18,7 +18,7 @@ BigWigs_Sporefall: enabled
 BigWigs_TheVenomousAbyss: enabled
 !BugGrabber: enabled
 Details_TinyThreat (1): disabled
-Elephant: enabled
+Elephant: disabled
 EnchantMe: disabled
 GTFO: enabled
 HandyNotes: disabled
@@ -73,7 +73,7 @@ Simulationcraft: enabled
 TradeSkillMaster_AppHelper: disabled
 WeakAuras: enabled
 WeakAurasArchive: enabled
-WeakAurasCompanion: enabled
+WeakAurasCompanion: disabled
 WeakAurasModelPaths: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
@@ -86,7 +86,7 @@ EllesmereUINameplates: enabled
 EllesmereUIUnitFrames: enabled
 EllesmereUICooldownManager: enabled
 EllesmereUIResourceBars: enabled
-EllesmereUIRaidFrames: enabled
+EllesmereUIRaidFrames: disabled
 EllesmereUIQoL: enabled
 EllesmereUIAuraBuffReminders: enabled
 EllesmereUIDataBars: enabled
@@ -97,4 +97,9 @@ EllesmereUIDamageMeters: enabled
 EllesmereUIChat: enabled
 EllesmereUIMythicTimer: enabled
 EllesmereUIQuestTracker: enabled
-CraftSim: enabled
+CraftSim: disabled
+EllesmereUI: enabled
+EllesmereUILocales: enabled
+EllesmereUIMinimap: enabled
+EllesmereUIOptions: enabled
+NSRTAutoReminders: disabled

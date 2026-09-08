@@ -34,6 +34,11 @@ VER 3 010000000000000D "d" "132350"
 /cast déluge de lames
 /cast frappe fantomatique
 END
+VER 3 010000000000000E "d" "4667421"
+#showtooltip
+/cast Marque létale
+/use Cendres de la braisâme
+END
 VER 3 0100000000000007 "d#showtooltip Pa" "132219"
 #showtooltip
 /cast [mod:ctrl,@focus][@mouseover, harm, exists][nomod] Coup de pied

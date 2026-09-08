@@ -10,11 +10,6 @@ VER 3 010000000000001C "autocastpet" "134156"
 /petautocaston Griffe;
 /petautocaston Coup de patte;
 END
-VER 3 0100000000000016 "cancel" "135834"
-#showtooltip
-/stopcasting
-/cast Piège givrant
-END
 VER 3 0100000000000017 "cancel" "132293"
 #showtooltip
 /cast Coordinated Assault
@@ -26,6 +21,11 @@ VER 3 0100000000000013 "cancel" "132294"
 #showtooltip
 /stopcasting
 /cast Désengagement
+END
+VER 3 0100000000000016 "cancel" "135834"
+#showtooltip
+/stopcasting
+/cast Piège givrant
 END
 VER 3 010000000000001D "cd+pot" "2032587"
 #showtooltip
