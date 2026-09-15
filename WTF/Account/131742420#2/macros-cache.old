@@ -11,6 +11,13 @@ VER 3 000000000000000A "4 vents" "649816"
 /way Vallée des quatre vents 55 47 Un acte de vente des plus célèbres
 /way Vallée des quatre vents 35 64 La veuve vagabonde
 END
+VER 3 0000000000000A38 "a-pillar" "135833"
+/cast Pilier de givre
+/cast Réanimation morbide
+/cast Rafale hurlante
+/cast Renforcer l'arme runique
+/use 13
+END
 VER 3 0000000000000A37 "a-pillar" "135771"
 /cast Pilier de givre
 /cast Réanimation morbide
@@ -22,13 +29,6 @@ VER 3 0000000000000A36 "a-pillar" "237520"
 /cast Pilier de givre
 /cast Réanimation morbide
 /cast Frappe de givre
-/cast Renforcer l'arme runique
-/use 13
-END
-VER 3 0000000000000A38 "a-pillar" "135833"
-/cast Pilier de givre
-/cast Réanimation morbide
-/cast Rafale hurlante
 /cast Renforcer l'arme runique
 /use 13
 END
@@ -163,11 +163,11 @@ VER 3 0000000000000A20 "eag" "236188"
 #showtooltip Œil d'aigle
 /cast !Œil d'aigle
 END
-VER 3 0000000000000A3F "eject" "319458"
+VER 3 0000000000000A40 "eject" "135908"
 /run EjectPassengerFromSeat(1)
 /run EjectPassengerFromSeat(2)
 END
-VER 3 0000000000000A40 "eject" "135908"
+VER 3 0000000000000A3F "eject" "319458"
 /run EjectPassengerFromSeat(1)
 /run EjectPassengerFromSeat(2)
 END
@@ -179,6 +179,7 @@ VER 3 0000000000000A2B "extrabouton" "132116"
 END
 VER 3 0000000000000019 "focus" "135996"
 /focus [@mouseover,exists,harm][]
+/tm [@focus] ~2
 END
 VER 3 0000000000000025 "focus" "630789"
 /focus
@@ -433,7 +434,7 @@ VER 3 0000000000000A1B "urh T" "132131"
 /targetlasttarget
 END
 VER 3 0000000000000A42 "VuhDoDCShieldData" "Ability_Repair"
-P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1VR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
 END
 VER 3 0000000000000A43 "VuhDoDCShieldNames" "Ability_Repair"
 N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Uno[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]

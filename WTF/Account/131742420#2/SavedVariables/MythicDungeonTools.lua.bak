@@ -1,16 +1,48 @@
 
 MythicDungeonToolsDB = {
 ["global"] = {
-["announceDungeonReset"] = false,
 ["enemyForcesTooltip"] = 1,
-["muteXalatathVoiceLines"] = false,
+["devMode"] = false,
+["scale"] = 1.4,
+["anchorFrom"] = "TOPRIGHT",
+["minimap"] = {
+["showInCompartment"] = true,
+["compartmentHide"] = false,
+["hide"] = false,
+},
+["announceDungeonReset"] = false,
 ["focusMarker"] = {
-["announceReadyCheck"] = false,
+["assignments"] = {
+["Aká-Hyjal"] = 1,
+["Unot-Archimonde"] = 2,
+},
+["announceReadyCheck"] = true,
 ["suppressNotifications"] = false,
 ["useMacro"] = false,
 ["disableTargetMarkerInRaid"] = false,
 ["preserveExistingTargetMarkers"] = true,
-["assignments"] = {
+["lastMarker"] = 2,
+},
+["currentSection"] = "marks",
+["maximized"] = false,
+["presets"] = {
+[17] = {
+{
+["difficulty"] = 10,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 17,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+},
+},
 },
 },
 ["combatLogging"] = {
@@ -24,10 +56,79 @@ MythicDungeonToolsDB = {
 ["mythic_dungeon"] = false,
 },
 },
-["minimap"] = {
-["showInCompartment"] = true,
-["compartmentHide"] = false,
-["hide"] = false,
+["currentDungeonIdx"] = 17,
+["muteXalatathVoiceLines"] = false,
+["version"] = 6216,
+["anchorTo"] = "TOPRIGHT",
+["xoffset"] = -106.901985168457,
+["colorPaletteInfo"] = {
+["customPaletteValues"] = {
+{
+1,
+1,
+1,
 },
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+{
+1,
+1,
+1,
+},
+},
+},
+["latestDungeonSeen"] = 160,
+["yoffset"] = -82.2221450805664,
+},
+["profileKeys"] = {
+["Unot - Archimonde"] = "Unot - Archimonde",
 },
 }

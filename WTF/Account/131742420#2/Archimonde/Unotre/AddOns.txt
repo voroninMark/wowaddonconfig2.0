@@ -1,5 +1,5 @@
 TradeSkillMaster: disabled
-CraftSim: disabled
+CraftSim: enabled
 Blizzard_ObjectiveTracker: enabled
 Blizzard_CompactRaidFrames: enabled
 BigWigs_Core: enabled
@@ -173,7 +173,10 @@ EllesmereUIDataBars: enabled
 EllesmereUIQuickdraw: enabled
 EllesmereUIBlizzardSkin: enabled
 EllesmereUIFriends: enabled
-EllesmereUIDamageMeters: enabled
+EllesmereUIDamageMeters: disabled
 EllesmereUIChat: enabled
 EllesmereUIMythicTimer: enabled
 EllesmereUIQuestTracker: enabled
+RaiderIO_DB_CN_R: disabled
+RaiderIO_DB_CN_M: disabled
+RaiderIO_DB_CN_F: disabled

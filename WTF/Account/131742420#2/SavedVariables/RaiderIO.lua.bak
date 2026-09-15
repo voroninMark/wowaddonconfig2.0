@@ -1,30 +1,21 @@
 
 RaiderIO_Config = {
-["dockReplay"] = false,
 ["profilePoint"] = {
 ["y"] = 0,
 ["x"] = -16,
 ["point"] = "TOPLEFT",
 },
-["enableReplay"] = false,
-["replayPoint"] = {
-["y"] = -98.521240234375,
-["x"] = -14.22276020050049,
-["point"] = "RIGHT",
-},
-["replayTiming"] = "DUNGEON",
-["previouslyEnabledLogging"] = false,
 ["minimapIcon"] = {
 ["minimapPos"] = 180,
 ["showInCompartment"] = true,
-["hide"] = false,
 ["lock"] = false,
+["hide"] = false,
 },
-["displayWeeklyGuildBest"] = false,
 }
-RaiderIO_LastCharacter = "eu-Unotre-archimonde"
+RaiderIO_LastCharacter = "eu-Unot-archimonde"
 RaiderIO_MissingCharacters = {
-["eu-Unotre-archimonde"] = true,
+["eu-Brocaille-archimonde"] = true,
+["eu-Laløøx-archimonde"] = true,
 }
 RaiderIO_MissingServers = {
 }

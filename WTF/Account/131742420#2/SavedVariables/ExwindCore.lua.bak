@@ -1,0 +1,88 @@
+
+EXCORE12S2 = {
+["EditMode"] = {
+["visibleByKey"] = {
+["EXBoss:iconalert"] = false,
+["ExwindTools:ExTools.CastSequence"] = false,
+["EXBoss:mythiccast"] = false,
+["ExwindTools:ExTools.PlayerHealAbsorb"] = false,
+["ExwindTools:ExTools.PlayerPosition"] = false,
+["ExwindTools:ExTools.YYSound"] = false,
+["EXBoss:bunbar"] = false,
+["ExwindTools:ExTools.RaidMarkerPanel"] = false,
+["ExwindTools:ExClass.BrewmasterStagger"] = false,
+["ExwindTools:ExClass.FocusCast"] = false,
+["EXBoss:castprogressbar"] = false,
+["EXBoss:extrashieldbar"] = false,
+["ExwindTools:ExClass.RangeCheck"] = false,
+["EXBoss:dungeonextras"] = false,
+["EXBoss:timerbar"] = false,
+["ExwindTools:chat_channel_bar"] = false,
+["ExwindTools:playerstats"] = false,
+["ExwindTools:ExClass.DKBloodBoil"] = false,
+["ExwindTools:ExTools.CombatTimer"] = false,
+["ExwindTools:ExClass.NoMoveSkillAlert"] = false,
+["ExwindTools:ExClass.DKBloodBoilSmart"] = false,
+["ExwindTools:ExTools.CombatMobDebuffGrid"] = false,
+["ExwindTools:ExTools.PlayerShield"] = false,
+["ExwindTools:ExTools.TransformTimer"] = false,
+},
+["overlayVisible"] = true,
+},
+["DBVersion"] = 1,
+["PerfMonitor"] = {
+["enabled"] = false,
+["encounters"] = {
+},
+},
+["UnifiedPanel"] = {
+["y"] = 1077.451171875,
+["x"] = 182.4834899902344,
+["point"] = "TOPLEFT",
+["relativePoint"] = "BOTTOMLEFT",
+["routes"] = {
+["tools"] = {
+["page"] = "LoadSettings",
+},
+["boss"] = {
+["tab"] = "voicepack",
+},
+},
+["lastProvider"] = "tools",
+},
+["ModuleDB"] = {
+["ExwindState"] = {
+["encounter"] = {
+["id"] = 0,
+["ts"] = 1789500203,
+["inProgress"] = false,
+["instanceID"] = 0,
+},
+["versaCalibration"] = {
+["specID"] = 269,
+["zeroValue"] = 123460.580851794,
+["lastDescriptionValue"] = 132240,
+["spellID"] = 1271074,
+},
+},
+},
+["Changelog"] = {
+["LastSeenVersion"] = "v26.9.13.0946",
+["LastSeenAt"] = "2026-09-15 21:31:21",
+["LastPopupAt"] = "2026-09-13 16:33:50",
+["LastPopupVersion"] = "v26.9.13.0946",
+},
+["Locale"] = {
+["mode"] = "AUTO",
+},
+["PanelStylePresets"] = {
+["timerbar"] = {
+},
+["version"] = 1,
+["icon"] = {
+},
+},
+["Minimap"] = {
+["hide"] = false,
+},
+}

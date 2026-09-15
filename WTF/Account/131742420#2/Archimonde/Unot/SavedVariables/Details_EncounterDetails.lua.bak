@@ -1,0 +1,23 @@
+
+EncounterDetailsDB = {
+["chartData"] = {
+[68] = {
+["Raid Damage Done"] = {
+["__time"] = 1789405719,
+},
+},
+},
+["encounter_spells"] = {
+},
+["emotes"] = {
+{
+["boss"] = "Avatar de Sephraliss",
+},
+{
+["boss"] = "Kyrakka et Erkhart Foudreveine",
+},
+{
+["boss"] = "Roi Dazar",
+},
+},
+}
