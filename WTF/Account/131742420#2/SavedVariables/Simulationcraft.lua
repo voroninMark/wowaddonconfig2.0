@@ -1,37 +1,33 @@
 
 SimulationCraftDB = {
 ["profileKeys"] = {
-["Malferrant - Archimonde"] = "Malferrant - Archimonde",
-["Atogatog - Archimonde"] = "Atogatog - Archimonde",
 ["Sudistte - Archimonde"] = "Sudistte - Archimonde",
-["Unotr - Archimonde"] = "Unotr - Archimonde",
-["Lesotr - Archimonde"] = "Lesotr - Archimonde",
+["Rojce - Archimonde"] = "Rojce - Archimonde",
+["Unotre - Archimonde"] = "Unotre - Archimonde",
+["Unhote - Archimonde"] = "Unhote - Archimonde",
+["Unot - Archimonde"] = "Unot - Archimonde",
 ["Kronf - Archimonde"] = "Kronf - Archimonde",
 ["Utîle - Archimonde"] = "Utîle - Archimonde",
 ["Oit - Archimonde"] = "Oit - Archimonde",
-["Unot - Archimonde"] = "Unot - Archimonde",
+["Lesotr - Archimonde"] = "Lesotr - Archimonde",
 ["Hotr - Khaz Modan"] = "Hotr - Khaz Modan",
 ["Spacewølf - Archimonde"] = "Spacewølf - Archimonde",
-["Unhote - Archimonde"] = "Unhote - Archimonde",
-["Unote - Archimonde"] = "Unote - Archimonde",
 ["Knort - Archimonde"] = "Knort - Archimonde",
-["Rojce - Archimonde"] = "Rojce - Archimonde",
-["Unotre - Archimonde"] = "Unotre - Archimonde",
+["Unote - Archimonde"] = "Unote - Archimonde",
+["Unotr - Archimonde"] = "Unotr - Archimonde",
+["Atogatog - Archimonde"] = "Atogatog - Archimonde",
+["Malferrant - Archimonde"] = "Malferrant - Archimonde",
 },
 ["profiles"] = {
-["Malferrant - Archimonde"] = {
-["frame"] = {
-["ofsx"] = -2.188215255737305,
-["ofsy"] = 7.658118724822998,
-},
-},
-["Atogatog - Archimonde"] = {
-},
 ["Sudistte - Archimonde"] = {
 },
-["Unotr - Archimonde"] = {
+["Rojce - Archimonde"] = {
 },
-["Lesotr - Archimonde"] = {
+["Unotre - Archimonde"] = {
+},
+["Unhote - Archimonde"] = {
+},
+["Unot - Archimonde"] = {
 },
 ["Kronf - Archimonde"] = {
 },
@@ -39,7 +35,7 @@ SimulationCraftDB = {
 },
 ["Oit - Archimonde"] = {
 },
-["Unot - Archimonde"] = {
+["Lesotr - Archimonde"] = {
 },
 ["Hotr - Khaz Modan"] = {
 },
@@ -49,7 +45,7 @@ SimulationCraftDB = {
 ["ofsy"] = 3.282112121582031,
 },
 },
-["Unhote - Archimonde"] = {
+["Knort - Archimonde"] = {
 },
 ["Unote - Archimonde"] = {
 ["frame"] = {
@@ -57,11 +53,15 @@ SimulationCraftDB = {
 ["ofsy"] = -36.43740081787109,
 },
 },
-["Knort - Archimonde"] = {
+["Unotr - Archimonde"] = {
 },
-["Rojce - Archimonde"] = {
+["Atogatog - Archimonde"] = {
 },
-["Unotre - Archimonde"] = {
+["Malferrant - Archimonde"] = {
+["frame"] = {
+["ofsx"] = -2.188215255737305,
+["ofsy"] = 7.658118724822998,
+},
 },
 },
 }

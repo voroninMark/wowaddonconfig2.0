@@ -1,10 +1,12 @@
 
 EncounterDetailsDB = {
 ["chartData"] = {
-[68] = {
+[122] = {
 ["Raid Damage Done"] = {
-["__time"] = 1789405719,
+["__time"] = 1789852475,
 },
+},
+[104] = {
 },
 },
 ["encounter_spells"] = {
@@ -14,10 +16,10 @@ EncounterDetailsDB = {
 ["boss"] = "Avatar de Sephraliss",
 },
 {
-["boss"] = "Kyrakka et Erkhart Foudreveine",
+["boss"] = "Avatar de Sephraliss",
 },
 {
-["boss"] = "Roi Dazar",
+["boss"] = "Ziekett",
 },
 },
 }

@@ -2,8 +2,10 @@
 EncounterDetailsDB = {
 ["chartData"] = {
 [746] = {
+},
+[783] = {
 ["Raid Damage Done"] = {
-["__time"] = 1789210269,
+["__time"] = 1789760325,
 },
 },
 },
@@ -6360,19 +6362,19 @@ EncounterDetailsDB = {
 },
 ["source"] = "Pyrotechnie",
 },
-[442484] = {
-["school"] = 4,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Goldie Baronnie",
-},
 [33865] = {
 ["school"] = 1,
 ["token"] = {
 ["SPELL_PERIODIC_DAMAGE"] = true,
 },
 ["source"] = "Charognard éthérien",
+},
+[442484] = {
+["school"] = 4,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Goldie Baronnie",
 },
 [285377] = {
 ["school"] = 1,
@@ -6567,22 +6569,22 @@ EncounterDetailsDB = {
 },
 ["source"] = "Azerokk",
 },
-[260202] = {
-["school"] = 1,
+[462960] = {
+["school"] = 8,
 ["token"] = {
-["SPELL_CAST_START"] = true,
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
+["SPELL_HEAL"] = true,
 },
-["source"] = "Nabab Razzbam",
+["source"] = "Kreeholo-Hyjal",
 },
-[471660] = {
-["school"] = 1,
+[320182] = {
+["school"] = 40,
 ["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Fusendo",
+["source"] = "Paceran le Virulent",
 },
 [474159] = {
 ["school"] = 8,
@@ -6709,14 +6711,6 @@ EncounterDetailsDB = {
 },
 ["source"] = "Amalgame d’âmes",
 },
-[224126] = {
-["school"] = 16,
-["type"] = "BUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-},
-["source"] = "Esprit du loup",
-},
 [382620] = {
 ["school"] = 1,
 ["token"] = {
@@ -6725,6 +6719,14 @@ EncounterDetailsDB = {
 ["SPELL_DAMAGE"] = true,
 },
 ["source"] = "Tir-Tripes",
+},
+[224126] = {
+["school"] = 16,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Esprit du loup",
 },
 [34634] = {
 ["school"] = 64,
@@ -6820,13 +6822,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Geezle Gigazap",
 },
-[315584] = {
-["school"] = 1,
-["type"] = "BUFF",
+[428169] = {
+["school"] = 2,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Sietard",
+["source"] = "Prieuresse Murrpray",
 },
 [318406] = {
 ["school"] = 1,
@@ -7023,15 +7026,6 @@ EncounterDetailsDB = {
 },
 ["source"] = "Ethura",
 },
-[1224492] = {
-["school"] = 8,
-["type"] = "BUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_SUCCESS"] = true,
-},
-["source"] = "Image voltaïque",
-},
 [3600] = {
 ["school"] = 8,
 ["type"] = "DEBUFF",
@@ -7040,6 +7034,15 @@ EncounterDetailsDB = {
 ["SPELL_AURA_APPLIED"] = true,
 },
 ["source"] = "Totem de lien terrestre",
+},
+[1224492] = {
+["school"] = 8,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+},
+["source"] = "Image voltaïque",
 },
 [468604] = {
 ["school"] = 1,
@@ -7503,15 +7506,15 @@ EncounterDetailsDB = {
 },
 ["source"] = "Inquisiteur Tourmentorum",
 },
-[1214315] = {
-["school"] = 8,
-["type"] = "BUFF",
+[473224] = {
+["school"] = 1,
+["type"] = "DEBUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
-["SPELL_CAST_START"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Kyrioss",
+["source"] = "Grand-M.A.M.A.",
 },
 [423547] = {
 ["school"] = 2,
@@ -7720,14 +7723,16 @@ EncounterDetailsDB = {
 },
 ["source"] = "Bougie énorme",
 },
-[320729] = {
-["school"] = 1,
+[34254] = {
+["school"] = 8,
+["type"] = "BUFF",
 ["token"] = {
+["SPELL_AURA_APPLIED"] = true,
 ["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
+["SPELL_PERIODIC_HEAL"] = true,
 },
-["source"] = "Xav l'Invaincu",
+["source"] = "Botaniste cherche-soleil",
 },
 [404184] = {
 ["school"] = 1,
@@ -7769,19 +7774,19 @@ EncounterDetailsDB = {
 },
 ["source"] = "Toupignon",
 },
-[385723] = {
-["school"] = 2,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Ozwin-LesClairvoyants",
-},
 [469650] = {
 ["school"] = 1,
 ["token"] = {
 ["SPELL_CAST_START"] = true,
 },
 ["source"] = "Rik Rebond",
+},
+[385723] = {
+["school"] = 2,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Ozwin-LesClairvoyants",
 },
 [27626] = {
 ["school"] = 8,
@@ -8153,13 +8158,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Whiteweapons",
 },
-[195234] = {
-["school"] = 16,
+[472220] = {
+["school"] = 4,
+["type"] = "BUFF",
 ["token"] = {
+["SPELL_AURA_APPLIED"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_CAST_START"] = true,
 },
-["source"] = "Lieuse de vague glissefiel",
+["source"] = "Fusendo",
 },
 [199063] = {
 ["school"] = 1,
@@ -8170,6 +8176,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Racines étrangleuses",
 },
+[467615] = {
+["school"] = 1,
+["token"] = {
+["SPELL_DAMAGE"] = true,
+},
+["source"] = "Rik Rebond",
+},
 [1216443] = {
 ["school"] = 8,
 ["type"] = "BUFF",
@@ -8178,13 +8191,6 @@ EncounterDetailsDB = {
 ["SPELL_CAST_SUCCESS"] = true,
 },
 ["source"] = "Gnomastoc TKC",
-},
-[467615] = {
-["school"] = 1,
-["token"] = {
-["SPELL_DAMAGE"] = true,
-},
-["source"] = "Rik Rebond",
 },
 [31716] = {
 ["school"] = 8,
@@ -8210,20 +8216,22 @@ EncounterDetailsDB = {
 },
 ["source"] = "Gnomastoc TKC",
 },
-[426676] = {
-["school"] = 8,
-["type"] = "BUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-},
-["source"] = "Ase",
-},
-[199329] = {
-["school"] = 1,
+[207261] = {
+["school"] = 64,
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Dresaron",
+["source"] = "Capitaine de patrouille Gerdo",
+},
+[472222] = {
+["school"] = 4,
+["type"] = "DEBUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+["SPELL_PERIODIC_DAMAGE"] = true,
+},
+["source"] = "Fusendo",
 },
 [34782] = {
 ["school"] = 1,
@@ -8428,14 +8436,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Fayzouf",
 },
-[1216475] = {
-["school"] = 32,
+[285440] = {
+["school"] = 1,
 ["token"] = {
-["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Kul'tharok",
+["source"] = "Machiniste en chef Electroflux",
 },
 [426171] = {
 ["school"] = 32,
@@ -8444,13 +8451,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Garde de la tempête Gorren",
 },
-[285440] = {
-["school"] = 1,
+[1216475] = {
+["school"] = 32,
 ["token"] = {
-["SPELL_CAST_SUCCESS"] = true,
 ["SPELL_CAST_START"] = true,
+["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Machiniste en chef Electroflux",
+["source"] = "Kul'tharok",
 },
 [276229] = {
 ["school"] = 4,
@@ -8521,13 +8529,12 @@ EncounterDetailsDB = {
 },
 ["source"] = "B.O.U.M.B.A.",
 },
-[472231] = {
-["school"] = 1,
-["type"] = "DEBUFF",
+[392398] = {
+["school"] = 8,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Fusendo",
+["source"] = "Nuage d'orage primordial",
 },
 [462508] = {
 ["school"] = 32,
@@ -8639,12 +8646,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Gardien des secrets mogu’shan",
 },
-[392398] = {
-["school"] = 8,
+[472231] = {
+["school"] = 1,
+["type"] = "DEBUFF",
 ["token"] = {
-["SPELL_CAST_START"] = true,
+["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Nuage d'orage primordial",
+["source"] = "Fusendo",
 },
 [438971] = {
 ["school"] = 1,
@@ -8800,22 +8808,20 @@ EncounterDetailsDB = {
 },
 ["source"] = "Le roi-bougie",
 },
-[472222] = {
-["school"] = 4,
-["type"] = "DEBUFF",
-["token"] = {
-["SPELL_AURA_APPLIED"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
-},
-["source"] = "Fusendo",
-},
-[207261] = {
-["school"] = 64,
+[199329] = {
+["school"] = 1,
 ["token"] = {
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_CAST_START"] = true,
 },
-["source"] = "Capitaine de patrouille Gerdo",
+["source"] = "Dresaron",
+},
+[426676] = {
+["school"] = 8,
+["type"] = "BUFF",
+["token"] = {
+["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Ase",
 },
 [202314] = {
 ["school"] = 1,
@@ -8825,14 +8831,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Hydre sille-tempête",
 },
-[472220] = {
-["school"] = 4,
-["type"] = "BUFF",
+[195234] = {
+["school"] = 16,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
+["SPELL_CAST_START"] = true,
 },
-["source"] = "Fusendo",
+["source"] = "Lieuse de vague glissefiel",
 },
 [291874] = {
 ["school"] = 1,
@@ -9055,16 +9060,14 @@ EncounterDetailsDB = {
 },
 ["source"] = "Satukya-Hyjal",
 },
-[34254] = {
-["school"] = 8,
-["type"] = "BUFF",
+[320729] = {
+["school"] = 1,
 ["token"] = {
-["SPELL_AURA_APPLIED"] = true,
 ["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
-["SPELL_PERIODIC_HEAL"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Botaniste cherche-soleil",
+["source"] = "Xav l'Invaincu",
 },
 [201959] = {
 ["school"] = 8,
@@ -9157,15 +9160,15 @@ EncounterDetailsDB = {
 },
 ["source"] = "Arbec",
 },
-[473224] = {
-["school"] = 1,
-["type"] = "DEBUFF",
+[1214315] = {
+["school"] = 8,
+["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
-["SPELL_PERIODIC_DAMAGE"] = true,
+["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
 },
-["source"] = "Grand-M.A.M.A.",
+["source"] = "Kyrioss",
 },
 [394976] = {
 ["school"] = 32,
@@ -9569,14 +9572,13 @@ EncounterDetailsDB = {
 },
 ["source"] = "Fayzouf",
 },
-[428169] = {
-["school"] = 2,
+[315584] = {
+["school"] = 1,
+["type"] = "BUFF",
 ["token"] = {
-["SPELL_CAST_START"] = true,
-["SPELL_CAST_SUCCESS"] = true,
-["SPELL_DAMAGE"] = true,
+["SPELL_AURA_APPLIED"] = true,
 },
-["source"] = "Prieuresse Murrpray",
+["source"] = "Sietard",
 },
 [167898] = {
 ["school"] = 1,
@@ -9670,22 +9672,22 @@ EncounterDetailsDB = {
 },
 ["source"] = "Mécanicien de fosse",
 },
-[320182] = {
-["school"] = 40,
+[471660] = {
+["school"] = 1,
 ["type"] = "BUFF",
 ["token"] = {
 ["SPELL_AURA_APPLIED"] = true,
+},
+["source"] = "Fusendo",
+},
+[260202] = {
+["school"] = 1,
+["token"] = {
 ["SPELL_CAST_START"] = true,
 ["SPELL_CAST_SUCCESS"] = true,
+["SPELL_DAMAGE"] = true,
 },
-["source"] = "Paceran le Virulent",
-},
-[462960] = {
-["school"] = 8,
-["token"] = {
-["SPELL_HEAL"] = true,
-},
-["source"] = "Kreeholo-Hyjal",
+["source"] = "Nabab Razzbam",
 },
 [193210] = {
 ["school"] = 4,
@@ -10164,10 +10166,13 @@ EncounterDetailsDB = {
 },
 ["emotes"] = {
 {
-["boss"] = "Avatar de Sephraliss",
+["boss"] = "Ziekett",
 },
 {
-["boss"] = "Charonus",
+["boss"] = "Ziekett",
+},
+{
+["boss"] = "Kyrakka et Erkhart Foudreveine",
 },
 },
 }

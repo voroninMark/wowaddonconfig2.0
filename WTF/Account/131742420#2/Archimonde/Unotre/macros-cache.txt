@@ -34,13 +34,13 @@ VER 3 010000000000000B "cancel" "134400"
 /cancelaura souffle profond
 /cast Frappe d’azur(Bleu)
 END
-VER 3 0100000000000001 "d" "4630459"
-#showtooltip Étreinte verdoyante(Vert)
-/cast [@mouseover, exists][nomod] Étreinte verdoyante(Vert)
-END
 VER 3 0100000000000004 "d" "4622459"
 #showtooltip
 /cast [@cursor] Tempête-de-feu(Rouge)
+END
+VER 3 0100000000000001 "d" "4630459"
+#showtooltip Étreinte verdoyante(Vert)
+/cast [@mouseover, exists][nomod] Étreinte verdoyante(Vert)
 END
 VER 3 0100000000000002 "kick" "4622469"
 #showtooltip Apaisement

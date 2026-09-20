@@ -1,21 +1,22 @@
 
 RaiderIO_Config = {
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["hide"] = false,
+["lock"] = false,
+},
 ["profilePoint"] = {
 ["y"] = 0,
 ["x"] = -16,
 ["point"] = "TOPLEFT",
 },
-["minimapIcon"] = {
-["minimapPos"] = 180,
-["showInCompartment"] = true,
-["lock"] = false,
-["hide"] = false,
-},
 }
-RaiderIO_LastCharacter = "eu-Unot-archimonde"
+RaiderIO_LastCharacter = "eu-Unotre-archimonde"
 RaiderIO_MissingCharacters = {
-["eu-Brocaille-archimonde"] = true,
-["eu-Laløøx-archimonde"] = true,
+["eu-Ryndash-archimonde"] = true,
+["eu-Karamvir-hyjal"] = true,
+["eu-Fañg-hyjal"] = true,
 }
 RaiderIO_MissingServers = {
 }

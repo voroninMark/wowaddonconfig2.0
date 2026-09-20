@@ -1,16 +1,16 @@
 
 MKPT_Config = {
+["profileKeys"] = {
+["Unot - Archimonde"] = "Unot - Archimonde",
+["Unotre - Archimonde"] = "Unotre - Archimonde",
+},
 ["global"] = {
 ["position"] = {
-["y"] = -8.68896484375,
-["x"] = 309.0955505371094,
+["y"] = -17.7705078125,
+["x"] = 449.4464416503906,
 },
 ["minimap"] = {
 ["minimapPos"] = 199.5248751455101,
 },
-},
-["profileKeys"] = {
-["Unot - Archimonde"] = "Unot - Archimonde",
-["Unotre - Archimonde"] = "Unotre - Archimonde",
 },
 }

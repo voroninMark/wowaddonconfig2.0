@@ -1,6 +1,7 @@
 VER 3 0100000000000006 "blk" "134400"
 #showtooltip 
 /stopmacro [channeling:Poings de fureur]
+/cast Unité interne
 /cast Frappe du voile noir
 END
 VER 3 0100000000000001 "cut" "134400"
@@ -16,6 +17,16 @@ VER 3 0100000000000007 "d" "134400"
 /cast Unité interne
 /cast Poings de fureur
 END
+VER 3 010000000000000B "nobreak" "134400"
+#showtooltip 
+/stopmacro [channeling:Poings de fureur]
+/cast Coup tournoyant de la grue
+END
+VER 3 010000000000000C "nopo" "6718291"
+#showtooltip 2énith
+/use 13
+/cast Zénith
+END
 VER 3 0100000000000002 "para" "134400"
 #showtooltip Paralysie
 /cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Paralysie
@@ -23,11 +34,13 @@ END
 VER 3 0100000000000005 "rsk" "134400"
 #showtooltip 
 /stopmacro [channeling:Poings de fureur]
+/cast Unité interne
 /cast Coup de pied du soleil levant
 END
 VER 3 0100000000000003 "tiger" "134400"
-#showtooltip 
+#showtooltip Paume du tigre
 /stopmacro [channeling:Poings de fureur]
+/cast Unité interne
 /cast Piétinement culminant
 /cast Paume du tigre
 END
@@ -45,5 +58,6 @@ END
 VER 3 0100000000000009 "zenith trinket" "134400"
 #showtooltip 2énith
 /use 13
+/use Potion de témérité
 /cast Zénith
 END

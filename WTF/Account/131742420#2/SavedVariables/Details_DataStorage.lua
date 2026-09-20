@@ -5,6 +5,8 @@ DetailsDataStorage = {
 },
 [2919] = {
 {
+["date"] = "21:34 12/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 172162688,
@@ -97,8 +99,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1726169686,
-["date"] = "21:34 12/09/24",
 ["elapsed"] = 216.0689999999995,
 ["servertime"] = 1726169688,
 ["HEALER"] = {
@@ -133,11 +133,15 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1726169686,
 },
+},
+[3010] = {
 },
 [2920] = {
 {
+["date"] = "21:43 12/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 134995117,
@@ -230,8 +234,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1726170238,
-["date"] = "21:43 12/09/24",
 ["elapsed"] = 195.3079999999973,
 ["servertime"] = 1726170240,
 ["HEALER"] = {
@@ -266,13 +268,13 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1726170238,
 },
-},
-[3010] = {
 },
 [2898] = {
 {
+["date"] = "21:14 12/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 128195640,
@@ -365,8 +367,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1726168471,
-["date"] = "21:14 12/09/24",
 ["elapsed"] = 168.476999999999,
 ["servertime"] = 1726168473,
 ["HEALER"] = {
@@ -401,11 +401,13 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1726168471,
 },
 },
 [2921] = {
 {
+["date"] = "21:57 12/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 347857545,
@@ -498,8 +500,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1726171029,
-["date"] = "21:57 12/09/24",
 ["elapsed"] = 368.3840000000018,
 ["servertime"] = 1726171031,
 ["HEALER"] = {
@@ -534,9 +534,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1726171029,
 },
 {
+["date"] = "22:38 25/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Ambuhunt-Hyjal"] = {
 ["total"] = 206183040,
@@ -634,8 +636,6 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["time"] = 1727296681,
-["date"] = "22:38 25/09/24",
 ["elapsed"] = 200.8139999999985,
 ["servertime"] = 1727296682,
 ["HEALER"] = {
@@ -665,11 +665,13 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1727296681,
 },
 },
 [2922] = {
 {
+["date"] = "22:09 12/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 34793596,
@@ -762,8 +764,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1726171791,
-["date"] = "22:09 12/09/24",
 ["elapsed"] = 416.1690000000017,
 ["servertime"] = 1726171793,
 ["HEALER"] = {
@@ -798,9 +798,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1726171791,
 },
 {
+["date"] = "22:44 25/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 147863065,
@@ -903,8 +905,6 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["time"] = 1727297047,
-["date"] = "22:44 25/09/24",
 ["elapsed"] = 223.3129999999946,
 ["servertime"] = 1727297048,
 ["HEALER"] = {
@@ -934,7 +934,7 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1727297047,
 },
 },
 [3012] = {
@@ -945,6 +945,8 @@ DetailsDataStorage = {
 },
 [2917] = {
 {
+["date"] = "21:05 12/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 126756735,
@@ -1037,8 +1039,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1726167902,
-["date"] = "21:05 12/09/24",
 ["elapsed"] = 194.2970000000023,
 ["servertime"] = 1726167904,
 ["HEALER"] = {
@@ -1073,13 +1073,15 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1726167902,
 },
 },
 [3014] = {
 },
 [2902] = {
 {
+["date"] = "20:53 12/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 140073809,
@@ -1167,8 +1169,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1726167208,
-["date"] = "20:53 12/09/24",
 ["elapsed"] = 205.9710000000014,
 ["servertime"] = 1726167210,
 ["HEALER"] = {
@@ -1203,13 +1203,15 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1726167208,
 },
 },
 [3015] = {
 },
 [2918] = {
 {
+["date"] = "21:23 12/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 167011191,
@@ -1302,8 +1304,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1726168980,
-["date"] = "21:23 12/09/24",
 ["elapsed"] = 189.3760000000002,
 ["servertime"] = 1726168982,
 ["HEALER"] = {
@@ -1338,487 +1338,18 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1726168980,
 },
 },
 [3009] = {
 },
 },
 ["mythic"] = {
-[2920] = {
-{
-["date"] = "23:04 22/01/25",
-["guild"] = "Stuck",
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 336450653,
-["itemLevel"] = 637.8125,
-["classId"] = 10,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 276651318,
-["itemLevel"] = 636.5625,
-["classId"] = 2,
-},
-["Phee"] = {
-["total"] = 439034531,
-["itemLevel"] = 635.375,
-["classId"] = 11,
-},
-["Blodreina-Krasus"] = {
-["total"] = 568295975,
-["itemLevel"] = 637,
-["classId"] = 4,
-},
-["Shÿneur"] = {
-["total"] = 470255001,
-["itemLevel"] = 639,
-["classId"] = 1,
-},
-["Surend"] = {
-["total"] = 295408688,
-["itemLevel"] = 638.625,
-["classId"] = 6,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 476248860,
-["itemLevel"] = 636.4375,
-["classId"] = 13,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 602256211,
-["itemLevel"] = 637.625,
-["classId"] = 3,
-},
-["Kamzz"] = {
-["total"] = 523603431,
-["itemLevel"] = 637,
-["classId"] = 8,
-},
-["Aigled-Hyjal"] = {
-["total"] = 555510606,
-["itemLevel"] = 637.1875,
-["classId"] = 12,
-},
-["Unote"] = {
-["total"] = 233456601,
-["itemLevel"] = 637.625,
-["classId"] = 6,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 563093715,
-["itemLevel"] = 637.8125,
-["classId"] = 3,
-},
-["Tactactoc"] = {
-["total"] = 261750690,
-["itemLevel"] = 638.8125,
-["classId"] = 4,
-},
-["Wiilycringe"] = {
-["total"] = 527643974,
-["itemLevel"] = 636.8125,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 129612242,
-["itemLevel"] = 638,
-["classId"] = 5,
-},
-["Levarona-TarrenMill"] = {
-["total"] = 353303292,
-["itemLevel"] = 636.8125,
-["classId"] = 8,
-},
-},
-["elapsed"] = 358.3820000000014,
-["servertime"] = 1737583496,
-["HEALER"] = {
-["Naystà"] = {
-["total"] = 749040244,
-["itemLevel"] = 639.0625,
-["classId"] = 7,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 505346078,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 718689799,
-["itemLevel"] = 637.8125,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 760068817,
-["itemLevel"] = 638.0625,
-["classId"] = 5,
-},
-},
-["time"] = 1737583495,
-},
-{
-["DAMAGER"] = {
-["Unote"] = {
-["total"] = 523075784,
-["itemLevel"] = 638.1875,
-["classId"] = 6,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 390893968,
-["itemLevel"] = 637.8125,
-["classId"] = 3,
-},
-["Levarona-TarrenMill"] = {
-["total"] = 489790833,
-["itemLevel"] = 637,
-["classId"] = 8,
-},
-["Kamzz"] = {
-["total"] = 381868739,
-["itemLevel"] = 637,
-["classId"] = 8,
-},
-["Fifka"] = {
-["total"] = 504473076,
-["itemLevel"] = 637.25,
-["classId"] = 11,
-},
-["Surend"] = {
-["total"] = 260621042,
-["itemLevel"] = 638.8125,
-["classId"] = 6,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 374352192,
-["itemLevel"] = 637.8125,
-["classId"] = 13,
-},
-["Aigled-Hyjal"] = {
-["total"] = 525065213,
-["itemLevel"] = 637.375,
-["classId"] = 12,
-},
-["Hastyan-Ysondre"] = {
-["total"] = 227704530,
-["itemLevel"] = 634.125,
-["classId"] = 8,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 417409660,
-["itemLevel"] = 638,
-["classId"] = 7,
-},
-["Pheeon"] = {
-["total"] = 463188073,
-["itemLevel"] = 638.1875,
-["classId"] = 1,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 297115683,
-["itemLevel"] = 638.1875,
-["classId"] = 2,
-},
-["Blodreina-Krasus"] = {
-["total"] = 582751272,
-["itemLevel"] = 637,
-["classId"] = 4,
-},
-["Wiilycringe"] = {
-["total"] = 205978007,
-["itemLevel"] = 637.8125,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 347329233,
-["itemLevel"] = 638,
-["classId"] = 5,
-},
-["Friidenight-Hyjal"] = {
-["total"] = 626672346,
-["itemLevel"] = 639,
-["classId"] = 2,
-},
-},
-["time"] = 1738185651,
-["date"] = "22:20 29/01/25",
-["elapsed"] = 354.0660000000007,
-["servertime"] = 1738185741,
-["HEALER"] = {
-["Nifix"] = {
-["total"] = 497085433,
-["itemLevel"] = 633.375,
-["classId"] = 7,
-},
-["Katsaku"] = {
-["total"] = 709979647,
-["itemLevel"] = 637.8125,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 658791449,
-["itemLevel"] = 639.25,
-["classId"] = 5,
-},
-},
-["guild"] = "Stuck",
-},
-{
-["guild"] = "Stuck",
-["time"] = 1738880342,
-["elapsed"] = 380.7000000000044,
-["DAMAGER"] = {
-["Shÿneur"] = {
-["total"] = 260669716,
-["itemLevel"] = 638.8125,
-["classId"] = 1,
-},
-["Phee"] = {
-["total"] = 500207613,
-["itemLevel"] = 639.0625,
-["classId"] = 11,
-},
-["Blodreina-Krasus"] = {
-["total"] = 658412069,
-["itemLevel"] = 636.1875,
-["classId"] = 4,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 249157832,
-["itemLevel"] = 638.1875,
-["classId"] = 2,
-},
-["Surend"] = {
-["total"] = 307994096,
-["itemLevel"] = 638.8125,
-["classId"] = 6,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 551997351,
-["itemLevel"] = 633.0625,
-["classId"] = 2,
-},
-["Aigled-Hyjal"] = {
-["total"] = 537418493,
-["itemLevel"] = 637.375,
-["classId"] = 12,
-},
-["Levarona-TarrenMill"] = {
-["total"] = 424548749,
-["itemLevel"] = 637,
-["classId"] = 8,
-},
-["Hastyan-Ysondre"] = {
-["total"] = 445046791,
-["itemLevel"] = 635.8125,
-["classId"] = 8,
-},
-["Unote"] = {
-["total"] = 497224061,
-["itemLevel"] = 638.625,
-["classId"] = 6,
-},
-["Villiersham-Elune"] = {
-["total"] = 454054751,
-["itemLevel"] = 635,
-["classId"] = 7,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 552595479,
-["itemLevel"] = 637.8125,
-["classId"] = 3,
-},
-["Wiilycringe"] = {
-["total"] = 578380864,
-["itemLevel"] = 637.8125,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 152599591,
-["itemLevel"] = 638,
-["classId"] = 5,
-},
-["Tactactoc"] = {
-["total"] = 371709386,
-["itemLevel"] = 639,
-["classId"] = 4,
-},
-},
-["servertime"] = 1738880440,
-["HEALER"] = {
-["Kamz"] = {
-["total"] = 679265097,
-["itemLevel"] = 636.1875,
-["classId"] = 2,
-},
-["Giottö-Dalaran"] = {
-["total"] = 632335849,
-["itemLevel"] = 639.25,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 682620131,
-["itemLevel"] = 639.25,
-["classId"] = 5,
-},
-["Nifix"] = {
-["total"] = 570379363,
-["itemLevel"] = 634.625,
-["classId"] = 7,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 488035379,
-["itemLevel"] = 637,
-["classId"] = 13,
-},
-},
-["date"] = "23:19 06/02/25",
-},
-},
-[2709] = {
-},
-[3011] = {
-{
-["guild"] = "Stuck",
-["time"] = 1742500907,
-["elapsed"] = 396.9480000000003,
-["DAMAGER"] = {
-["Kareitha-Hyjal"] = {
-["total"] = 565228877,
-["itemLevel"] = 658.5,
-["classId"] = 8,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 632337285,
-["itemLevel"] = 660.9375,
-["classId"] = 3,
-},
-["Blodreina-Krasus"] = {
-["total"] = 582063176,
-["itemLevel"] = 656.75,
-["classId"] = 4,
-},
-["Lysð-Hyjal"] = {
-["total"] = 349560458,
-["itemLevel"] = 663.125,
-["classId"] = 6,
-},
-["Paleastea"] = {
-["total"] = 193440973,
-["itemLevel"] = 658.3125,
-["classId"] = 2,
-},
-["Wiilycringe"] = {
-["total"] = 614904153,
-["itemLevel"] = 659.9375,
-["classId"] = 9,
-},
-["Salern-Ysondre"] = {
-["total"] = 616251743,
-["itemLevel"] = 662.375,
-["classId"] = 11,
-},
-["Shÿneur"] = {
-["total"] = 676588623,
-["itemLevel"] = 661.9375,
-["classId"] = 1,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 716543350,
-["itemLevel"] = 661.5,
-["classId"] = 3,
-},
-["Kamz"] = {
-["total"] = 734305421,
-["itemLevel"] = 657.5,
-["classId"] = 10,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 612296922,
-["itemLevel"] = 658.5625,
-["classId"] = 13,
-},
-["Pheedifu"] = {
-["total"] = 324370468,
-["itemLevel"] = 661.4375,
-["classId"] = 12,
-},
-["Aigled-Hyjal"] = {
-["total"] = 800588669,
-["itemLevel"] = 662.25,
-["classId"] = 12,
-},
-["Friidenight-Hyjal"] = {
-["total"] = 748798965,
-["itemLevel"] = 662.1875,
-["classId"] = 2,
-},
-["Villiersham-Elune"] = {
-["total"] = 759431489,
-["itemLevel"] = 660.625,
-["classId"] = 7,
-},
-["Mynute"] = {
-["total"] = 820658212,
-["itemLevel"] = 662.5,
-["classId"] = 5,
-},
-["Unote"] = {
-["total"] = 799343971,
-["itemLevel"] = 662.9375,
-["classId"] = 6,
-},
-},
-["servertime"] = 1742501033,
-["HEALER"] = {
-["Nifix"] = {
-["total"] = 1014283499,
-["itemLevel"] = 658.875,
-["classId"] = 11,
-},
-["Giottö-Dalaran"] = {
-["total"] = 1104413037,
-["itemLevel"] = 663.25,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 1084909208,
-["itemLevel"] = 656.75,
-["classId"] = 5,
-},
-},
-["date"] = "21:01 20/03/25",
-},
-},
 [3010] = {
 {
-["time"] = 1742422693,
 ["guild"] = "Stuck",
+["time"] = 1742422693,
 ["elapsed"] = 431.0669999999991,
-["date"] = "23:18 19/03/25",
-["servertime"] = 1742422817,
-["HEALER"] = {
-["Kamz"] = {
-["total"] = 954855133,
-["itemLevel"] = 659.4375,
-["classId"] = 10,
-},
-["Nifix"] = {
-["total"] = 979983093,
-["itemLevel"] = 657.875,
-["classId"] = 11,
-},
-["Giottö-Dalaran"] = {
-["total"] = 942900476,
-["itemLevel"] = 662.625,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 903599742,
-["itemLevel"] = 656.5625,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 639640523,
@@ -1901,2565 +1432,36 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-},
-},
-[2898] = {
-{
-["DAMAGER"] = {
-["Pipouw-Hyjal"] = {
-["total"] = 202827681,
-["itemLevel"] = 626.4375,
-["classId"] = 10,
-},
-["Shÿneur"] = {
-["total"] = 331094984,
-["itemLevel"] = 628.4375,
-["classId"] = 1,
-},
-["Levarona-TarrenMill"] = {
-["total"] = 250248135,
-["itemLevel"] = 617.625,
-["classId"] = 8,
-},
-["Friidenight-Hyjal"] = {
-["total"] = 403291261,
-["itemLevel"] = 627.875,
-["classId"] = 2,
-},
-["Mãnia-Hyjal"] = {
-["total"] = 147309040,
-["itemLevel"] = 628.3125,
-["classId"] = 11,
-},
-["Surend"] = {
-["total"] = 163589614,
-["itemLevel"] = 628.1875,
-["classId"] = 6,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 179869307,
-["itemLevel"] = 618.25,
-["classId"] = 13,
-},
-["Tactactoc"] = {
-["total"] = 345803755,
-["itemLevel"] = 625.8125,
-["classId"] = 4,
-},
-["Siskhavoc"] = {
-["total"] = 324979565,
-["itemLevel"] = 627.8125,
-["classId"] = 9,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 289676873,
-["itemLevel"] = 627.5,
-["classId"] = 7,
-},
-["Villiersdh-Elune"] = {
-["total"] = 302803027,
-["itemLevel"] = 624.3125,
-["classId"] = 12,
-},
-["Raiizy-Hyjal"] = {
-["total"] = 319270973,
-["itemLevel"] = 626.5,
-["classId"] = 3,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 324354476,
-["itemLevel"] = 625.8125,
-["classId"] = 3,
-},
-["Kamzz"] = {
-["total"] = 356237939,
-["itemLevel"] = 628.5625,
-["classId"] = 8,
-},
-["Unote"] = {
-["total"] = 350171965,
-["itemLevel"] = 626.8125,
-["classId"] = 6,
-},
-["Satyrerogue-Hyjal"] = {
-["total"] = 357753723,
-["itemLevel"] = 625.5,
-["classId"] = 4,
-},
-},
-["time"] = 1729110174,
-["date"] = "22:22 16/10/24",
-["elapsed"] = 315.3160000000062,
-["servertime"] = 1729110176,
-["HEALER"] = {
-["Naystà"] = {
-["total"] = 411707853,
-["itemLevel"] = 625.3125,
-["classId"] = 7,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 377497823,
-["itemLevel"] = 624.375,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 447152998,
-["itemLevel"] = 630.1875,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 149070902,
-["itemLevel"] = 626.9375,
-["classId"] = 13,
-},
-},
-["guild"] = "Stuck",
-},
-{
-["date"] = "21:13 22/01/25",
-["guild"] = "Stuck",
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 285569737,
-["itemLevel"] = 637.8125,
-["classId"] = 10,
-},
-["Unote"] = {
-["total"] = 301162666,
-["itemLevel"] = 637.4375,
-["classId"] = 6,
-},
-["Phee"] = {
-["total"] = 301607594,
-["itemLevel"] = 635.375,
-["classId"] = 11,
-},
-["Villiersham-Elune"] = {
-["total"] = 278906780,
-["itemLevel"] = 628.75,
-["classId"] = 7,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 321169408,
-["itemLevel"] = 637.8125,
-["classId"] = 3,
-},
-["Surend"] = {
-["total"] = 167628163,
-["itemLevel"] = 638.625,
-["classId"] = 6,
-},
-["Tactactoc"] = {
-["total"] = 341391783,
-["itemLevel"] = 639.625,
-["classId"] = 4,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 240112544,
-["itemLevel"] = 627.625,
-["classId"] = 2,
-},
-["Kamz"] = {
-["total"] = 299606706,
-["itemLevel"] = 625.375,
-["classId"] = 2,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 374089362,
-["itemLevel"] = 637.625,
-["classId"] = 3,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 158594227,
-["itemLevel"] = 636.5625,
-["classId"] = 2,
-},
-["Blodreina-Krasus"] = {
-["total"] = 343416836,
-["itemLevel"] = 637,
-["classId"] = 4,
-},
-["Shÿneur"] = {
-["total"] = 298371413,
-["itemLevel"] = 637.375,
-["classId"] = 1,
-},
-["Wiilycringe"] = {
-["total"] = 323466113,
-["itemLevel"] = 636.8125,
-["classId"] = 9,
-},
-["Aigled-Hyjal"] = {
-["total"] = 326625745,
-["itemLevel"] = 636.375,
-["classId"] = 12,
-},
-["Pipouw-Hyjal"] = {
-["total"] = 283235704,
-["itemLevel"] = 636,
-["classId"] = 10,
-},
-},
-["elapsed"] = 215.0789999999997,
-["servertime"] = 1737576788,
-["HEALER"] = {
-["Naystà"] = {
-["total"] = 232890838,
-["itemLevel"] = 639.0625,
-["classId"] = 7,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 217936183,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 287338034,
-["itemLevel"] = 637.8125,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 254702934,
-["itemLevel"] = 638.0625,
-["classId"] = 5,
-},
-},
-["time"] = 1737576787,
-},
-{
-["DAMAGER"] = {
-["Ambuhunt-Hyjal"] = {
-["total"] = 335532443,
-["itemLevel"] = 637.7333333333333,
-["classId"] = 3,
-},
-["Shÿneur"] = {
-["total"] = 299172180,
-["itemLevel"] = 638.8,
-["classId"] = 1,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 190939311,
-["itemLevel"] = 638.1875,
-["classId"] = 2,
-},
-["Villiersham-Elune"] = {
-["total"] = 247399188,
-["itemLevel"] = 631.3125,
-["classId"] = 7,
-},
-["Fifka"] = {
-["total"] = 349330783,
-["itemLevel"] = 637.25,
-["classId"] = 11,
-},
-["Surend"] = {
-["total"] = 154755381,
-["itemLevel"] = 638.8125,
-["classId"] = 6,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 328706554,
-["itemLevel"] = 637.8125,
-["classId"] = 13,
-},
-["Aigled-Hyjal"] = {
-["total"] = 325976015,
-["itemLevel"] = 637.375,
-["classId"] = 12,
-},
-["Hastyan-Ysondre"] = {
-["total"] = 305489536,
-["itemLevel"] = 634.125,
-["classId"] = 8,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 332385004,
-["itemLevel"] = 638,
-["classId"] = 7,
-},
-["Pheeon"] = {
-["total"] = 283387028,
-["itemLevel"] = 638.1875,
-["classId"] = 1,
-},
-["Blodreina-Krasus"] = {
-["total"] = 337038933,
-["itemLevel"] = 637,
-["classId"] = 4,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 261864793,
-["itemLevel"] = 630.5625,
-["classId"] = 2,
-},
-["Wiilydenze"] = {
-["total"] = 272913650,
-["itemLevel"] = 625.7333333333333,
-["classId"] = 9,
-},
-["Tactactoc"] = {
-["total"] = 331180954,
-["itemLevel"] = 638.8125,
-["classId"] = 4,
-},
-["Unote"] = {
-["total"] = 316330200,
-["itemLevel"] = 637.375,
-["classId"] = 6,
-},
-},
-["time"] = 1738181123,
-["date"] = "21:05 29/01/25",
-["elapsed"] = 203.7099999999991,
-["servertime"] = 1738181213,
+["servertime"] = 1742422817,
 ["HEALER"] = {
 ["Kamz"] = {
-["total"] = 264138521,
-["itemLevel"] = 631,
-["classId"] = 2,
-},
-["Nifix"] = {
-["total"] = 300384008,
-["itemLevel"] = 632.9375,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 254803089,
-["itemLevel"] = 639.25,
-["classId"] = 5,
-},
-},
-["guild"] = "Stuck",
-},
-{
-["guild"] = "Stuck",
-["time"] = 1738872560,
-["elapsed"] = 204.0599999999977,
-["DAMAGER"] = {
-["Levarona-TarrenMill"] = {
-["total"] = 315984529,
-["itemLevel"] = 637,
-["classId"] = 8,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 153477834,
-["itemLevel"] = 638.1875,
-["classId"] = 2,
-},
-["Phee"] = {
-["total"] = 315660868,
-["itemLevel"] = 638.875,
-["classId"] = 11,
-},
-["Blodreina-Krasus"] = {
-["total"] = 318729533,
-["itemLevel"] = 636.1875,
-["classId"] = 4,
-},
-["Aigled-Hyjal"] = {
-["total"] = 317360989,
-["itemLevel"] = 637.375,
-["classId"] = 12,
-},
-["Surend"] = {
-["total"] = 150984514,
-["itemLevel"] = 638.8125,
-["classId"] = 6,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 329964932,
-["itemLevel"] = 638.4375,
-["classId"] = 13,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 309923468,
-["itemLevel"] = 633.0625,
-["classId"] = 2,
-},
-["Hastyan-Ysondre"] = {
-["total"] = 289463355,
-["itemLevel"] = 635.375,
-["classId"] = 8,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 318604283,
-["itemLevel"] = 638.8125,
-["classId"] = 7,
-},
-["Unote"] = {
-["total"] = 310511817,
-["itemLevel"] = 638.8125,
-["classId"] = 6,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 308155732,
-["itemLevel"] = 638,
-["classId"] = 3,
-},
-["Villiersham-Elune"] = {
-["total"] = 256364070,
-["itemLevel"] = 635,
-["classId"] = 7,
-},
-["Wiilydenze"] = {
-["total"] = 275936979,
-["itemLevel"] = 627,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 342465292,
-["itemLevel"] = 638,
-["classId"] = 5,
-},
-["Shÿneur"] = {
-["total"] = 289011612,
-["itemLevel"] = 638.8125,
-["classId"] = 1,
-},
-},
-["servertime"] = 1738872658,
-["HEALER"] = {
-["Kamz"] = {
-["total"] = 269626521,
-["itemLevel"] = 635.125,
-["classId"] = 2,
-},
-["Nifix"] = {
-["total"] = 219376463,
-["itemLevel"] = 634.625,
-["classId"] = 7,
-},
-["Giottö-Dalaran"] = {
-["total"] = 286226581,
-["itemLevel"] = 639.25,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 143648139,
-["itemLevel"] = 638.8125,
-["classId"] = 5,
-},
-},
-["date"] = "21:09 06/02/25",
-},
-},
-[2786] = {
-},
-[2824] = {
-},
-[2922] = {
-{
-["time"] = 1737059866,
-["guild"] = "Stuck",
-["elapsed"] = 498.2900000000009,
-["date"] = "21:37 16/01/25",
-["servertime"] = 1737059948,
-["HEALER"] = {
-["Naystà"] = {
-["total"] = 824240279,
-["itemLevel"] = 639.0625,
-["classId"] = 7,
-},
-["Katsaku"] = {
-["total"] = 925735590,
-["itemLevel"] = 637.625,
-["classId"] = 2,
-},
-["Xerdrake"] = {
-["total"] = 943278904,
-["itemLevel"] = 638.4375,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 979006237,
-["itemLevel"] = 637.25,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 613888208,
-["itemLevel"] = 637.8125,
-["classId"] = 10,
-},
-["Unote"] = {
-["total"] = 728029909,
-["itemLevel"] = 637.4375,
-["classId"] = 6,
-},
-["Levarona-TarrenMill"] = {
-["total"] = 758714934,
-["itemLevel"] = 636.8125,
-["classId"] = 8,
-},
-["Blodreina-Krasus"] = {
-["total"] = 793525987,
-["itemLevel"] = 636.625,
-["classId"] = 4,
-},
-["Fifka"] = {
-["total"] = 667020020,
-["itemLevel"] = 636.875,
-["classId"] = 11,
-},
-["Surend"] = {
-["total"] = 401187648,
-["itemLevel"] = 638.4375,
-["classId"] = 6,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 747446350,
-["itemLevel"] = 635.8125,
-["classId"] = 13,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 687428731,
-["itemLevel"] = 636.625,
-["classId"] = 3,
-},
-["Aigled-Hyjal"] = {
-["total"] = 737963477,
-["itemLevel"] = 636.1875,
-["classId"] = 12,
-},
-["Kamzz"] = {
-["total"] = 739148158,
-["itemLevel"] = 636.8125,
-["classId"] = 8,
-},
-["Pheeon"] = {
-["total"] = 818621472,
-["itemLevel"] = 638,
-["classId"] = 1,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 663555598,
-["itemLevel"] = 636.375,
-["classId"] = 3,
-},
-["Friidenight-Hyjal"] = {
-["total"] = 593501518,
-["itemLevel"] = 638.8125,
-["classId"] = 2,
-},
-["Wiilycringe"] = {
-["total"] = 752997653,
-["itemLevel"] = 636.8125,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 765729508,
-["itemLevel"] = 637.8125,
-["classId"] = 5,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 352565024,
-["itemLevel"] = 636.5625,
-["classId"] = 2,
-},
-},
-},
-},
-[3009] = {
-{
-["time"] = 1742421696,
-["guild"] = "Stuck",
-["elapsed"] = 401.5119999999988,
-["date"] = "23:01 19/03/25",
-["servertime"] = 1742421820,
-["HEALER"] = {
-["Nifix"] = {
-["total"] = 638029806,
-["itemLevel"] = 657.875,
-["classId"] = 11,
-},
-["Kamz"] = {
-["total"] = 811967723,
+["total"] = 954855133,
 ["itemLevel"] = 659.4375,
 ["classId"] = 10,
 },
+["Nifix"] = {
+["total"] = 979983093,
+["itemLevel"] = 657.875,
+["classId"] = 11,
+},
 ["Giottö-Dalaran"] = {
-["total"] = 783179730,
+["total"] = 942900476,
 ["itemLevel"] = 662.625,
 ["classId"] = 7,
 },
 ["Blodheal"] = {
-["total"] = 647918254,
+["total"] = 903599742,
 ["itemLevel"] = 656.5625,
 ["classId"] = 5,
 },
 },
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 851713409,
-["itemLevel"] = 659.9333333333333,
-["classId"] = 10,
-},
-["Unote"] = {
-["total"] = 1067070338,
-["itemLevel"] = 661.6875,
-["classId"] = 6,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 981648349,
-["itemLevel"] = 660.9375,
-["classId"] = 3,
-},
-["Blodreina-Krasus"] = {
-["total"] = 1026472029,
-["itemLevel"] = 653.8125,
-["classId"] = 4,
-},
-["Mynute"] = {
-["total"] = 926620283,
-["itemLevel"] = 661.1875,
-["classId"] = 5,
-},
-["Aigled-Hyjal"] = {
-["total"] = 1044746973,
-["itemLevel"] = 661.625,
-["classId"] = 12,
-},
-["Lysð-Hyjal"] = {
-["total"] = 948987673,
-["itemLevel"] = 662.75,
-["classId"] = 6,
-},
-["Paleastea"] = {
-["total"] = 420183284,
-["itemLevel"] = 658.125,
-["classId"] = 2,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 1055691191,
-["itemLevel"] = 660.875,
-["classId"] = 3,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 913404501,
-["itemLevel"] = 655.6875,
-["classId"] = 13,
-},
-["Kareitha-Hyjal"] = {
-["total"] = 1012651542,
-["itemLevel"] = 658.5,
-["classId"] = 8,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 754291284,
-["itemLevel"] = 658.125,
-["classId"] = 2,
-},
-["Shÿneur"] = {
-["total"] = 896693023,
-["itemLevel"] = 660,
-["classId"] = 1,
-},
-["Wiilycringe"] = {
-["total"] = 964717410,
-["itemLevel"] = 658.6875,
-["classId"] = 9,
-},
-["Pheedifu"] = {
-["total"] = 414493429,
-["itemLevel"] = 659.6875,
-["classId"] = 12,
-},
-["Salern-Ysondre"] = {
-["total"] = 1016487294,
-["itemLevel"] = 662.375,
-["classId"] = 11,
-},
-},
-},
-},
-[2677] = {
-},
-[2921] = {
-{
-["guild"] = "Stuck",
-["time"] = 1732830367,
-["elapsed"] = 487.4680000000008,
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 658790337,
-["itemLevel"] = 633.9375,
-["classId"] = 10,
-},
-["Shÿneur"] = {
-["total"] = 831697787,
-["itemLevel"] = 635.375,
-["classId"] = 1,
-},
-["Levarona-TarrenMill"] = {
-["total"] = 746621857,
-["itemLevel"] = 633.125,
-["classId"] = 8,
-},
-["Kamzz"] = {
-["total"] = 919569141,
-["itemLevel"] = 635.8125,
-["classId"] = 8,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 902337022,
-["itemLevel"] = 634.8125,
-["classId"] = 3,
-},
-["Surend"] = {
-["total"] = 503081124,
-["itemLevel"] = 636.625,
-["classId"] = 6,
-},
-["Mãnia-Hyjal"] = {
-["total"] = 492989302,
-["itemLevel"] = 631.375,
-["classId"] = 11,
-},
-["Aigled-Hyjal"] = {
-["total"] = 825429552,
-["itemLevel"] = 631.9375,
-["classId"] = 12,
-},
-["Siskhavoc"] = {
-["total"] = 973644389,
-["itemLevel"] = 631.5,
-["classId"] = 9,
-},
-["Raiizy-Hyjal"] = {
-["total"] = 925070921,
-["itemLevel"] = 635.375,
-["classId"] = 3,
-},
-["Unote"] = {
-["total"] = 868544661,
-["itemLevel"] = 634.5625,
-["classId"] = 6,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 857678835,
-["itemLevel"] = 633.375,
-["classId"] = 13,
-},
-["Tactactoc"] = {
-["total"] = 706615927,
-["itemLevel"] = 632.5,
-["classId"] = 4,
-},
-["Wiilycringe"] = {
-["total"] = 1076916099,
-["itemLevel"] = 635,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 1006322870,
-["itemLevel"] = 636,
-["classId"] = 5,
-},
-["Friidenight-Hyjal"] = {
-["total"] = 930403268,
-["itemLevel"] = 637.1875,
-["classId"] = 2,
-},
-},
-["servertime"] = 1732830369,
-["HEALER"] = {
-["Naystà"] = {
-["total"] = 698074530,
-["itemLevel"] = 632.875,
-["classId"] = 7,
-},
-["Katsaku"] = {
-["total"] = 694826346,
-["itemLevel"] = 635.8125,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 750753883,
-["itemLevel"] = 636.4375,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 684557788,
-["itemLevel"] = 635.375,
-["classId"] = 13,
-},
-},
-["date"] = "22:46 28/11/24",
-},
-{
-["date"] = "21:59 10/02/25",
-["guild"] = "Stuck",
-["DAMAGER"] = {
-["Mañìa-Hyjal"] = {
-["total"] = 327298982,
-["itemLevel"] = 638.1875,
-["classId"] = 2,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 854256874,
-["itemLevel"] = 638.1875,
-["classId"] = 3,
-},
-["Levarona-TarrenMill"] = {
-["total"] = 1015063452,
-["itemLevel"] = 637,
-["classId"] = 8,
-},
-["Kamzz"] = {
-["total"] = 919312949,
-["itemLevel"] = 637,
-["classId"] = 8,
-},
-["Fifka"] = {
-["total"] = 903319651,
-["itemLevel"] = 637.25,
-["classId"] = 11,
-},
-["Surend"] = {
-["total"] = 487619023,
-["itemLevel"] = 638.8125,
-["classId"] = 6,
-},
-["Unote"] = {
-["total"] = 978801614,
-["itemLevel"] = 638.625,
-["classId"] = 6,
-},
-["Aigled-Hyjal"] = {
-["total"] = 854302878,
-["itemLevel"] = 637.375,
-["classId"] = 12,
-},
-["Hastyan-Ysondre"] = {
-["total"] = 768938098,
-["itemLevel"] = 637.4375,
-["classId"] = 8,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 884781598,
-["itemLevel"] = 638.8125,
-["classId"] = 7,
-},
-["Pheeon"] = {
-["total"] = 741560310,
-["itemLevel"] = 639.8125,
-["classId"] = 1,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 718204753,
-["itemLevel"] = 634.9375,
-["classId"] = 2,
-},
-["Shÿneur"] = {
-["total"] = 894970782,
-["itemLevel"] = 638.8125,
-["classId"] = 1,
-},
-["Wiilycringe"] = {
-["total"] = 1147423085,
-["itemLevel"] = 637.8125,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 992025931,
-["itemLevel"] = 638.1875,
-["classId"] = 5,
-},
-["Blodreina-Krasus"] = {
-["total"] = 939965645,
-["itemLevel"] = 638.8125,
-["classId"] = 4,
-},
-},
-["elapsed"] = 450.2730000000011,
-["servertime"] = 1739221298,
-["HEALER"] = {
-["Bercitronc-Kael'thas"] = {
-["total"] = 512530627,
-["itemLevel"] = 638.4375,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 710134293,
-["itemLevel"] = 637.8125,
-["classId"] = 2,
-},
-["Giottö-Dalaran"] = {
-["total"] = 565813614,
-["itemLevel"] = 639.25,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 616653929,
-["itemLevel"] = 639.25,
-["classId"] = 5,
-},
-},
-["time"] = 1739221197,
-},
-},
-[2917] = {
-{
-["date"] = "23:35 22/09/24",
-["guild"] = "Stuck",
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 295748342,
-["itemLevel"] = 612.75,
-["classId"] = 10,
-},
-["Unote"] = {
-["total"] = 369425689,
-["itemLevel"] = 617.0625,
-["classId"] = 6,
-},
-["Kamzz"] = {
-["total"] = 308257076,
-["itemLevel"] = 612.6875,
-["classId"] = 8,
-},
-["Friidenight-Hyjal"] = {
-["total"] = 364483758,
-["itemLevel"] = 616.1875,
-["classId"] = 2,
-},
-["Tactactoc"] = {
-["total"] = 264900950,
-["itemLevel"] = 615.3125,
-["classId"] = 4,
-},
-["Surend"] = {
-["total"] = 110174034,
-["itemLevel"] = 614.3125,
-["classId"] = 6,
-},
-["Mãnia-Hyjal"] = {
-["total"] = 178560634,
-["itemLevel"] = 616.8125,
-["classId"] = 11,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 354973427,
-["itemLevel"] = 617.125,
-["classId"] = 3,
-},
-["Siskhavoc"] = {
-["total"] = 334581379,
-["itemLevel"] = 613.875,
-["classId"] = 9,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 296395529,
-["itemLevel"] = 613.875,
-["classId"] = 7,
-},
-["Villiersdh-Elune"] = {
-["total"] = 302178079,
-["itemLevel"] = 611.625,
-["classId"] = 12,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 272338541,
-["itemLevel"] = 613.75,
-["classId"] = 3,
-},
-["Pipouw-Hyjal"] = {
-["total"] = 260585471,
-["itemLevel"] = 609.5625,
-["classId"] = 10,
-},
-["Wiilycringe"] = {
-["total"] = 284421970,
-["itemLevel"] = 609.5,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 282184350,
-["itemLevel"] = 616.5625,
-["classId"] = 5,
-},
-["Shÿneur"] = {
-["total"] = 335181720,
-["itemLevel"] = 615.75,
-["classId"] = 1,
-},
-},
-["elapsed"] = 327.679999999993,
-["servertime"] = 1727040925,
-["HEALER"] = {
-["Lüiñil-Hyjal"] = {
-["total"] = 291160102,
-["itemLevel"] = 615.75,
-["classId"] = 10,
-},
-["Näystä-Ysondre"] = {
-["total"] = 321114303,
-["itemLevel"] = 610.5,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 401541897,
-["itemLevel"] = 616.75,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 277895179,
-["itemLevel"] = 610.0625,
-["classId"] = 5,
-},
-},
-["time"] = 1727040924,
-},
-{
-["DAMAGER"] = {
-["Pipouw-Hyjal"] = {
-["total"] = 313670415,
-["itemLevel"] = 629,
-["classId"] = 10,
-},
-["Unote"] = {
-["total"] = 344121596,
-["itemLevel"] = 629.25,
-["classId"] = 6,
-},
-["Levarona-TarrenMill"] = {
-["total"] = 21797479,
-["itemLevel"] = 627.75,
-["classId"] = 8,
-},
-["Kamzz"] = {
-["total"] = 332375693,
-["itemLevel"] = 631.25,
-["classId"] = 8,
-},
-["Rewmor"] = {
-["total"] = 284488558,
-["itemLevel"] = 624.1875,
-["classId"] = 6,
-},
-["Surend"] = {
-["total"] = 131648958,
-["itemLevel"] = 629.625,
-["classId"] = 6,
-},
-["Mãnia-Hyjal"] = {
-["total"] = 147957805,
-["itemLevel"] = 629.9375,
-["classId"] = 11,
-},
-["Aigled-Hyjal"] = {
-["total"] = 352161835,
-["itemLevel"] = 627.8125,
-["classId"] = 12,
-},
-["Siskhavoc"] = {
-["total"] = 289956788,
-["itemLevel"] = 629.25,
-["classId"] = 9,
-},
-["Satyrerogue-Hyjal"] = {
-["total"] = 357485041,
-["itemLevel"] = 627.875,
-["classId"] = 4,
-},
-["Villiersdh-Elune"] = {
-["total"] = 338109575,
-["itemLevel"] = 628.0625,
-["classId"] = 12,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 261379369,
-["itemLevel"] = 629.0625,
-["classId"] = 3,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 256310274,
-["itemLevel"] = 621.75,
-["classId"] = 13,
-},
-["Friidenight-Hyjal"] = {
-["total"] = 298002102,
-["itemLevel"] = 629.9375,
-["classId"] = 2,
-},
-["Mynute"] = {
-["total"] = 328424074,
-["itemLevel"] = 628.8125,
-["classId"] = 5,
-},
-["Shÿneur"] = {
-["total"] = 293813075,
-["itemLevel"] = 629.875,
-["classId"] = 1,
-},
-},
-["time"] = 1729713214,
-["date"] = "21:53 23/10/24",
-["elapsed"] = 285.6039999999994,
-["servertime"] = 1729713244,
-["HEALER"] = {
-["Naystà"] = {
-["total"] = 248987733,
-["itemLevel"] = 626.8125,
-["classId"] = 7,
-},
-["Katsaku"] = {
-["total"] = 302689275,
-["itemLevel"] = 630.125,
-["classId"] = 2,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 319376856,
-["itemLevel"] = 626.5,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 20563012,
-["itemLevel"] = 631.6875,
-["classId"] = 5,
-},
-},
-["guild"] = "Stuck",
-},
-{
-["date"] = "21:02 22/01/25",
-["guild"] = "Stuck",
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 278572761,
-["itemLevel"] = 637.8125,
-["classId"] = 10,
-},
-["Unote"] = {
-["total"] = 292981761,
-["itemLevel"] = 637.4375,
-["classId"] = 6,
-},
-["Phee"] = {
-["total"] = 238590124,
-["itemLevel"] = 635.375,
-["classId"] = 11,
-},
-["Villiersham-Elune"] = {
-["total"] = 240775137,
-["itemLevel"] = 628.75,
-["classId"] = 7,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 281032449,
-["itemLevel"] = 637.8125,
-["classId"] = 3,
-},
-["Surend"] = {
-["total"] = 149390228,
-["itemLevel"] = 638.625,
-["classId"] = 6,
-},
-["Aigled-Hyjal"] = {
-["total"] = 308392116,
-["itemLevel"] = 636.375,
-["classId"] = 12,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 164311870,
-["itemLevel"] = 627.625,
-["classId"] = 2,
-},
-["Kamz"] = {
-["total"] = 240435650,
-["itemLevel"] = 625.375,
-["classId"] = 2,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 126434310,
-["itemLevel"] = 636.5625,
-["classId"] = 2,
-},
-["Tactactoc"] = {
-["total"] = 322876916,
-["itemLevel"] = 639.625,
-["classId"] = 4,
-},
-["Blodreina-Krasus"] = {
-["total"] = 333998142,
-["itemLevel"] = 637,
-["classId"] = 4,
-},
-["Shÿneur"] = {
-["total"] = 250178761,
-["itemLevel"] = 637.375,
-["classId"] = 1,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 311522490,
-["itemLevel"] = 637.625,
-["classId"] = 3,
-},
-["Mynute"] = {
-["total"] = 258775594,
-["itemLevel"] = 638,
-["classId"] = 5,
-},
-["Pipouw-Hyjal"] = {
-["total"] = 228859936,
-["itemLevel"] = 636,
-["classId"] = 10,
-},
-},
-["elapsed"] = 173.2080000000005,
-["servertime"] = 1737576129,
-["HEALER"] = {
-["Naystà"] = {
-["total"] = 214366234,
-["itemLevel"] = 639.0625,
-["classId"] = 7,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 113350547,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 172202843,
-["itemLevel"] = 637.8125,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 163525605,
-["itemLevel"] = 638.0625,
-["classId"] = 5,
-},
-},
-["time"] = 1737576128,
-},
-{
-["DAMAGER"] = {
-["Ambuhunt-Hyjal"] = {
-["total"] = 232046833,
-["itemLevel"] = 638,
-["classId"] = 3,
-},
-["Shÿneur"] = {
-["total"] = 242295958,
-["itemLevel"] = 638.8125,
-["classId"] = 1,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 154714033,
-["itemLevel"] = 638.1875,
-["classId"] = 2,
-},
-["Villiersham-Elune"] = {
-["total"] = 214861006,
-["itemLevel"] = 631.3125,
-["classId"] = 7,
-},
-["Fifka"] = {
-["total"] = 267874477,
-["itemLevel"] = 637.25,
-["classId"] = 11,
-},
-["Surend"] = {
-["total"] = 163681037,
-["itemLevel"] = 638.8125,
-["classId"] = 6,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 257337235,
-["itemLevel"] = 637.8125,
-["classId"] = 13,
-},
-["Aigled-Hyjal"] = {
-["total"] = 278599325,
-["itemLevel"] = 637.375,
-["classId"] = 12,
-},
-["Hastyan-Ysondre"] = {
-["total"] = 249728568,
-["itemLevel"] = 634.125,
-["classId"] = 8,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 264933415,
-["itemLevel"] = 638,
-["classId"] = 7,
-},
-["Pheeon"] = {
-["total"] = 245401028,
-["itemLevel"] = 638.1875,
-["classId"] = 1,
-},
-["Blodreina-Krasus"] = {
-["total"] = 341408171,
-["itemLevel"] = 637,
-["classId"] = 4,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 228596224,
-["itemLevel"] = 630.5625,
-["classId"] = 2,
-},
-["Wiilydenze"] = {
-["total"] = 213162221,
-["itemLevel"] = 626.375,
-["classId"] = 9,
-},
-["Tactactoc"] = {
-["total"] = 253514611,
-["itemLevel"] = 638.8125,
-["classId"] = 4,
-},
-["Unote"] = {
-["total"] = 241209385,
-["itemLevel"] = 637.375,
-["classId"] = 6,
-},
-},
-["time"] = 1738180479,
-["date"] = "20:54 29/01/25",
-["elapsed"] = 156.3790000000008,
-["servertime"] = 1738180569,
-["HEALER"] = {
-["Kamz"] = {
-["total"] = 167147026,
-["itemLevel"] = 631,
-["classId"] = 2,
-},
-["Nifix"] = {
-["total"] = 159009918,
-["itemLevel"] = 632.9375,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 128246836,
-["itemLevel"] = 639.25,
-["classId"] = 5,
-},
-},
-["guild"] = "Stuck",
-},
-},
-[2902] = {
-{
-["date"] = "21:22 22/09/24",
-["guild"] = "Stuck",
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 473124781,
-["itemLevel"] = 612.75,
-["classId"] = 10,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 407757612,
-["itemLevel"] = 613.75,
-["classId"] = 3,
-},
-["Friidenight-Hyjal"] = {
-["total"] = 573017089,
-["itemLevel"] = 616.1875,
-["classId"] = 2,
-},
-["Kamzz"] = {
-["total"] = 622331794,
-["itemLevel"] = 612.6875,
-["classId"] = 8,
-},
-["Surend"] = {
-["total"] = 280265835,
-["itemLevel"] = 614.3125,
-["classId"] = 6,
-},
-["Tactactoc"] = {
-["total"] = 343394433,
-["itemLevel"] = 615.875,
-["classId"] = 4,
-},
-["Mãnia-Hyjal"] = {
-["total"] = 277983033,
-["itemLevel"] = 617.25,
-["classId"] = 11,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 572159002,
-["itemLevel"] = 617.125,
-["classId"] = 3,
-},
-["Siskhavoc"] = {
-["total"] = 494737141,
-["itemLevel"] = 612.8125,
-["classId"] = 9,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 428270116,
-["itemLevel"] = 613.875,
-["classId"] = 7,
-},
-["Villiersdh-Elune"] = {
-["total"] = 649435067,
-["itemLevel"] = 610.5625,
-["classId"] = 12,
-},
-["Pipouw-Hyjal"] = {
-["total"] = 392323587,
-["itemLevel"] = 609.5625,
-["classId"] = 10,
-},
-["Shÿneur"] = {
-["total"] = 503871653,
-["itemLevel"] = 615.75,
-["classId"] = 1,
-},
-["Wiilycringe"] = {
-["total"] = 588303506,
-["itemLevel"] = 609.5,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 495206738,
-["itemLevel"] = 616.5625,
-["classId"] = 5,
-},
-["Unote"] = {
-["total"] = 1021388597,
-["itemLevel"] = 617.0625,
-["classId"] = 6,
-},
-},
-["elapsed"] = 548.4469999999856,
-["servertime"] = 1727032967,
-["HEALER"] = {
-["Lüiñil-Hyjal"] = {
-["total"] = 501165042,
-["itemLevel"] = 615.75,
-["classId"] = 10,
-},
-["Näystä-Ysondre"] = {
-["total"] = 569621083,
-["itemLevel"] = 610.5,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 800614550,
-["itemLevel"] = 616.75,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 617180762,
-["itemLevel"] = 610.0625,
-["classId"] = 5,
-},
-},
-["time"] = 1727032966,
-},
-{
-["DAMAGER"] = {
-["Pipouw-Hyjal"] = {
-["total"] = 155482745,
-["itemLevel"] = 629,
-["classId"] = 10,
-},
-["Unote"] = {
-["total"] = 576080867,
-["itemLevel"] = 628.4375,
-["classId"] = 6,
-},
-["Levarona-TarrenMill"] = {
-["total"] = 609700318,
-["itemLevel"] = 627.75,
-["classId"] = 8,
-},
-["Kamzz"] = {
-["total"] = 798765262,
-["itemLevel"] = 631.25,
-["classId"] = 8,
-},
-["Rewmor"] = {
-["total"] = 734353042,
-["itemLevel"] = 624.1875,
-["classId"] = 6,
-},
-["Surend"] = {
-["total"] = 258356099,
-["itemLevel"] = 629.625,
-["classId"] = 6,
-},
-["Mãnia-Hyjal"] = {
-["total"] = 317226423,
-["itemLevel"] = 629.9375,
-["classId"] = 11,
-},
-["Aigled-Hyjal"] = {
-["total"] = 814685451,
-["itemLevel"] = 627.8125,
-["classId"] = 12,
-},
-["Siskhavoc"] = {
-["total"] = 485154372,
-["itemLevel"] = 629,
-["classId"] = 9,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 468317213,
-["itemLevel"] = 629.375,
-["classId"] = 7,
-},
-["Pheeon"] = {
-["total"] = 442833814,
-["itemLevel"] = 627.5625,
-["classId"] = 1,
-},
-["Tactactoc"] = {
-["total"] = 463808016,
-["itemLevel"] = 627.25,
-["classId"] = 4,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 476057850,
-["itemLevel"] = 621.75,
-["classId"] = 13,
-},
-["Villiersdh-Elune"] = {
-["total"] = 678893617,
-["itemLevel"] = 628.0625,
-["classId"] = 12,
-},
-["Mynute"] = {
-["total"] = 663979855,
-["itemLevel"] = 628.8125,
-["classId"] = 5,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 107614917,
-["itemLevel"] = 628.8125,
-["classId"] = 3,
-},
-},
-["time"] = 1729712330,
-["date"] = "21:38 23/10/24",
-["elapsed"] = 494.1749999999993,
-["servertime"] = 1729712360,
-["HEALER"] = {
-["Xerdrake"] = {
-["total"] = 578144586,
-["itemLevel"] = 630,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 566734507,
-["itemLevel"] = 630.125,
-["classId"] = 2,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 438216236,
-["itemLevel"] = 626.5,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 450183824,
-["itemLevel"] = 631.6875,
-["classId"] = 5,
-},
-},
-["guild"] = "Stuck",
-},
-{
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 426620260,
-["itemLevel"] = 629.625,
-["classId"] = 10,
-},
-["Unote"] = {
-["total"] = 381895196,
-["itemLevel"] = 631.0625,
-["classId"] = 6,
-},
-["Levarona-TarrenMill"] = {
-["total"] = 470798541,
-["itemLevel"] = 629.8125,
-["classId"] = 8,
-},
-["Raiizy-Hyjal"] = {
-["total"] = 493492893,
-["itemLevel"] = 630,
-["classId"] = 3,
-},
-["Rewmor"] = {
-["total"] = 436977469,
-["itemLevel"] = 624.1875,
-["classId"] = 6,
-},
-["Surend"] = {
-["total"] = 226606594,
-["itemLevel"] = 631.875,
-["classId"] = 6,
-},
-["Mãnia-Hyjal"] = {
-["total"] = 182790999,
-["itemLevel"] = 630.375,
-["classId"] = 11,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 513467223,
-["itemLevel"] = 629.625,
-["classId"] = 3,
-},
-["Satyrerogue-Hyjal"] = {
-["total"] = 374964860,
-["itemLevel"] = 628.625,
-["classId"] = 4,
-},
-["Villiersdh-Elune"] = {
-["total"] = 472607239,
-["itemLevel"] = 628.3125,
-["classId"] = 12,
-},
-["Pheeon"] = {
-["total"] = 501684826,
-["itemLevel"] = 630.4375,
-["classId"] = 1,
-},
-["Shÿneur"] = {
-["total"] = 455114189,
-["itemLevel"] = 630.875,
-["classId"] = 1,
-},
-["Tactactoc"] = {
-["total"] = 324510292,
-["itemLevel"] = 628.5,
-["classId"] = 4,
-},
-["Wiilycringe"] = {
-["total"] = 534482084,
-["itemLevel"] = 631.1875,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 462552306,
-["itemLevel"] = 630.3125,
-["classId"] = 5,
-},
-["Aigled-Hyjal"] = {
-["total"] = 540785185,
-["itemLevel"] = 629.875,
-["classId"] = 12,
-},
-},
-["time"] = 1730320861,
-["date"] = "21:41 30/10/24",
-["elapsed"] = 380.8279999999941,
-["servertime"] = 1730320862,
-["HEALER"] = {
-["Naystà"] = {
-["total"] = 462592622,
-["itemLevel"] = 627.8125,
-["classId"] = 7,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 394517222,
-["itemLevel"] = 629,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 397070831,
-["itemLevel"] = 631.5625,
-["classId"] = 2,
-},
-["Xerdrake"] = {
-["total"] = 511626373,
-["itemLevel"] = 630.8125,
-["classId"] = 13,
-},
-},
-["guild"] = "Stuck",
-},
-{
-["date"] = "20:51 22/01/25",
-["guild"] = "Stuck",
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 362857150,
-["itemLevel"] = 637.8125,
-["classId"] = 10,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 378661066,
-["itemLevel"] = 637.8125,
-["classId"] = 3,
-},
-["Phee"] = {
-["total"] = 393459783,
-["itemLevel"] = 635.375,
-["classId"] = 11,
-},
-["Villiersham-Elune"] = {
-["total"] = 305066496,
-["itemLevel"] = 628.2666666666667,
-["classId"] = 7,
-},
-["Surend"] = {
-["total"] = 205411957,
-["itemLevel"] = 638.625,
-["classId"] = 6,
-},
-["Tactactoc"] = {
-["total"] = 386845775,
-["itemLevel"] = 639.625,
-["classId"] = 4,
-},
-["Shÿneur"] = {
-["total"] = 361003497,
-["itemLevel"] = 637.375,
-["classId"] = 1,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 212574307,
-["itemLevel"] = 627.625,
-["classId"] = 2,
-},
-["Kamz"] = {
-["total"] = 368227141,
-["itemLevel"] = 625.375,
-["classId"] = 2,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 234498948,
-["itemLevel"] = 636.5625,
-["classId"] = 2,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 487057412,
-["itemLevel"] = 637.625,
-["classId"] = 3,
-},
-["Aigled-Hyjal"] = {
-["total"] = 367113996,
-["itemLevel"] = 636.375,
-["classId"] = 12,
-},
-["Unote"] = {
-["total"] = 439309883,
-["itemLevel"] = 637.4375,
-["classId"] = 6,
-},
-["Blodreina-Krasus"] = {
-["total"] = 341245165,
-["itemLevel"] = 638.8125,
-["classId"] = 4,
-},
-["Mynute"] = {
-["total"] = 326556294,
-["itemLevel"] = 638.1333333333333,
-["classId"] = 5,
-},
-["Pipouw-Hyjal"] = {
-["total"] = 377414814,
-["itemLevel"] = 636,
-["classId"] = 10,
-},
-},
-["elapsed"] = 256.976999999999,
-["servertime"] = 1737575489,
-["HEALER"] = {
-["Naystà"] = {
-["total"] = 298738846,
-["itemLevel"] = 639.0625,
-["classId"] = 7,
-},
-["Katsaku"] = {
-["total"] = 340566608,
-["itemLevel"] = 637.8125,
-["classId"] = 2,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 241728542,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 267388555,
-["itemLevel"] = 638.0625,
-["classId"] = 5,
-},
-},
-["time"] = 1737575488,
-},
-{
-["DAMAGER"] = {
-["Blodreina-Krasus"] = {
-["total"] = 396481142,
-["itemLevel"] = 638.8125,
-["classId"] = 4,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 235603866,
-["itemLevel"] = 638.1875,
-["classId"] = 2,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 262527223,
-["itemLevel"] = 630.5625,
-["classId"] = 2,
-},
-["Villiersham-Elune"] = {
-["total"] = 381241057,
-["itemLevel"] = 631.3125,
-["classId"] = 7,
-},
-["Fifka"] = {
-["total"] = 462039372,
-["itemLevel"] = 637.25,
-["classId"] = 11,
-},
-["Surend"] = {
-["total"] = 211544307,
-["itemLevel"] = 638.8125,
-["classId"] = 6,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 415855875,
-["itemLevel"] = 637.8125,
-["classId"] = 13,
-},
-["Aigled-Hyjal"] = {
-["total"] = 431046306,
-["itemLevel"] = 637.375,
-["classId"] = 12,
-},
-["Hastyan-Ysondre"] = {
-["total"] = 304596503,
-["itemLevel"] = 634.125,
-["classId"] = 8,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 384452867,
-["itemLevel"] = 638,
-["classId"] = 7,
-},
-["Pheeon"] = {
-["total"] = 356344473,
-["itemLevel"] = 638.1875,
-["classId"] = 1,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 331608357,
-["itemLevel"] = 638,
-["classId"] = 3,
-},
-["Unote"] = {
-["total"] = 345729587,
-["itemLevel"] = 637.375,
-["classId"] = 6,
-},
-["Wiilydenze"] = {
-["total"] = 379005051,
-["itemLevel"] = 626.375,
-["classId"] = 9,
-},
-["Tactactoc"] = {
-["total"] = 336706104,
-["itemLevel"] = 638.8125,
-["classId"] = 4,
-},
-["Shÿneur"] = {
-["total"] = 366210576,
-["itemLevel"] = 638.8125,
-["classId"] = 1,
-},
-},
-["time"] = 1738179905,
-["date"] = "20:45 29/01/25",
-["elapsed"] = 251.7209999999996,
-["servertime"] = 1738179995,
-["HEALER"] = {
-["Kamz"] = {
-["total"] = 286606624,
-["itemLevel"] = 631,
-["classId"] = 2,
-},
-["Nifix"] = {
-["total"] = 287036327,
-["itemLevel"] = 632.9375,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 308714887,
-["itemLevel"] = 639.25,
-["classId"] = 5,
-},
-},
-["guild"] = "Stuck",
-},
-},
-[2820] = {
-},
-[2918] = {
-{
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 374647213,
-["itemLevel"] = 618.5625,
-["classId"] = 10,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 286100546,
-["itemLevel"] = 619.625,
-["classId"] = 3,
-},
-["Berci-Kael'thas"] = {
-["total"] = 305121726,
-["itemLevel"] = 619.4375,
-["classId"] = 11,
-},
-["Friidenight-Hyjal"] = {
-["total"] = 448680702,
-["itemLevel"] = 623.375,
-["classId"] = 2,
-},
-["Surend"] = {
-["total"] = 215395200,
-["itemLevel"] = 622.75,
-["classId"] = 6,
-},
-["Mãnia-Hyjal"] = {
-["total"] = 189885336,
-["itemLevel"] = 622.375,
-["classId"] = 11,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 353966791,
-["itemLevel"] = 622.25,
-["classId"] = 3,
-},
-["Siskhavoc"] = {
-["total"] = 374338614,
-["itemLevel"] = 623.125,
-["classId"] = 9,
-},
-["Unote"] = {
-["total"] = 331658091,
-["itemLevel"] = 621.9375,
-["classId"] = 6,
-},
-["Pheeon"] = {
-["total"] = 464845956,
-["itemLevel"] = 619.5,
-["classId"] = 1,
-},
-["Kamzz"] = {
-["total"] = 446010522,
-["itemLevel"] = 622.125,
-["classId"] = 8,
-},
-["Shÿneur"] = {
-["total"] = 449455166,
-["itemLevel"] = 622.375,
-["classId"] = 1,
-},
-["Wiilycringe"] = {
-["total"] = 392018546,
-["itemLevel"] = 620.8125,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 388425214,
-["itemLevel"] = 622.75,
-["classId"] = 5,
-},
-["Tactactoc"] = {
-["total"] = 401164711,
-["itemLevel"] = 621.375,
-["classId"] = 4,
-},
-},
-["time"] = 1727722875,
-["date"] = "21:01 30/09/24",
-["elapsed"] = 378.070000000007,
-["servertime"] = 1727722876,
-["HEALER"] = {
-["Lüiñil-Hyjal"] = {
-["total"] = 321362406,
-["itemLevel"] = 619.0625,
-["classId"] = 10,
-},
-["Xerdrake"] = {
-["total"] = 699297624,
-["itemLevel"] = 620.25,
-["classId"] = 13,
-},
-["Naystà"] = {
-["total"] = 456538164,
-["itemLevel"] = 616.625,
-["classId"] = 7,
-},
-["Katsaku"] = {
-["total"] = 520867961,
-["itemLevel"] = 616.375,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 549234194,
-["itemLevel"] = 621.8125,
-["classId"] = 5,
-},
-},
-["guild"] = "Stuck",
-},
-{
-["DAMAGER"] = {
-["Pipouw-Hyjal"] = {
-["total"] = 385828437,
-["itemLevel"] = 626.4375,
-["classId"] = 10,
-},
-["Shÿneur"] = {
-["total"] = 497944943,
-["itemLevel"] = 628.4375,
-["classId"] = 1,
-},
-["Raiizy-Hyjal"] = {
-["total"] = 265628448,
-["itemLevel"] = 626.5,
-["classId"] = 3,
-},
-["Surend"] = {
-["total"] = 200825516,
-["itemLevel"] = 628.1875,
-["classId"] = 6,
-},
-["Tactactoc"] = {
-["total"] = 392835213,
-["itemLevel"] = 626.25,
-["classId"] = 4,
-},
-["Mãnia-Hyjal"] = {
-["total"] = 192435797,
-["itemLevel"] = 628.3125,
-["classId"] = 11,
-},
-["Aigled-Hyjal"] = {
-["total"] = 383378005,
-["itemLevel"] = 626.375,
-["classId"] = 12,
-},
-["Unote"] = {
-["total"] = 372404587,
-["itemLevel"] = 627.8125,
-["classId"] = 6,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 342023753,
-["itemLevel"] = 627.5,
-["classId"] = 3,
-},
-["Villiersdh-Elune"] = {
-["total"] = 413452075,
-["itemLevel"] = 624.75,
-["classId"] = 12,
-},
-["Satyrerogue-Hyjal"] = {
-["total"] = 381469028,
-["itemLevel"] = 625.5,
-["classId"] = 4,
-},
-["Kamzz"] = {
-["total"] = 381936823,
-["itemLevel"] = 628.5625,
-["classId"] = 8,
-},
-["Wiilycringe"] = {
-["total"] = 336839302,
-["itemLevel"] = 630,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 406464408,
-["itemLevel"] = 629.625,
-["classId"] = 5,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 308137154,
-["itemLevel"] = 625.8125,
-["classId"] = 3,
-},
-},
-["time"] = 1729111973,
-["date"] = "22:52 16/10/24",
-["elapsed"] = 309.5879999999888,
-["servertime"] = 1729111975,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 320342667,
-["itemLevel"] = 624.375,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 472047985,
-["itemLevel"] = 630.1875,
-["classId"] = 5,
-},
-["Naystà"] = {
-["total"] = 424518885,
-["itemLevel"] = 625.3125,
-["classId"] = 7,
-},
-["Katsaku"] = {
-["total"] = 415966834,
-["itemLevel"] = 627.8125,
-["classId"] = 2,
-},
-["Xerdrake"] = {
-["total"] = 410474847,
-["itemLevel"] = 626.9375,
-["classId"] = 13,
-},
-},
-["guild"] = "Stuck",
-},
-{
-["time"] = 1730323890,
-["guild"] = "Stuck",
-["elapsed"] = 291.9489999999933,
-["date"] = "22:31 30/10/24",
-["servertime"] = 1730323891,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 343945778,
-["itemLevel"] = 629,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 400766304,
-["itemLevel"] = 630.8125,
-["classId"] = 13,
-},
-["Naystà"] = {
-["total"] = 427153822,
-["itemLevel"] = 627.8125,
-["classId"] = 7,
-},
-["Katsaku"] = {
-["total"] = 446287120,
-["itemLevel"] = 631.5625,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 364338989,
-["itemLevel"] = 633.75,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 352592403,
-["itemLevel"] = 629.875,
-["classId"] = 10,
-},
-["Shÿneur"] = {
-["total"] = 425683660,
-["itemLevel"] = 630.875,
-["classId"] = 1,
-},
-["Levarona-TarrenMill"] = {
-["total"] = 301125671,
-["itemLevel"] = 629.8125,
-["classId"] = 8,
-},
-["Kamzz"] = {
-["total"] = 403306807,
-["itemLevel"] = 632.9375,
-["classId"] = 8,
-},
-["Surend"] = {
-["total"] = 216667150,
-["itemLevel"] = 631.875,
-["classId"] = 6,
-},
-["Mãnia-Hyjal"] = {
-["total"] = 168042972,
-["itemLevel"] = 630.375,
-["classId"] = 11,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 337888826,
-["itemLevel"] = 629.625,
-["classId"] = 3,
-},
-["Raiizy-Hyjal"] = {
-["total"] = 370254697,
-["itemLevel"] = 630,
-["classId"] = 3,
-},
-["Satyrerogue-Hyjal"] = {
-["total"] = 404794269,
-["itemLevel"] = 628.625,
-["classId"] = 4,
-},
-["Villiersdh-Elune"] = {
-["total"] = 349313337,
-["itemLevel"] = 628.3125,
-["classId"] = 12,
-},
-["Unote"] = {
-["total"] = 343081531,
-["itemLevel"] = 631.75,
-["classId"] = 6,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 288301029,
-["itemLevel"] = 625.625,
-["classId"] = 13,
-},
-["Wiilycringe"] = {
-["total"] = 355081256,
-["itemLevel"] = 631.1875,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 410970144,
-["itemLevel"] = 630.3125,
-["classId"] = 5,
-},
-["Tactactoc"] = {
-["total"] = 424050075,
-["itemLevel"] = 629.125,
-["classId"] = 4,
-},
-},
-},
-{
-["date"] = "21:37 22/01/25",
-["guild"] = "Stuck",
-["DAMAGER"] = {
-["Bearzi-Hyjal"] = {
-["total"] = 319982741,
-["itemLevel"] = 637.8125,
-["classId"] = 10,
-},
-["Unote"] = {
-["total"] = 266662402,
-["itemLevel"] = 637.4375,
-["classId"] = 6,
-},
-["Phee"] = {
-["total"] = 298874343,
-["itemLevel"] = 635.375,
-["classId"] = 11,
-},
-["Villiersham-Elune"] = {
-["total"] = 267883798,
-["itemLevel"] = 628.75,
-["classId"] = 7,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 329484474,
-["itemLevel"] = 637.8125,
-["classId"] = 3,
-},
-["Surend"] = {
-["total"] = 188722909,
-["itemLevel"] = 638.625,
-["classId"] = 6,
-},
-["Tactactoc"] = {
-["total"] = 416557414,
-["itemLevel"] = 639.625,
-["classId"] = 4,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 262242912,
-["itemLevel"] = 627.625,
-["classId"] = 2,
-},
-["Kamz"] = {
-["total"] = 326775419,
-["itemLevel"] = 625.375,
-["classId"] = 2,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 347496528,
-["itemLevel"] = 637.625,
-["classId"] = 3,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 198198672,
-["itemLevel"] = 636.5625,
-["classId"] = 2,
-},
-["Blodreina-Krasus"] = {
-["total"] = 431565932,
-["itemLevel"] = 637,
-["classId"] = 4,
-},
-["Shÿneur"] = {
-["total"] = 316106535,
-["itemLevel"] = 637.375,
-["classId"] = 1,
-},
-["Wiilycringe"] = {
-["total"] = 355409871,
-["itemLevel"] = 636.8125,
-["classId"] = 9,
-},
-["Aigled-Hyjal"] = {
-["total"] = 349537092,
-["itemLevel"] = 636.375,
-["classId"] = 12,
-},
-["Pipouw-Hyjal"] = {
-["total"] = 343366165,
-["itemLevel"] = 636,
-["classId"] = 10,
-},
-},
-["elapsed"] = 234.8050000000003,
-["servertime"] = 1737578234,
-["HEALER"] = {
-["Naystà"] = {
-["total"] = 377758131,
-["itemLevel"] = 639.0625,
-["classId"] = 7,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 308445586,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 465726138,
-["itemLevel"] = 637.8125,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 393217061,
-["itemLevel"] = 638.0625,
-["classId"] = 5,
-},
-},
-["time"] = 1737578233,
-},
-{
-["DAMAGER"] = {
-["Ambuhunt-Hyjal"] = {
-["total"] = 355138626,
-["itemLevel"] = 637.8125,
-["classId"] = 3,
-},
-["Shÿneur"] = {
-["total"] = 266724640,
-["itemLevel"] = 638.8,
-["classId"] = 1,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 216921621,
-["itemLevel"] = 638.1875,
-["classId"] = 2,
-},
-["Villiersham-Elune"] = {
-["total"] = 290421282,
-["itemLevel"] = 631.3125,
-["classId"] = 7,
-},
-["Fifka"] = {
-["total"] = 331889033,
-["itemLevel"] = 637.25,
-["classId"] = 11,
-},
-["Surend"] = {
-["total"] = 177948371,
-["itemLevel"] = 638.8125,
-["classId"] = 6,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 352997553,
-["itemLevel"] = 637.8125,
-["classId"] = 13,
-},
-["Aigled-Hyjal"] = {
-["total"] = 350352151,
-["itemLevel"] = 637.375,
-["classId"] = 12,
-},
-["Hastyan-Ysondre"] = {
-["total"] = 281377269,
-["itemLevel"] = 634.125,
-["classId"] = 8,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 283564382,
-["itemLevel"] = 638,
-["classId"] = 7,
-},
-["Pheeon"] = {
-["total"] = 390627901,
-["itemLevel"] = 638.1875,
-["classId"] = 1,
-},
-["Blodreina-Krasus"] = {
-["total"] = 437277546,
-["itemLevel"] = 637,
-["classId"] = 4,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 307488487,
-["itemLevel"] = 630.2,
-["classId"] = 2,
-},
-["Wiilydenze"] = {
-["total"] = 307905418,
-["itemLevel"] = 626.375,
-["classId"] = 9,
-},
-["Tactactoc"] = {
-["total"] = 359157972,
-["itemLevel"] = 638.8125,
-["classId"] = 4,
-},
-["Unote"] = {
-["total"] = 311498031,
-["itemLevel"] = 637.375,
-["classId"] = 6,
-},
-},
-["time"] = 1738181640,
-["date"] = "21:14 29/01/25",
-["elapsed"] = 227.0559999999987,
-["servertime"] = 1738181730,
-["HEALER"] = {
-["Kamz"] = {
-["total"] = 338612382,
-["itemLevel"] = 631,
-["classId"] = 2,
-},
-["Nifix"] = {
-["total"] = 330407817,
-["itemLevel"] = 632.9375,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 402005996,
-["itemLevel"] = 639.4666666666667,
-["classId"] = 5,
-},
-},
-["guild"] = "Stuck",
-},
-{
-["guild"] = "Stuck",
-["time"] = 1738873014,
-["elapsed"] = 233.4669999999969,
-["DAMAGER"] = {
-["Levarona-TarrenMill"] = {
-["total"] = 358094093,
-["itemLevel"] = 637,
-["classId"] = 8,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 165859162,
-["itemLevel"] = 638.1875,
-["classId"] = 2,
-},
-["Phee"] = {
-["total"] = 316034899,
-["itemLevel"] = 638.875,
-["classId"] = 11,
-},
-["Blodreina-Krasus"] = {
-["total"] = 436570371,
-["itemLevel"] = 637,
-["classId"] = 4,
-},
-["Aigled-Hyjal"] = {
-["total"] = 357763772,
-["itemLevel"] = 637.375,
-["classId"] = 12,
-},
-["Surend"] = {
-["total"] = 167036206,
-["itemLevel"] = 638.8125,
-["classId"] = 6,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 374328930,
-["itemLevel"] = 638.4375,
-["classId"] = 13,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 341940760,
-["itemLevel"] = 633.0625,
-["classId"] = 2,
-},
-["Hastyan-Ysondre"] = {
-["total"] = 239851461,
-["itemLevel"] = 635.375,
-["classId"] = 8,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 291217076,
-["itemLevel"] = 638.8125,
-["classId"] = 7,
-},
-["Unote"] = {
-["total"] = 270845050,
-["itemLevel"] = 638.8125,
-["classId"] = 6,
-},
-["Tactactoc"] = {
-["total"] = 394708004,
-["itemLevel"] = 640.1875,
-["classId"] = 4,
-},
-["Villiersham-Elune"] = {
-["total"] = 287706298,
-["itemLevel"] = 635,
-["classId"] = 7,
-},
-["Wiilydenze"] = {
-["total"] = 321976715,
-["itemLevel"] = 627,
-["classId"] = 9,
-},
-["Mynute"] = {
-["total"] = 349385334,
-["itemLevel"] = 638,
-["classId"] = 5,
-},
-["Shÿneur"] = {
-["total"] = 299360879,
-["itemLevel"] = 638.8125,
-["classId"] = 1,
-},
-},
-["servertime"] = 1738873112,
-["HEALER"] = {
-["Kamz"] = {
-["total"] = 321536692,
-["itemLevel"] = 635.125,
-["classId"] = 2,
-},
-["Nifix"] = {
-["total"] = 320013181,
-["itemLevel"] = 634.625,
-["classId"] = 7,
-},
-["Giottö-Dalaran"] = {
-["total"] = 419720846,
-["itemLevel"] = 639.25,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 301446501,
-["itemLevel"] = 638.8125,
-["classId"] = 5,
-},
-},
-["date"] = "21:16 06/02/25",
+["date"] = "23:18 19/03/25",
 },
 },
 [2919] = {
 {
+["date"] = "21:42 17/10/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 883512743,
@@ -4547,8 +1549,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1729194132,
-["date"] = "21:42 17/10/24",
 ["elapsed"] = 525.1600000000035,
 ["servertime"] = 1729194132,
 ["HEALER"] = {
@@ -4568,31 +1568,12 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1729194132,
 },
 {
-["time"] = 1731019254,
 ["guild"] = "Stuck",
+["time"] = 1731019254,
 ["elapsed"] = 509.4800000000032,
-["date"] = "23:40 07/11/24",
-["servertime"] = 1731019294,
-["HEALER"] = {
-["Naystà"] = {
-["total"] = 912002573,
-["itemLevel"] = 630.3125,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 958752176,
-["itemLevel"] = 634.125,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 957276775,
-["itemLevel"] = 632.875,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 863343275,
@@ -4680,10 +1661,27 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
+["servertime"] = 1731019294,
+["HEALER"] = {
+["Naystà"] = {
+["total"] = 912002573,
+["itemLevel"] = 630.3125,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 958752176,
+["itemLevel"] = 634.125,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 957276775,
+["itemLevel"] = 632.875,
+["classId"] = 13,
+},
+},
+["date"] = "23:40 07/11/24",
 },
 {
-["date"] = "22:23 22/01/25",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Pipouw-Hyjal"] = {
 ["total"] = 721334091,
@@ -4705,25 +1703,25 @@ DetailsDataStorage = {
 ["itemLevel"] = 637,
 ["classId"] = 4,
 },
-["Tactactoc"] = {
-["total"] = 945744964,
-["itemLevel"] = 639.625,
-["classId"] = 4,
-},
 ["Surend"] = {
 ["total"] = 419676291,
 ["itemLevel"] = 638.625,
 ["classId"] = 6,
+},
+["Tactactoc"] = {
+["total"] = 945744964,
+["itemLevel"] = 639.625,
+["classId"] = 4,
 },
 ["Bercitronc-Kael'thas"] = {
 ["total"] = 896553968,
 ["itemLevel"] = 636.4375,
 ["classId"] = 13,
 },
-["Sømbrepas-Hyjal"] = {
-["total"] = 986264361,
-["itemLevel"] = 637.625,
-["classId"] = 3,
+["Aigled-Hyjal"] = {
+["total"] = 1123009817,
+["itemLevel"] = 637.1875,
+["classId"] = 12,
 },
 ["Ambuhunt-Hyjal"] = {
 ["total"] = 759440694,
@@ -4760,12 +1758,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 638,
 ["classId"] = 5,
 },
-["Aigled-Hyjal"] = {
-["total"] = 1123009817,
-["itemLevel"] = 637.1875,
-["classId"] = 12,
+["Sømbrepas-Hyjal"] = {
+["total"] = 986264361,
+["itemLevel"] = 637.625,
+["classId"] = 3,
 },
 },
+["time"] = 1737580999,
+["date"] = "22:23 22/01/25",
 ["elapsed"] = 393.226999999999,
 ["servertime"] = 1737581000,
 ["HEALER"] = {
@@ -4790,19 +1790,21 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1737580999,
+["guild"] = "Stuck",
 },
 {
+["date"] = "21:42 29/01/25",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
-["Surend"] = {
-["total"] = 409621955,
-["itemLevel"] = 638.8125,
-["classId"] = 6,
+["Tactactoc"] = {
+["total"] = 886509801,
+["itemLevel"] = 639.625,
+["classId"] = 4,
 },
-["Unote"] = {
-["total"] = 909412007,
+["Mañìa-Hyjal"] = {
+["total"] = 464036261,
 ["itemLevel"] = 638.1875,
-["classId"] = 6,
+["classId"] = 2,
 },
 ["Levarona-TarrenMill"] = {
 ["total"] = 1080086362,
@@ -4819,10 +1821,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 637.25,
 ["classId"] = 11,
 },
-["Tactactoc"] = {
-["total"] = 886509801,
-["itemLevel"] = 639.625,
-["classId"] = 4,
+["Surend"] = {
+["total"] = 409621955,
+["itemLevel"] = 638.8125,
+["classId"] = 6,
 },
 ["Bercitronc-Kael'thas"] = {
 ["total"] = 951412834,
@@ -4869,14 +1871,12 @@ DetailsDataStorage = {
 ["itemLevel"] = 638,
 ["classId"] = 5,
 },
-["Mañìa-Hyjal"] = {
-["total"] = 464036261,
+["Unote"] = {
+["total"] = 909412007,
 ["itemLevel"] = 638.1875,
-["classId"] = 2,
+["classId"] = 6,
 },
 },
-["time"] = 1738183329,
-["date"] = "21:42 29/01/25",
 ["elapsed"] = 392.4320000000007,
 ["servertime"] = 1738183419,
 ["HEALER"] = {
@@ -4896,27 +1896,51 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1738183329,
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1738875470,
+["guild"] = "Stuck",
 ["elapsed"] = 436.6809999999969,
-["DAMAGER"] = {
-["Levarona-TarrenMill"] = {
-["total"] = 1028074754,
-["itemLevel"] = 637,
-["classId"] = 8,
-},
-["Mañìa-Hyjal"] = {
-["total"] = 512740677,
-["itemLevel"] = 638.1875,
+["date"] = "21:57 06/02/25",
+["servertime"] = 1738875568,
+["HEALER"] = {
+["Kamz"] = {
+["total"] = 746974140,
+["itemLevel"] = 635.5625,
 ["classId"] = 2,
 },
+["Nifix"] = {
+["total"] = 657835121,
+["itemLevel"] = 634.625,
+["classId"] = 7,
+},
+["Giottö-Dalaran"] = {
+["total"] = 764642903,
+["itemLevel"] = 639.25,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 590359070,
+["itemLevel"] = 638.8125,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
 ["Phee"] = {
 ["total"] = 840347845,
 ["itemLevel"] = 638.875,
 ["classId"] = 11,
+},
+["Shÿneur"] = {
+["total"] = 1082977059,
+["itemLevel"] = 638.8125,
+["classId"] = 1,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 1028074754,
+["itemLevel"] = 637,
+["classId"] = 8,
 },
 ["Blodreina-Krasus"] = {
 ["total"] = 1197907389,
@@ -4978,37 +2002,3013 @@ DetailsDataStorage = {
 ["itemLevel"] = 638,
 ["classId"] = 5,
 },
-["Shÿneur"] = {
-["total"] = 1082977059,
-["itemLevel"] = 638.8125,
-["classId"] = 1,
-},
-},
-["servertime"] = 1738875568,
-["HEALER"] = {
-["Kamz"] = {
-["total"] = 746974140,
-["itemLevel"] = 635.5625,
+["Mañìa-Hyjal"] = {
+["total"] = 512740677,
+["itemLevel"] = 638.1875,
 ["classId"] = 2,
 },
+},
+},
+},
+[3011] = {
+{
+["time"] = 1742500907,
+["guild"] = "Stuck",
+["elapsed"] = 396.9480000000003,
+["date"] = "21:01 20/03/25",
+["servertime"] = 1742501033,
+["HEALER"] = {
 ["Nifix"] = {
-["total"] = 657835121,
-["itemLevel"] = 634.625,
-["classId"] = 7,
+["total"] = 1014283499,
+["itemLevel"] = 658.875,
+["classId"] = 11,
 },
 ["Giottö-Dalaran"] = {
-["total"] = 764642903,
+["total"] = 1104413037,
+["itemLevel"] = 663.25,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 1084909208,
+["itemLevel"] = 656.75,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Kareitha-Hyjal"] = {
+["total"] = 565228877,
+["itemLevel"] = 658.5,
+["classId"] = 8,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 632337285,
+["itemLevel"] = 660.9375,
+["classId"] = 3,
+},
+["Blodreina-Krasus"] = {
+["total"] = 582063176,
+["itemLevel"] = 656.75,
+["classId"] = 4,
+},
+["Lysð-Hyjal"] = {
+["total"] = 349560458,
+["itemLevel"] = 663.125,
+["classId"] = 6,
+},
+["Paleastea"] = {
+["total"] = 193440973,
+["itemLevel"] = 658.3125,
+["classId"] = 2,
+},
+["Wiilycringe"] = {
+["total"] = 614904153,
+["itemLevel"] = 659.9375,
+["classId"] = 9,
+},
+["Salern-Ysondre"] = {
+["total"] = 616251743,
+["itemLevel"] = 662.375,
+["classId"] = 11,
+},
+["Shÿneur"] = {
+["total"] = 676588623,
+["itemLevel"] = 661.9375,
+["classId"] = 1,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 716543350,
+["itemLevel"] = 661.5,
+["classId"] = 3,
+},
+["Kamz"] = {
+["total"] = 734305421,
+["itemLevel"] = 657.5,
+["classId"] = 10,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 612296922,
+["itemLevel"] = 658.5625,
+["classId"] = 13,
+},
+["Pheedifu"] = {
+["total"] = 324370468,
+["itemLevel"] = 661.4375,
+["classId"] = 12,
+},
+["Aigled-Hyjal"] = {
+["total"] = 800588669,
+["itemLevel"] = 662.25,
+["classId"] = 12,
+},
+["Friidenight-Hyjal"] = {
+["total"] = 748798965,
+["itemLevel"] = 662.1875,
+["classId"] = 2,
+},
+["Villiersham-Elune"] = {
+["total"] = 759431489,
+["itemLevel"] = 660.625,
+["classId"] = 7,
+},
+["Mynute"] = {
+["total"] = 820658212,
+["itemLevel"] = 662.5,
+["classId"] = 5,
+},
+["Unote"] = {
+["total"] = 799343971,
+["itemLevel"] = 662.9375,
+["classId"] = 6,
+},
+},
+},
+},
+[2920] = {
+{
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 336450653,
+["itemLevel"] = 637.8125,
+["classId"] = 10,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 276651318,
+["itemLevel"] = 636.5625,
+["classId"] = 2,
+},
+["Phee"] = {
+["total"] = 439034531,
+["itemLevel"] = 635.375,
+["classId"] = 11,
+},
+["Blodreina-Krasus"] = {
+["total"] = 568295975,
+["itemLevel"] = 637,
+["classId"] = 4,
+},
+["Shÿneur"] = {
+["total"] = 470255001,
+["itemLevel"] = 639,
+["classId"] = 1,
+},
+["Surend"] = {
+["total"] = 295408688,
+["itemLevel"] = 638.625,
+["classId"] = 6,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 476248860,
+["itemLevel"] = 636.4375,
+["classId"] = 13,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 602256211,
+["itemLevel"] = 637.625,
+["classId"] = 3,
+},
+["Kamzz"] = {
+["total"] = 523603431,
+["itemLevel"] = 637,
+["classId"] = 8,
+},
+["Aigled-Hyjal"] = {
+["total"] = 555510606,
+["itemLevel"] = 637.1875,
+["classId"] = 12,
+},
+["Unote"] = {
+["total"] = 233456601,
+["itemLevel"] = 637.625,
+["classId"] = 6,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 563093715,
+["itemLevel"] = 637.8125,
+["classId"] = 3,
+},
+["Tactactoc"] = {
+["total"] = 261750690,
+["itemLevel"] = 638.8125,
+["classId"] = 4,
+},
+["Wiilycringe"] = {
+["total"] = 527643974,
+["itemLevel"] = 636.8125,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 129612242,
+["itemLevel"] = 638,
+["classId"] = 5,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 353303292,
+["itemLevel"] = 636.8125,
+["classId"] = 8,
+},
+},
+["time"] = 1737583495,
+["date"] = "23:04 22/01/25",
+["elapsed"] = 358.3820000000014,
+["servertime"] = 1737583496,
+["HEALER"] = {
+["Naystà"] = {
+["total"] = 749040244,
+["itemLevel"] = 639.0625,
+["classId"] = 7,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 505346078,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 718689799,
+["itemLevel"] = 637.8125,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 760068817,
+["itemLevel"] = 638.0625,
+["classId"] = 5,
+},
+},
+["guild"] = "Stuck",
+},
+{
+["date"] = "22:20 29/01/25",
+["guild"] = "Stuck",
+["DAMAGER"] = {
+["Ambuhunt-Hyjal"] = {
+["total"] = 390893968,
+["itemLevel"] = 637.8125,
+["classId"] = 3,
+},
+["Unote"] = {
+["total"] = 523075784,
+["itemLevel"] = 638.1875,
+["classId"] = 6,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 489790833,
+["itemLevel"] = 637,
+["classId"] = 8,
+},
+["Friidenight-Hyjal"] = {
+["total"] = 626672346,
+["itemLevel"] = 639,
+["classId"] = 2,
+},
+["Fifka"] = {
+["total"] = 504473076,
+["itemLevel"] = 637.25,
+["classId"] = 11,
+},
+["Surend"] = {
+["total"] = 260621042,
+["itemLevel"] = 638.8125,
+["classId"] = 6,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 374352192,
+["itemLevel"] = 637.8125,
+["classId"] = 13,
+},
+["Aigled-Hyjal"] = {
+["total"] = 525065213,
+["itemLevel"] = 637.375,
+["classId"] = 12,
+},
+["Hastyan-Ysondre"] = {
+["total"] = 227704530,
+["itemLevel"] = 634.125,
+["classId"] = 8,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 417409660,
+["itemLevel"] = 638,
+["classId"] = 7,
+},
+["Pheeon"] = {
+["total"] = 463188073,
+["itemLevel"] = 638.1875,
+["classId"] = 1,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 297115683,
+["itemLevel"] = 638.1875,
+["classId"] = 2,
+},
+["Blodreina-Krasus"] = {
+["total"] = 582751272,
+["itemLevel"] = 637,
+["classId"] = 4,
+},
+["Wiilycringe"] = {
+["total"] = 205978007,
+["itemLevel"] = 637.8125,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 347329233,
+["itemLevel"] = 638,
+["classId"] = 5,
+},
+["Kamzz"] = {
+["total"] = 381868739,
+["itemLevel"] = 637,
+["classId"] = 8,
+},
+},
+["elapsed"] = 354.0660000000007,
+["servertime"] = 1738185741,
+["HEALER"] = {
+["Nifix"] = {
+["total"] = 497085433,
+["itemLevel"] = 633.375,
+["classId"] = 7,
+},
+["Katsaku"] = {
+["total"] = 709979647,
+["itemLevel"] = 637.8125,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 658791449,
+["itemLevel"] = 639.25,
+["classId"] = 5,
+},
+},
+["time"] = 1738185651,
+},
+{
+["time"] = 1738880342,
+["guild"] = "Stuck",
+["elapsed"] = 380.7000000000044,
+["date"] = "23:19 06/02/25",
+["servertime"] = 1738880440,
+["HEALER"] = {
+["Kamz"] = {
+["total"] = 679265097,
+["itemLevel"] = 636.1875,
+["classId"] = 2,
+},
+["Giottö-Dalaran"] = {
+["total"] = 632335849,
 ["itemLevel"] = 639.25,
 ["classId"] = 7,
 },
 ["Blodheal"] = {
-["total"] = 590359070,
+["total"] = 682620131,
+["itemLevel"] = 639.25,
+["classId"] = 5,
+},
+["Nifix"] = {
+["total"] = 570379363,
+["itemLevel"] = 634.625,
+["classId"] = 7,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 488035379,
+["itemLevel"] = 637,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Shÿneur"] = {
+["total"] = 260669716,
+["itemLevel"] = 638.8125,
+["classId"] = 1,
+},
+["Phee"] = {
+["total"] = 500207613,
+["itemLevel"] = 639.0625,
+["classId"] = 11,
+},
+["Blodreina-Krasus"] = {
+["total"] = 658412069,
+["itemLevel"] = 636.1875,
+["classId"] = 4,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 249157832,
+["itemLevel"] = 638.1875,
+["classId"] = 2,
+},
+["Tactactoc"] = {
+["total"] = 371709386,
+["itemLevel"] = 639,
+["classId"] = 4,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 551997351,
+["itemLevel"] = 633.0625,
+["classId"] = 2,
+},
+["Aigled-Hyjal"] = {
+["total"] = 537418493,
+["itemLevel"] = 637.375,
+["classId"] = 12,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 424548749,
+["itemLevel"] = 637,
+["classId"] = 8,
+},
+["Hastyan-Ysondre"] = {
+["total"] = 445046791,
+["itemLevel"] = 635.8125,
+["classId"] = 8,
+},
+["Unote"] = {
+["total"] = 497224061,
+["itemLevel"] = 638.625,
+["classId"] = 6,
+},
+["Villiersham-Elune"] = {
+["total"] = 454054751,
+["itemLevel"] = 635,
+["classId"] = 7,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 552595479,
+["itemLevel"] = 637.8125,
+["classId"] = 3,
+},
+["Wiilycringe"] = {
+["total"] = 578380864,
+["itemLevel"] = 637.8125,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 152599591,
+["itemLevel"] = 638,
+["classId"] = 5,
+},
+["Surend"] = {
+["total"] = 307994096,
+["itemLevel"] = 638.8125,
+["classId"] = 6,
+},
+},
+},
+},
+[2898] = {
+{
+["date"] = "22:22 16/10/24",
+["guild"] = "Stuck",
+["DAMAGER"] = {
+["Pipouw-Hyjal"] = {
+["total"] = 202827681,
+["itemLevel"] = 626.4375,
+["classId"] = 10,
+},
+["Shÿneur"] = {
+["total"] = 331094984,
+["itemLevel"] = 628.4375,
+["classId"] = 1,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 250248135,
+["itemLevel"] = 617.625,
+["classId"] = 8,
+},
+["Friidenight-Hyjal"] = {
+["total"] = 403291261,
+["itemLevel"] = 627.875,
+["classId"] = 2,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 179869307,
+["itemLevel"] = 618.25,
+["classId"] = 13,
+},
+["Surend"] = {
+["total"] = 163589614,
+["itemLevel"] = 628.1875,
+["classId"] = 6,
+},
+["Satyrerogue-Hyjal"] = {
+["total"] = 357753723,
+["itemLevel"] = 625.5,
+["classId"] = 4,
+},
+["Tactactoc"] = {
+["total"] = 345803755,
+["itemLevel"] = 625.8125,
+["classId"] = 4,
+},
+["Siskhavoc"] = {
+["total"] = 324979565,
+["itemLevel"] = 627.8125,
+["classId"] = 9,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 289676873,
+["itemLevel"] = 627.5,
+["classId"] = 7,
+},
+["Villiersdh-Elune"] = {
+["total"] = 302803027,
+["itemLevel"] = 624.3125,
+["classId"] = 12,
+},
+["Raiizy-Hyjal"] = {
+["total"] = 319270973,
+["itemLevel"] = 626.5,
+["classId"] = 3,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 324354476,
+["itemLevel"] = 625.8125,
+["classId"] = 3,
+},
+["Kamzz"] = {
+["total"] = 356237939,
+["itemLevel"] = 628.5625,
+["classId"] = 8,
+},
+["Unote"] = {
+["total"] = 350171965,
+["itemLevel"] = 626.8125,
+["classId"] = 6,
+},
+["Mãnia-Hyjal"] = {
+["total"] = 147309040,
+["itemLevel"] = 628.3125,
+["classId"] = 11,
+},
+},
+["elapsed"] = 315.3160000000062,
+["servertime"] = 1729110176,
+["HEALER"] = {
+["Naystà"] = {
+["total"] = 411707853,
+["itemLevel"] = 625.3125,
+["classId"] = 7,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 377497823,
+["itemLevel"] = 624.375,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 447152998,
+["itemLevel"] = 630.1875,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 149070902,
+["itemLevel"] = 626.9375,
+["classId"] = 13,
+},
+},
+["time"] = 1729110174,
+},
+{
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 285569737,
+["itemLevel"] = 637.8125,
+["classId"] = 10,
+},
+["Unote"] = {
+["total"] = 301162666,
+["itemLevel"] = 637.4375,
+["classId"] = 6,
+},
+["Phee"] = {
+["total"] = 301607594,
+["itemLevel"] = 635.375,
+["classId"] = 11,
+},
+["Villiersham-Elune"] = {
+["total"] = 278906780,
+["itemLevel"] = 628.75,
+["classId"] = 7,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 321169408,
+["itemLevel"] = 637.8125,
+["classId"] = 3,
+},
+["Surend"] = {
+["total"] = 167628163,
+["itemLevel"] = 638.625,
+["classId"] = 6,
+},
+["Tactactoc"] = {
+["total"] = 341391783,
+["itemLevel"] = 639.625,
+["classId"] = 4,
+},
+["Aigled-Hyjal"] = {
+["total"] = 326625745,
+["itemLevel"] = 636.375,
+["classId"] = 12,
+},
+["Kamz"] = {
+["total"] = 299606706,
+["itemLevel"] = 625.375,
+["classId"] = 2,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 374089362,
+["itemLevel"] = 637.625,
+["classId"] = 3,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 158594227,
+["itemLevel"] = 636.5625,
+["classId"] = 2,
+},
+["Blodreina-Krasus"] = {
+["total"] = 343416836,
+["itemLevel"] = 637,
+["classId"] = 4,
+},
+["Shÿneur"] = {
+["total"] = 298371413,
+["itemLevel"] = 637.375,
+["classId"] = 1,
+},
+["Wiilycringe"] = {
+["total"] = 323466113,
+["itemLevel"] = 636.8125,
+["classId"] = 9,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 240112544,
+["itemLevel"] = 627.625,
+["classId"] = 2,
+},
+["Pipouw-Hyjal"] = {
+["total"] = 283235704,
+["itemLevel"] = 636,
+["classId"] = 10,
+},
+},
+["time"] = 1737576787,
+["date"] = "21:13 22/01/25",
+["elapsed"] = 215.0789999999997,
+["servertime"] = 1737576788,
+["HEALER"] = {
+["Naystà"] = {
+["total"] = 232890838,
+["itemLevel"] = 639.0625,
+["classId"] = 7,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 217936183,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 287338034,
+["itemLevel"] = 637.8125,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 254702934,
+["itemLevel"] = 638.0625,
+["classId"] = 5,
+},
+},
+["guild"] = "Stuck",
+},
+{
+["date"] = "21:05 29/01/25",
+["guild"] = "Stuck",
+["DAMAGER"] = {
+["Shÿneur"] = {
+["total"] = 299172180,
+["itemLevel"] = 638.8,
+["classId"] = 1,
+},
+["Unote"] = {
+["total"] = 316330200,
+["itemLevel"] = 637.375,
+["classId"] = 6,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 190939311,
+["itemLevel"] = 638.1875,
+["classId"] = 2,
+},
+["Villiersham-Elune"] = {
+["total"] = 247399188,
+["itemLevel"] = 631.3125,
+["classId"] = 7,
+},
+["Fifka"] = {
+["total"] = 349330783,
+["itemLevel"] = 637.25,
+["classId"] = 11,
+},
+["Tactactoc"] = {
+["total"] = 331180954,
+["itemLevel"] = 638.8125,
+["classId"] = 4,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 328706554,
+["itemLevel"] = 637.8125,
+["classId"] = 13,
+},
+["Aigled-Hyjal"] = {
+["total"] = 325976015,
+["itemLevel"] = 637.375,
+["classId"] = 12,
+},
+["Hastyan-Ysondre"] = {
+["total"] = 305489536,
+["itemLevel"] = 634.125,
+["classId"] = 8,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 332385004,
+["itemLevel"] = 638,
+["classId"] = 7,
+},
+["Pheeon"] = {
+["total"] = 283387028,
+["itemLevel"] = 638.1875,
+["classId"] = 1,
+},
+["Blodreina-Krasus"] = {
+["total"] = 337038933,
+["itemLevel"] = 637,
+["classId"] = 4,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 261864793,
+["itemLevel"] = 630.5625,
+["classId"] = 2,
+},
+["Wiilydenze"] = {
+["total"] = 272913650,
+["itemLevel"] = 625.7333333333333,
+["classId"] = 9,
+},
+["Surend"] = {
+["total"] = 154755381,
+["itemLevel"] = 638.8125,
+["classId"] = 6,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 335532443,
+["itemLevel"] = 637.7333333333333,
+["classId"] = 3,
+},
+},
+["elapsed"] = 203.7099999999991,
+["servertime"] = 1738181213,
+["HEALER"] = {
+["Kamz"] = {
+["total"] = 264138521,
+["itemLevel"] = 631,
+["classId"] = 2,
+},
+["Nifix"] = {
+["total"] = 300384008,
+["itemLevel"] = 632.9375,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 254803089,
+["itemLevel"] = 639.25,
+["classId"] = 5,
+},
+},
+["time"] = 1738181123,
+},
+{
+["time"] = 1738872560,
+["guild"] = "Stuck",
+["elapsed"] = 204.0599999999977,
+["date"] = "21:09 06/02/25",
+["servertime"] = 1738872658,
+["HEALER"] = {
+["Kamz"] = {
+["total"] = 269626521,
+["itemLevel"] = 635.125,
+["classId"] = 2,
+},
+["Nifix"] = {
+["total"] = 219376463,
+["itemLevel"] = 634.625,
+["classId"] = 7,
+},
+["Giottö-Dalaran"] = {
+["total"] = 286226581,
+["itemLevel"] = 639.25,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 143648139,
 ["itemLevel"] = 638.8125,
 ["classId"] = 5,
 },
 },
-["date"] = "21:57 06/02/25",
+["DAMAGER"] = {
+["Phee"] = {
+["total"] = 315660868,
+["itemLevel"] = 638.875,
+["classId"] = 11,
 },
+["Shÿneur"] = {
+["total"] = 289011612,
+["itemLevel"] = 638.8125,
+["classId"] = 1,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 315984529,
+["itemLevel"] = 637,
+["classId"] = 8,
+},
+["Blodreina-Krasus"] = {
+["total"] = 318729533,
+["itemLevel"] = 636.1875,
+["classId"] = 4,
+},
+["Aigled-Hyjal"] = {
+["total"] = 317360989,
+["itemLevel"] = 637.375,
+["classId"] = 12,
+},
+["Surend"] = {
+["total"] = 150984514,
+["itemLevel"] = 638.8125,
+["classId"] = 6,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 329964932,
+["itemLevel"] = 638.4375,
+["classId"] = 13,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 309923468,
+["itemLevel"] = 633.0625,
+["classId"] = 2,
+},
+["Hastyan-Ysondre"] = {
+["total"] = 289463355,
+["itemLevel"] = 635.375,
+["classId"] = 8,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 318604283,
+["itemLevel"] = 638.8125,
+["classId"] = 7,
+},
+["Unote"] = {
+["total"] = 310511817,
+["itemLevel"] = 638.8125,
+["classId"] = 6,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 308155732,
+["itemLevel"] = 638,
+["classId"] = 3,
+},
+["Villiersham-Elune"] = {
+["total"] = 256364070,
+["itemLevel"] = 635,
+["classId"] = 7,
+},
+["Wiilydenze"] = {
+["total"] = 275936979,
+["itemLevel"] = 627,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 342465292,
+["itemLevel"] = 638,
+["classId"] = 5,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 153477834,
+["itemLevel"] = 638.1875,
+["classId"] = 2,
+},
+},
+},
+},
+[2786] = {
+},
+[2824] = {
+},
+[2922] = {
+{
+["guild"] = "Stuck",
+["time"] = 1737059866,
+["elapsed"] = 498.2900000000009,
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 613888208,
+["itemLevel"] = 637.8125,
+["classId"] = 10,
+},
+["Unote"] = {
+["total"] = 728029909,
+["itemLevel"] = 637.4375,
+["classId"] = 6,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 758714934,
+["itemLevel"] = 636.8125,
+["classId"] = 8,
+},
+["Blodreina-Krasus"] = {
+["total"] = 793525987,
+["itemLevel"] = 636.625,
+["classId"] = 4,
+},
+["Fifka"] = {
+["total"] = 667020020,
+["itemLevel"] = 636.875,
+["classId"] = 11,
+},
+["Surend"] = {
+["total"] = 401187648,
+["itemLevel"] = 638.4375,
+["classId"] = 6,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 747446350,
+["itemLevel"] = 635.8125,
+["classId"] = 13,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 687428731,
+["itemLevel"] = 636.625,
+["classId"] = 3,
+},
+["Aigled-Hyjal"] = {
+["total"] = 737963477,
+["itemLevel"] = 636.1875,
+["classId"] = 12,
+},
+["Kamzz"] = {
+["total"] = 739148158,
+["itemLevel"] = 636.8125,
+["classId"] = 8,
+},
+["Pheeon"] = {
+["total"] = 818621472,
+["itemLevel"] = 638,
+["classId"] = 1,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 663555598,
+["itemLevel"] = 636.375,
+["classId"] = 3,
+},
+["Friidenight-Hyjal"] = {
+["total"] = 593501518,
+["itemLevel"] = 638.8125,
+["classId"] = 2,
+},
+["Wiilycringe"] = {
+["total"] = 752997653,
+["itemLevel"] = 636.8125,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 765729508,
+["itemLevel"] = 637.8125,
+["classId"] = 5,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 352565024,
+["itemLevel"] = 636.5625,
+["classId"] = 2,
+},
+},
+["servertime"] = 1737059948,
+["HEALER"] = {
+["Naystà"] = {
+["total"] = 824240279,
+["itemLevel"] = 639.0625,
+["classId"] = 7,
+},
+["Katsaku"] = {
+["total"] = 925735590,
+["itemLevel"] = 637.625,
+["classId"] = 2,
+},
+["Xerdrake"] = {
+["total"] = 943278904,
+["itemLevel"] = 638.4375,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 979006237,
+["itemLevel"] = 637.25,
+["classId"] = 5,
+},
+},
+["date"] = "21:37 16/01/25",
+},
+},
+[3009] = {
+{
+["guild"] = "Stuck",
+["time"] = 1742421696,
+["elapsed"] = 401.5119999999988,
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 851713409,
+["itemLevel"] = 659.9333333333333,
+["classId"] = 10,
+},
+["Unote"] = {
+["total"] = 1067070338,
+["itemLevel"] = 661.6875,
+["classId"] = 6,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 981648349,
+["itemLevel"] = 660.9375,
+["classId"] = 3,
+},
+["Blodreina-Krasus"] = {
+["total"] = 1026472029,
+["itemLevel"] = 653.8125,
+["classId"] = 4,
+},
+["Mynute"] = {
+["total"] = 926620283,
+["itemLevel"] = 661.1875,
+["classId"] = 5,
+},
+["Aigled-Hyjal"] = {
+["total"] = 1044746973,
+["itemLevel"] = 661.625,
+["classId"] = 12,
+},
+["Lysð-Hyjal"] = {
+["total"] = 948987673,
+["itemLevel"] = 662.75,
+["classId"] = 6,
+},
+["Paleastea"] = {
+["total"] = 420183284,
+["itemLevel"] = 658.125,
+["classId"] = 2,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 1055691191,
+["itemLevel"] = 660.875,
+["classId"] = 3,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 913404501,
+["itemLevel"] = 655.6875,
+["classId"] = 13,
+},
+["Kareitha-Hyjal"] = {
+["total"] = 1012651542,
+["itemLevel"] = 658.5,
+["classId"] = 8,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 754291284,
+["itemLevel"] = 658.125,
+["classId"] = 2,
+},
+["Shÿneur"] = {
+["total"] = 896693023,
+["itemLevel"] = 660,
+["classId"] = 1,
+},
+["Wiilycringe"] = {
+["total"] = 964717410,
+["itemLevel"] = 658.6875,
+["classId"] = 9,
+},
+["Pheedifu"] = {
+["total"] = 414493429,
+["itemLevel"] = 659.6875,
+["classId"] = 12,
+},
+["Salern-Ysondre"] = {
+["total"] = 1016487294,
+["itemLevel"] = 662.375,
+["classId"] = 11,
+},
+},
+["servertime"] = 1742421820,
+["HEALER"] = {
+["Nifix"] = {
+["total"] = 638029806,
+["itemLevel"] = 657.875,
+["classId"] = 11,
+},
+["Kamz"] = {
+["total"] = 811967723,
+["itemLevel"] = 659.4375,
+["classId"] = 10,
+},
+["Giottö-Dalaran"] = {
+["total"] = 783179730,
+["itemLevel"] = 662.625,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 647918254,
+["itemLevel"] = 656.5625,
+["classId"] = 5,
+},
+},
+["date"] = "23:01 19/03/25",
+},
+},
+[2677] = {
+},
+[2921] = {
+{
+["time"] = 1732830367,
+["guild"] = "Stuck",
+["elapsed"] = 487.4680000000008,
+["date"] = "22:46 28/11/24",
+["servertime"] = 1732830369,
+["HEALER"] = {
+["Naystà"] = {
+["total"] = 698074530,
+["itemLevel"] = 632.875,
+["classId"] = 7,
+},
+["Katsaku"] = {
+["total"] = 694826346,
+["itemLevel"] = 635.8125,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 750753883,
+["itemLevel"] = 636.4375,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 684557788,
+["itemLevel"] = 635.375,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 658790337,
+["itemLevel"] = 633.9375,
+["classId"] = 10,
+},
+["Shÿneur"] = {
+["total"] = 831697787,
+["itemLevel"] = 635.375,
+["classId"] = 1,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 746621857,
+["itemLevel"] = 633.125,
+["classId"] = 8,
+},
+["Kamzz"] = {
+["total"] = 919569141,
+["itemLevel"] = 635.8125,
+["classId"] = 8,
+},
+["Aigled-Hyjal"] = {
+["total"] = 825429552,
+["itemLevel"] = 631.9375,
+["classId"] = 12,
+},
+["Surend"] = {
+["total"] = 503081124,
+["itemLevel"] = 636.625,
+["classId"] = 6,
+},
+["Mãnia-Hyjal"] = {
+["total"] = 492989302,
+["itemLevel"] = 631.375,
+["classId"] = 11,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 902337022,
+["itemLevel"] = 634.8125,
+["classId"] = 3,
+},
+["Siskhavoc"] = {
+["total"] = 973644389,
+["itemLevel"] = 631.5,
+["classId"] = 9,
+},
+["Raiizy-Hyjal"] = {
+["total"] = 925070921,
+["itemLevel"] = 635.375,
+["classId"] = 3,
+},
+["Unote"] = {
+["total"] = 868544661,
+["itemLevel"] = 634.5625,
+["classId"] = 6,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 857678835,
+["itemLevel"] = 633.375,
+["classId"] = 13,
+},
+["Tactactoc"] = {
+["total"] = 706615927,
+["itemLevel"] = 632.5,
+["classId"] = 4,
+},
+["Wiilycringe"] = {
+["total"] = 1076916099,
+["itemLevel"] = 635,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 1006322870,
+["itemLevel"] = 636,
+["classId"] = 5,
+},
+["Friidenight-Hyjal"] = {
+["total"] = 930403268,
+["itemLevel"] = 637.1875,
+["classId"] = 2,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Ambuhunt-Hyjal"] = {
+["total"] = 854256874,
+["itemLevel"] = 638.1875,
+["classId"] = 3,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 327298982,
+["itemLevel"] = 638.1875,
+["classId"] = 2,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 1015063452,
+["itemLevel"] = 637,
+["classId"] = 8,
+},
+["Blodreina-Krasus"] = {
+["total"] = 939965645,
+["itemLevel"] = 638.8125,
+["classId"] = 4,
+},
+["Fifka"] = {
+["total"] = 903319651,
+["itemLevel"] = 637.25,
+["classId"] = 11,
+},
+["Surend"] = {
+["total"] = 487619023,
+["itemLevel"] = 638.8125,
+["classId"] = 6,
+},
+["Unote"] = {
+["total"] = 978801614,
+["itemLevel"] = 638.625,
+["classId"] = 6,
+},
+["Aigled-Hyjal"] = {
+["total"] = 854302878,
+["itemLevel"] = 637.375,
+["classId"] = 12,
+},
+["Hastyan-Ysondre"] = {
+["total"] = 768938098,
+["itemLevel"] = 637.4375,
+["classId"] = 8,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 884781598,
+["itemLevel"] = 638.8125,
+["classId"] = 7,
+},
+["Pheeon"] = {
+["total"] = 741560310,
+["itemLevel"] = 639.8125,
+["classId"] = 1,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 718204753,
+["itemLevel"] = 634.9375,
+["classId"] = 2,
+},
+["Shÿneur"] = {
+["total"] = 894970782,
+["itemLevel"] = 638.8125,
+["classId"] = 1,
+},
+["Wiilycringe"] = {
+["total"] = 1147423085,
+["itemLevel"] = 637.8125,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 992025931,
+["itemLevel"] = 638.1875,
+["classId"] = 5,
+},
+["Kamzz"] = {
+["total"] = 919312949,
+["itemLevel"] = 637,
+["classId"] = 8,
+},
+},
+["time"] = 1739221197,
+["date"] = "21:59 10/02/25",
+["elapsed"] = 450.2730000000011,
+["servertime"] = 1739221298,
+["HEALER"] = {
+["Bercitronc-Kael'thas"] = {
+["total"] = 512530627,
+["itemLevel"] = 638.4375,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 710134293,
+["itemLevel"] = 637.8125,
+["classId"] = 2,
+},
+["Giottö-Dalaran"] = {
+["total"] = 565813614,
+["itemLevel"] = 639.25,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 616653929,
+["itemLevel"] = 639.25,
+["classId"] = 5,
+},
+},
+["guild"] = "Stuck",
+},
+},
+[2917] = {
+{
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 295748342,
+["itemLevel"] = 612.75,
+["classId"] = 10,
+},
+["Unote"] = {
+["total"] = 369425689,
+["itemLevel"] = 617.0625,
+["classId"] = 6,
+},
+["Friidenight-Hyjal"] = {
+["total"] = 364483758,
+["itemLevel"] = 616.1875,
+["classId"] = 2,
+},
+["Kamzz"] = {
+["total"] = 308257076,
+["itemLevel"] = 612.6875,
+["classId"] = 8,
+},
+["Tactactoc"] = {
+["total"] = 264900950,
+["itemLevel"] = 615.3125,
+["classId"] = 4,
+},
+["Surend"] = {
+["total"] = 110174034,
+["itemLevel"] = 614.3125,
+["classId"] = 6,
+},
+["Mãnia-Hyjal"] = {
+["total"] = 178560634,
+["itemLevel"] = 616.8125,
+["classId"] = 11,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 354973427,
+["itemLevel"] = 617.125,
+["classId"] = 3,
+},
+["Siskhavoc"] = {
+["total"] = 334581379,
+["itemLevel"] = 613.875,
+["classId"] = 9,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 296395529,
+["itemLevel"] = 613.875,
+["classId"] = 7,
+},
+["Villiersdh-Elune"] = {
+["total"] = 302178079,
+["itemLevel"] = 611.625,
+["classId"] = 12,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 272338541,
+["itemLevel"] = 613.75,
+["classId"] = 3,
+},
+["Pipouw-Hyjal"] = {
+["total"] = 260585471,
+["itemLevel"] = 609.5625,
+["classId"] = 10,
+},
+["Wiilycringe"] = {
+["total"] = 284421970,
+["itemLevel"] = 609.5,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 282184350,
+["itemLevel"] = 616.5625,
+["classId"] = 5,
+},
+["Shÿneur"] = {
+["total"] = 335181720,
+["itemLevel"] = 615.75,
+["classId"] = 1,
+},
+},
+["time"] = 1727040924,
+["date"] = "23:35 22/09/24",
+["elapsed"] = 327.679999999993,
+["servertime"] = 1727040925,
+["HEALER"] = {
+["Lüiñil-Hyjal"] = {
+["total"] = 291160102,
+["itemLevel"] = 615.75,
+["classId"] = 10,
+},
+["Näystä-Ysondre"] = {
+["total"] = 321114303,
+["itemLevel"] = 610.5,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 401541897,
+["itemLevel"] = 616.75,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 277895179,
+["itemLevel"] = 610.0625,
+["classId"] = 5,
+},
+},
+["guild"] = "Stuck",
+},
+{
+["date"] = "21:53 23/10/24",
+["guild"] = "Stuck",
+["DAMAGER"] = {
+["Pipouw-Hyjal"] = {
+["total"] = 313670415,
+["itemLevel"] = 629,
+["classId"] = 10,
+},
+["Unote"] = {
+["total"] = 344121596,
+["itemLevel"] = 629.25,
+["classId"] = 6,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 21797479,
+["itemLevel"] = 627.75,
+["classId"] = 8,
+},
+["Kamzz"] = {
+["total"] = 332375693,
+["itemLevel"] = 631.25,
+["classId"] = 8,
+},
+["Rewmor"] = {
+["total"] = 284488558,
+["itemLevel"] = 624.1875,
+["classId"] = 6,
+},
+["Surend"] = {
+["total"] = 131648958,
+["itemLevel"] = 629.625,
+["classId"] = 6,
+},
+["Mãnia-Hyjal"] = {
+["total"] = 147957805,
+["itemLevel"] = 629.9375,
+["classId"] = 11,
+},
+["Aigled-Hyjal"] = {
+["total"] = 352161835,
+["itemLevel"] = 627.8125,
+["classId"] = 12,
+},
+["Siskhavoc"] = {
+["total"] = 289956788,
+["itemLevel"] = 629.25,
+["classId"] = 9,
+},
+["Satyrerogue-Hyjal"] = {
+["total"] = 357485041,
+["itemLevel"] = 627.875,
+["classId"] = 4,
+},
+["Villiersdh-Elune"] = {
+["total"] = 338109575,
+["itemLevel"] = 628.0625,
+["classId"] = 12,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 261379369,
+["itemLevel"] = 629.0625,
+["classId"] = 3,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 256310274,
+["itemLevel"] = 621.75,
+["classId"] = 13,
+},
+["Friidenight-Hyjal"] = {
+["total"] = 298002102,
+["itemLevel"] = 629.9375,
+["classId"] = 2,
+},
+["Mynute"] = {
+["total"] = 328424074,
+["itemLevel"] = 628.8125,
+["classId"] = 5,
+},
+["Shÿneur"] = {
+["total"] = 293813075,
+["itemLevel"] = 629.875,
+["classId"] = 1,
+},
+},
+["elapsed"] = 285.6039999999994,
+["servertime"] = 1729713244,
+["HEALER"] = {
+["Naystà"] = {
+["total"] = 248987733,
+["itemLevel"] = 626.8125,
+["classId"] = 7,
+},
+["Katsaku"] = {
+["total"] = 302689275,
+["itemLevel"] = 630.125,
+["classId"] = 2,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 319376856,
+["itemLevel"] = 626.5,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 20563012,
+["itemLevel"] = 631.6875,
+["classId"] = 5,
+},
+},
+["time"] = 1729713214,
+},
+{
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 278572761,
+["itemLevel"] = 637.8125,
+["classId"] = 10,
+},
+["Unote"] = {
+["total"] = 292981761,
+["itemLevel"] = 637.4375,
+["classId"] = 6,
+},
+["Phee"] = {
+["total"] = 238590124,
+["itemLevel"] = 635.375,
+["classId"] = 11,
+},
+["Villiersham-Elune"] = {
+["total"] = 240775137,
+["itemLevel"] = 628.75,
+["classId"] = 7,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 281032449,
+["itemLevel"] = 637.8125,
+["classId"] = 3,
+},
+["Surend"] = {
+["total"] = 149390228,
+["itemLevel"] = 638.625,
+["classId"] = 6,
+},
+["Aigled-Hyjal"] = {
+["total"] = 308392116,
+["itemLevel"] = 636.375,
+["classId"] = 12,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 164311870,
+["itemLevel"] = 627.625,
+["classId"] = 2,
+},
+["Kamz"] = {
+["total"] = 240435650,
+["itemLevel"] = 625.375,
+["classId"] = 2,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 126434310,
+["itemLevel"] = 636.5625,
+["classId"] = 2,
+},
+["Tactactoc"] = {
+["total"] = 322876916,
+["itemLevel"] = 639.625,
+["classId"] = 4,
+},
+["Blodreina-Krasus"] = {
+["total"] = 333998142,
+["itemLevel"] = 637,
+["classId"] = 4,
+},
+["Shÿneur"] = {
+["total"] = 250178761,
+["itemLevel"] = 637.375,
+["classId"] = 1,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 311522490,
+["itemLevel"] = 637.625,
+["classId"] = 3,
+},
+["Mynute"] = {
+["total"] = 258775594,
+["itemLevel"] = 638,
+["classId"] = 5,
+},
+["Pipouw-Hyjal"] = {
+["total"] = 228859936,
+["itemLevel"] = 636,
+["classId"] = 10,
+},
+},
+["time"] = 1737576128,
+["date"] = "21:02 22/01/25",
+["elapsed"] = 173.2080000000005,
+["servertime"] = 1737576129,
+["HEALER"] = {
+["Naystà"] = {
+["total"] = 214366234,
+["itemLevel"] = 639.0625,
+["classId"] = 7,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 113350547,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 172202843,
+["itemLevel"] = 637.8125,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 163525605,
+["itemLevel"] = 638.0625,
+["classId"] = 5,
+},
+},
+["guild"] = "Stuck",
+},
+{
+["date"] = "20:54 29/01/25",
+["guild"] = "Stuck",
+["DAMAGER"] = {
+["Shÿneur"] = {
+["total"] = 242295958,
+["itemLevel"] = 638.8125,
+["classId"] = 1,
+},
+["Unote"] = {
+["total"] = 241209385,
+["itemLevel"] = 637.375,
+["classId"] = 6,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 154714033,
+["itemLevel"] = 638.1875,
+["classId"] = 2,
+},
+["Villiersham-Elune"] = {
+["total"] = 214861006,
+["itemLevel"] = 631.3125,
+["classId"] = 7,
+},
+["Fifka"] = {
+["total"] = 267874477,
+["itemLevel"] = 637.25,
+["classId"] = 11,
+},
+["Tactactoc"] = {
+["total"] = 253514611,
+["itemLevel"] = 638.8125,
+["classId"] = 4,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 257337235,
+["itemLevel"] = 637.8125,
+["classId"] = 13,
+},
+["Aigled-Hyjal"] = {
+["total"] = 278599325,
+["itemLevel"] = 637.375,
+["classId"] = 12,
+},
+["Hastyan-Ysondre"] = {
+["total"] = 249728568,
+["itemLevel"] = 634.125,
+["classId"] = 8,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 264933415,
+["itemLevel"] = 638,
+["classId"] = 7,
+},
+["Pheeon"] = {
+["total"] = 245401028,
+["itemLevel"] = 638.1875,
+["classId"] = 1,
+},
+["Blodreina-Krasus"] = {
+["total"] = 341408171,
+["itemLevel"] = 637,
+["classId"] = 4,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 228596224,
+["itemLevel"] = 630.5625,
+["classId"] = 2,
+},
+["Wiilydenze"] = {
+["total"] = 213162221,
+["itemLevel"] = 626.375,
+["classId"] = 9,
+},
+["Surend"] = {
+["total"] = 163681037,
+["itemLevel"] = 638.8125,
+["classId"] = 6,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 232046833,
+["itemLevel"] = 638,
+["classId"] = 3,
+},
+},
+["elapsed"] = 156.3790000000008,
+["servertime"] = 1738180569,
+["HEALER"] = {
+["Kamz"] = {
+["total"] = 167147026,
+["itemLevel"] = 631,
+["classId"] = 2,
+},
+["Nifix"] = {
+["total"] = 159009918,
+["itemLevel"] = 632.9375,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 128246836,
+["itemLevel"] = 639.25,
+["classId"] = 5,
+},
+},
+["time"] = 1738180479,
+},
+},
+[2902] = {
+{
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 473124781,
+["itemLevel"] = 612.75,
+["classId"] = 10,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 407757612,
+["itemLevel"] = 613.75,
+["classId"] = 3,
+},
+["Kamzz"] = {
+["total"] = 622331794,
+["itemLevel"] = 612.6875,
+["classId"] = 8,
+},
+["Friidenight-Hyjal"] = {
+["total"] = 573017089,
+["itemLevel"] = 616.1875,
+["classId"] = 2,
+},
+["Surend"] = {
+["total"] = 280265835,
+["itemLevel"] = 614.3125,
+["classId"] = 6,
+},
+["Tactactoc"] = {
+["total"] = 343394433,
+["itemLevel"] = 615.875,
+["classId"] = 4,
+},
+["Mãnia-Hyjal"] = {
+["total"] = 277983033,
+["itemLevel"] = 617.25,
+["classId"] = 11,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 572159002,
+["itemLevel"] = 617.125,
+["classId"] = 3,
+},
+["Siskhavoc"] = {
+["total"] = 494737141,
+["itemLevel"] = 612.8125,
+["classId"] = 9,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 428270116,
+["itemLevel"] = 613.875,
+["classId"] = 7,
+},
+["Villiersdh-Elune"] = {
+["total"] = 649435067,
+["itemLevel"] = 610.5625,
+["classId"] = 12,
+},
+["Pipouw-Hyjal"] = {
+["total"] = 392323587,
+["itemLevel"] = 609.5625,
+["classId"] = 10,
+},
+["Shÿneur"] = {
+["total"] = 503871653,
+["itemLevel"] = 615.75,
+["classId"] = 1,
+},
+["Wiilycringe"] = {
+["total"] = 588303506,
+["itemLevel"] = 609.5,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 495206738,
+["itemLevel"] = 616.5625,
+["classId"] = 5,
+},
+["Unote"] = {
+["total"] = 1021388597,
+["itemLevel"] = 617.0625,
+["classId"] = 6,
+},
+},
+["time"] = 1727032966,
+["date"] = "21:22 22/09/24",
+["elapsed"] = 548.4469999999856,
+["servertime"] = 1727032967,
+["HEALER"] = {
+["Lüiñil-Hyjal"] = {
+["total"] = 501165042,
+["itemLevel"] = 615.75,
+["classId"] = 10,
+},
+["Näystä-Ysondre"] = {
+["total"] = 569621083,
+["itemLevel"] = 610.5,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 800614550,
+["itemLevel"] = 616.75,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 617180762,
+["itemLevel"] = 610.0625,
+["classId"] = 5,
+},
+},
+["guild"] = "Stuck",
+},
+{
+["date"] = "21:38 23/10/24",
+["guild"] = "Stuck",
+["DAMAGER"] = {
+["Pipouw-Hyjal"] = {
+["total"] = 155482745,
+["itemLevel"] = 629,
+["classId"] = 10,
+},
+["Unote"] = {
+["total"] = 576080867,
+["itemLevel"] = 628.4375,
+["classId"] = 6,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 609700318,
+["itemLevel"] = 627.75,
+["classId"] = 8,
+},
+["Kamzz"] = {
+["total"] = 798765262,
+["itemLevel"] = 631.25,
+["classId"] = 8,
+},
+["Rewmor"] = {
+["total"] = 734353042,
+["itemLevel"] = 624.1875,
+["classId"] = 6,
+},
+["Surend"] = {
+["total"] = 258356099,
+["itemLevel"] = 629.625,
+["classId"] = 6,
+},
+["Mãnia-Hyjal"] = {
+["total"] = 317226423,
+["itemLevel"] = 629.9375,
+["classId"] = 11,
+},
+["Aigled-Hyjal"] = {
+["total"] = 814685451,
+["itemLevel"] = 627.8125,
+["classId"] = 12,
+},
+["Siskhavoc"] = {
+["total"] = 485154372,
+["itemLevel"] = 629,
+["classId"] = 9,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 468317213,
+["itemLevel"] = 629.375,
+["classId"] = 7,
+},
+["Pheeon"] = {
+["total"] = 442833814,
+["itemLevel"] = 627.5625,
+["classId"] = 1,
+},
+["Tactactoc"] = {
+["total"] = 463808016,
+["itemLevel"] = 627.25,
+["classId"] = 4,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 476057850,
+["itemLevel"] = 621.75,
+["classId"] = 13,
+},
+["Villiersdh-Elune"] = {
+["total"] = 678893617,
+["itemLevel"] = 628.0625,
+["classId"] = 12,
+},
+["Mynute"] = {
+["total"] = 663979855,
+["itemLevel"] = 628.8125,
+["classId"] = 5,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 107614917,
+["itemLevel"] = 628.8125,
+["classId"] = 3,
+},
+},
+["elapsed"] = 494.1749999999993,
+["servertime"] = 1729712360,
+["HEALER"] = {
+["Xerdrake"] = {
+["total"] = 578144586,
+["itemLevel"] = 630,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 566734507,
+["itemLevel"] = 630.125,
+["classId"] = 2,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 438216236,
+["itemLevel"] = 626.5,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 450183824,
+["itemLevel"] = 631.6875,
+["classId"] = 5,
+},
+},
+["time"] = 1729712330,
+},
+{
+["date"] = "21:41 30/10/24",
+["guild"] = "Stuck",
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 426620260,
+["itemLevel"] = 629.625,
+["classId"] = 10,
+},
+["Unote"] = {
+["total"] = 381895196,
+["itemLevel"] = 631.0625,
+["classId"] = 6,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 470798541,
+["itemLevel"] = 629.8125,
+["classId"] = 8,
+},
+["Raiizy-Hyjal"] = {
+["total"] = 493492893,
+["itemLevel"] = 630,
+["classId"] = 3,
+},
+["Rewmor"] = {
+["total"] = 436977469,
+["itemLevel"] = 624.1875,
+["classId"] = 6,
+},
+["Surend"] = {
+["total"] = 226606594,
+["itemLevel"] = 631.875,
+["classId"] = 6,
+},
+["Mãnia-Hyjal"] = {
+["total"] = 182790999,
+["itemLevel"] = 630.375,
+["classId"] = 11,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 513467223,
+["itemLevel"] = 629.625,
+["classId"] = 3,
+},
+["Satyrerogue-Hyjal"] = {
+["total"] = 374964860,
+["itemLevel"] = 628.625,
+["classId"] = 4,
+},
+["Villiersdh-Elune"] = {
+["total"] = 472607239,
+["itemLevel"] = 628.3125,
+["classId"] = 12,
+},
+["Pheeon"] = {
+["total"] = 501684826,
+["itemLevel"] = 630.4375,
+["classId"] = 1,
+},
+["Shÿneur"] = {
+["total"] = 455114189,
+["itemLevel"] = 630.875,
+["classId"] = 1,
+},
+["Tactactoc"] = {
+["total"] = 324510292,
+["itemLevel"] = 628.5,
+["classId"] = 4,
+},
+["Wiilycringe"] = {
+["total"] = 534482084,
+["itemLevel"] = 631.1875,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 462552306,
+["itemLevel"] = 630.3125,
+["classId"] = 5,
+},
+["Aigled-Hyjal"] = {
+["total"] = 540785185,
+["itemLevel"] = 629.875,
+["classId"] = 12,
+},
+},
+["elapsed"] = 380.8279999999941,
+["servertime"] = 1730320862,
+["HEALER"] = {
+["Naystà"] = {
+["total"] = 462592622,
+["itemLevel"] = 627.8125,
+["classId"] = 7,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 394517222,
+["itemLevel"] = 629,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 397070831,
+["itemLevel"] = 631.5625,
+["classId"] = 2,
+},
+["Xerdrake"] = {
+["total"] = 511626373,
+["itemLevel"] = 630.8125,
+["classId"] = 13,
+},
+},
+["time"] = 1730320861,
+},
+{
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 362857150,
+["itemLevel"] = 637.8125,
+["classId"] = 10,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 378661066,
+["itemLevel"] = 637.8125,
+["classId"] = 3,
+},
+["Phee"] = {
+["total"] = 393459783,
+["itemLevel"] = 635.375,
+["classId"] = 11,
+},
+["Villiersham-Elune"] = {
+["total"] = 305066496,
+["itemLevel"] = 628.2666666666667,
+["classId"] = 7,
+},
+["Tactactoc"] = {
+["total"] = 386845775,
+["itemLevel"] = 639.625,
+["classId"] = 4,
+},
+["Surend"] = {
+["total"] = 205411957,
+["itemLevel"] = 638.625,
+["classId"] = 6,
+},
+["Shÿneur"] = {
+["total"] = 361003497,
+["itemLevel"] = 637.375,
+["classId"] = 1,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 212574307,
+["itemLevel"] = 627.625,
+["classId"] = 2,
+},
+["Kamz"] = {
+["total"] = 368227141,
+["itemLevel"] = 625.375,
+["classId"] = 2,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 234498948,
+["itemLevel"] = 636.5625,
+["classId"] = 2,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 487057412,
+["itemLevel"] = 637.625,
+["classId"] = 3,
+},
+["Aigled-Hyjal"] = {
+["total"] = 367113996,
+["itemLevel"] = 636.375,
+["classId"] = 12,
+},
+["Unote"] = {
+["total"] = 439309883,
+["itemLevel"] = 637.4375,
+["classId"] = 6,
+},
+["Blodreina-Krasus"] = {
+["total"] = 341245165,
+["itemLevel"] = 638.8125,
+["classId"] = 4,
+},
+["Mynute"] = {
+["total"] = 326556294,
+["itemLevel"] = 638.1333333333333,
+["classId"] = 5,
+},
+["Pipouw-Hyjal"] = {
+["total"] = 377414814,
+["itemLevel"] = 636,
+["classId"] = 10,
+},
+},
+["time"] = 1737575488,
+["date"] = "20:51 22/01/25",
+["elapsed"] = 256.976999999999,
+["servertime"] = 1737575489,
+["HEALER"] = {
+["Naystà"] = {
+["total"] = 298738846,
+["itemLevel"] = 639.0625,
+["classId"] = 7,
+},
+["Katsaku"] = {
+["total"] = 340566608,
+["itemLevel"] = 637.8125,
+["classId"] = 2,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 241728542,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 267388555,
+["itemLevel"] = 638.0625,
+["classId"] = 5,
+},
+},
+["guild"] = "Stuck",
+},
+{
+["date"] = "20:45 29/01/25",
+["guild"] = "Stuck",
+["DAMAGER"] = {
+["Villiersham-Elune"] = {
+["total"] = 381241057,
+["itemLevel"] = 631.3125,
+["classId"] = 7,
+},
+["Shÿneur"] = {
+["total"] = 366210576,
+["itemLevel"] = 638.8125,
+["classId"] = 1,
+},
+["Aigled-Hyjal"] = {
+["total"] = 431046306,
+["itemLevel"] = 637.375,
+["classId"] = 12,
+},
+["Blodreina-Krasus"] = {
+["total"] = 396481142,
+["itemLevel"] = 638.8125,
+["classId"] = 4,
+},
+["Fifka"] = {
+["total"] = 462039372,
+["itemLevel"] = 637.25,
+["classId"] = 11,
+},
+["Tactactoc"] = {
+["total"] = 336706104,
+["itemLevel"] = 638.8125,
+["classId"] = 4,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 415855875,
+["itemLevel"] = 637.8125,
+["classId"] = 13,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 262527223,
+["itemLevel"] = 630.5625,
+["classId"] = 2,
+},
+["Hastyan-Ysondre"] = {
+["total"] = 304596503,
+["itemLevel"] = 634.125,
+["classId"] = 8,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 384452867,
+["itemLevel"] = 638,
+["classId"] = 7,
+},
+["Pheeon"] = {
+["total"] = 356344473,
+["itemLevel"] = 638.1875,
+["classId"] = 1,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 331608357,
+["itemLevel"] = 638,
+["classId"] = 3,
+},
+["Unote"] = {
+["total"] = 345729587,
+["itemLevel"] = 637.375,
+["classId"] = 6,
+},
+["Wiilydenze"] = {
+["total"] = 379005051,
+["itemLevel"] = 626.375,
+["classId"] = 9,
+},
+["Surend"] = {
+["total"] = 211544307,
+["itemLevel"] = 638.8125,
+["classId"] = 6,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 235603866,
+["itemLevel"] = 638.1875,
+["classId"] = 2,
+},
+},
+["elapsed"] = 251.7209999999996,
+["servertime"] = 1738179995,
+["HEALER"] = {
+["Kamz"] = {
+["total"] = 286606624,
+["itemLevel"] = 631,
+["classId"] = 2,
+},
+["Nifix"] = {
+["total"] = 287036327,
+["itemLevel"] = 632.9375,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 308714887,
+["itemLevel"] = 639.25,
+["classId"] = 5,
+},
+},
+["time"] = 1738179905,
+},
+},
+[2820] = {
+},
+[2918] = {
+{
+["date"] = "21:01 30/09/24",
+["guild"] = "Stuck",
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 374647213,
+["itemLevel"] = 618.5625,
+["classId"] = 10,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 286100546,
+["itemLevel"] = 619.625,
+["classId"] = 3,
+},
+["Berci-Kael'thas"] = {
+["total"] = 305121726,
+["itemLevel"] = 619.4375,
+["classId"] = 11,
+},
+["Friidenight-Hyjal"] = {
+["total"] = 448680702,
+["itemLevel"] = 623.375,
+["classId"] = 2,
+},
+["Surend"] = {
+["total"] = 215395200,
+["itemLevel"] = 622.75,
+["classId"] = 6,
+},
+["Mãnia-Hyjal"] = {
+["total"] = 189885336,
+["itemLevel"] = 622.375,
+["classId"] = 11,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 353966791,
+["itemLevel"] = 622.25,
+["classId"] = 3,
+},
+["Siskhavoc"] = {
+["total"] = 374338614,
+["itemLevel"] = 623.125,
+["classId"] = 9,
+},
+["Unote"] = {
+["total"] = 331658091,
+["itemLevel"] = 621.9375,
+["classId"] = 6,
+},
+["Pheeon"] = {
+["total"] = 464845956,
+["itemLevel"] = 619.5,
+["classId"] = 1,
+},
+["Kamzz"] = {
+["total"] = 446010522,
+["itemLevel"] = 622.125,
+["classId"] = 8,
+},
+["Shÿneur"] = {
+["total"] = 449455166,
+["itemLevel"] = 622.375,
+["classId"] = 1,
+},
+["Wiilycringe"] = {
+["total"] = 392018546,
+["itemLevel"] = 620.8125,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 388425214,
+["itemLevel"] = 622.75,
+["classId"] = 5,
+},
+["Tactactoc"] = {
+["total"] = 401164711,
+["itemLevel"] = 621.375,
+["classId"] = 4,
+},
+},
+["elapsed"] = 378.070000000007,
+["servertime"] = 1727722876,
+["HEALER"] = {
+["Lüiñil-Hyjal"] = {
+["total"] = 321362406,
+["itemLevel"] = 619.0625,
+["classId"] = 10,
+},
+["Xerdrake"] = {
+["total"] = 699297624,
+["itemLevel"] = 620.25,
+["classId"] = 13,
+},
+["Naystà"] = {
+["total"] = 456538164,
+["itemLevel"] = 616.625,
+["classId"] = 7,
+},
+["Katsaku"] = {
+["total"] = 520867961,
+["itemLevel"] = 616.375,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 549234194,
+["itemLevel"] = 621.8125,
+["classId"] = 5,
+},
+},
+["time"] = 1727722875,
+},
+{
+["date"] = "22:52 16/10/24",
+["guild"] = "Stuck",
+["DAMAGER"] = {
+["Pipouw-Hyjal"] = {
+["total"] = 385828437,
+["itemLevel"] = 626.4375,
+["classId"] = 10,
+},
+["Shÿneur"] = {
+["total"] = 497944943,
+["itemLevel"] = 628.4375,
+["classId"] = 1,
+},
+["Raiizy-Hyjal"] = {
+["total"] = 265628448,
+["itemLevel"] = 626.5,
+["classId"] = 3,
+},
+["Tactactoc"] = {
+["total"] = 392835213,
+["itemLevel"] = 626.25,
+["classId"] = 4,
+},
+["Surend"] = {
+["total"] = 200825516,
+["itemLevel"] = 628.1875,
+["classId"] = 6,
+},
+["Mãnia-Hyjal"] = {
+["total"] = 192435797,
+["itemLevel"] = 628.3125,
+["classId"] = 11,
+},
+["Aigled-Hyjal"] = {
+["total"] = 383378005,
+["itemLevel"] = 626.375,
+["classId"] = 12,
+},
+["Unote"] = {
+["total"] = 372404587,
+["itemLevel"] = 627.8125,
+["classId"] = 6,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 342023753,
+["itemLevel"] = 627.5,
+["classId"] = 3,
+},
+["Villiersdh-Elune"] = {
+["total"] = 413452075,
+["itemLevel"] = 624.75,
+["classId"] = 12,
+},
+["Satyrerogue-Hyjal"] = {
+["total"] = 381469028,
+["itemLevel"] = 625.5,
+["classId"] = 4,
+},
+["Kamzz"] = {
+["total"] = 381936823,
+["itemLevel"] = 628.5625,
+["classId"] = 8,
+},
+["Wiilycringe"] = {
+["total"] = 336839302,
+["itemLevel"] = 630,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 406464408,
+["itemLevel"] = 629.625,
+["classId"] = 5,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 308137154,
+["itemLevel"] = 625.8125,
+["classId"] = 3,
+},
+},
+["elapsed"] = 309.5879999999888,
+["servertime"] = 1729111975,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 320342667,
+["itemLevel"] = 624.375,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 472047985,
+["itemLevel"] = 630.1875,
+["classId"] = 5,
+},
+["Naystà"] = {
+["total"] = 424518885,
+["itemLevel"] = 625.3125,
+["classId"] = 7,
+},
+["Katsaku"] = {
+["total"] = 415966834,
+["itemLevel"] = 627.8125,
+["classId"] = 2,
+},
+["Xerdrake"] = {
+["total"] = 410474847,
+["itemLevel"] = 626.9375,
+["classId"] = 13,
+},
+},
+["time"] = 1729111973,
+},
+{
+["guild"] = "Stuck",
+["time"] = 1730323890,
+["elapsed"] = 291.9489999999933,
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 352592403,
+["itemLevel"] = 629.875,
+["classId"] = 10,
+},
+["Shÿneur"] = {
+["total"] = 425683660,
+["itemLevel"] = 630.875,
+["classId"] = 1,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 301125671,
+["itemLevel"] = 629.8125,
+["classId"] = 8,
+},
+["Kamzz"] = {
+["total"] = 403306807,
+["itemLevel"] = 632.9375,
+["classId"] = 8,
+},
+["Surend"] = {
+["total"] = 216667150,
+["itemLevel"] = 631.875,
+["classId"] = 6,
+},
+["Mãnia-Hyjal"] = {
+["total"] = 168042972,
+["itemLevel"] = 630.375,
+["classId"] = 11,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 337888826,
+["itemLevel"] = 629.625,
+["classId"] = 3,
+},
+["Raiizy-Hyjal"] = {
+["total"] = 370254697,
+["itemLevel"] = 630,
+["classId"] = 3,
+},
+["Satyrerogue-Hyjal"] = {
+["total"] = 404794269,
+["itemLevel"] = 628.625,
+["classId"] = 4,
+},
+["Villiersdh-Elune"] = {
+["total"] = 349313337,
+["itemLevel"] = 628.3125,
+["classId"] = 12,
+},
+["Unote"] = {
+["total"] = 343081531,
+["itemLevel"] = 631.75,
+["classId"] = 6,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 288301029,
+["itemLevel"] = 625.625,
+["classId"] = 13,
+},
+["Wiilycringe"] = {
+["total"] = 355081256,
+["itemLevel"] = 631.1875,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 410970144,
+["itemLevel"] = 630.3125,
+["classId"] = 5,
+},
+["Tactactoc"] = {
+["total"] = 424050075,
+["itemLevel"] = 629.125,
+["classId"] = 4,
+},
+},
+["servertime"] = 1730323891,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 343945778,
+["itemLevel"] = 629,
+["classId"] = 13,
+},
+["Xerdrake"] = {
+["total"] = 400766304,
+["itemLevel"] = 630.8125,
+["classId"] = 13,
+},
+["Naystà"] = {
+["total"] = 427153822,
+["itemLevel"] = 627.8125,
+["classId"] = 7,
+},
+["Katsaku"] = {
+["total"] = 446287120,
+["itemLevel"] = 631.5625,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 364338989,
+["itemLevel"] = 633.75,
+["classId"] = 5,
+},
+},
+["date"] = "22:31 30/10/24",
+},
+{
+["DAMAGER"] = {
+["Bearzi-Hyjal"] = {
+["total"] = 319982741,
+["itemLevel"] = 637.8125,
+["classId"] = 10,
+},
+["Unote"] = {
+["total"] = 266662402,
+["itemLevel"] = 637.4375,
+["classId"] = 6,
+},
+["Phee"] = {
+["total"] = 298874343,
+["itemLevel"] = 635.375,
+["classId"] = 11,
+},
+["Villiersham-Elune"] = {
+["total"] = 267883798,
+["itemLevel"] = 628.75,
+["classId"] = 7,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 329484474,
+["itemLevel"] = 637.8125,
+["classId"] = 3,
+},
+["Surend"] = {
+["total"] = 188722909,
+["itemLevel"] = 638.625,
+["classId"] = 6,
+},
+["Tactactoc"] = {
+["total"] = 416557414,
+["itemLevel"] = 639.625,
+["classId"] = 4,
+},
+["Aigled-Hyjal"] = {
+["total"] = 349537092,
+["itemLevel"] = 636.375,
+["classId"] = 12,
+},
+["Kamz"] = {
+["total"] = 326775419,
+["itemLevel"] = 625.375,
+["classId"] = 2,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 347496528,
+["itemLevel"] = 637.625,
+["classId"] = 3,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 198198672,
+["itemLevel"] = 636.5625,
+["classId"] = 2,
+},
+["Blodreina-Krasus"] = {
+["total"] = 431565932,
+["itemLevel"] = 637,
+["classId"] = 4,
+},
+["Shÿneur"] = {
+["total"] = 316106535,
+["itemLevel"] = 637.375,
+["classId"] = 1,
+},
+["Wiilycringe"] = {
+["total"] = 355409871,
+["itemLevel"] = 636.8125,
+["classId"] = 9,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 262242912,
+["itemLevel"] = 627.625,
+["classId"] = 2,
+},
+["Pipouw-Hyjal"] = {
+["total"] = 343366165,
+["itemLevel"] = 636,
+["classId"] = 10,
+},
+},
+["time"] = 1737578233,
+["date"] = "21:37 22/01/25",
+["elapsed"] = 234.8050000000003,
+["servertime"] = 1737578234,
+["HEALER"] = {
+["Naystà"] = {
+["total"] = 377758131,
+["itemLevel"] = 639.0625,
+["classId"] = 7,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 308445586,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 465726138,
+["itemLevel"] = 637.8125,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 393217061,
+["itemLevel"] = 638.0625,
+["classId"] = 5,
+},
+},
+["guild"] = "Stuck",
+},
+{
+["date"] = "21:14 29/01/25",
+["guild"] = "Stuck",
+["DAMAGER"] = {
+["Shÿneur"] = {
+["total"] = 266724640,
+["itemLevel"] = 638.8,
+["classId"] = 1,
+},
+["Unote"] = {
+["total"] = 311498031,
+["itemLevel"] = 637.375,
+["classId"] = 6,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 216921621,
+["itemLevel"] = 638.1875,
+["classId"] = 2,
+},
+["Villiersham-Elune"] = {
+["total"] = 290421282,
+["itemLevel"] = 631.3125,
+["classId"] = 7,
+},
+["Fifka"] = {
+["total"] = 331889033,
+["itemLevel"] = 637.25,
+["classId"] = 11,
+},
+["Tactactoc"] = {
+["total"] = 359157972,
+["itemLevel"] = 638.8125,
+["classId"] = 4,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 352997553,
+["itemLevel"] = 637.8125,
+["classId"] = 13,
+},
+["Aigled-Hyjal"] = {
+["total"] = 350352151,
+["itemLevel"] = 637.375,
+["classId"] = 12,
+},
+["Hastyan-Ysondre"] = {
+["total"] = 281377269,
+["itemLevel"] = 634.125,
+["classId"] = 8,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 283564382,
+["itemLevel"] = 638,
+["classId"] = 7,
+},
+["Pheeon"] = {
+["total"] = 390627901,
+["itemLevel"] = 638.1875,
+["classId"] = 1,
+},
+["Blodreina-Krasus"] = {
+["total"] = 437277546,
+["itemLevel"] = 637,
+["classId"] = 4,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 307488487,
+["itemLevel"] = 630.2,
+["classId"] = 2,
+},
+["Wiilydenze"] = {
+["total"] = 307905418,
+["itemLevel"] = 626.375,
+["classId"] = 9,
+},
+["Surend"] = {
+["total"] = 177948371,
+["itemLevel"] = 638.8125,
+["classId"] = 6,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 355138626,
+["itemLevel"] = 637.8125,
+["classId"] = 3,
+},
+},
+["elapsed"] = 227.0559999999987,
+["servertime"] = 1738181730,
+["HEALER"] = {
+["Kamz"] = {
+["total"] = 338612382,
+["itemLevel"] = 631,
+["classId"] = 2,
+},
+["Nifix"] = {
+["total"] = 330407817,
+["itemLevel"] = 632.9375,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 402005996,
+["itemLevel"] = 639.4666666666667,
+["classId"] = 5,
+},
+},
+["time"] = 1738181640,
+},
+{
+["time"] = 1738873014,
+["guild"] = "Stuck",
+["elapsed"] = 233.4669999999969,
+["date"] = "21:16 06/02/25",
+["servertime"] = 1738873112,
+["HEALER"] = {
+["Kamz"] = {
+["total"] = 321536692,
+["itemLevel"] = 635.125,
+["classId"] = 2,
+},
+["Nifix"] = {
+["total"] = 320013181,
+["itemLevel"] = 634.625,
+["classId"] = 7,
+},
+["Giottö-Dalaran"] = {
+["total"] = 419720846,
+["itemLevel"] = 639.25,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 301446501,
+["itemLevel"] = 638.8125,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Phee"] = {
+["total"] = 316034899,
+["itemLevel"] = 638.875,
+["classId"] = 11,
+},
+["Shÿneur"] = {
+["total"] = 299360879,
+["itemLevel"] = 638.8125,
+["classId"] = 1,
+},
+["Levarona-TarrenMill"] = {
+["total"] = 358094093,
+["itemLevel"] = 637,
+["classId"] = 8,
+},
+["Blodreina-Krasus"] = {
+["total"] = 436570371,
+["itemLevel"] = 637,
+["classId"] = 4,
+},
+["Aigled-Hyjal"] = {
+["total"] = 357763772,
+["itemLevel"] = 637.375,
+["classId"] = 12,
+},
+["Surend"] = {
+["total"] = 167036206,
+["itemLevel"] = 638.8125,
+["classId"] = 6,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 374328930,
+["itemLevel"] = 638.4375,
+["classId"] = 13,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 341940760,
+["itemLevel"] = 633.0625,
+["classId"] = 2,
+},
+["Hastyan-Ysondre"] = {
+["total"] = 239851461,
+["itemLevel"] = 635.375,
+["classId"] = 8,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 291217076,
+["itemLevel"] = 638.8125,
+["classId"] = 7,
+},
+["Unote"] = {
+["total"] = 270845050,
+["itemLevel"] = 638.8125,
+["classId"] = 6,
+},
+["Tactactoc"] = {
+["total"] = 394708004,
+["itemLevel"] = 640.1875,
+["classId"] = 4,
+},
+["Villiersham-Elune"] = {
+["total"] = 287706298,
+["itemLevel"] = 635,
+["classId"] = 7,
+},
+["Wiilydenze"] = {
+["total"] = 321976715,
+["itemLevel"] = 627,
+["classId"] = 9,
+},
+["Mynute"] = {
+["total"] = 349385334,
+["itemLevel"] = 638,
+["classId"] = 5,
+},
+["Mañìa-Hyjal"] = {
+["total"] = 165859162,
+["itemLevel"] = 638.1875,
+["classId"] = 2,
+},
+},
+},
+},
+[2709] = {
 },
 },
 ["Data"] = {
@@ -5021,9 +5021,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 299245.0104922078,
-["dps_best_when"] = 1721246537,
-["time_fasterkill_when"] = 1721246537,
 ["dps_best_raid_when"] = 1721246537,
+["time_fasterkill_when"] = 1721246537,
+["dps_best_when"] = 1721246537,
 ["dps_best_raid"] = 3903939.199913838,
 },
 },
@@ -5036,8 +5036,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1830244.028598488,
 ["dps_best_raid"] = 27435050.15328568,
 ["time_fasterkill_when"] = 1733946961,
-["dps_best_when"] = 1733946961,
 ["dps_best_raid_when"] = 1733342280,
+["dps_best_when"] = 1733946961,
 },
 ["mythic"] = {
 ["time_incombat"] = 938.1650000000027,
@@ -5047,8 +5047,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1552845.712060043,
 ["dps_best_raid"] = 21331317.19592301,
 ["time_fasterkill_when"] = 1738181123,
-["dps_best_when"] = 1738181123,
 ["dps_best_raid_when"] = 1738872560,
+["dps_best_when"] = 1738181123,
 },
 ["normal"] = {
 ["time_incombat"] = 168.476999999999,
@@ -5058,8 +5058,8 @@ DetailsDataStorage = {
 ["dps_best"] = 770771.5593508895,
 ["dps_best_raid"] = 12409603.07341663,
 ["time_fasterkill_when"] = 1726168471,
-["dps_best_when"] = 1726168471,
 ["dps_best_raid_when"] = 1726168471,
+["dps_best_when"] = 1726168471,
 },
 ["raidfinder"] = {
 ["time_incombat"] = 207.455999999991,
@@ -5067,9 +5067,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 754885.7155312441,
-["dps_best_when"] = 1726416442,
-["time_fasterkill_when"] = 1726416442,
 ["dps_best_raid_when"] = 1726416442,
+["time_fasterkill_when"] = 1726416442,
+["dps_best_when"] = 1726416442,
 ["dps_best_raid"] = 6839541.690768459,
 },
 },
@@ -5082,8 +5082,8 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
 [2920] = {
 ["time_incombat"] = 0,
@@ -5091,9 +5091,9 @@ DetailsDataStorage = {
 ["wipes"] = 160,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [2898] = {
@@ -5104,8 +5104,8 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
 [2786] = {
 ["time_incombat"] = 0,
@@ -5113,9 +5113,9 @@ DetailsDataStorage = {
 ["wipes"] = 4,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [2824] = {
@@ -5124,9 +5124,9 @@ DetailsDataStorage = {
 ["wipes"] = 3,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [2922] = {
@@ -5135,9 +5135,9 @@ DetailsDataStorage = {
 ["wipes"] = 356,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [3012] = {
@@ -5146,9 +5146,9 @@ DetailsDataStorage = {
 ["wipes"] = 60,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [3011] = {
@@ -5157,21 +5157,10 @@ DetailsDataStorage = {
 ["wipes"] = 5,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[2917] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 25,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
 },
 [2677] = {
 ["time_incombat"] = 0,
@@ -5179,9 +5168,9 @@ DetailsDataStorage = {
 ["wipes"] = 2,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [2902] = {
@@ -5192,8 +5181,19 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[2917] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 25,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [2918] = {
 ["time_incombat"] = 0,
@@ -5201,9 +5201,9 @@ DetailsDataStorage = {
 ["wipes"] = 24,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [2921] = {
@@ -5212,9 +5212,9 @@ DetailsDataStorage = {
 ["wipes"] = 239,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 },
@@ -5225,9 +5225,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 246050.1460760544,
-["dps_best_when"] = 1721245020,
-["time_fasterkill_when"] = 1721245020,
 ["dps_best_raid_when"] = 1721245020,
+["time_fasterkill_when"] = 1721245020,
+["dps_best_when"] = 1721245020,
 ["dps_best_raid"] = 4062579.922219321,
 },
 },
@@ -5238,9 +5238,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 2657630.00360058,
-["dps_best_when"] = 1742421696,
-["time_fasterkill_when"] = 1742421696,
 ["dps_best_raid_when"] = 1742421696,
+["time_fasterkill_when"] = 1742421696,
+["dps_best_when"] = 1742421696,
 ["dps_best_raid"] = 30981087.28008138,
 },
 ["heroic"] = {
@@ -5251,8 +5251,8 @@ DetailsDataStorage = {
 ["dps_best"] = 2994719.720998006,
 ["dps_best_raid"] = 43053729.97349832,
 ["time_fasterkill_when"] = 1742413286,
-["dps_best_when"] = 1742413286,
 ["dps_best_raid_when"] = 1742413286,
+["dps_best_when"] = 1742413286,
 },
 ["normal"] = {
 ["time_incombat"] = 176.3699999999953,
@@ -5262,8 +5262,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1775752.973886865,
 ["dps_best_raid"] = 32234820.14515025,
 ["time_fasterkill_when"] = 1742634071,
-["dps_best_raid_when"] = 1742634071,
 ["dps_best_when"] = 1742634071,
+["dps_best_raid_when"] = 1742634071,
 },
 },
 [2918] = {
@@ -5275,8 +5275,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1531249.194605491,
 ["dps_best_raid"] = 26155406.12267013,
 ["time_fasterkill_when"] = 1733947275,
-["dps_best_when"] = 1732133545,
 ["dps_best_raid_when"] = 1730923539,
+["dps_best_when"] = 1732133545,
 },
 ["normal"] = {
 ["time_incombat"] = 189.3760000000002,
@@ -5286,8 +5286,8 @@ DetailsDataStorage = {
 ["dps_best"] = 747311.6657253552,
 ["dps_best_raid"] = 13391621.20332036,
 ["time_fasterkill_when"] = 1726168980,
-["dps_best_when"] = 1726168980,
 ["dps_best_raid_when"] = 1726168980,
+["dps_best_when"] = 1726168980,
 },
 ["mythic"] = {
 ["time_incombat"] = 1674.934999999985,
@@ -5297,8 +5297,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1371899.579863874,
 ["dps_best_raid"] = 21092340.36073649,
 ["time_fasterkill_when"] = 1738181640,
-["dps_best_when"] = 1738181640,
 ["dps_best_raid_when"] = 1738873014,
+["dps_best_when"] = 1738181640,
 },
 },
 [2920] = {
@@ -5308,9 +5308,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 13,
 ["dps_best"] = 1573940.531423398,
-["dps_best_raid_when"] = 1731529246,
-["time_fasterkill_when"] = 1732134512,
 ["dps_best_when"] = 1732134512,
+["time_fasterkill_when"] = 1732134512,
+["dps_best_raid_when"] = 1731529246,
 ["dps_best_raid"] = 26108057.73421213,
 },
 ["normal"] = {
@@ -5321,8 +5321,8 @@ DetailsDataStorage = {
 ["dps_best"] = 810707.4825598195,
 ["dps_best_raid"] = 11879186.49517702,
 ["time_fasterkill_when"] = 1726170238,
-["dps_best_when"] = 1726170238,
 ["dps_best_raid_when"] = 1726170238,
+["dps_best_when"] = 1726170238,
 },
 ["mythic"] = {
 ["time_incombat"] = 1093.148000000007,
@@ -5332,8 +5332,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1477339.772830283,
 ["dps_best_raid"] = 17276226.50579267,
 ["time_fasterkill_when"] = 1738185651,
-["dps_best_raid_when"] = 1738185651,
 ["dps_best_when"] = 1738185651,
+["dps_best_raid_when"] = 1738185651,
 },
 },
 [2922] = {
@@ -5345,8 +5345,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1153072.343721356,
 ["dps_best_raid"] = 21493796.1719876,
 ["time_fasterkill_when"] = 1731530238,
-["dps_best_when"] = 1733344298,
 ["dps_best_raid_when"] = 1731530238,
+["dps_best_when"] = 1733344298,
 },
 ["mythic"] = {
 ["time_incombat"] = 498.2900000000009,
@@ -5354,9 +5354,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 1461056.631687952,
-["dps_best_when"] = 1737059866,
-["time_fasterkill_when"] = 1737059866,
 ["dps_best_raid_when"] = 1737059866,
+["time_fasterkill_when"] = 1737059866,
+["dps_best_when"] = 1737059866,
 ["dps_best_raid"] = 19673536.80988979,
 },
 ["normal"] = {
@@ -5367,8 +5367,8 @@ DetailsDataStorage = {
 ["dps_best"] = 786935.6553685553,
 ["dps_best_raid"] = 14554799.02200086,
 ["time_fasterkill_when"] = 1727297047,
-["dps_best_when"] = 1727297047,
 ["dps_best_raid_when"] = 1727297047,
+["dps_best_when"] = 1727297047,
 },
 },
 [3011] = {
@@ -5378,9 +5378,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 2013724.646574068,
-["dps_best_raid_when"] = 1742500907,
-["time_fasterkill_when"] = 1742500907,
 ["dps_best_when"] = 1742500907,
+["time_fasterkill_when"] = 1742500907,
+["dps_best_raid_when"] = 1742500907,
 ["dps_best_raid"] = 23114743.39460079,
 },
 ["heroic"] = {
@@ -5391,8 +5391,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1713725.958044375,
 ["dps_best_raid"] = 33542474.50778045,
 ["time_fasterkill_when"] = 1742414445,
-["dps_best_when"] = 1742414445,
 ["dps_best_raid_when"] = 1742414445,
+["dps_best_when"] = 1742414445,
 },
 ["normal"] = {
 ["time_incombat"] = 213.015999999996,
@@ -5402,8 +5402,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1026945.666084727,
 ["dps_best_raid"] = 20564525.56146056,
 ["time_fasterkill_when"] = 1742634976,
-["dps_best_raid_when"] = 1742634976,
 ["dps_best_when"] = 1742634976,
+["dps_best_raid_when"] = 1742634976,
 },
 },
 [2709] = {
@@ -5413,9 +5413,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 309118.6336022359,
-["dps_best_when"] = 1721242372,
-["time_fasterkill_when"] = 1721242372,
 ["dps_best_raid_when"] = 1721242372,
+["time_fasterkill_when"] = 1721242372,
+["dps_best_when"] = 1721242372,
 ["dps_best_raid"] = 4922749.39338244,
 },
 },
@@ -5426,9 +5426,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 1868973.192945988,
-["dps_best_when"] = 1742417771,
-["time_fasterkill_when"] = 1742417771,
 ["dps_best_raid_when"] = 1742417771,
+["time_fasterkill_when"] = 1742417771,
+["dps_best_when"] = 1742417771,
 ["dps_best_raid"] = 33596326.72471606,
 },
 ["normal"] = {
@@ -5439,8 +5439,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1180157.640707908,
 ["dps_best_raid"] = 28731520.05587726,
 ["time_fasterkill_when"] = 1742637299,
-["dps_best_raid_when"] = 1742637299,
 ["dps_best_when"] = 1742637299,
+["dps_best_raid_when"] = 1742637299,
 },
 },
 [3014] = {
@@ -5450,9 +5450,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 2423744.557558539,
-["dps_best_when"] = 1742417000,
-["time_fasterkill_when"] = 1742417000,
 ["dps_best_raid_when"] = 1742417000,
+["time_fasterkill_when"] = 1742417000,
+["dps_best_when"] = 1742417000,
 ["dps_best_raid"] = 37119598.46833526,
 },
 ["normal"] = {
@@ -5463,8 +5463,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1289475.002150956,
 ["dps_best_raid"] = 34925256.67290919,
 ["time_fasterkill_when"] = 1742636834,
-["dps_best_raid_when"] = 1742636834,
 ["dps_best_when"] = 1742636834,
+["dps_best_raid_when"] = 1742636834,
 },
 },
 [2919] = {
@@ -5476,8 +5476,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1976688.494843727,
 ["dps_best_raid"] = 30539707.99600861,
 ["time_fasterkill_when"] = 1733947773,
-["dps_best_when"] = 1733947773,
 ["dps_best_raid_when"] = 1733343050,
+["dps_best_when"] = 1733947773,
 },
 ["normal"] = {
 ["time_incombat"] = 216.0689999999995,
@@ -5487,8 +5487,8 @@ DetailsDataStorage = {
 ["dps_best"] = 800810.903029025,
 ["dps_best_raid"] = 14032405.56026088,
 ["time_fasterkill_when"] = 1726169686,
-["dps_best_when"] = 1726169686,
 ["dps_best_raid_when"] = 1726169686,
+["dps_best_when"] = 1726169686,
 },
 ["mythic"] = {
 ["time_incombat"] = 2256.980000000004,
@@ -5498,8 +5498,8 @@ DetailsDataStorage = {
 ["dps_best"] = 2910484.442843267,
 ["dps_best_raid"] = 34900515.32583307,
 ["time_fasterkill_when"] = 1738183329,
-["dps_best_when"] = 1737580999,
 ["dps_best_raid_when"] = 1738875470,
+["dps_best_when"] = 1737580999,
 },
 },
 [2824] = {
@@ -5509,9 +5509,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 384825.9036344532,
-["dps_best_when"] = 1721243786,
-["time_fasterkill_when"] = 1721243786,
 ["dps_best_raid_when"] = 1721243786,
+["time_fasterkill_when"] = 1721243786,
+["dps_best_when"] = 1721243786,
 ["dps_best_raid"] = 4271666.639986821,
 },
 },
@@ -5524,8 +5524,8 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
 [2918] = {
 ["time_incombat"] = 0,
@@ -5535,8 +5535,8 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
 [2919] = {
 ["time_incombat"] = 0,
@@ -5546,8 +5546,8 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
 [2920] = {
 ["time_incombat"] = 0,
@@ -5555,9 +5555,9 @@ DetailsDataStorage = {
 ["wipes"] = 6,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [2921] = {
@@ -5566,9 +5566,9 @@ DetailsDataStorage = {
 ["wipes"] = 1,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [2922] = {
@@ -5577,9 +5577,9 @@ DetailsDataStorage = {
 ["wipes"] = 47,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [3016] = {
@@ -5588,9 +5588,9 @@ DetailsDataStorage = {
 ["wipes"] = 5,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [3009] = {
@@ -5601,8 +5601,8 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 },
 ["normal"] = {
@@ -5614,8 +5614,8 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
 [2918] = {
 ["time_incombat"] = 0,
@@ -5625,8 +5625,8 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
 },
 ["raidfinder"] = {
@@ -5636,9 +5636,9 @@ DetailsDataStorage = {
 ["wipes"] = 1,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [2898] = {
@@ -5647,9 +5647,9 @@ DetailsDataStorage = {
 ["wipes"] = 1,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 },
@@ -5662,8 +5662,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1270451.057278067,
 ["dps_best_raid"] = 27402513.56397783,
 ["time_fasterkill_when"] = 1733341149,
-["dps_best_when"] = 1733341149,
 ["dps_best_raid_when"] = 1733341149,
+["dps_best_when"] = 1733341149,
 },
 ["normal"] = {
 ["time_incombat"] = 205.9710000000014,
@@ -5673,8 +5673,8 @@ DetailsDataStorage = {
 ["dps_best"] = 685053.5706778724,
 ["dps_best_raid"] = 9790845.822955593,
 ["time_fasterkill_when"] = 1726167208,
-["dps_best_when"] = 1726167208,
 ["dps_best_raid_when"] = 1726167208,
+["dps_best_when"] = 1726167208,
 },
 ["mythic"] = {
 ["time_incombat"] = 1932.147999999978,
@@ -5684,8 +5684,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1862328.715450689,
 ["dps_best_raid"] = 21104743.63283163,
 ["time_fasterkill_when"] = 1738179905,
-["dps_best_raid_when"] = 1738179905,
 ["dps_best_when"] = 1727032966,
+["dps_best_raid_when"] = 1738179905,
 },
 },
 [2820] = {
@@ -5695,9 +5695,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 440489.317450615,
-["dps_best_when"] = 1721242089,
-["time_fasterkill_when"] = 1721242089,
 ["dps_best_raid_when"] = 1721242089,
+["time_fasterkill_when"] = 1721242089,
+["dps_best_when"] = 1721242089,
 ["dps_best_raid"] = 4769103.740346495,
 },
 },
@@ -5710,8 +5710,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1492764.993541717,
 ["dps_best_raid"] = 28404542.54797127,
 ["time_fasterkill_when"] = 1733946464,
-["dps_best_when"] = 1733946464,
 ["dps_best_raid_when"] = 1733341825,
+["dps_best_when"] = 1733946464,
 },
 ["mythic"] = {
 ["time_incombat"] = 942.8709999999937,
@@ -5721,8 +5721,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1691502.476835424,
 ["dps_best_raid"] = 23300299.81007668,
 ["time_fasterkill_when"] = 1738180479,
-["dps_best_raid_when"] = 1738180479,
 ["dps_best_when"] = 1737576128,
+["dps_best_raid_when"] = 1738180479,
 },
 ["normal"] = {
 ["time_incombat"] = 357.7859999999964,
@@ -5732,8 +5732,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1217572.264847856,
 ["dps_best_raid"] = 11481671.3124751,
 ["time_fasterkill_when"] = 1729322626,
-["dps_best_when"] = 1729322626,
 ["dps_best_raid_when"] = 1726167902,
+["dps_best_when"] = 1729322626,
 },
 ["raidfinder"] = {
 ["time_incombat"] = 234.9619999999995,
@@ -5741,9 +5741,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 886354.3722129553,
-["dps_best_when"] = 1726415635,
-["time_fasterkill_when"] = 1726415635,
 ["dps_best_raid_when"] = 1726415635,
+["time_fasterkill_when"] = 1726415635,
+["dps_best_when"] = 1726415635,
 ["dps_best_raid"] = 7025117.261514642,
 },
 },
@@ -5754,9 +5754,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 2005989.031883765,
-["dps_best_when"] = 1742422693,
-["time_fasterkill_when"] = 1742422693,
 ["dps_best_raid_when"] = 1742422693,
+["time_fasterkill_when"] = 1742422693,
+["dps_best_when"] = 1742422693,
 ["dps_best_raid"] = 23659680.99158604,
 },
 ["heroic"] = {
@@ -5767,8 +5767,8 @@ DetailsDataStorage = {
 ["dps_best"] = 2112434.391653371,
 ["dps_best_raid"] = 33846786.82500088,
 ["time_fasterkill_when"] = 1742413879,
-["dps_best_when"] = 1742413879,
 ["dps_best_raid_when"] = 1742413879,
+["dps_best_when"] = 1742413879,
 },
 ["normal"] = {
 ["time_incombat"] = 204.0899999999965,
@@ -5778,8 +5778,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1159014.831712382,
 ["dps_best_raid"] = 20031136.54270209,
 ["time_fasterkill_when"] = 1742634472,
-["dps_best_raid_when"] = 1742634472,
 ["dps_best_when"] = 1742634472,
+["dps_best_raid_when"] = 1742634472,
 },
 },
 [3012] = {
@@ -5791,8 +5791,8 @@ DetailsDataStorage = {
 ["dps_best"] = 2371616.671060293,
 ["dps_best_raid"] = 41560743.8461589,
 ["time_fasterkill_when"] = 1742415231,
-["dps_best_when"] = 1742415231,
 ["dps_best_raid_when"] = 1742415231,
+["dps_best_when"] = 1742415231,
 },
 ["normal"] = {
 ["time_incombat"] = 234.5559999999969,
@@ -5802,8 +5802,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1096569.053883462,
 ["dps_best_raid"] = 27195129.93485601,
 ["time_fasterkill_when"] = 1742635457,
-["dps_best_raid_when"] = 1742635457,
 ["dps_best_when"] = 1742635457,
+["dps_best_raid_when"] = 1742635457,
 },
 },
 [2921] = {
@@ -5815,8 +5815,8 @@ DetailsDataStorage = {
 ["dps_best"] = 2098916.627171517,
 ["dps_best_raid"] = 33201564.57980037,
 ["time_fasterkill_when"] = 1733948572,
-["dps_best_when"] = 1733948572,
 ["dps_best_raid_when"] = 1730924864,
+["dps_best_when"] = 1733948572,
 },
 ["mythic"] = {
 ["time_incombat"] = 937.7410000000018,
@@ -5824,9 +5824,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 2,
 ["dps_best"] = 2173795.92825468,
-["dps_best_raid_when"] = 1739221197,
-["time_fasterkill_when"] = 1739221197,
 ["dps_best_when"] = 1739221197,
+["time_fasterkill_when"] = 1739221197,
+["dps_best_raid_when"] = 1739221197,
 ["dps_best_raid"] = 29761106.62864522,
 },
 ["normal"] = {
@@ -5837,8 +5837,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1547107.318240209,
 ["dps_best_raid"] = 23946545.12633599,
 ["time_fasterkill_when"] = 1727296681,
-["dps_best_when"] = 1727296681,
 ["dps_best_raid_when"] = 1727296681,
+["dps_best_when"] = 1727296681,
 },
 },
 [3016] = {
@@ -5848,9 +5848,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 1220594.905626406,
-["dps_best_when"] = 1742420205,
-["time_fasterkill_when"] = 1742420205,
 ["dps_best_raid_when"] = 1742420205,
+["time_fasterkill_when"] = 1742420205,
+["dps_best_when"] = 1742420205,
 ["dps_best_raid"] = 33909257.17121177,
 },
 ["normal"] = {
@@ -5861,8 +5861,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1256322.928702587,
 ["dps_best_raid"] = 30868181.71608821,
 ["time_fasterkill_when"] = 1742637808,
-["dps_best_raid_when"] = 1742637808,
 ["dps_best_when"] = 1742637808,
+["dps_best_raid_when"] = 1742637808,
 },
 },
 [3013] = {
@@ -5874,8 +5874,8 @@ DetailsDataStorage = {
 ["dps_best"] = 2069304.273760937,
 ["dps_best_raid"] = 30030272.89033006,
 ["time_fasterkill_when"] = 1742415987,
-["dps_best_when"] = 1742415987,
 ["dps_best_raid_when"] = 1742415987,
+["dps_best_when"] = 1742415987,
 },
 ["normal"] = {
 ["time_incombat"] = 194.851999999999,
@@ -5885,8 +5885,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1269279.786723931,
 ["dps_best_raid"] = 27888408.99759833,
 ["time_fasterkill_when"] = 1742636154,
-["dps_best_raid_when"] = 1742636154,
 ["dps_best_when"] = 1742636154,
+["dps_best_raid_when"] = 1742636154,
 },
 },
 },
@@ -5900,48 +5900,9 @@ DetailsDataStorage = {
 ["heroic"] = {
 [3016] = {
 {
-["time"] = 1742420205,
 ["guild"] = "Stuck",
+["time"] = 1742420205,
 ["elapsed"] = 483.6700000000001,
-["date"] = "22:36 19/03/25",
-["servertime"] = 1742420329,
-["HEALER"] = {
-["Kamz"] = {
-["total"] = 1059368485,
-["itemLevel"] = 658.8125,
-["classId"] = 10,
-},
-["Giottö-Dalaran"] = {
-["total"] = 1026813612,
-["itemLevel"] = 662.0625,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 1031595780,
-["itemLevel"] = 653.375,
-["classId"] = 5,
-},
-["Nifix"] = {
-["total"] = 923481901,
-["itemLevel"] = 657.0625,
-["classId"] = 11,
-},
-["Katsaku"] = {
-["total"] = 822608108,
-["itemLevel"] = 652.25,
-["classId"] = 2,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 1144940855,
-["itemLevel"] = 653.375,
-["classId"] = 13,
-},
-["Mynute"] = {
-["total"] = 1060019240,
-["itemLevel"] = 660.0625,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Kareitha-Hyjal"] = {
 ["total"] = 954965607,
@@ -6049,10 +6010,51 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1742420329,
+["HEALER"] = {
+["Kamz"] = {
+["total"] = 1059368485,
+["itemLevel"] = 658.8125,
+["classId"] = 10,
+},
+["Giottö-Dalaran"] = {
+["total"] = 1026813612,
+["itemLevel"] = 662.0625,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 1031595780,
+["itemLevel"] = 653.375,
+["classId"] = 5,
+},
+["Nifix"] = {
+["total"] = 923481901,
+["itemLevel"] = 657.0625,
+["classId"] = 11,
+},
+["Katsaku"] = {
+["total"] = 822608108,
+["itemLevel"] = 652.25,
+["classId"] = 2,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 1144940855,
+["itemLevel"] = 653.375,
+["classId"] = 13,
+},
+["Mynute"] = {
+["total"] = 1060019240,
+["itemLevel"] = 660.0625,
+["classId"] = 5,
+},
+},
+["date"] = "22:36 19/03/25",
 },
 },
 [2919] = {
 {
+["date"] = "21:19 25/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 325765621,
@@ -6160,8 +6162,6 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
-["time"] = 1727291993,
-["date"] = "21:19 25/09/24",
 ["elapsed"] = 297.2489999999962,
 ["servertime"] = 1727291994,
 ["HEALER"] = {
@@ -6186,11 +6186,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1727291993,
 },
 {
-["date"] = "20:46 16/10/24",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 306585526,
@@ -6313,6 +6311,8 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["time"] = 1729104403,
+["date"] = "20:46 16/10/24",
 ["elapsed"] = 254.9400000000023,
 ["servertime"] = 1729104404,
 ["HEALER"] = {
@@ -6342,9 +6342,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729104403,
+["guild"] = "Stuck",
 },
 {
+["date"] = "20:46 23/10/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 347291798,
@@ -6452,8 +6454,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1729709185,
-["date"] = "20:46 23/10/24",
 ["elapsed"] = 240.7659999999996,
 ["servertime"] = 1729709215,
 ["HEALER"] = {
@@ -6483,9 +6483,11 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1729709185,
 },
 {
+["date"] = "20:46 30/10/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 320580945,
@@ -6598,8 +6600,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1730317578,
-["date"] = "20:46 30/10/24",
 ["elapsed"] = 223.7350000000006,
 ["servertime"] = 1730317579,
 ["HEALER"] = {
@@ -6629,12 +6629,31 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1730317578,
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1730923981,
+["guild"] = "Stuck",
 ["elapsed"] = 204.2979999999952,
+["date"] = "21:13 06/11/24",
+["servertime"] = 1730924020,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 333026296,
+["itemLevel"] = 631.25,
+["classId"] = 13,
+},
+["Xerdrake"] = {
+["total"] = 65978699,
+["itemLevel"] = 632.4375,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 389587829,
+["itemLevel"] = 634.125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 319269680,
@@ -6752,30 +6771,35 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["servertime"] = 1730924020,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 333026296,
-["itemLevel"] = 631.25,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 65978699,
-["itemLevel"] = 632.4375,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 389587829,
-["itemLevel"] = 634.125,
-["classId"] = 5,
-},
-},
-["date"] = "21:13 06/11/24",
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1731528776,
+["guild"] = "Stuck",
 ["elapsed"] = 213.0160000000615,
+["date"] = "21:12 13/11/24",
+["servertime"] = 1731528789,
+["HEALER"] = {
+["Blodheal"] = {
+["total"] = 362512214,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 361338254,
+["itemLevel"] = 632.5,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 226836211,
+["itemLevel"] = 632.8125,
+["classId"] = 2,
+},
+["Xerdrake"] = {
+["total"] = 135018000,
+["itemLevel"] = 633.6875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 150882293,
@@ -6888,54 +6912,11 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1731528789,
-["HEALER"] = {
-["Blodheal"] = {
-["total"] = 362512214,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 361338254,
-["itemLevel"] = 632.5,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 226836211,
-["itemLevel"] = 632.8125,
-["classId"] = 2,
-},
-["Xerdrake"] = {
-["total"] = 135018000,
-["itemLevel"] = 633.6875,
-["classId"] = 13,
-},
-},
-["date"] = "21:12 13/11/24",
 },
 {
-["time"] = 1732134017,
 ["guild"] = "Stuck",
+["time"] = 1732134017,
 ["elapsed"] = 205.1329999999998,
-["date"] = "21:20 20/11/24",
-["servertime"] = 1732134064,
-["HEALER"] = {
-["Katsaku"] = {
-["total"] = 278470671,
-["itemLevel"] = 635.1875,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 312363501,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 64777079,
-["itemLevel"] = 634.125,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 202042552,
@@ -7033,11 +7014,54 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["servertime"] = 1732134064,
+["HEALER"] = {
+["Katsaku"] = {
+["total"] = 278470671,
+["itemLevel"] = 635.1875,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 312363501,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 64777079,
+["itemLevel"] = 634.125,
+["classId"] = 13,
+},
+},
+["date"] = "21:20 20/11/24",
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1732738429,
+["guild"] = "Stuck",
 ["elapsed"] = 212.6970000000001,
+["date"] = "21:13 27/11/24",
+["servertime"] = 1732738429,
+["HEALER"] = {
+["Blodheal"] = {
+["total"] = 385587545,
+["itemLevel"] = 635.375,
+["classId"] = 5,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 361254799,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Xerdrake"] = {
+["total"] = 67710587,
+["itemLevel"] = 634.9375,
+["classId"] = 13,
+},
+["Ambupriest-Hyjal"] = {
+["total"] = 174821319,
+["itemLevel"] = 617.1875,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 315574684,
@@ -7130,54 +7154,11 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["servertime"] = 1732738429,
-["HEALER"] = {
-["Blodheal"] = {
-["total"] = 385587545,
-["itemLevel"] = 635.375,
-["classId"] = 5,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 361254799,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 67710587,
-["itemLevel"] = 634.9375,
-["classId"] = 13,
-},
-["Ambupriest-Hyjal"] = {
-["total"] = 174821319,
-["itemLevel"] = 617.1875,
-["classId"] = 5,
-},
-},
-["date"] = "21:13 27/11/24",
 },
 {
-["time"] = 1733343050,
 ["guild"] = "Stuck",
+["time"] = 1733343050,
 ["elapsed"] = 194.4220000000005,
-["date"] = "21:10 04/12/24",
-["servertime"] = 1733343106,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 272099586,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 320525433,
-["itemLevel"] = 636.4375,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 41095880,
-["itemLevel"] = 635.375,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 278564913,
@@ -7290,10 +7271,27 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
+["servertime"] = 1733343106,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 272099586,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 320525433,
+["itemLevel"] = 636.4375,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 41095880,
+["itemLevel"] = 635.375,
+["classId"] = 13,
+},
+},
+["date"] = "21:10 04/12/24",
 },
 {
-["date"] = "21:09 11/12/24",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 274487673,
@@ -7401,6 +7399,8 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["time"] = 1733947773,
+["date"] = "21:09 11/12/24",
 ["elapsed"] = 186.5939999999973,
 ["servertime"] = 1733947775,
 ["HEALER"] = {
@@ -7420,14 +7420,196 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1733947773,
+["guild"] = "Stuck",
+},
+},
+[3010] = {
+{
+["date"] = "20:51 19/03/25",
+["guild"] = "Stuck",
+["DAMAGER"] = {
+["Kareitha-Hyjal"] = {
+["total"] = 384247965,
+["itemLevel"] = 658.125,
+["classId"] = 8,
+},
+["Ambuhunt-Hyjal"] = {
+["total"] = 277362683,
+["itemLevel"] = 657.8125,
+["classId"] = 3,
+},
+["Blodreina-Krasus"] = {
+["total"] = 449985940,
+["itemLevel"] = 657.375,
+["classId"] = 4,
+},
+["Ikkaa-Hyjal"] = {
+["total"] = 468241034,
+["itemLevel"] = 660.6875,
+["classId"] = 3,
+},
+["Bercitronc-Kael'thas"] = {
+["total"] = 384119763,
+["itemLevel"] = 649.3125,
+["classId"] = 13,
+},
+["Aigled-Hyjal"] = {
+["total"] = 423615246,
+["itemLevel"] = 660.5,
+["classId"] = 12,
+},
+["Emäne-Rashgarroth"] = {
+["total"] = 347580600,
+["itemLevel"] = 655.75,
+["classId"] = 7,
+},
+["Wiilycringe"] = {
+["total"] = 191282154,
+["itemLevel"] = 658.6875,
+["classId"] = 9,
+},
+["Salern-Ysondre"] = {
+["total"] = 439014927,
+["itemLevel"] = 662.375,
+["classId"] = 11,
+},
+["Shÿneur"] = {
+["total"] = 370757480,
+["itemLevel"] = 660,
+["classId"] = 1,
+},
+["Fifka"] = {
+["total"] = 329168456,
+["itemLevel"] = 651.6875,
+["classId"] = 11,
+},
+["Villiersham-Elune"] = {
+["total"] = 363874234,
+["itemLevel"] = 658.125,
+["classId"] = 7,
+},
+["Pheedifu"] = {
+["total"] = 147376746,
+["itemLevel"] = 655.1875,
+["classId"] = 12,
+},
+["Rarìcim-Hyjal"] = {
+["total"] = 259675163,
+["itemLevel"] = 656.25,
+["classId"] = 2,
+},
+["Paleastea"] = {
+["total"] = 139944989,
+["itemLevel"] = 656.4375,
+["classId"] = 2,
+},
+["Hastyan-Ysondre"] = {
+["total"] = 335517676,
+["itemLevel"] = 659.125,
+["classId"] = 8,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 396932828,
+["itemLevel"] = 660.875,
+["classId"] = 3,
+},
+["Friidenight-Hyjal"] = {
+["total"] = 422480182,
+["itemLevel"] = 662.1875,
+["classId"] = 2,
+},
+["Unote"] = {
+["total"] = 439739130,
+["itemLevel"] = 661.6875,
+["classId"] = 6,
+},
+["Lysð-Hyjal"] = {
+["total"] = 398506304,
+["itemLevel"] = 663.125,
+["classId"] = 6,
+},
+["Mynute"] = {
+["total"] = 449799858,
+["itemLevel"] = 658.625,
+["classId"] = 5,
+},
+["Tyràe-Kazzak"] = {
+["total"] = 347982827,
+["itemLevel"] = 657.5,
+["classId"] = 8,
+},
+},
+["elapsed"] = 208.1670000000013,
+["servertime"] = 1742414003,
+["HEALER"] = {
+["Kamz"] = {
+["total"] = 351463114,
+["itemLevel"] = 658.8125,
+["classId"] = 10,
+},
+["Giottö-Dalaran"] = {
+["total"] = 308365985,
+["itemLevel"] = 661.625,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 315472622,
+["itemLevel"] = 653.375,
+["classId"] = 5,
+},
+["Nifix"] = {
+["total"] = 261941203,
+["itemLevel"] = 656.875,
+["classId"] = 11,
+},
+["Katsaku"] = {
+["total"] = 277792772,
+["itemLevel"] = 652.25,
+["classId"] = 2,
+},
+},
+["time"] = 1742413879,
 },
 },
 [2920] = {
 {
-["guild"] = "Stuck",
 ["time"] = 1726427452,
+["guild"] = "Stuck",
 ["elapsed"] = 374.5270000000019,
+["date"] = "21:10 15/09/24",
+["servertime"] = 1726427456,
+["HEALER"] = {
+["Lüiñil-Hyjal"] = {
+["total"] = 254492153,
+["itemLevel"] = 601.5,
+["classId"] = 10,
+},
+["Näystä-Ysondre"] = {
+["total"] = 346688362,
+["itemLevel"] = 601.625,
+["classId"] = 5,
+},
+["Berci-Kael'thas"] = {
+["total"] = 262565683,
+["itemLevel"] = 597.6875,
+["classId"] = 11,
+},
+["Xerdrake"] = {
+["total"] = 433718027,
+["itemLevel"] = 604.5,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 251943343,
+["itemLevel"] = 594.6875,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 316706064,
+["itemLevel"] = 607.25,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 156784817,
@@ -7520,42 +7702,10 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["servertime"] = 1726427456,
-["HEALER"] = {
-["Lüiñil-Hyjal"] = {
-["total"] = 254492153,
-["itemLevel"] = 601.5,
-["classId"] = 10,
-},
-["Näystä-Ysondre"] = {
-["total"] = 346688362,
-["itemLevel"] = 601.625,
-["classId"] = 5,
-},
-["Berci-Kael'thas"] = {
-["total"] = 262565683,
-["itemLevel"] = 597.6875,
-["classId"] = 11,
-},
-["Xerdrake"] = {
-["total"] = 433718027,
-["itemLevel"] = 604.5,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 251943343,
-["itemLevel"] = 594.6875,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 316706064,
-["itemLevel"] = 607.25,
-["classId"] = 5,
-},
-},
-["date"] = "21:10 15/09/24",
 },
 {
+["date"] = "21:33 25/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 174044748,
@@ -7663,8 +7813,6 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
-["time"] = 1727292781,
-["date"] = "21:33 25/09/24",
 ["elapsed"] = 257.2769999999946,
 ["servertime"] = 1727292782,
 ["HEALER"] = {
@@ -7689,9 +7837,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1727292781,
 },
 {
+["date"] = "20:56 16/10/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 193868610,
@@ -7814,8 +7964,6 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["time"] = 1729104973,
-["date"] = "20:56 16/10/24",
 ["elapsed"] = 199.0249999999942,
 ["servertime"] = 1729104974,
 ["HEALER"] = {
@@ -7845,9 +7993,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1729104973,
 },
 {
+["date"] = "20:54 23/10/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 244485077,
@@ -7960,8 +8110,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1729709675,
-["date"] = "20:54 23/10/24",
 ["elapsed"] = 201.860999999999,
 ["servertime"] = 1729709705,
 ["HEALER"] = {
@@ -7991,9 +8139,11 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1729709675,
 },
 {
+["date"] = "20:53 30/10/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 273800572,
@@ -8116,8 +8266,6 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1730318027,
-["date"] = "20:53 30/10/24",
 ["elapsed"] = 204.0620000000054,
 ["servertime"] = 1730318028,
 ["HEALER"] = {
@@ -8142,12 +8290,31 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1730318027,
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1730924409,
+["guild"] = "Stuck",
 ["elapsed"] = 175.926999999996,
+["date"] = "21:20 06/11/24",
+["servertime"] = 1730924448,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 216137958,
+["itemLevel"] = 631.25,
+["classId"] = 13,
+},
+["Xerdrake"] = {
+["total"] = 123772121,
+["itemLevel"] = 632.4375,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 286994357,
+["itemLevel"] = 634.125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 241407539,
@@ -8265,30 +8432,35 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["servertime"] = 1730924448,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 216137958,
-["itemLevel"] = 631.25,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 123772121,
-["itemLevel"] = 632.4375,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 286994357,
-["itemLevel"] = 634.125,
-["classId"] = 5,
-},
-},
-["date"] = "21:20 06/11/24",
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1731529246,
+["guild"] = "Stuck",
 ["elapsed"] = 161.6719999997877,
+["date"] = "21:20 13/11/24",
+["servertime"] = 1731529259,
+["HEALER"] = {
+["Blodheal"] = {
+["total"] = 214375313,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 202097026,
+["itemLevel"] = 632.5,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 162077598,
+["itemLevel"] = 632.8125,
+["classId"] = 2,
+},
+["Xerdrake"] = {
+["total"] = 65274878,
+["itemLevel"] = 633.6875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 231246027,
@@ -8401,54 +8573,11 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1731529259,
-["HEALER"] = {
-["Blodheal"] = {
-["total"] = 214375313,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 202097026,
-["itemLevel"] = 632.5,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 162077598,
-["itemLevel"] = 632.8125,
-["classId"] = 2,
-},
-["Xerdrake"] = {
-["total"] = 65274878,
-["itemLevel"] = 633.6875,
-["classId"] = 13,
-},
-},
-["date"] = "21:20 13/11/24",
 },
 {
-["time"] = 1732134512,
 ["guild"] = "Stuck",
+["time"] = 1732134512,
 ["elapsed"] = 159.8490000000002,
-["date"] = "21:28 20/11/24",
-["servertime"] = 1732134559,
-["HEALER"] = {
-["Katsaku"] = {
-["total"] = 256613299,
-["itemLevel"] = 635.1875,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 196891153,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 73818319,
-["itemLevel"] = 634.125,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 198200042,
@@ -8551,11 +8680,54 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["servertime"] = 1732134559,
+["HEALER"] = {
+["Katsaku"] = {
+["total"] = 256613299,
+["itemLevel"] = 635.1875,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 196891153,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 73818319,
+["itemLevel"] = 634.125,
+["classId"] = 13,
+},
+},
+["date"] = "21:28 20/11/24",
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1732738887,
+["guild"] = "Stuck",
 ["elapsed"] = 168.4089999999997,
+["date"] = "21:21 27/11/24",
+["servertime"] = 1732738888,
+["HEALER"] = {
+["Blodheal"] = {
+["total"] = 172118084,
+["itemLevel"] = 635.3333333333334,
+["classId"] = 5,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 279242710,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Xerdrake"] = {
+["total"] = 36560736,
+["itemLevel"] = 634.9375,
+["classId"] = 13,
+},
+["Ambupriest-Hyjal"] = {
+["total"] = 136659497,
+["itemLevel"] = 617.1875,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 239538977,
@@ -8648,54 +8820,11 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["servertime"] = 1732738888,
-["HEALER"] = {
-["Blodheal"] = {
-["total"] = 172118084,
-["itemLevel"] = 635.3333333333334,
-["classId"] = 5,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 279242710,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 36560736,
-["itemLevel"] = 634.9375,
-["classId"] = 13,
-},
-["Ambupriest-Hyjal"] = {
-["total"] = 136659497,
-["itemLevel"] = 617.1875,
-["classId"] = 5,
-},
-},
-["date"] = "21:21 27/11/24",
 },
 {
-["time"] = 1733343416,
 ["guild"] = "Stuck",
+["time"] = 1733343416,
 ["elapsed"] = 166.7489999999998,
-["date"] = "21:16 04/12/24",
-["servertime"] = 1733343471,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 262277862,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 186986282,
-["itemLevel"] = 636.4375,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 100443336,
-["itemLevel"] = 635.375,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Mañìa-Hyjal"] = {
 ["total"] = 100565068,
@@ -8803,10 +8932,27 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
+["servertime"] = 1733343471,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 262277862,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 186986282,
+["itemLevel"] = 636.4375,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 100443336,
+["itemLevel"] = 635.375,
+["classId"] = 13,
+},
+},
+["date"] = "21:16 04/12/24",
 },
 {
-["date"] = "21:16 11/12/24",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 240859394,
@@ -8914,6 +9060,8 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["time"] = 1733948188,
+["date"] = "21:16 11/12/24",
 ["elapsed"] = 165.7859999999928,
 ["servertime"] = 1733948189,
 ["HEALER"] = {
@@ -8933,159 +9081,13 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1733948188,
-},
-},
-[3010] = {
-{
-["DAMAGER"] = {
-["Kareitha-Hyjal"] = {
-["total"] = 384247965,
-["itemLevel"] = 658.125,
-["classId"] = 8,
-},
-["Ambuhunt-Hyjal"] = {
-["total"] = 277362683,
-["itemLevel"] = 657.8125,
-["classId"] = 3,
-},
-["Blodreina-Krasus"] = {
-["total"] = 449985940,
-["itemLevel"] = 657.375,
-["classId"] = 4,
-},
-["Ikkaa-Hyjal"] = {
-["total"] = 468241034,
-["itemLevel"] = 660.6875,
-["classId"] = 3,
-},
-["Bercitronc-Kael'thas"] = {
-["total"] = 384119763,
-["itemLevel"] = 649.3125,
-["classId"] = 13,
-},
-["Aigled-Hyjal"] = {
-["total"] = 423615246,
-["itemLevel"] = 660.5,
-["classId"] = 12,
-},
-["Emäne-Rashgarroth"] = {
-["total"] = 347580600,
-["itemLevel"] = 655.75,
-["classId"] = 7,
-},
-["Wiilycringe"] = {
-["total"] = 191282154,
-["itemLevel"] = 658.6875,
-["classId"] = 9,
-},
-["Salern-Ysondre"] = {
-["total"] = 439014927,
-["itemLevel"] = 662.375,
-["classId"] = 11,
-},
-["Shÿneur"] = {
-["total"] = 370757480,
-["itemLevel"] = 660,
-["classId"] = 1,
-},
-["Fifka"] = {
-["total"] = 329168456,
-["itemLevel"] = 651.6875,
-["classId"] = 11,
-},
-["Villiersham-Elune"] = {
-["total"] = 363874234,
-["itemLevel"] = 658.125,
-["classId"] = 7,
-},
-["Pheedifu"] = {
-["total"] = 147376746,
-["itemLevel"] = 655.1875,
-["classId"] = 12,
-},
-["Rarìcim-Hyjal"] = {
-["total"] = 259675163,
-["itemLevel"] = 656.25,
-["classId"] = 2,
-},
-["Paleastea"] = {
-["total"] = 139944989,
-["itemLevel"] = 656.4375,
-["classId"] = 2,
-},
-["Hastyan-Ysondre"] = {
-["total"] = 335517676,
-["itemLevel"] = 659.125,
-["classId"] = 8,
-},
-["Sømbrepas-Hyjal"] = {
-["total"] = 396932828,
-["itemLevel"] = 660.875,
-["classId"] = 3,
-},
-["Friidenight-Hyjal"] = {
-["total"] = 422480182,
-["itemLevel"] = 662.1875,
-["classId"] = 2,
-},
-["Unote"] = {
-["total"] = 439739130,
-["itemLevel"] = 661.6875,
-["classId"] = 6,
-},
-["Lysð-Hyjal"] = {
-["total"] = 398506304,
-["itemLevel"] = 663.125,
-["classId"] = 6,
-},
-["Mynute"] = {
-["total"] = 449799858,
-["itemLevel"] = 658.625,
-["classId"] = 5,
-},
-["Tyràe-Kazzak"] = {
-["total"] = 347982827,
-["itemLevel"] = 657.5,
-["classId"] = 8,
-},
-},
-["time"] = 1742413879,
-["date"] = "20:51 19/03/25",
-["elapsed"] = 208.1670000000013,
-["servertime"] = 1742414003,
-["HEALER"] = {
-["Kamz"] = {
-["total"] = 351463114,
-["itemLevel"] = 658.8125,
-["classId"] = 10,
-},
-["Giottö-Dalaran"] = {
-["total"] = 308365985,
-["itemLevel"] = 661.625,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 315472622,
-["itemLevel"] = 653.375,
-["classId"] = 5,
-},
-["Nifix"] = {
-["total"] = 261941203,
-["itemLevel"] = 656.875,
-["classId"] = 11,
-},
-["Katsaku"] = {
-["total"] = 277792772,
-["itemLevel"] = 652.25,
-["classId"] = 2,
-},
-},
 ["guild"] = "Stuck",
 },
 },
 [2898] = {
 {
+["date"] = "23:10 12/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 199185674,
@@ -9183,8 +9185,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1726175404,
-["date"] = "23:10 12/09/24",
 ["elapsed"] = 282.3179999999993,
 ["servertime"] = 1726175406,
 ["HEALER"] = {
@@ -9219,9 +9219,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1726175404,
 },
 {
+["date"] = "21:01 25/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 148754977,
@@ -9329,8 +9331,6 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
-["time"] = 1727290887,
-["date"] = "21:01 25/09/24",
 ["elapsed"] = 159.1589999999997,
 ["servertime"] = 1727290888,
 ["HEALER"] = {
@@ -9355,12 +9355,31 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1727290887,
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1730923137,
+["guild"] = "Stuck",
 ["elapsed"] = 115.7060000000056,
+["date"] = "20:58 06/11/24",
+["servertime"] = 1730923176,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 158648695,
+["itemLevel"] = 631.25,
+["classId"] = 13,
+},
+["Xerdrake"] = {
+["total"] = 20530850,
+["itemLevel"] = 632.4375,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 118152359,
+["itemLevel"] = 634.125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 158079281,
@@ -9478,30 +9497,35 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["servertime"] = 1730923176,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 158648695,
-["itemLevel"] = 631.25,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 20530850,
-["itemLevel"] = 632.4375,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 118152359,
-["itemLevel"] = 634.125,
-["classId"] = 5,
-},
-},
-["date"] = "20:58 06/11/24",
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1731527860,
+["guild"] = "Stuck",
 ["elapsed"] = 112.7310000001453,
+["date"] = "20:57 13/11/24",
+["servertime"] = 1731527872,
+["HEALER"] = {
+["Blodheal"] = {
+["total"] = 96426207,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 141792249,
+["itemLevel"] = 632.5,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 97420499,
+["itemLevel"] = 632.8125,
+["classId"] = 2,
+},
+["Xerdrake"] = {
+["total"] = 43185860,
+["itemLevel"] = 633.6875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 155087056,
@@ -9614,54 +9638,11 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1731527872,
-["HEALER"] = {
-["Blodheal"] = {
-["total"] = 96426207,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 141792249,
-["itemLevel"] = 632.5,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 97420499,
-["itemLevel"] = 632.8125,
-["classId"] = 2,
-},
-["Xerdrake"] = {
-["total"] = 43185860,
-["itemLevel"] = 633.6875,
-["classId"] = 13,
-},
-},
-["date"] = "20:57 13/11/24",
 },
 {
-["time"] = 1732133124,
 ["guild"] = "Stuck",
+["time"] = 1732133124,
 ["elapsed"] = 114.021999999999,
-["date"] = "21:05 20/11/24",
-["servertime"] = 1732133171,
-["HEALER"] = {
-["Katsaku"] = {
-["total"] = 138762791,
-["itemLevel"] = 635.1875,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 107864668,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 65533216,
-["itemLevel"] = 634.125,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 156414334,
@@ -9759,10 +9740,27 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["servertime"] = 1732133171,
+["HEALER"] = {
+["Katsaku"] = {
+["total"] = 138762791,
+["itemLevel"] = 635.1875,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 107864668,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 65533216,
+["itemLevel"] = 634.125,
+["classId"] = 13,
+},
+},
+["date"] = "21:05 20/11/24",
 },
 {
-["date"] = "20:59 27/11/24",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 170102089,
@@ -9855,6 +9853,8 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["time"] = 1732737599,
+["date"] = "20:59 27/11/24",
 ["elapsed"] = 120.3499999999985,
 ["servertime"] = 1732737600,
 ["HEALER"] = {
@@ -9879,31 +9879,12 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1732737599,
+["guild"] = "Stuck",
 },
 {
-["time"] = 1733342280,
 ["guild"] = "Stuck",
+["time"] = 1733342280,
 ["elapsed"] = 112.5349999999999,
-["date"] = "20:58 04/12/24",
-["servertime"] = 1733342335,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 181025191,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 119827074,
-["itemLevel"] = 636.4375,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 38150217,
-["itemLevel"] = 635.375,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 154528338,
@@ -10016,10 +9997,27 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
+["servertime"] = 1733342335,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 181025191,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 119827074,
+["itemLevel"] = 636.4375,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 38150217,
+["itemLevel"] = 635.375,
+["classId"] = 13,
+},
+},
+["date"] = "20:58 04/12/24",
 },
 {
-["date"] = "20:56 11/12/24",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 153645755,
@@ -10127,6 +10125,8 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["time"] = 1733946961,
+["date"] = "20:56 11/12/24",
 ["elapsed"] = 100.9389999999985,
 ["servertime"] = 1733946963,
 ["HEALER"] = {
@@ -10146,11 +10146,13 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1733946961,
+["guild"] = "Stuck",
 },
 },
 [2921] = {
 {
+["date"] = "21:42 25/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 410182565,
@@ -10253,8 +10255,6 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
-["time"] = 1727293366,
-["date"] = "21:42 25/09/24",
 ["elapsed"] = 400.8499999999985,
 ["servertime"] = 1727293367,
 ["HEALER"] = {
@@ -10284,9 +10284,11 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1727293366,
 },
 {
+["date"] = "21:04 16/10/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 384191117,
@@ -10409,8 +10411,6 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["time"] = 1729105495,
-["date"] = "21:04 16/10/24",
 ["elapsed"] = 304.6339999999909,
 ["servertime"] = 1729105496,
 ["HEALER"] = {
@@ -10440,9 +10440,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1729105495,
 },
 {
+["date"] = "21:03 23/10/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 429717382,
@@ -10560,8 +10562,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1729710203,
-["date"] = "21:03 23/10/24",
 ["elapsed"] = 292.8359999999993,
 ["servertime"] = 1729710233,
 ["HEALER"] = {
@@ -10591,9 +10591,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1729710203,
 },
 {
+["date"] = "21:00 30/10/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 389809657,
@@ -10716,8 +10718,6 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1730318450,
-["date"] = "21:00 30/10/24",
 ["elapsed"] = 276.9520000000048,
 ["servertime"] = 1730318451,
 ["HEALER"] = {
@@ -10742,12 +10742,31 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1730318450,
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1730924864,
+["guild"] = "Stuck",
 ["elapsed"] = 254.8320000000094,
+["date"] = "21:27 06/11/24",
+["servertime"] = 1730924903,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 300927319,
+["itemLevel"] = 631.25,
+["classId"] = 13,
+},
+["Xerdrake"] = {
+["total"] = 93129739,
+["itemLevel"] = 632.4375,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 458227310,
+["itemLevel"] = 634.125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 326009486,
@@ -10865,30 +10884,35 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["servertime"] = 1730924903,
+},
+{
+["time"] = 1731529753,
+["guild"] = "Stuck",
+["elapsed"] = 255.1809999998659,
+["date"] = "21:29 13/11/24",
+["servertime"] = 1731529765,
 ["HEALER"] = {
+["Blodheal"] = {
+["total"] = 361841323,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Katsaku"] = {
+["total"] = 268342203,
+["itemLevel"] = 632.8125,
+["classId"] = 2,
+},
 ["Luiinil-Hyjal"] = {
-["total"] = 300927319,
-["itemLevel"] = 631.25,
+["total"] = 317662174,
+["itemLevel"] = 632.5,
 ["classId"] = 13,
 },
 ["Xerdrake"] = {
-["total"] = 93129739,
-["itemLevel"] = 632.4375,
+["total"] = 180639364,
+["itemLevel"] = 633.6875,
 ["classId"] = 13,
 },
-["Blodheal"] = {
-["total"] = 458227310,
-["itemLevel"] = 634.125,
-["classId"] = 5,
 },
-},
-["date"] = "21:27 06/11/24",
-},
-{
-["guild"] = "Stuck",
-["time"] = 1731529753,
-["elapsed"] = 255.1809999998659,
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 445958860,
@@ -11001,54 +11025,11 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1731529765,
-["HEALER"] = {
-["Blodheal"] = {
-["total"] = 361841323,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Katsaku"] = {
-["total"] = 268342203,
-["itemLevel"] = 632.8125,
-["classId"] = 2,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 317662174,
-["itemLevel"] = 632.5,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 180639364,
-["itemLevel"] = 633.6875,
-["classId"] = 13,
-},
-},
-["date"] = "21:29 13/11/24",
 },
 {
-["time"] = 1732134956,
 ["guild"] = "Stuck",
+["time"] = 1732134956,
 ["elapsed"] = 247.1990000000005,
-["date"] = "21:35 20/11/24",
-["servertime"] = 1732135003,
-["HEALER"] = {
-["Katsaku"] = {
-["total"] = 385457740,
-["itemLevel"] = 635.1875,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 403385161,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 134733870,
-["itemLevel"] = 634.125,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 446162462,
@@ -11151,11 +11132,54 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["servertime"] = 1732135003,
+["HEALER"] = {
+["Katsaku"] = {
+["total"] = 385457740,
+["itemLevel"] = 635.1875,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 403385161,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 134733870,
+["itemLevel"] = 634.125,
+["classId"] = 13,
+},
+},
+["date"] = "21:35 20/11/24",
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1732739268,
+["guild"] = "Stuck",
 ["elapsed"] = 240.5760000000009,
+["date"] = "21:27 27/11/24",
+["servertime"] = 1732739269,
+["HEALER"] = {
+["Blodheal"] = {
+["total"] = 382603301,
+["itemLevel"] = 635.375,
+["classId"] = 5,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 359178295,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Xerdrake"] = {
+["total"] = 88235649,
+["itemLevel"] = 634.9375,
+["classId"] = 13,
+},
+["Ambupriest-Hyjal"] = {
+["total"] = 139288941,
+["itemLevel"] = 617.1875,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 438851491,
@@ -11248,54 +11272,11 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["servertime"] = 1732739269,
-["HEALER"] = {
-["Blodheal"] = {
-["total"] = 382603301,
-["itemLevel"] = 635.375,
-["classId"] = 5,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 359178295,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 88235649,
-["itemLevel"] = 634.9375,
-["classId"] = 13,
-},
-["Ambupriest-Hyjal"] = {
-["total"] = 139288941,
-["itemLevel"] = 617.1875,
-["classId"] = 5,
-},
-},
-["date"] = "21:27 27/11/24",
 },
 {
-["time"] = 1733343772,
 ["guild"] = "Stuck",
+["time"] = 1733343772,
 ["elapsed"] = 241.8279999999995,
-["date"] = "21:22 04/12/24",
-["servertime"] = 1733343827,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 348176438,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 415033306,
-["itemLevel"] = 636.4375,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 172095668,
-["itemLevel"] = 635.375,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Mañìa-Hyjal"] = {
 ["total"] = 216533874,
@@ -11403,10 +11384,27 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
+["servertime"] = 1733343827,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 348176438,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 415033306,
+["itemLevel"] = 636.4375,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 172095668,
+["itemLevel"] = 635.375,
+["classId"] = 13,
+},
+},
+["date"] = "21:22 04/12/24",
 },
 {
-["date"] = "21:22 11/12/24",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 407930703,
@@ -11514,6 +11512,8 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["time"] = 1733948572,
+["date"] = "21:22 11/12/24",
 ["elapsed"] = 227.7719999999972,
 ["servertime"] = 1733948573,
 ["HEALER"] = {
@@ -11533,11 +11533,13 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1733948572,
+["guild"] = "Stuck",
 },
 },
 [2922] = {
 {
+["date"] = "22:18 25/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 401257373,
@@ -11640,8 +11642,6 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["time"] = 1727295488,
-["date"] = "22:18 25/09/24",
 ["elapsed"] = 511.7290000000066,
 ["servertime"] = 1727295489,
 ["HEALER"] = {
@@ -11671,9 +11671,11 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1727295488,
 },
 {
+["date"] = "21:19 16/10/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 357955787,
@@ -11796,8 +11798,6 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["time"] = 1729106356,
-["date"] = "21:19 16/10/24",
 ["elapsed"] = 354.281999999992,
 ["servertime"] = 1729106357,
 ["HEALER"] = {
@@ -11827,9 +11827,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1729106356,
 },
 {
+["date"] = "21:18 23/10/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 644406884,
@@ -11947,8 +11949,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1729711129,
-["date"] = "21:18 23/10/24",
 ["elapsed"] = 531.7820000000029,
 ["servertime"] = 1729711159,
 ["HEALER"] = {
@@ -11978,9 +11978,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1729711129,
 },
 {
+["date"] = "21:14 30/10/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 88457821,
@@ -12103,8 +12105,6 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1730319281,
-["date"] = "21:14 30/10/24",
 ["elapsed"] = 330.3059999999969,
 ["servertime"] = 1730319282,
 ["HEALER"] = {
@@ -12129,12 +12129,36 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1730319281,
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1730925561,
+["guild"] = "Stuck",
 ["elapsed"] = 315.0749999999971,
+["date"] = "21:39 06/11/24",
+["servertime"] = 1730925600,
+["HEALER"] = {
+["Blodheal"] = {
+["total"] = 453787802,
+["itemLevel"] = 634.125,
+["classId"] = 5,
+},
+["Katsaku"] = {
+["total"] = 436514156,
+["itemLevel"] = 632.375,
+["classId"] = 2,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 394941582,
+["itemLevel"] = 631.25,
+["classId"] = 13,
+},
+["Xerdrake"] = {
+["total"] = 121685821,
+["itemLevel"] = 632.4375,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 314074565,
@@ -12247,35 +12271,35 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["servertime"] = 1730925600,
-["HEALER"] = {
-["Blodheal"] = {
-["total"] = 453787802,
-["itemLevel"] = 634.125,
-["classId"] = 5,
-},
-["Katsaku"] = {
-["total"] = 436514156,
-["itemLevel"] = 632.375,
-["classId"] = 2,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 394941582,
-["itemLevel"] = 631.25,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 121685821,
-["itemLevel"] = 632.4375,
-["classId"] = 13,
-},
-},
-["date"] = "21:39 06/11/24",
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1731530238,
+["guild"] = "Stuck",
 ["elapsed"] = 284.5339999999851,
+["date"] = "21:37 13/11/24",
+["servertime"] = 1731530251,
+["HEALER"] = {
+["Xerdrake"] = {
+["total"] = 172818393,
+["itemLevel"] = 633.6875,
+["classId"] = 13,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 397688497,
+["itemLevel"] = 632.5,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 350550565,
+["itemLevel"] = 632.8125,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 439461597,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 285618039,
@@ -12388,54 +12412,11 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["servertime"] = 1731530251,
-["HEALER"] = {
-["Xerdrake"] = {
-["total"] = 172818393,
-["itemLevel"] = 633.6875,
-["classId"] = 13,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 397688497,
-["itemLevel"] = 632.5,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 350550565,
-["itemLevel"] = 632.8125,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 439461597,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-},
-["date"] = "21:37 13/11/24",
 },
 {
-["time"] = 1732135449,
 ["guild"] = "Stuck",
+["time"] = 1732135449,
 ["elapsed"] = 293.2279999999992,
-["date"] = "21:44 20/11/24",
-["servertime"] = 1732135496,
-["HEALER"] = {
-["Katsaku"] = {
-["total"] = 423322226,
-["itemLevel"] = 635.1875,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 466403281,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 205452868,
-["itemLevel"] = 634.125,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 343237404,
@@ -12538,11 +12519,54 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["servertime"] = 1732135496,
+["HEALER"] = {
+["Katsaku"] = {
+["total"] = 423322226,
+["itemLevel"] = 635.1875,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 466403281,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 205452868,
+["itemLevel"] = 634.125,
+["classId"] = 13,
+},
+},
+["date"] = "21:44 20/11/24",
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1732739751,
+["guild"] = "Stuck",
 ["elapsed"] = 303.5179999999964,
+["date"] = "21:35 27/11/24",
+["servertime"] = 1732739752,
+["HEALER"] = {
+["Blodheal"] = {
+["total"] = 458471969,
+["itemLevel"] = 635.375,
+["classId"] = 5,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 388575944,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Xerdrake"] = {
+["total"] = 176289189,
+["itemLevel"] = 634.9375,
+["classId"] = 13,
+},
+["Ambupriest-Hyjal"] = {
+["total"] = 160794617,
+["itemLevel"] = 617.1875,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 379244793,
@@ -12635,54 +12659,11 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["servertime"] = 1732739752,
-["HEALER"] = {
-["Blodheal"] = {
-["total"] = 458471969,
-["itemLevel"] = 635.375,
-["classId"] = 5,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 388575944,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 176289189,
-["itemLevel"] = 634.9375,
-["classId"] = 13,
-},
-["Ambupriest-Hyjal"] = {
-["total"] = 160794617,
-["itemLevel"] = 617.1875,
-["classId"] = 5,
-},
-},
-["date"] = "21:35 27/11/24",
 },
 {
-["time"] = 1733344298,
 ["guild"] = "Stuck",
+["time"] = 1733344298,
 ["elapsed"] = 333.5190000000002,
-["date"] = "21:31 04/12/24",
-["servertime"] = 1733344353,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 491705542,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 578174467,
-["itemLevel"] = 636.4375,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 159483035,
-["itemLevel"] = 635.375,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 421112462,
@@ -12795,10 +12776,27 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
+["servertime"] = 1733344353,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 491705542,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 578174467,
+["itemLevel"] = 636.4375,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 159483035,
+["itemLevel"] = 635.375,
+["classId"] = 13,
+},
+},
+["date"] = "21:31 04/12/24",
 },
 {
-["date"] = "21:33 11/12/24",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 418721392,
@@ -12906,6 +12904,8 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["time"] = 1733949194,
+["date"] = "21:33 11/12/24",
 ["elapsed"] = 318.3119999999908,
 ["servertime"] = 1733949196,
 ["HEALER"] = {
@@ -12925,11 +12925,13 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1733949194,
+["guild"] = "Stuck",
 },
 },
 [3012] = {
 {
+["date"] = "21:13 19/03/25",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Kareitha-Hyjal"] = {
 ["total"] = 653624606,
@@ -13001,10 +13003,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 656.4375,
 ["classId"] = 2,
 },
-["Sømbrepas-Hyjal"] = {
-["total"] = 702812676,
-["itemLevel"] = 660.875,
-["classId"] = 3,
+["Rarìcim-Hyjal"] = {
+["total"] = 574892915,
+["itemLevel"] = 656.25,
+["classId"] = 2,
 },
 ["Tyràe-Kazzak"] = {
 ["total"] = 628865802,
@@ -13031,10 +13033,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 663.125,
 ["classId"] = 6,
 },
-["Rarìcim-Hyjal"] = {
-["total"] = 574892915,
-["itemLevel"] = 656.25,
-["classId"] = 2,
+["Sømbrepas-Hyjal"] = {
+["total"] = 702812676,
+["itemLevel"] = 660.875,
+["classId"] = 3,
 },
 ["Mynute"] = {
 ["total"] = 641495854,
@@ -13047,8 +13049,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1742415231,
-["date"] = "21:13 19/03/25",
 ["elapsed"] = 311.5939999999991,
 ["servertime"] = 1742415355,
 ["HEALER"] = {
@@ -13078,11 +13078,13 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1742415231,
 },
 },
 [3011] = {
 {
+["date"] = "21:00 19/03/25",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Kareitha-Hyjal"] = {
 ["total"] = 300527816,
@@ -13154,10 +13156,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 656.4375,
 ["classId"] = 2,
 },
-["Sømbrepas-Hyjal"] = {
-["total"] = 386333201,
-["itemLevel"] = 660.875,
-["classId"] = 3,
+["Rarìcim-Hyjal"] = {
+["total"] = 292587837,
+["itemLevel"] = 656.25,
+["classId"] = 2,
 },
 ["Tyràe-Kazzak"] = {
 ["total"] = 336870610,
@@ -13184,10 +13186,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 663.125,
 ["classId"] = 6,
 },
-["Rarìcim-Hyjal"] = {
-["total"] = 292587837,
-["itemLevel"] = 656.25,
-["classId"] = 2,
+["Sømbrepas-Hyjal"] = {
+["total"] = 386333201,
+["itemLevel"] = 660.875,
+["classId"] = 3,
 },
 ["Mynute"] = {
 ["total"] = 413445152,
@@ -13200,8 +13202,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1742414445,
-["date"] = "21:00 19/03/25",
 ["elapsed"] = 207.3770000000004,
 ["servertime"] = 1742414569,
 ["HEALER"] = {
@@ -13231,11 +13231,13 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1742414445,
 },
 },
 [3013] = {
 {
+["date"] = "21:26 19/03/25",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Kareitha-Hyjal"] = {
 ["total"] = 492486435,
@@ -13307,10 +13309,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 656.4375,
 ["classId"] = 2,
 },
-["Sømbrepas-Hyjal"] = {
-["total"] = 557278691,
-["itemLevel"] = 660.875,
-["classId"] = 3,
+["Rarìcim-Hyjal"] = {
+["total"] = 76332404,
+["itemLevel"] = 656.25,
+["classId"] = 2,
 },
 ["Tyràe-Kazzak"] = {
 ["total"] = 452404346,
@@ -13337,10 +13339,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 663.125,
 ["classId"] = 6,
 },
-["Rarìcim-Hyjal"] = {
-["total"] = 76332404,
-["itemLevel"] = 656.25,
-["classId"] = 2,
+["Sømbrepas-Hyjal"] = {
+["total"] = 557278691,
+["itemLevel"] = 660.875,
+["classId"] = 3,
 },
 ["Mynute"] = {
 ["total"] = 497232585,
@@ -13353,8 +13355,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1742415987,
-["date"] = "21:26 19/03/25",
 ["elapsed"] = 290.4720000000016,
 ["servertime"] = 1742416111,
 ["HEALER"] = {
@@ -13384,11 +13384,13 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1742415987,
 },
 },
 [2917] = {
 {
+["date"] = "22:56 12/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 281803935,
@@ -13486,8 +13488,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1726174614,
-["date"] = "22:56 12/09/24",
 ["elapsed"] = 396.1719999999987,
 ["servertime"] = 1726174616,
 ["HEALER"] = {
@@ -13522,9 +13522,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1726174614,
 },
 {
+["date"] = "20:52 25/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 174446376,
@@ -13632,8 +13634,6 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
-["time"] = 1727290373,
-["date"] = "20:52 25/09/24",
 ["elapsed"] = 195.2389999999941,
 ["servertime"] = 1727290374,
 ["HEALER"] = {
@@ -13658,12 +13658,31 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1727290373,
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1730922690,
+["guild"] = "Stuck",
 ["elapsed"] = 132.8799999999901,
+["date"] = "20:51 06/11/24",
+["servertime"] = 1730922729,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 130615238,
+["itemLevel"] = 631.25,
+["classId"] = 13,
+},
+["Xerdrake"] = {
+["total"] = 45084041,
+["itemLevel"] = 632.4375,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 106543107,
+["itemLevel"] = 634,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 174671737,
@@ -13781,30 +13800,35 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["servertime"] = 1730922729,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 130615238,
-["itemLevel"] = 631.25,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 45084041,
-["itemLevel"] = 632.4375,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 106543107,
-["itemLevel"] = 634,
-["classId"] = 5,
-},
-},
-["date"] = "20:51 06/11/24",
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1731527406,
+["guild"] = "Stuck",
 ["elapsed"] = 130.0200000000186,
+["date"] = "20:50 13/11/24",
+["servertime"] = 1731527418,
+["HEALER"] = {
+["Blodheal"] = {
+["total"] = 144330396,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 116801403,
+["itemLevel"] = 632.5,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 78383176,
+["itemLevel"] = 632.8125,
+["classId"] = 2,
+},
+["Xerdrake"] = {
+["total"] = 39241563,
+["itemLevel"] = 633.6875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 177437349,
@@ -13917,54 +13941,11 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1731527418,
-["HEALER"] = {
-["Blodheal"] = {
-["total"] = 144330396,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 116801403,
-["itemLevel"] = 632.5,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 78383176,
-["itemLevel"] = 632.8125,
-["classId"] = 2,
-},
-["Xerdrake"] = {
-["total"] = 39241563,
-["itemLevel"] = 633.6875,
-["classId"] = 13,
-},
-},
-["date"] = "20:50 13/11/24",
 },
 {
-["time"] = 1732132644,
 ["guild"] = "Stuck",
+["time"] = 1732132644,
 ["elapsed"] = 132.3769999999986,
-["date"] = "20:57 20/11/24",
-["servertime"] = 1732132691,
-["HEALER"] = {
-["Katsaku"] = {
-["total"] = 109680160,
-["itemLevel"] = 635.1875,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 135886578,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 49359751,
-["itemLevel"] = 634.125,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 178560984,
@@ -14062,10 +14043,27 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["servertime"] = 1732132691,
+["HEALER"] = {
+["Katsaku"] = {
+["total"] = 109680160,
+["itemLevel"] = 635.1875,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 135886578,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 49359751,
+["itemLevel"] = 634.125,
+["classId"] = 13,
+},
+},
+["date"] = "20:57 20/11/24",
 },
 {
-["date"] = "20:52 27/11/24",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 107953241,
@@ -14163,6 +14161,8 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["time"] = 1732737121,
+["date"] = "20:52 27/11/24",
 ["elapsed"] = 138.635000000002,
 ["servertime"] = 1732737121,
 ["HEALER"] = {
@@ -14187,31 +14187,12 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1732737121,
+["guild"] = "Stuck",
 },
 {
-["time"] = 1733341825,
 ["guild"] = "Stuck",
+["time"] = 1733341825,
 ["elapsed"] = 116.1630000000005,
-["date"] = "20:50 04/12/24",
-["servertime"] = 1733341880,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 140081267,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 126853032,
-["itemLevel"] = 636.4666666666667,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 13538436,
-["itemLevel"] = 635.375,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 180682212,
@@ -14324,10 +14305,27 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
+["servertime"] = 1733341880,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 140081267,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 126853032,
+["itemLevel"] = 636.4666666666667,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 13538436,
+["itemLevel"] = 635.375,
+["classId"] = 13,
+},
+},
+["date"] = "20:50 04/12/24",
 },
 {
-["date"] = "20:47 11/12/24",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 171482318,
@@ -14435,6 +14433,8 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["time"] = 1733946464,
+["date"] = "20:47 11/12/24",
 ["elapsed"] = 114.75,
 ["servertime"] = 1733946465,
 ["HEALER"] = {
@@ -14454,43 +14454,14 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1733946464,
+["guild"] = "Stuck",
 },
 },
 [3014] = {
 {
-["time"] = 1742417000,
 ["guild"] = "Stuck",
+["time"] = 1742417000,
 ["elapsed"] = 325.2669999999998,
-["date"] = "21:43 19/03/25",
-["servertime"] = 1742417124,
-["HEALER"] = {
-["Kamz"] = {
-["total"] = 644303787,
-["itemLevel"] = 658.8125,
-["classId"] = 10,
-},
-["Giottö-Dalaran"] = {
-["total"] = 706076228,
-["itemLevel"] = 662.0625,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 572987720,
-["itemLevel"] = 653.375,
-["classId"] = 5,
-},
-["Nifix"] = {
-["total"] = 609335604,
-["itemLevel"] = 656.875,
-["classId"] = 11,
-},
-["Katsaku"] = {
-["total"] = 433489932,
-["itemLevel"] = 652.25,
-["classId"] = 2,
-},
-},
 ["DAMAGER"] = {
 ["Kareitha-Hyjal"] = {
 ["total"] = 653485930,
@@ -14557,15 +14528,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 660.0625,
 ["classId"] = 5,
 },
-["Sømbrepas-Hyjal"] = {
-["total"] = 716394832,
-["itemLevel"] = 660.875,
-["classId"] = 3,
-},
 ["Rarìcim-Hyjal"] = {
 ["total"] = 487773478,
 ["itemLevel"] = 655.6666666666666,
 ["classId"] = 2,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 716394832,
+["itemLevel"] = 660.875,
+["classId"] = 3,
 },
 ["Lysð-Hyjal"] = {
 ["total"] = 757357656,
@@ -14608,10 +14579,41 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1742417124,
+["HEALER"] = {
+["Kamz"] = {
+["total"] = 644303787,
+["itemLevel"] = 658.8125,
+["classId"] = 10,
+},
+["Giottö-Dalaran"] = {
+["total"] = 706076228,
+["itemLevel"] = 662.0625,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 572987720,
+["itemLevel"] = 653.375,
+["classId"] = 5,
+},
+["Nifix"] = {
+["total"] = 609335604,
+["itemLevel"] = 656.875,
+["classId"] = 11,
+},
+["Katsaku"] = {
+["total"] = 433489932,
+["itemLevel"] = 652.25,
+["classId"] = 2,
+},
+},
+["date"] = "21:43 19/03/25",
 },
 },
 [2902] = {
 {
+["date"] = "22:33 12/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 259591059,
@@ -14704,8 +14706,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1726173218,
-["date"] = "22:33 12/09/24",
 ["elapsed"] = 369.739999999998,
 ["servertime"] = 1726173220,
 ["HEALER"] = {
@@ -14740,9 +14740,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1726173218,
 },
 {
+["date"] = "20:41 25/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 148832591,
@@ -14850,8 +14852,6 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
-["time"] = 1727289715,
-["date"] = "20:41 25/09/24",
 ["elapsed"] = 209.0149999999994,
 ["servertime"] = 1727289716,
 ["HEALER"] = {
@@ -14876,12 +14876,31 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1727289715,
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1730922207,
+["guild"] = "Stuck",
 ["elapsed"] = 156.8550000000105,
+["date"] = "20:43 06/11/24",
+["servertime"] = 1730922246,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 123804502,
+["itemLevel"] = 631.25,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 155811316,
+["itemLevel"] = 0,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 91444858,
+["itemLevel"] = 632.4375,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 162059332,
@@ -14994,30 +15013,35 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["servertime"] = 1730922246,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 123804502,
-["itemLevel"] = 631.25,
-["classId"] = 13,
 },
+{
+["time"] = 1731526927,
+["guild"] = "Stuck",
+["elapsed"] = 157.5230000000447,
+["date"] = "20:42 13/11/24",
+["servertime"] = 1731526939,
+["HEALER"] = {
 ["Blodheal"] = {
-["total"] = 155811316,
+["total"] = 114681502,
 ["itemLevel"] = 0,
 ["classId"] = 5,
 },
+["Katsaku"] = {
+["total"] = 117830924,
+["itemLevel"] = 632.8125,
+["classId"] = 2,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 134022263,
+["itemLevel"] = 632.5,
+["classId"] = 13,
+},
 ["Xerdrake"] = {
-["total"] = 91444858,
-["itemLevel"] = 632.4375,
+["total"] = 29606993,
+["itemLevel"] = 633.6875,
 ["classId"] = 13,
 },
 },
-["date"] = "20:43 06/11/24",
-},
-{
-["guild"] = "Stuck",
-["time"] = 1731526927,
-["elapsed"] = 157.5230000000447,
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 191121426,
@@ -15125,54 +15149,11 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1731526939,
-["HEALER"] = {
-["Blodheal"] = {
-["total"] = 114681502,
-["itemLevel"] = 0,
-["classId"] = 5,
-},
-["Katsaku"] = {
-["total"] = 117830924,
-["itemLevel"] = 632.8125,
-["classId"] = 2,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 134022263,
-["itemLevel"] = 632.5,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 29606993,
-["itemLevel"] = 633.6875,
-["classId"] = 13,
-},
-},
-["date"] = "20:42 13/11/24",
 },
 {
-["time"] = 1732132222,
 ["guild"] = "Stuck",
+["time"] = 1732132222,
 ["elapsed"] = 105.0169999999998,
-["date"] = "20:50 20/11/24",
-["servertime"] = 1732132269,
-["HEALER"] = {
-["Katsaku"] = {
-["total"] = 107785699,
-["itemLevel"] = 635.1875,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 71794693,
-["itemLevel"] = 0,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 26807758,
-["itemLevel"] = 634.125,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 143825960,
@@ -15270,10 +15251,27 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["servertime"] = 1732132269,
+["HEALER"] = {
+["Katsaku"] = {
+["total"] = 107785699,
+["itemLevel"] = 635.1875,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 71794693,
+["itemLevel"] = 0,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 26807758,
+["itemLevel"] = 634.125,
+["classId"] = 13,
+},
+},
+["date"] = "20:50 20/11/24",
 },
 {
-["date"] = "20:44 27/11/24",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 190665823,
@@ -15381,6 +15379,8 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["time"] = 1732736664,
+["date"] = "20:44 27/11/24",
 ["elapsed"] = 161.1719999999987,
 ["servertime"] = 1732736664,
 ["HEALER"] = {
@@ -15400,9 +15400,11 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1732736664,
+["guild"] = "Stuck",
 },
 {
+["date"] = "20:39 04/12/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 135475844,
@@ -15520,8 +15522,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1733341149,
-["date"] = "20:39 04/12/24",
 ["elapsed"] = 102.2930000000006,
 ["servertime"] = 1733341205,
 ["HEALER"] = {
@@ -15536,43 +15536,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1733341149,
 },
 },
 [3015] = {
 {
-["time"] = 1742417771,
 ["guild"] = "Stuck",
+["time"] = 1742417771,
 ["elapsed"] = 353.3770000000004,
-["date"] = "21:56 19/03/25",
-["servertime"] = 1742417895,
-["HEALER"] = {
-["Kamz"] = {
-["total"] = 777053511,
-["itemLevel"] = 658.8125,
-["classId"] = 10,
-},
-["Giottö-Dalaran"] = {
-["total"] = 815671858,
-["itemLevel"] = 662.0625,
-["classId"] = 7,
-},
-["Blodheal"] = {
-["total"] = 724418790,
-["itemLevel"] = 653.375,
-["classId"] = 5,
-},
-["Nifix"] = {
-["total"] = 558124148,
-["itemLevel"] = 656.875,
-["classId"] = 11,
-},
-["Katsaku"] = {
-["total"] = 652456018,
-["itemLevel"] = 652.25,
-["classId"] = 2,
-},
-},
 ["DAMAGER"] = {
 ["Kareitha-Hyjal"] = {
 ["total"] = 652061584,
@@ -15639,15 +15610,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 660.0625,
 ["classId"] = 5,
 },
-["Sømbrepas-Hyjal"] = {
-["total"] = 744448666,
-["itemLevel"] = 660.875,
-["classId"] = 3,
-},
 ["Rarìcim-Hyjal"] = {
 ["total"] = 391472498,
 ["itemLevel"] = 656.25,
 ["classId"] = 2,
+},
+["Sømbrepas-Hyjal"] = {
+["total"] = 744448666,
+["itemLevel"] = 660.875,
+["classId"] = 3,
 },
 ["Lysð-Hyjal"] = {
 ["total"] = 536531848,
@@ -15690,10 +15661,41 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1742417895,
+["HEALER"] = {
+["Kamz"] = {
+["total"] = 777053511,
+["itemLevel"] = 658.8125,
+["classId"] = 10,
+},
+["Giottö-Dalaran"] = {
+["total"] = 815671858,
+["itemLevel"] = 662.0625,
+["classId"] = 7,
+},
+["Blodheal"] = {
+["total"] = 724418790,
+["itemLevel"] = 653.375,
+["classId"] = 5,
+},
+["Nifix"] = {
+["total"] = 558124148,
+["itemLevel"] = 656.875,
+["classId"] = 11,
+},
+["Katsaku"] = {
+["total"] = 652456018,
+["itemLevel"] = 652.25,
+["classId"] = 2,
+},
+},
+["date"] = "21:56 19/03/25",
 },
 },
 [2918] = {
 {
+["date"] = "23:35 12/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 323273121,
@@ -15791,8 +15793,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1726176911,
-["date"] = "23:35 12/09/24",
 ["elapsed"] = 428.1869999999981,
 ["servertime"] = 1726176913,
 ["HEALER"] = {
@@ -15827,9 +15827,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1726176911,
 },
 {
+["date"] = "21:08 25/09/24",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 181336635,
@@ -15937,8 +15939,6 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
-["time"] = 1727291330,
-["date"] = "21:08 25/09/24",
 ["elapsed"] = 219.4279999999999,
 ["servertime"] = 1727291331,
 ["HEALER"] = {
@@ -15963,12 +15963,31 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1727291330,
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1730923539,
+["guild"] = "Stuck",
 ["elapsed"] = 147.7459999999992,
+["date"] = "21:05 06/11/24",
+["servertime"] = 1730923578,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 220150910,
+["itemLevel"] = 631.25,
+["classId"] = 13,
+},
+["Xerdrake"] = {
+["total"] = 59721816,
+["itemLevel"] = 632.4375,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 228084553,
+["itemLevel"] = 634.125,
+["classId"] = 5,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 179652357,
@@ -16086,30 +16105,35 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["servertime"] = 1730923578,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 220150910,
-["itemLevel"] = 631.25,
-["classId"] = 13,
-},
-["Xerdrake"] = {
-["total"] = 59721816,
-["itemLevel"] = 632.4375,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 228084553,
-["itemLevel"] = 634.125,
-["classId"] = 5,
-},
-},
-["date"] = "21:05 06/11/24",
 },
 {
-["guild"] = "Stuck",
 ["time"] = 1731528233,
+["guild"] = "Stuck",
 ["elapsed"] = 143.0209999999497,
+["date"] = "21:03 13/11/24",
+["servertime"] = 1731528245,
+["HEALER"] = {
+["Blodheal"] = {
+["total"] = 181464915,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Luiinil-Hyjal"] = {
+["total"] = 192978838,
+["itemLevel"] = 632.5,
+["classId"] = 13,
+},
+["Katsaku"] = {
+["total"] = 158645885,
+["itemLevel"] = 632.8125,
+["classId"] = 2,
+},
+["Xerdrake"] = {
+["total"] = 81080986,
+["itemLevel"] = 633.6875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 189838443,
@@ -16222,54 +16246,11 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1731528245,
-["HEALER"] = {
-["Blodheal"] = {
-["total"] = 181464915,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Luiinil-Hyjal"] = {
-["total"] = 192978838,
-["itemLevel"] = 632.5,
-["classId"] = 13,
-},
-["Katsaku"] = {
-["total"] = 158645885,
-["itemLevel"] = 632.8125,
-["classId"] = 2,
-},
-["Xerdrake"] = {
-["total"] = 81080986,
-["itemLevel"] = 633.6875,
-["classId"] = 13,
-},
-},
-["date"] = "21:03 13/11/24",
 },
 {
-["time"] = 1732133545,
 ["guild"] = "Stuck",
+["time"] = 1732133545,
 ["elapsed"] = 140.9179999999997,
-["date"] = "21:12 20/11/24",
-["servertime"] = 1732133592,
-["HEALER"] = {
-["Katsaku"] = {
-["total"] = 233178752,
-["itemLevel"] = 635.1875,
-["classId"] = 2,
-},
-["Blodheal"] = {
-["total"] = 194057956,
-["itemLevel"] = 634.5625,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 95968282,
-["itemLevel"] = 634.125,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 204626137,
@@ -16367,10 +16348,27 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["servertime"] = 1732133592,
+["HEALER"] = {
+["Katsaku"] = {
+["total"] = 233178752,
+["itemLevel"] = 635.1875,
+["classId"] = 2,
+},
+["Blodheal"] = {
+["total"] = 194057956,
+["itemLevel"] = 634.5625,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 95968282,
+["itemLevel"] = 634.125,
+["classId"] = 13,
+},
+},
+["date"] = "21:12 20/11/24",
 },
 {
-["date"] = "21:05 27/11/24",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 207655203,
@@ -16463,6 +16461,8 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["time"] = 1732737959,
+["date"] = "21:05 27/11/24",
 ["elapsed"] = 144.8280000000013,
 ["servertime"] = 1732737959,
 ["HEALER"] = {
@@ -16487,31 +16487,12 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1732737959,
+["guild"] = "Stuck",
 },
 {
-["time"] = 1733342572,
 ["guild"] = "Stuck",
+["time"] = 1733342572,
 ["elapsed"] = 159.4379999999983,
-["date"] = "21:02 04/12/24",
-["servertime"] = 1733342627,
-["HEALER"] = {
-["Luiinil-Hyjal"] = {
-["total"] = 255621953,
-["itemLevel"] = 634.8125,
-["classId"] = 13,
-},
-["Blodheal"] = {
-["total"] = 244830868,
-["itemLevel"] = 636.4375,
-["classId"] = 5,
-},
-["Xerdrake"] = {
-["total"] = 122570232,
-["itemLevel"] = 635.375,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 206486442,
@@ -16624,10 +16605,27 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
+["servertime"] = 1733342627,
+["HEALER"] = {
+["Luiinil-Hyjal"] = {
+["total"] = 255621953,
+["itemLevel"] = 634.8125,
+["classId"] = 13,
+},
+["Blodheal"] = {
+["total"] = 244830868,
+["itemLevel"] = 636.4375,
+["classId"] = 5,
+},
+["Xerdrake"] = {
+["total"] = 122570232,
+["itemLevel"] = 635.375,
+["classId"] = 13,
+},
+},
+["date"] = "21:02 04/12/24",
 },
 {
-["date"] = "21:01 11/12/24",
-["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Bearzi-Hyjal"] = {
 ["total"] = 196221165,
@@ -16735,6 +16733,8 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["time"] = 1733947275,
+["date"] = "21:01 11/12/24",
 ["elapsed"] = 131.5040000000008,
 ["servertime"] = 1733947276,
 ["HEALER"] = {
@@ -16754,11 +16754,13 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1733947275,
+["guild"] = "Stuck",
 },
 },
 [3009] = {
 {
+["date"] = "20:41 19/03/25",
+["guild"] = "Stuck",
 ["DAMAGER"] = {
 ["Kareitha-Hyjal"] = {
 ["total"] = 563061311,
@@ -16861,8 +16863,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1742413286,
-["date"] = "20:41 19/03/25",
 ["elapsed"] = 201.121000000001,
 ["servertime"] = 1742413410,
 ["HEALER"] = {
@@ -16892,7 +16892,7 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["guild"] = "Stuck",
+["time"] = 1742413286,
 },
 },
 },

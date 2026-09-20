@@ -22,6 +22,11 @@ VER 3 010000000000000B "nobreak" "134400"
 /stopmacro [channeling:Poings de fureur]
 /cast Coup tournoyant de la grue
 END
+VER 3 010000000000000C "nopo" "6718291"
+#showtooltip 2énith
+/use 13
+/cast Zénith
+END
 VER 3 0100000000000002 "para" "134400"
 #showtooltip Paralysie
 /cast [mod:ctrl, @focus][@mouseover, harm, exists][nomod] Paralysie
@@ -53,5 +58,6 @@ END
 VER 3 0100000000000009 "zenith trinket" "134400"
 #showtooltip 2énith
 /use 13
+/use Potion de témérité
 /cast Zénith
 END

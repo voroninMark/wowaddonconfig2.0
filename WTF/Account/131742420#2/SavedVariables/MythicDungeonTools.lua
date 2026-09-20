@@ -2,9 +2,9 @@
 MythicDungeonToolsDB = {
 ["global"] = {
 ["enemyForcesTooltip"] = 1,
-["devMode"] = false,
-["scale"] = 1.4,
-["anchorFrom"] = "TOPRIGHT",
+["anchorTo"] = "CENTER",
+["currentDungeonIdx"] = 20,
+["anchorFrom"] = "CENTER",
 ["minimap"] = {
 ["showInCompartment"] = true,
 ["compartmentHide"] = false,
@@ -12,16 +12,16 @@ MythicDungeonToolsDB = {
 },
 ["announceDungeonReset"] = false,
 ["focusMarker"] = {
-["assignments"] = {
-["Unot-Archimonde"] = 2,
-["Aká-Hyjal"] = 1,
-},
 ["lastMarker"] = 2,
+["announceReadyCheck"] = true,
 ["suppressNotifications"] = false,
 ["useMacro"] = false,
 ["disableTargetMarkerInRaid"] = false,
 ["preserveExistingTargetMarkers"] = true,
-["announceReadyCheck"] = true,
+["assignments"] = {
+["Shèra-Archimonde"] = 4,
+["Unot-Archimonde"] = 2,
+},
 },
 ["currentSection"] = "marks",
 ["maximized"] = false,
@@ -44,19 +44,36 @@ MythicDungeonToolsDB = {
 },
 },
 },
+[20] = {
+{
+["difficulty"] = 10,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 20,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+},
+},
+},
 },
 ["combatLogging"] = {
 ["enabled"] = false,
 ["content"] = {
 ["normal"] = false,
-["mythic_dungeon"] = false,
-["mythic"] = false,
 ["lfr"] = false,
-["mythic_plus"] = false,
 ["heroic"] = false,
+["mythic_dungeon"] = false,
+["mythic_plus"] = false,
+["mythic"] = false,
 },
 },
-["latestDungeonSeen"] = 160,
 ["colorPaletteInfo"] = {
 ["customPaletteValues"] = {
 {
@@ -121,12 +138,13 @@ MythicDungeonToolsDB = {
 },
 },
 },
-["muteXalatathVoiceLines"] = false,
-["anchorTo"] = "TOPRIGHT",
-["xoffset"] = -106.901985168457,
+["scale"] = 1.4,
 ["version"] = 6216,
-["currentDungeonIdx"] = 17,
-["yoffset"] = -82.2221450805664,
+["devMode"] = false,
+["xoffset"] = 77.85324096679688,
+["muteXalatathVoiceLines"] = false,
+["latestDungeonSeen"] = 160,
+["yoffset"] = 42.79696273803711,
 },
 ["profileKeys"] = {
 ["Unot - Archimonde"] = "Unot - Archimonde",

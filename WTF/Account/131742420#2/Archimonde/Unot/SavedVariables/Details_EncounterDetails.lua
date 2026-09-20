@@ -1,40 +1,22 @@
 
 EncounterDetailsDB = {
 ["chartData"] = {
-[85] = {
+[122] = {
 ["Raid Damage Done"] = {
-["__time"] = 1789503667,
+["__time"] = 1789852475,
 },
 },
-[68] = {
-["Raid Damage Done"] = {
-["__time"] = 1789405719,
-},
-},
-[88] = {
-["Raid Damage Done"] = {
-["__time"] = 1789505958,
-},
-},
-[90] = {
-["Raid Damage Done"] = {
-["__time"] = 1789508136,
-},
-},
-[82] = {
-["Raid Damage Done"] = {
-["__time"] = 1789501365,
-},
+[104] = {
 },
 },
 ["encounter_spells"] = {
 },
 ["emotes"] = {
 {
-["boss"] = "Nalorakk",
+["boss"] = "Avatar de Sephraliss",
 },
 {
-["boss"] = "Nalorakk",
+["boss"] = "Avatar de Sephraliss",
 },
 {
 ["boss"] = "Ziekett",
